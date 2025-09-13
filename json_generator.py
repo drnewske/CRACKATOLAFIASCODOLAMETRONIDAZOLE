@@ -4,6 +4,8 @@ from datetime import datetime, time, timezone, timedelta
 import os
 import urllib3
 from urllib.parse import urlencode
+import random
+import string
 
 # Suppress only the InsecureRequestWarning from urllib3 needed for verify=False
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
@@ -40,6 +42,11 @@ def log_update(message):
     print(f"[{timestamp}] {message}")
     with open(LOG_FILENAME, 'a', encoding='utf-8') as f:
         f.write(f"[{timestamp}] {message}\n")
+
+def generate_unique_id(length=27):
+    """Generates a random 27-character alphanumeric lowercase string."""
+    characters = string.ascii_lowercase + string.digits
+    return ''.join(random.choice(characters) for _ in range(length))
 
 def get_utc_timestamps_for_day(target_date):
     """Calculates the 24-hour window from 21:00 UTC on the previous day."""
@@ -81,7 +88,7 @@ def get_match_details(match_id):
     data = get_api_data(api_url, params)
     return data.get('data') if data and data.get('code') == 0 else None
 
-def transform_details_to_json(details):
+def transform_details_to_json(details, match_id):
     """Transforms the detailed API response into the desired JSON format."""
     if not details:
         return None
@@ -106,6 +113,8 @@ def transform_details_to_json(details):
     utc_dt = datetime.fromtimestamp(start_time_ms / 1000, tz=timezone.utc)
     
     return {
+        "id": generate_unique_id(),
+        "match_id": match_id,
         "source_name": "Premium M3U",
         "match_title_from_api": f"{team1.get('name', 'N/A')} vs {team2.get('name', 'N/A')}",
         "competition": details.get('league', 'Unknown Competition'),
@@ -152,7 +161,7 @@ def main():
             details = get_match_details(match_id)
             
             if details:
-                formatted = transform_details_to_json(details)
+                formatted = transform_details_to_json(details, match_id)
                 if formatted:
                     all_formatted_matches.append(formatted)
 
@@ -167,3 +176,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
