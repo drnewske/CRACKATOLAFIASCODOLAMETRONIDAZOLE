@@ -1,343 +1,148 @@
 [
     {
-        "id": "fdw6xex0lt1kjcps3rkc65vu5td",
-        "match_id": "2378081177100075392",
+        "id": "ps4jn5uwdvp3ggvs78opprscypr",
+        "match_id": "7566227947830886784",
         "source_name": "Premium M3U",
-        "match_title_from_api": "Bangladesh vs Afghanistan",
+        "match_title_from_api": "Pakistan vs United Arab Emirates",
         "competition": "Asia Cup",
         "team1": {
-            "name": "Bangladesh",
+            "name": "Pakistan",
             "logo_url": ""
         },
         "team2": {
-            "name": "Afghanistan",
+            "name": "United Arab Emirates",
             "logo_url": ""
         },
         "time": "14:30",
-        "date": "16-09-2025",
+        "date": "17-09-2025",
         "links": [
-            "https://live-en.aisports.cc/moviebox/football001/playlist.m3u8"
+            "https://live-en.aisports.cc/moviebox/device01/playlist.m3u8"
         ]
     },
     {
-        "id": "q0ycud4zk5296jwf1jtc30yjjr2",
-        "match_id": "7478900800162777528",
+        "id": "pn0nuoxi97rxb96rzxnv7g0wyye",
+        "match_id": "1448862374090394040",
         "source_name": "Premium M3U",
-        "match_title_from_api": "Athletic Club vs Arsenal",
+        "match_title_from_api": "Slavia Prague vs Bodoe/Glimt",
         "competition": "Champions League",
         "team1": {
-            "name": "Athletic Club",
-            "logo_url": "https://pacdn.aoneroom.com/image/2025/04/08/6529247040a081ff16a32fb2ddb80e52.jpg"
+            "name": "Slavia Prague",
+            "logo_url": "https://pacdn.aoneroom.com/image/2025/08/29/db8e5a2bf6729caacdbd57bd04fbb4cd.jpg"
         },
         "team2": {
-            "name": "Arsenal",
-            "logo_url": "https://pacdn.aoneroom.com/image/2025/03/13/4c5c946162d3b811beedf4203d9c0ca7.jpg"
+            "name": "Bodoe/Glimt",
+            "logo_url": "https://pacdn.aoneroom.com/image/2025/04/08/aed50edc7820a442781c71409cd60e28.jpg"
         },
         "time": "16:45",
-        "date": "16-09-2025",
+        "date": "17-09-2025",
         "links": []
     },
     {
-        "id": "rxcm3xj3mvtb7qmz06xbwpdsldh",
-        "match_id": "6468124158794811832",
+        "id": "b9aqzqcrkpar7bmvtdrwaa7qa9e",
+        "match_id": "2989656396604524984",
         "source_name": "Premium M3U",
-        "match_title_from_api": "PSV Eindhoven vs Union St.Gilloise",
+        "match_title_from_api": "Olympiacos vs Pafos FC",
         "competition": "Champions League",
         "team1": {
-            "name": "PSV Eindhoven",
-            "logo_url": "https://pacdn.aoneroom.com/image/2025/03/13/3d819029fe7a2e5df009a545abf2cb13.jpg"
+            "name": "Olympiacos",
+            "logo_url": "https://pacdn.aoneroom.com/image/2025/04/08/0c1037448a991e5b2ba86bc34d990ff0.jpg"
         },
         "team2": {
-            "name": "Union St.Gilloise",
-            "logo_url": "https://pacdn.aoneroom.com/image/2025/04/08/2f2d22bb2ca86dca60fd7d87bea617c1.jpg"
+            "name": "Pafos FC",
+            "logo_url": "https://pacdn.aoneroom.com/image/2025/07/08/9d657699a1f89ff75fe704c9ba3c35e6.jpg"
         },
         "time": "16:45",
-        "date": "16-09-2025",
+        "date": "17-09-2025",
         "links": []
     },
     {
-        "id": "rolp34w5lzp47hjkh65ssbyp0sk",
-        "match_id": "116128971260055088",
+        "id": "uksktqphdkyhaz1rw8bpmaznzsi",
+        "match_id": "5437131930997771824",
         "source_name": "Premium M3U",
-        "match_title_from_api": "Witham Town vs Mulbarton Wanderers",
+        "match_title_from_api": "Woodford Town vs Bury Town",
         "competition": "FA Cup",
         "team1": {
-            "name": "Witham Town",
-            "logo_url": "https://pacdn.aoneroom.com/image/2025/08/23/706030f5f0f10e277613bbb18e43e015.jpg"
+            "name": "Woodford Town",
+            "logo_url": "https://pacdn.aoneroom.com/image/2025/08/23/396b591f390bcab93dd4bcff2617b338.jpg"
         },
         "team2": {
-            "name": "Mulbarton Wanderers",
-            "logo_url": "https://pacdn.aoneroom.com/image/2025/08/23/a54ae99584cf659d04f4cc726b55b655.jpg"
+            "name": "Bury Town",
+            "logo_url": "https://pacdn.aoneroom.com/image/2025/08/23/f30470d2add62908312e092c06b2787d.jpg"
         },
         "time": "18:45",
-        "date": "16-09-2025",
+        "date": "17-09-2025",
         "links": []
     },
     {
-        "id": "xbeunn9i2rat6eg7lsvtj4fjqur",
-        "match_id": "2066187609911479856",
+        "id": "7ai8bnakw3au3ypzboilwz10qel",
+        "match_id": "7184528586418048560",
         "source_name": "Premium M3U",
-        "match_title_from_api": "Slough Town vs Welling United",
+        "match_title_from_api": "Frome Town vs Shaftesbury Town",
         "competition": "FA Cup",
         "team1": {
-            "name": "Slough Town",
-            "logo_url": "https://pacdn.aoneroom.com/image/2025/09/02/600556f72b118f6274918acd41db2087.jpg"
+            "name": "Frome Town",
+            "logo_url": "https://pacdn.aoneroom.com/image/2025/08/23/0ac6f898c7bb2254fa37c41bfe492842.jpg"
         },
         "team2": {
-            "name": "Welling United",
-            "logo_url": "https://pacdn.aoneroom.com/image/2025/08/23/88562736a0cedad376cfa787de441632.jpg"
+            "name": "Shaftesbury Town",
+            "logo_url": "https://pacdn.aoneroom.com/image/2025/08/23/3f0c99c1a4145fc6add403cfe7045626.jpg"
         },
         "time": "18:45",
-        "date": "16-09-2025",
+        "date": "17-09-2025",
         "links": []
     },
     {
-        "id": "zcz18diqlnv7upkw6xf252or2e5",
-        "match_id": "3268648710419501672",
+        "id": "adb7mu4lfvnsfsq72of8a2cadsn",
+        "match_id": "2959820049072146872",
         "source_name": "Premium M3U",
-        "match_title_from_api": "Worthing vs Jersey Bulls",
-        "competition": "FA Cup",
-        "team1": {
-            "name": "Worthing",
-            "logo_url": "https://pacdn.aoneroom.com/image/2025/09/02/c20bb1b381af2caf1a323c8529187f6a.jpg"
-        },
-        "team2": {
-            "name": "Jersey Bulls",
-            "logo_url": "https://pacdn.aoneroom.com/image/2025/08/23/259e66566aa0c173d99539196a78d2db.jpg"
-        },
-        "time": "18:45",
-        "date": "16-09-2025",
-        "links": []
-    },
-    {
-        "id": "p5cwnfmooofz3v09bdmb06gnw86",
-        "match_id": "3426274697376944744",
-        "source_name": "Premium M3U",
-        "match_title_from_api": "Evesham United vs Racing Club Warwick",
-        "competition": "FA Cup",
-        "team1": {
-            "name": "Evesham United",
-            "logo_url": "https://pacdn.aoneroom.com/image/2025/08/23/3e3d46969199d61703360c053d599542.jpg"
-        },
-        "team2": {
-            "name": "Racing Club Warwick",
-            "logo_url": "https://pacdn.aoneroom.com/image/2025/08/23/45549cdd6772cafb14de0b87d1fd9e34.jpg"
-        },
-        "time": "18:45",
-        "date": "16-09-2025",
-        "links": []
-    },
-    {
-        "id": "hf387p8oznbgazjxleu63ov95ts",
-        "match_id": "4759340187079036464",
-        "source_name": "Premium M3U",
-        "match_title_from_api": "Chichester City vs Whitstable Town",
-        "competition": "FA Cup",
-        "team1": {
-            "name": "Chichester City",
-            "logo_url": "https://pacdn.aoneroom.com/image/2025/08/23/a3ae4f9653b21ca9e76fb55548c0e89f.jpg"
-        },
-        "team2": {
-            "name": "Whitstable Town",
-            "logo_url": "https://pacdn.aoneroom.com/image/2025/08/23/34988d1464b42b3d46f20a651319c72f.jpg"
-        },
-        "time": "18:45",
-        "date": "16-09-2025",
-        "links": []
-    },
-    {
-        "id": "p8b6tvzmorgjxyrwpuifnjj3u64",
-        "match_id": "5110620958013935152",
-        "source_name": "Premium M3U",
-        "match_title_from_api": "Tonbridge Angels vs Steyning Town",
-        "competition": "FA Cup",
-        "team1": {
-            "name": "Tonbridge Angels",
-            "logo_url": "https://pacdn.aoneroom.com/image/2025/09/02/42bfe4bc50ccde6aa64ce3e637957e6e.jpg"
-        },
-        "team2": {
-            "name": "Steyning Town",
-            "logo_url": "https://pacdn.aoneroom.com/image/2025/08/23/c3a38de5f1e6fb854571da01a52c1e29.jpg"
-        },
-        "time": "18:45",
-        "date": "16-09-2025",
-        "links": []
-    },
-    {
-        "id": "xw8e8onjivolyepg6lqnrvjlz9v",
-        "match_id": "6641844831319903792",
-        "source_name": "Premium M3U",
-        "match_title_from_api": "Horsham vs Westfield FC",
-        "competition": "FA Cup",
-        "team1": {
-            "name": "Horsham",
-            "logo_url": "https://pacdn.aoneroom.com/image/2025/09/02/ec0ee1baf68c95175e76bbc9aee6fa2e.jpg"
-        },
-        "team2": {
-            "name": "Westfield FC",
-            "logo_url": "https://pacdn.aoneroom.com/image/2025/08/23/6c9b83866c2fc02abe560c9ca4cf0d5a.jpg"
-        },
-        "time": "18:45",
-        "date": "16-09-2025",
-        "links": []
-    },
-    {
-        "id": "pyiii9xzcht0czpr1bj3y91cva9",
-        "match_id": "6997629201882272360",
-        "source_name": "Premium M3U",
-        "match_title_from_api": "Weston Super Mare vs Taunton Town",
-        "competition": "FA Cup",
-        "team1": {
-            "name": "Weston Super Mare",
-            "logo_url": "https://pacdn.aoneroom.com/image/2025/09/02/01c14675a881bf5f4d9a341e5b0f9150.jpg"
-        },
-        "team2": {
-            "name": "Taunton Town",
-            "logo_url": "https://pacdn.aoneroom.com/image/2025/08/23/bb3284a944fef8b0f0c30a127d0ed508.jpg"
-        },
-        "time": "18:45",
-        "date": "16-09-2025",
-        "links": []
-    },
-    {
-        "id": "dfmultt6my56ok5s5hs45g6m2cm",
-        "match_id": "8965702239043079728",
-        "source_name": "Premium M3U",
-        "match_title_from_api": "Southport vs Radcliffe",
-        "competition": "FA Cup",
-        "team1": {
-            "name": "Southport",
-            "logo_url": "https://pacdn.aoneroom.com/image/2025/09/02/d5a87a9043b84e6002b5159f5bd2528d.jpg"
-        },
-        "team2": {
-            "name": "Radcliffe",
-            "logo_url": "https://pacdn.aoneroom.com/image/2025/09/02/00e9a6efcd20d29dbff398ca70e2eb41.jpg"
-        },
-        "time": "18:45",
-        "date": "16-09-2025",
-        "links": []
-    },
-    {
-        "id": "glexgvpyqf2z10rt4l53fz3z42p",
-        "match_id": "9154853423392739944",
-        "source_name": "Premium M3U",
-        "match_title_from_api": "Dagenham & Redbridge vs Bedford Town",
-        "competition": "FA Cup",
-        "team1": {
-            "name": "Dagenham & Redbridge",
-            "logo_url": "https://pacdn.aoneroom.com/image/2025/09/02/2845955c5881370bb564fed89603949d.jpg"
-        },
-        "team2": {
-            "name": "Bedford Town",
-            "logo_url": "https://pacdn.aoneroom.com/image/2025/09/02/fe93fe65ebfb89770ada6636f91f4ed4.jpg"
-        },
-        "time": "18:45",
-        "date": "16-09-2025",
-        "links": []
-    },
-    {
-        "id": "kzruhqyrlw7mt27qnzpw7d0c9bo",
-        "match_id": "9172867821902221928",
-        "source_name": "Premium M3U",
-        "match_title_from_api": "Halesowen vs Grimsby Borough",
-        "competition": "FA Cup",
-        "team1": {
-            "name": "Halesowen",
-            "logo_url": "https://pacdn.aoneroom.com/image/2025/08/27/dbf9884ea34bbcd004c579025ab0f179.jpg"
-        },
-        "team2": {
-            "name": "Grimsby Borough",
-            "logo_url": "https://pacdn.aoneroom.com/image/2025/08/27/53bda83a3ac633f45515881df7fda0c2.jpg"
-        },
-        "time": "18:45",
-        "date": "16-09-2025",
-        "links": []
-    },
-    {
-        "id": "ie91mg4oznfjbbvvd5orzizmiph",
-        "match_id": "7495507823787657656",
-        "source_name": "Premium M3U",
-        "match_title_from_api": "Juventus vs Borussia Dortmund",
+        "match_title_from_api": "Paris Saint-Germain vs Atalanta",
         "competition": "Champions League",
         "team1": {
-            "name": "Juventus",
-            "logo_url": "https://pacdn.aoneroom.com/image/2025/03/13/d08b44b1aa1eb378e67426a82263e205.jpg"
+            "name": "Paris Saint-Germain",
+            "logo_url": "https://pacdn.aoneroom.com/image/2025/03/13/25a49cb2734a322976907157d8defc17.jpg"
         },
         "team2": {
-            "name": "Borussia Dortmund",
-            "logo_url": "https://pacdn.aoneroom.com/image/2025/03/13/bae296c73e03725497d59d958ae94b15.jpg"
+            "name": "Atalanta",
+            "logo_url": "https://pacdn.aoneroom.com/image/2025/03/13/37e8e177c89de169910d196e1caa43ca.jpg"
         },
         "time": "19:00",
-        "date": "16-09-2025",
-        "links": [
-            "https://live-en.aisports.cc/moviebox/bsy_014/playlist.m3u8",
-            "http://play.sportsteam368.com/play/wlive.php?id=0e478dc80710f48596b0938b3fdd7a34&id2=",
-            "http://play.sportsteam368.com/play/pao.php?id=44153631&id2=",
-            "http://play.sportsteam368.com/play/wlive.php?id=6ffb12c0fdafe1e426fc045fcda6002d&id2="
-        ]
+        "date": "17-09-2025",
+        "links": []
     },
     {
-        "id": "pxhj596uvimomlruubow651cez7",
-        "match_id": "6866692725817100728",
+        "id": "s3ym2afv9x57kw7pzf2e7xbtuj0",
+        "match_id": "8220587363795356088",
         "source_name": "Premium M3U",
-        "match_title_from_api": "Real Madrid vs Marseille",
+        "match_title_from_api": "Liverpool vs Atletico Madrid",
         "competition": "Champions League",
         "team1": {
-            "name": "Real Madrid",
-            "logo_url": "https://pacdn.aoneroom.com/image/2025/03/13/dd8cab7f3f2b5f25b0153329fc03625b.jpg"
+            "name": "Liverpool",
+            "logo_url": "https://pacdn.aoneroom.com/image/2025/03/13/40141d9166d1fcb4a0b69d702e106f5a.jpg"
         },
         "team2": {
-            "name": "Marseille",
-            "logo_url": "https://pacdn.aoneroom.com/image/2025/04/08/9e1d809547b78f610f9995f0a8a51768.jpg"
+            "name": "Atletico Madrid",
+            "logo_url": "https://pacdn.aoneroom.com/image/2025/03/13/f400aef66aef784551698e35dea4fe68.jpg"
         },
         "time": "19:00",
-        "date": "16-09-2025",
-        "links": [
-            "https://live-en.aisports.cc/moviebox/bsy_020/playlist.m3u8",
-            "http://play.sportsteam368.com/play/wlive.php?id=d8401b9282fbbda6179dacd0c21b0ff1&id2=",
-            "http://play.sportsteam368.com/play/pao.php?id=44154191&id2=",
-            "http://play.sportsteam368.com/play/wlive.php?id=323944f0a5bdad4533f70186b5248331&id2="
-        ]
+        "date": "17-09-2025",
+        "links": []
     },
     {
-        "id": "bobhnpfcfnbud4w6pnvqwnqta8v",
-        "match_id": "4084312581032363272",
+        "id": "bltj0zvbydilb7rmsm56cuzh9h7",
+        "match_id": "3834362801712776456",
         "source_name": "Premium M3U",
-        "match_title_from_api": "Benfica vs Qarabag FK",
+        "match_title_from_api": "Bayern Munich vs Chelsea",
         "competition": "Champions League",
         "team1": {
-            "name": "Benfica",
-            "logo_url": "https://pacdn.aoneroom.com/image/2025/03/13/8e2eeb90bc791d3d82ebb0f93a6663ee.jpg"
+            "name": "Bayern Munich",
+            "logo_url": "https://pacdn.aoneroom.com/image/2025/03/13/ffa1d99413b724f13576e532e9e3de02.jpg"
         },
         "team2": {
-            "name": "Qarabag FK",
-            "logo_url": "https://pacdn.aoneroom.com/image/2025/07/17/19743f3327dd00c7c8739e87c7a5f41f.jpg"
+            "name": "Chelsea",
+            "logo_url": "https://pacdn.aoneroom.com/image/2025/03/13/6bb9dbeaa866f27373c5c88a58dc0e0e.jpg"
         },
         "time": "19:00",
-        "date": "16-09-2025",
-        "links": [
-            "https://live-en.aisports.cc/moviebox/bsy_022/playlist.m3u8",
-            "http://play.sportsteam368.com/play/kk.php?id=40643550c0653eb40eae14a1d3ff9eb2b5ed3dd6c6b84469a5e510250ad6d6fd&id2=",
-            "http://play.sportsteam368.com/play/wlive.php?id=5f17fed4e9a297013fbd001449e3aeef&id2=",
-            "http://play.sportsteam368.com/play/pao.php?id=44153281&id2="
-        ]
-    },
-    {
-        "id": "lvjh9g0yojmkxgfyl9ldxqhxoo4",
-        "match_id": "74138587835550136",
-        "source_name": "Premium M3U",
-        "match_title_from_api": "Tottenham Hotspur vs Villarreal",
-        "competition": "Champions League",
-        "team1": {
-            "name": "Tottenham Hotspur",
-            "logo_url": "https://pacdn.aoneroom.com/image/2025/03/13/57b889253b5fbd5c206f23c4093ba10e.png"
-        },
-        "team2": {
-            "name": "Villarreal",
-            "logo_url": "https://pacdn.aoneroom.com/image/2025/04/08/a41c87cb1456e3fdd126cecab2f06754.jpg"
-        },
-        "time": "19:00",
-        "date": "16-09-2025",
+        "date": "17-09-2025",
         "links": []
     }
 ]
