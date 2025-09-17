@@ -1,6 +1,6 @@
 [
     {
-        "id": "x65aumw3vvhrusu8pnoy62auulw",
+        "id": "x4r9aunj5hyvz78dxvueagprj7e",
         "match_id": "7566227947830886784",
         "source_name": "Premium M3U",
         "match_title_from_api": "Pakistan vs United Arab Emirates",
@@ -20,7 +20,7 @@
         ]
     },
     {
-        "id": "33mnjameioqlx7cdbaxoadxohb8",
+        "id": "0dfo8o5jv1989llsblg4hp83saa",
         "match_id": "1448862374090394040",
         "source_name": "Premium M3U",
         "match_title_from_api": "Slavia Prague vs Bodoe/Glimt",
@@ -43,7 +43,7 @@
         ]
     },
     {
-        "id": "yyx52cgp94dyazv8k9w90re7kcp",
+        "id": "6h7ndixgq1ql1fwsr3jezhpqaa6",
         "match_id": "2989656396604524984",
         "source_name": "Premium M3U",
         "match_title_from_api": "Olympiacos vs Pafos FC",
@@ -61,7 +61,7 @@
         "links": []
     },
     {
-        "id": "muv2lxc3lazborfeqq2b3jc5ntm",
+        "id": "77cvyq897b9z7y1hrc3tbaqmigo",
         "match_id": "5437131930997771824",
         "source_name": "Premium M3U",
         "match_title_from_api": "Woodford Town vs Bury Town",
@@ -79,7 +79,7 @@
         "links": []
     },
     {
-        "id": "244692ppyaljm0wrq8e3c7x8pmz",
+        "id": "jfs4jp3uyirxqodsdlcnjwt7puy",
         "match_id": "7184528586418048560",
         "source_name": "Premium M3U",
         "match_title_from_api": "Frome Town vs Shaftesbury Town",
@@ -97,7 +97,7 @@
         "links": []
     },
     {
-        "id": "kaomzty4f1kri4ucw0es6yp8z9i",
+        "id": "0teprnzqtlhioroo8w26qgk4t3z",
         "match_id": "2959820049072146872",
         "source_name": "Premium M3U",
         "match_title_from_api": "Paris Saint-Germain vs Atalanta",
@@ -114,13 +114,13 @@
         "date": "17-09-2025",
         "links": [
             "https://live-en.aisports.cc/moviebox/bsy_022/playlist.m3u8",
-            "http://play.sportsteam368.com/play/pao.php?id=44154031&id2=",
             "http://play.sportsteam368.com/play/wlive.php?id=d6bcc479f691a2edd7f14f34db0af717&id2=",
-            "http://play.sportsteam368.com/play/wlive.php?id=7bc6360e3a553dd1144597a1d435a902&id2="
+            "http://play.sportsteam368.com/play/wlive.php?id=7bc6360e3a553dd1144597a1d435a902&id2=",
+            "http://play.sportsteam368.com/play/pao.php?id=44154031&id2="
         ]
     },
     {
-        "id": "8ffjxf00fjeayaajlnm193lz5ij",
+        "id": "hjnsaw6ddr330qp8rwmh6yzf3lh",
         "match_id": "8220587363795356088",
         "source_name": "Premium M3U",
         "match_title_from_api": "Liverpool vs Atletico Madrid",
@@ -143,7 +143,7 @@
         ]
     },
     {
-        "id": "3d5ey6keixb1xsockjfkg213u42",
+        "id": "schcb8hsworfxb5z4erqlq5puqy",
         "match_id": "3834362801712776456",
         "source_name": "Premium M3U",
         "match_title_from_api": "Bayern Munich vs Chelsea",
@@ -160,8 +160,8 @@
         "date": "17-09-2025",
         "links": [
             "https://live-en.aisports.cc/moviebox/bsy_019/playlist.m3u8",
-            "http://play.sportsteam368.com/play/wlive.php?id=386ad40abcb07e5094eadab217222ce5&id2=",
             "http://play.sportsteam368.com/play/wlive.php?id=819c387dac2a7f04721ade0832979b93&id2=",
+            "http://play.sportsteam368.com/play/wlive.php?id=386ad40abcb07e5094eadab217222ce5&id2=",
             "http://play.sportsteam368.com/play/pao.php?id=44153211&id2="
         ]
     }
