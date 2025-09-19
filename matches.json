@@ -1,6 +1,6 @@
 [
     {
-        "id": "dpbnmtmk1r1m4t3a4krww687esl",
+        "id": "ril89f8thsq6h62414qjd6xbr7o",
         "match_id": "4395693810161976120",
         "source_name": "Premium M3U",
         "match_title_from_api": "India vs Oman",
@@ -20,7 +20,7 @@
         ]
     },
     {
-        "id": "0a42fp0any8zp9qdv5o531d4e4a",
+        "id": "epkcin7v3sglpyhi42645yg4ky7",
         "match_id": "1773505817985055192",
         "source_name": "Premium M3U",
         "match_title_from_api": "VfB Stuttgart vs St. Pauli",
@@ -35,10 +35,15 @@
         },
         "time": "18:30",
         "date": "19-09-2025",
-        "links": []
+        "links": [
+            "https://live-en.aisports.cc/moviebox/bsy_022/playlist.m3u8",
+            "http://play.sportsteam368.com/play/pao.php?id=43473901&id2=",
+            "http://play.sportsteam368.com/play/kbs.html?id=958257719&id2=",
+            "http://play.sportsteam368.com/play/gm.php?id=958257719&id2=958257719"
+        ]
     },
     {
-        "id": "hfaayi9lo4myb5lvxj3v5evizy7",
+        "id": "rp6po80jq088v6s71v25zdxvsnu",
         "match_id": "7130207497915188688",
         "source_name": "Premium M3U",
         "match_title_from_api": "Lecce vs Cagliari",
@@ -56,7 +61,7 @@
         "links": []
     },
     {
-        "id": "t1wb388eop4g84g1q3els7cf0pa",
+        "id": "csj68pzvvc7zsfrrh4u4tyjx61p",
         "match_id": "2364199198554225112",
         "source_name": "Premium M3U",
         "match_title_from_api": "Lyon vs Angers",
@@ -71,10 +76,15 @@
         },
         "time": "18:45",
         "date": "19-09-2025",
-        "links": []
+        "links": [
+            "https://live-en.aisports.cc/moviebox/bsy_013/playlist.m3u8",
+            "http://play.sportsteam368.com/play/gm.php?id=958257977&id2=958257977",
+            "http://play.sportsteam368.com/play/pao.php?id=43477101&id2=",
+            "http://play.sportsteam368.com/play/kbs.html?id=958257977&id2="
+        ]
     },
     {
-        "id": "1y58eqy7wm57wiwv5dh1fa5m22w",
+        "id": "ahmqwdsbhj0ya50d3kmwhwjulme",
         "match_id": "7716239103801938304",
         "source_name": "Premium M3U",
         "match_title_from_api": "Real Betis vs Real Sociedad",
@@ -89,6 +99,11 @@
         },
         "time": "19:00",
         "date": "19-09-2025",
-        "links": []
+        "links": [
+            "https://live-en.aisports.cc/moviebox/bsy_004/playlist.m3u8",
+            "http://play.sportsteam368.com/play/kbs.html?id=958258323&id2=",
+            "http://play.sportsteam368.com/play/gm.php?id=958258323&id2=958258323",
+            "http://play.sportsteam368.com/play/pao.php?id=43582991&id2="
+        ]
     }
 ]
