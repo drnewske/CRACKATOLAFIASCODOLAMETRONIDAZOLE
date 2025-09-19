@@ -1,6 +1,6 @@
 [
     {
-        "id": "3822gyenqsy6cflb673cy61b2tn",
+        "id": "zj5ueb4fd0jaxup07031s6fg0er",
         "match_id": "4395693810161976120",
         "source_name": "Premium M3U",
         "match_title_from_api": "India vs Oman",
@@ -20,7 +20,7 @@
         ]
     },
     {
-        "id": "agsyuylkgo0356hlydxt0ve5szb",
+        "id": "pj6cknqm5zc4yzgusczy7noemvp",
         "match_id": "1773505817985055192",
         "source_name": "Premium M3U",
         "match_title_from_api": "VfB Stuttgart vs St. Pauli",
@@ -37,13 +37,13 @@
         "date": "19-09-2025",
         "links": [
             "https://live-en.aisports.cc/moviebox/bsy_022/playlist.m3u8",
+            "http://play.sportsteam368.com/play/gm.php?id=958257719&id2=958257719",
             "http://play.sportsteam368.com/play/pao.php?id=43473901&id2=",
-            "http://play.sportsteam368.com/play/kbs.html?id=958257719&id2=",
-            "http://play.sportsteam368.com/play/gm.php?id=958257719&id2=958257719"
+            "http://play.sportsteam368.com/play/kbs.html?id=958257719&id2="
         ]
     },
     {
-        "id": "ivm7q6hg5qawadsbz981wauw5fw",
+        "id": "m1fnp74c7550gqjhb0asvmrzmky",
         "match_id": "7130207497915188688",
         "source_name": "Premium M3U",
         "match_title_from_api": "Lecce vs Cagliari",
@@ -61,7 +61,7 @@
         "links": []
     },
     {
-        "id": "4kxyptyc02jfki8zktbxeg1ibqz",
+        "id": "o2a0qtod4h86r59ovi71j4i8b2f",
         "match_id": "2364199198554225112",
         "source_name": "Premium M3U",
         "match_title_from_api": "Lyon vs Angers",
@@ -84,7 +84,7 @@
         ]
     },
     {
-        "id": "nius1yid3wbe8vnheylc86unn4z",
+        "id": "s2vkm11bww1u1j2mx44awner2oo",
         "match_id": "7716239103801938304",
         "source_name": "Premium M3U",
         "match_title_from_api": "Real Betis vs Real Sociedad",
@@ -102,8 +102,8 @@
         "links": [
             "https://live-en.aisports.cc/moviebox/bsy_004/playlist.m3u8",
             "http://play.sportsteam368.com/play/kbs.html?id=958258323&id2=",
-            "http://play.sportsteam368.com/play/gm.php?id=958258323&id2=958258323",
-            "http://play.sportsteam368.com/play/pao.php?id=43582991&id2="
+            "http://play.sportsteam368.com/play/pao.php?id=43582991&id2=",
+            "http://play.sportsteam368.com/play/gm.php?id=958258323&id2=958258323"
         ]
     }
 ]
