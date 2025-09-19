@@ -1,155 +1,94 @@
 [
     {
-        "id": "2x4itg2l7tfbcwla7gx6lxia5ns",
-        "match_id": "6125076067072328064",
+        "id": "rj5mq5qa2gxchd7yo1bwo0l47y8",
+        "match_id": "4395693810161976120",
         "source_name": "Premium M3U",
-        "match_title_from_api": "Sri Lanka vs Afghanistan",
+        "match_title_from_api": "India vs Oman",
         "competition": "Asia Cup",
         "team1": {
-            "name": "Sri Lanka",
-            "logo_url": "https://pacdn.aoneroom.com/image/2025/09/18/eab532e5c4b34ce307b3cd7a5ae6aa3e.png"
+            "name": "India",
+            "logo_url": "https://pacdn.aoneroom.com/image/2025/09/18/a94c2bbc54522e9f3e3116dc1bd0d497.png"
         },
         "team2": {
-            "name": "Afghanistan",
-            "logo_url": "https://pacdn.aoneroom.com/image/2025/09/18/ca62fc7be3f62fe5d65526186414ae87.png"
+            "name": "Oman",
+            "logo_url": "https://pacdn.aoneroom.com/image/2025/09/18/b1e42552042280c0d04134618b3b5691.png"
         },
         "time": "14:30",
-        "date": "18-09-2025",
+        "date": "19-09-2025",
         "links": [
-            "https://live-en.aisports.cc/moviebox/device02/playlist.m3u8"
+            "https://live-en.aisports.cc/moviebox/football001/playlist.m3u8"
         ]
     },
     {
-        "id": "kp7s2iqesukt7z0emhl49fro0p6",
-        "match_id": "5983424248898110728",
+        "id": "9vpbk8fet4kkbgc2wg8x88fb9v7",
+        "match_id": "1773505817985055192",
         "source_name": "Premium M3U",
-        "match_title_from_api": "FC Copenhagen vs Bayer Leverkusen",
-        "competition": "Champions League",
+        "match_title_from_api": "VfB Stuttgart vs St. Pauli",
+        "competition": "Bundesliga",
         "team1": {
-            "name": "FC Copenhagen",
-            "logo_url": "https://pacdn.aoneroom.com/image/2025/07/16/3131312e6ec4994f63f893da12fef6b9.jpg"
+            "name": "VfB Stuttgart",
+            "logo_url": "https://pacdn.aoneroom.com/image/2025/03/13/ae0d82f54a0d4e357afdd2df860c0a19.jpg"
         },
         "team2": {
-            "name": "Bayer Leverkusen",
-            "logo_url": "https://pacdn.aoneroom.com/image/2025/03/13/a3ae8d964e8106869b5ed4356eceab95.jpg"
+            "name": "St. Pauli",
+            "logo_url": "https://pacdn.aoneroom.com/image/2025/04/08/9b91d9ac1e51b2392bb2a0e7c03b2de9.jpg"
         },
-        "time": "16:45",
-        "date": "18-09-2025",
-        "links": [
-            "https://live-en.aisports.cc/moviebox/bsy_010/playlist.m3u8",
-            "http://play.sportsteam368.com/play/wlive.php?id=7d518b5cb460f7d0c1552b55cafd590d&id2=",
-            "http://play.sportsteam368.com/play/pao.php?id=44153501&id2=",
-            "http://play.sportsteam368.com/play/kk.php?id=9380c9d8cce39b45b645178efa49a20bcf9383fda1ca315cf7cda6af6402c177&id2="
-        ]
-    },
-    {
-        "id": "3wfioyancp1ykq73wg5t15xpw03",
-        "match_id": "7845662694816238008",
-        "source_name": "Premium M3U",
-        "match_title_from_api": "Club Brugge vs AS Monaco",
-        "competition": "Champions League",
-        "team1": {
-            "name": "Club Brugge",
-            "logo_url": "https://pacdn.aoneroom.com/image/2025/03/13/9662b74e604fb53fb1fc0f3462275a2c.jpg"
-        },
-        "team2": {
-            "name": "AS Monaco",
-            "logo_url": "https://pacdn.aoneroom.com/image/2025/03/13/c68269f4f3f93e024ddcc8f5d81c2b0b.jpg"
-        },
-        "time": "16:45",
-        "date": "18-09-2025",
-        "links": [
-            "https://live-en.aisports.cc/moviebox/bsy_009/playlist.m3u8",
-            "http://play.sportsteam368.com/play/pao.php?id=44153411&id2=",
-            "http://play.sportsteam368.com/play/kk.php?id=f0141997282b237eb7725f48c47c7fef7859900fd09c28150d795b4201cce0d8&id2=",
-            "http://play.sportsteam368.com/play/wlive.php?id=9b5363c89e2f7984c76cbbbfaf389772&id2="
-        ]
-    },
-    {
-        "id": "pote889xob0umomg9d1t3ujvd2n",
-        "match_id": "4223642694502992312",
-        "source_name": "Premium M3U",
-        "match_title_from_api": "Newcastle United vs Barcelona",
-        "competition": "Champions League",
-        "team1": {
-            "name": "Newcastle United",
-            "logo_url": "https://pacdn.aoneroom.com/image/2025/03/13/720bfed17787c60885d68d44bfbacc9d.jpg"
-        },
-        "team2": {
-            "name": "Barcelona",
-            "logo_url": "https://pacdn.aoneroom.com/image/2025/03/13/147e4df7a97170646e9ec11e7f441d08.jpg"
-        },
-        "time": "19:00",
-        "date": "18-09-2025",
-        "links": [
-            "https://live-en.aisports.cc/moviebox/bsy_009/playlist.m3u8",
-            "http://play.sportsteam368.com/play/wlive.php?id=7bc6360e3a553dd1144597a1d435a902&id2=",
-            "http://play.sportsteam368.com/play/pao.php?id=44153921&id2=",
-            "http://play.sportsteam368.com/play/wlive.php?id=d6bcc479f691a2edd7f14f34db0af717&id2="
-        ]
-    },
-    {
-        "id": "64bwmd8w0f0hh4lf9bl4tpvp9yw",
-        "match_id": "8650681128209335560",
-        "source_name": "Premium M3U",
-        "match_title_from_api": "Manchester City vs Napoli",
-        "competition": "Champions League",
-        "team1": {
-            "name": "Manchester City",
-            "logo_url": "https://pacdn.aoneroom.com/image/2025/03/13/1b684aa748f2360bc357d6e4565819c5.jpg"
-        },
-        "team2": {
-            "name": "Napoli",
-            "logo_url": "https://pacdn.aoneroom.com/image/2025/04/08/3f8941543102963ee5652528779d5ccc.jpg"
-        },
-        "time": "19:00",
-        "date": "18-09-2025",
-        "links": [
-            "https://live-en.aisports.cc/moviebox/bsy_010/playlist.m3u8",
-            "http://play.sportsteam368.com/play/pao.php?id=44153771&id2=",
-            "http://play.sportsteam368.com/play/wlive.php?id=386ad40abcb07e5094eadab217222ce5&id2=",
-            "http://play.sportsteam368.com/play/wlive.php?id=0fe35cf26051f3bbfbc3605a4a51c02c&id2="
-        ]
-    },
-    {
-        "id": "j5zyn0r9brew4qpfzwqj4ikpn9v",
-        "match_id": "7807945047936582920",
-        "source_name": "Premium M3U",
-        "match_title_from_api": "Sporting CP vs Kairat Almaty",
-        "competition": "Champions League",
-        "team1": {
-            "name": "Sporting CP",
-            "logo_url": "https://pacdn.aoneroom.com/image/2025/03/13/446dcaff69c8660b384f6e338604f950.jpg"
-        },
-        "team2": {
-            "name": "Kairat Almaty",
-            "logo_url": "https://pacdn.aoneroom.com/image/2025/06/24/8bf9661c80a144e77f435528a082265f.jpg"
-        },
-        "time": "19:00",
-        "date": "18-09-2025",
+        "time": "18:30",
+        "date": "19-09-2025",
         "links": []
     },
     {
-        "id": "j2ffn2fkneb47wej1npwkj89vr3",
-        "match_id": "7111575955555371448",
+        "id": "4ewl0oykf1u2l2w6xxjvcwi6osx",
+        "match_id": "7130207497915188688",
         "source_name": "Premium M3U",
-        "match_title_from_api": "Eintracht Frankfurt vs Galatasaray",
-        "competition": "Champions League",
+        "match_title_from_api": "Lecce vs Cagliari",
+        "competition": "Serie A",
         "team1": {
-            "name": "Eintracht Frankfurt",
-            "logo_url": "https://pacdn.aoneroom.com/image/2025/04/08/aeb99dff294b489076cc91a3e6486c52.jpg"
+            "name": "Lecce",
+            "logo_url": "https://pacdn.aoneroom.com/image/2025/04/08/31ff2dc58a0e2e7bc50c67ddf265ddc8.jpg"
         },
         "team2": {
-            "name": "Galatasaray",
-            "logo_url": "https://pacdn.aoneroom.com/image/2025/04/08/191f5c2e20b5f46407422dcccb07ecb1.jpg"
+            "name": "Cagliari",
+            "logo_url": "https://pacdn.aoneroom.com/image/2025/04/08/69253aa633753e99d86c051a6cf2e5c3.jpg"
+        },
+        "time": "18:45",
+        "date": "19-09-2025",
+        "links": []
+    },
+    {
+        "id": "dj37yl7olyaed6bjzo0gn4ymqmc",
+        "match_id": "2364199198554225112",
+        "source_name": "Premium M3U",
+        "match_title_from_api": "Lyon vs Angers",
+        "competition": "Ligue 1",
+        "team1": {
+            "name": "Lyon",
+            "logo_url": "https://pacdn.aoneroom.com/image/2025/04/08/066724f7a61a584e611de62f7119ab21.jpg"
+        },
+        "team2": {
+            "name": "Angers",
+            "logo_url": "https://pacdn.aoneroom.com/image/2025/04/08/8771e74c472d62d095632b300455979d.jpg"
+        },
+        "time": "18:45",
+        "date": "19-09-2025",
+        "links": []
+    },
+    {
+        "id": "s9hrz3tor9u4413elkwsijvz1da",
+        "match_id": "7716239103801938304",
+        "source_name": "Premium M3U",
+        "match_title_from_api": "Real Betis vs Real Sociedad",
+        "competition": "LaLiga",
+        "team1": {
+            "name": "Real Betis",
+            "logo_url": "https://pacdn.aoneroom.com/image/2025/04/08/c226139c81d36c7858f2985730b5c460.jpg"
+        },
+        "team2": {
+            "name": "Real Sociedad",
+            "logo_url": "https://pacdn.aoneroom.com/image/2025/04/08/e729d99bc13e75f4af3411add7f50cff.jpg"
         },
         "time": "19:00",
-        "date": "18-09-2025",
-        "links": [
-            "https://live-en.aisports.cc/moviebox/bsy_004/playlist.m3u8",
-            "http://play.sportsteam368.com/play/wlive.php?id=95a872df47e10f1513a90720cc5a92e8&id2=",
-            "http://play.sportsteam368.com/play/wlive.php?id=819c387dac2a7f04721ade0832979b93&id2=",
-            "http://play.sportsteam368.com/play/pao.php?id=44153471&id2="
-        ]
+        "date": "19-09-2025",
+        "links": []
     }
 ]
