@@ -1,6 +1,6 @@
 [
     {
-        "id": "3nvc4gd3dvjgg0354kf1o0cx6it",
+        "id": "ionbtihwosar8zp0qapj6bkhk9o",
         "match_id": "2463278390355851736",
         "source_name": "Premium M3U",
         "match_title_from_api": "Marseille vs Paris Saint-Germain",
@@ -23,7 +23,7 @@
         ]
     },
     {
-        "id": "tbujdmqlu833vfygnachznrz2v6",
+        "id": "s1wmshjctw72tlrr8lvi2a1nlgf",
         "match_id": "1948816126625960016",
         "source_name": "Premium M3U",
         "match_title_from_api": "Napoli vs Pisa",
@@ -40,9 +40,9 @@
         "date": "22-09-2025",
         "links": [
             "https://live-en.aisports.cc/moviebox/bsy_001/playlist.m3u8",
+            "http://play.sportsteam368.com/play/pao.php?id=43394851&id2=",
             "http://play.sportsteam368.com/play/kbs.html?id=958257495&id2=",
-            "http://play.sportsteam368.com/play/gm.php?id=958257495&id2=958257495",
-            "http://play.sportsteam368.com/play/pao.php?id=43394851&id2="
+            "http://play.sportsteam368.com/play/gm.php?id=958257495&id2=958257495"
         ]
     }
 ]
