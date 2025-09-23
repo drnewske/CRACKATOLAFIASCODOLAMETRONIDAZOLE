@@ -1,6 +1,6 @@
 [
     {
-        "id": "f8e01up4xsgz71ulrf4xkjo5i5t",
+        "id": "01ow3n2j9mhh32k17ds6dmxp8za",
         "match_id": "3386887493630542208",
         "source_name": "Premium M3U",
         "match_title_from_api": "Pakistan vs Sri Lanka",
@@ -20,7 +20,7 @@
         ]
     },
     {
-        "id": "ur1nturmi4l756hyplt4searqvr",
+        "id": "z44vhjrgt545yz0jkrtmaxi4yk2",
         "match_id": "716299901542482128",
         "source_name": "Premium M3U",
         "match_title_from_api": "Cagliari vs Frosinone",
@@ -38,7 +38,7 @@
         "links": []
     },
     {
-        "id": "lm3qviuc1326rxydqb3toenoelg",
+        "id": "vf8aembhyz8r8s7enrmwgs4ok8q",
         "match_id": "5081008223660002352",
         "source_name": "Premium M3U",
         "match_title_from_api": "Udinese vs Palermo",
@@ -56,7 +56,7 @@
         "links": []
     },
     {
-        "id": "phslwl9ny8qa22dd9js5rt368ct",
+        "id": "li7d7dfqunlm59v3u3i1a7v5nu5",
         "match_id": "8938966402633025416",
         "source_name": "Premium M3U",
         "match_title_from_api": "Athletic Club vs Girona",
@@ -73,13 +73,13 @@
         "date": "23-09-2025",
         "links": [
             "https://live-en.aisports.cc/moviebox/bsy_011/playlist.m3u8",
-            "http://play.sportsteam368.com/play/pao.php?id=43583131&id2=",
             "http://play.sportsteam368.com/play/kbs.html?id=958257510&id2=",
-            "http://play.sportsteam368.com/play/gm.php?id=958257510&id2=958257510"
+            "http://play.sportsteam368.com/play/gm.php?id=958257510&id2=958257510",
+            "http://play.sportsteam368.com/play/pao.php?id=43583131&id2="
         ]
     },
     {
-        "id": "258gevs39wn0rs11hwkb1928gqz",
+        "id": "91q4s4cqpyii49nstybfwr81d0a",
         "match_id": "4552460365574164864",
         "source_name": "Premium M3U",
         "match_title_from_api": "Espanyol vs Valencia",
@@ -96,13 +96,13 @@
         "date": "23-09-2025",
         "links": [
             "https://live-en.aisports.cc/moviebox/bsy_027/playlist.m3u8",
-            "http://play.sportsteam368.com/play/pao.php?id=43583211&id2=",
             "http://play.sportsteam368.com/play/kbs.html?id=958257561&id2=",
-            "http://play.sportsteam368.com/play/gm.php?id=958257561&id2=958257561"
+            "http://play.sportsteam368.com/play/gm.php?id=958257561&id2=958257561",
+            "http://play.sportsteam368.com/play/pao.php?id=43583211&id2="
         ]
     },
     {
-        "id": "4cttjcljt1cgp7r6mrhtpmyoxhi",
+        "id": "je6jewdhyxby8006t3id9alpynr",
         "match_id": "5448157764881203808",
         "source_name": "Premium M3U",
         "match_title_from_api": "Sporting Khalsa vs Hereford FC",
@@ -120,7 +120,7 @@
         "links": []
     },
     {
-        "id": "w70ovugnfraph7yj0u56hoerl9z",
+        "id": "kw6iq7jbglf2hcgx3czihyyfzoc",
         "match_id": "4576605065394506800",
         "source_name": "Premium M3U",
         "match_title_from_api": "AC Milan vs Lecce",
@@ -138,7 +138,7 @@
         "links": []
     },
     {
-        "id": "6pxlbsn75h2lvoicdk0nn0sarcr",
+        "id": "xak51g30zj92tfzy3kwcz0ih6jz",
         "match_id": "6624116194164590472",
         "source_name": "Premium M3U",
         "match_title_from_api": "Levante vs Real Madrid",
@@ -161,7 +161,7 @@
         ]
     },
     {
-        "id": "exa1gk4e2yqr8ufvrbsyl7swq44",
+        "id": "53qv0xb8sz4obq6ay06rhlhdvl9",
         "match_id": "2359207347044209024",
         "source_name": "Premium M3U",
         "match_title_from_api": "Sevilla vs Villarreal",
@@ -179,8 +179,8 @@
         "links": [
             "https://live-en.aisports.cc/moviebox/bsy_028/playlist.m3u8",
             "http://play.sportsteam368.com/play/gm.php?id=958257817&id2=958257817",
-            "http://play.sportsteam368.com/play/pao.php?id=43583241&id2=",
-            "http://play.sportsteam368.com/play/kbs.html?id=958257817&id2="
+            "http://play.sportsteam368.com/play/kbs.html?id=958257817&id2=",
+            "http://play.sportsteam368.com/play/pao.php?id=43583241&id2="
         ]
     }
 ]
