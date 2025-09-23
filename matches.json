@@ -1,6 +1,6 @@
 [
     {
-        "id": "q4oyoywk2w56t6gru3kyxbr2zec",
+        "id": "n0x89o6hb29nyag61hzoddwrls8",
         "match_id": "3386887493630542208",
         "source_name": "Premium M3U",
         "match_title_from_api": "Pakistan vs Sri Lanka",
@@ -20,7 +20,7 @@
         ]
     },
     {
-        "id": "0xtpd9la64e0yviusmj3bno2cn2",
+        "id": "zl17vd3krbjv5k2uowt3bntjofv",
         "match_id": "716299901542482128",
         "source_name": "Premium M3U",
         "match_title_from_api": "Cagliari vs Frosinone",
@@ -38,7 +38,7 @@
         "links": []
     },
     {
-        "id": "cb0yvc3tcz7o5jy97v1ticmrjtv",
+        "id": "9bbvrr4ax502xuj8kcquahp6156",
         "match_id": "5081008223660002352",
         "source_name": "Premium M3U",
         "match_title_from_api": "Udinese vs Palermo",
@@ -56,7 +56,7 @@
         "links": []
     },
     {
-        "id": "ojdv1x9yr11iv3so0uxojpmh780",
+        "id": "axaktb2u0dbw944dux837qhzuo1",
         "match_id": "8938966402633025416",
         "source_name": "Premium M3U",
         "match_title_from_api": "Athletic Club vs Girona",
@@ -79,7 +79,7 @@
         ]
     },
     {
-        "id": "vvjdsqecsygbwowpqw4kveify08",
+        "id": "nctyp3e1yx318co6h1gwzmiv6yp",
         "match_id": "4552460365574164864",
         "source_name": "Premium M3U",
         "match_title_from_api": "Espanyol vs Valencia",
@@ -102,7 +102,7 @@
         ]
     },
     {
-        "id": "y84xnlbl2ttsfb7czfiiznpo4q1",
+        "id": "pxg0qvp24uxsglk1vew2c548tz5",
         "match_id": "5448157764881203808",
         "source_name": "Premium M3U",
         "match_title_from_api": "Sporting Khalsa vs Hereford FC",
@@ -120,7 +120,7 @@
         "links": []
     },
     {
-        "id": "qiu9scnbc2qm9lw651mhskqmjrp",
+        "id": "8ch5kc3x2z0pj3jrjlctl4t9exc",
         "match_id": "4576605065394506800",
         "source_name": "Premium M3U",
         "match_title_from_api": "AC Milan vs Lecce",
@@ -138,7 +138,7 @@
         "links": []
     },
     {
-        "id": "doie3ytg5d630hceg3j9zc9zxk9",
+        "id": "fypuyp9dqbi9bdefy5r1zuqdh78",
         "match_id": "6624116194164590472",
         "source_name": "Premium M3U",
         "match_title_from_api": "Levante vs Real Madrid",
@@ -155,13 +155,13 @@
         "date": "23-09-2025",
         "links": [
             "https://live-en.aisports.cc/moviebox/bsy_019/playlist.m3u8",
-            "http://play.sportsteam368.com/play/pao.php?id=43583221&id2=",
             "http://play.sportsteam368.com/play/kbs.html?id=958257638&id2=",
-            "http://play.sportsteam368.com/play/gm.php?id=958257638&id2=958257638"
+            "http://play.sportsteam368.com/play/gm.php?id=958257638&id2=958257638",
+            "http://play.sportsteam368.com/play/pao.php?id=43583221&id2="
         ]
     },
     {
-        "id": "eqda76vrjwwqbmd17nldp0olqxp",
+        "id": "4drw5pkz4pxwdwtnu51jqd6y838",
         "match_id": "2359207347044209024",
         "source_name": "Premium M3U",
         "match_title_from_api": "Sevilla vs Villarreal",
@@ -178,9 +178,9 @@
         "date": "23-09-2025",
         "links": [
             "https://live-en.aisports.cc/moviebox/bsy_028/playlist.m3u8",
-            "http://play.sportsteam368.com/play/kbs.html?id=958257817&id2=",
+            "http://play.sportsteam368.com/play/gm.php?id=958257817&id2=958257817",
             "http://play.sportsteam368.com/play/pao.php?id=43583241&id2=",
-            "http://play.sportsteam368.com/play/gm.php?id=958257817&id2=958257817"
+            "http://play.sportsteam368.com/play/kbs.html?id=958257817&id2="
         ]
     }
 ]
