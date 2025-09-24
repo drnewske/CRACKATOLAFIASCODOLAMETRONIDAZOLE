@@ -1,6 +1,6 @@
 [
     {
-        "id": "mvzsio75idoh319jkq9se6szpqw",
+        "id": "h26d0d65dlgax3978atisrrs20d",
         "match_id": "2342052380081029944",
         "source_name": "Premium M3U",
         "match_title_from_api": "India vs Bangladesh",
@@ -20,7 +20,7 @@
         ]
     },
     {
-        "id": "giyoelaqx3y9y01glhk519k30js",
+        "id": "n0iygna5xaendj13o1hd56892rz",
         "match_id": "1769423786577641680",
         "source_name": "Premium M3U",
         "match_title_from_api": "Hellas Verona vs Venezia",
@@ -38,7 +38,7 @@
         "links": []
     },
     {
-        "id": "799p4y3x5gb20p735kmx99aw64i",
+        "id": "zbaort6hnpk99vpsi1b4f09mcob",
         "match_id": "3032683482054642736",
         "source_name": "Premium M3U",
         "match_title_from_api": "FC Midtjylland vs Sturm Graz",
@@ -53,10 +53,15 @@
         },
         "time": "16:45",
         "date": "24-09-2025",
-        "links": []
+        "links": [
+            "https://live-en.aisports.cc/moviebox/bsy_009/playlist.m3u8",
+            "http://play.sportsteam368.com/play/pao.php?id=44157351&id2=",
+            "http://play.sportsteam368.com/play/kk.php?id=abb71cbfa2ac1cd18639736b9358fbfbe07759c5ee4639976524f36b3074636f&id2=",
+            "http://play.sportsteam368.com/play/wlive.php?id=0fe35cf26051f3bbfbc3605a4a51c02c&id2="
+        ]
     },
     {
-        "id": "wtqstnzvqh2wsctef3hdoah9h9z",
+        "id": "8gcmvzu3yajakhrq71nrwxns9qh",
         "match_id": "1915790774467182800",
         "source_name": "Premium M3U",
         "match_title_from_api": "PAOK FC vs Maccabi Tel Aviv",
@@ -71,10 +76,15 @@
         },
         "time": "16:45",
         "date": "24-09-2025",
-        "links": []
+        "links": [
+            "https://live-en.aisports.cc/moviebox/bsy_010/playlist.m3u8",
+            "http://play.sportsteam368.com/play/pao.php?id=44157571&id2=",
+            "http://play.sportsteam368.com/play/wlive.php?id=9b5363c89e2f7984c76cbbbfaf389772&id2=",
+            "http://play.sportsteam368.com/play/kk.php?id=abcbc6643bf38f911c1728f8a0562438751be61ca26d7756ddf5e3f39cb2814b&id2="
+        ]
     },
     {
-        "id": "arz7s97q34bi1xf3waoo834eo49",
+        "id": "vn72ic10ski93jszvbh72bvhkuy",
         "match_id": "463191903920705920",
         "source_name": "Premium M3U",
         "match_title_from_api": "Getafe vs Deportivo Alaves",
@@ -89,10 +99,15 @@
         },
         "time": "17:00",
         "date": "24-09-2025",
-        "links": []
+        "links": [
+            "https://live-en.aisports.cc/moviebox/bsy_001/playlist.m3u8",
+            "http://play.sportsteam368.com/play/pao.php?id=43583251&id2=",
+            "http://play.sportsteam368.com/play/kbs.html?id=958257900&id2=",
+            "http://play.sportsteam368.com/play/gm.php?id=958257900&id2=958257900"
+        ]
     },
     {
-        "id": "pgt58sdqlohq47ajvkjhwx8rcnk",
+        "id": "mi61ikpaozhdsifwqtlx2wgg997",
         "match_id": "988049251228860624",
         "source_name": "Premium M3U",
         "match_title_from_api": "Nice vs AS Roma",
@@ -110,7 +125,7 @@
         "links": []
     },
     {
-        "id": "n4a96xowoxydo442hfrbrrzi7qg",
+        "id": "k75a0dgrqusirly8f6yrwpehzsj",
         "match_id": "897977258681551920",
         "source_name": "Premium M3U",
         "match_title_from_api": "Real Betis vs Nottingham Forest",
@@ -128,7 +143,7 @@
         "links": []
     },
     {
-        "id": "kh4ggpiitmplua8d01r1o3ozqge",
+        "id": "kkko14o9pxtlieq6lm7kf87zdbj",
         "match_id": "8319909444588028112",
         "source_name": "Premium M3U",
         "match_title_from_api": "SC Braga vs Feyenoord",
@@ -146,7 +161,7 @@
         "links": []
     },
     {
-        "id": "oc5gek06qdl5at369mj53yjavvr",
+        "id": "uoj7163rrbg31ps0u44xq97140j",
         "match_id": "8085722263963713744",
         "source_name": "Premium M3U",
         "match_title_from_api": "Freiburg vs Basel",
@@ -164,7 +179,7 @@
         "links": []
     },
     {
-        "id": "3szmm7ubjnluf1ubfskj1rw3lbj",
+        "id": "1n7bgovgerhfhs10k1g4346zk0k",
         "match_id": "7437203917623410896",
         "source_name": "Premium M3U",
         "match_title_from_api": "Malmo FF vs Ludogorets Razgrad",
@@ -182,7 +197,7 @@
         "links": []
     },
     {
-        "id": "74jb6fhjfdjuidjdepgdrcspyso",
+        "id": "1k5l8mok7im6njhw0q90rlyogz5",
         "match_id": "2510265925280088272",
         "source_name": "Premium M3U",
         "match_title_from_api": "FK Crvena Zvezda vs Celtic",
@@ -200,7 +215,7 @@
         "links": []
     },
     {
-        "id": "t9548qpprhgg5zg45rhg2eswwwz",
+        "id": "37hxx66drpqajdke7exiu0oy6ij",
         "match_id": "1033085247502565584",
         "source_name": "Premium M3U",
         "match_title_from_api": "Dinamo Zagreb vs Fenerbahce",
@@ -218,7 +233,7 @@
         "links": []
     },
     {
-        "id": "ujz40xioglmqehlak6j0as238zu",
+        "id": "cz8uowbwkxbij03okxa20e7ytjw",
         "match_id": "4723785142132687056",
         "source_name": "Premium M3U",
         "match_title_from_api": "Como 1907 vs Sassuolo",
@@ -236,7 +251,7 @@
         "links": []
     },
     {
-        "id": "i2pxbwcjjvywbvd9ekdvkw46a5e",
+        "id": "wx09zk04wlnv3wfokcimqbhkc8u",
         "match_id": "9191167981765775744",
         "source_name": "Premium M3U",
         "match_title_from_api": "Atletico Madrid vs Rayo Vallecano",
@@ -254,7 +269,7 @@
         "links": []
     },
     {
-        "id": "6660oxn6p1kg8yv3vp9895hs26g",
+        "id": "chyobmt2n9xt2x85yszfe5jw60e",
         "match_id": "5610806278006231424",
         "source_name": "Premium M3U",
         "match_title_from_api": "Real Sociedad vs Mallorca",
