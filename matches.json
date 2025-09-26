@@ -1,6 +1,6 @@
 [
     {
-        "id": "5cu6axtp7wm8b12sxdg328kkrkl",
+        "id": "kk5axig9shydqq173ap0vp5dl6s",
         "match_id": "1477361251625370424",
         "source_name": "Premium M3U",
         "match_title_from_api": "India vs Sri Lanka",
@@ -20,7 +20,7 @@
         ]
     },
     {
-        "id": "lsiqsm495krtr21eqcluqg12fmn",
+        "id": "w43kz7m765goa4wqfysy1lsjvmf",
         "match_id": "4601766383973726680",
         "source_name": "Premium M3U",
         "match_title_from_api": "Bayern Munich vs Werder Bremen",
@@ -35,10 +35,15 @@
         },
         "time": "18:30",
         "date": "26-09-2025",
-        "links": []
+        "links": [
+            "https://live-en.aisports.cc/moviebox/bsy_007/playlist.m3u8",
+            "http://play.sportsteam368.com/play/kbs.html?id=958482036&id2=",
+            "http://play.sportsteam368.com/play/pao.php?id=43473921&id2=",
+            "http://play.sportsteam368.com/play/gm.php?id=958482036&id2=958482036"
+        ]
     },
     {
-        "id": "dl1mob0frlsddtbzcekqszofzsv",
+        "id": "76o2ekm3t65wr0b10bfqqfqwzuq",
         "match_id": "3765240895131515352",
         "source_name": "Premium M3U",
         "match_title_from_api": "Strasbourg vs Marseille",
@@ -53,10 +58,15 @@
         },
         "time": "18:45",
         "date": "26-09-2025",
-        "links": []
+        "links": [
+            "https://live-en.aisports.cc/moviebox/bsy_005/playlist.m3u8",
+            "http://play.sportsteam368.com/play/kbs.html?id=958482460&id2=",
+            "http://play.sportsteam368.com/play/gm.php?id=958482460&id2=958482460",
+            "http://play.sportsteam368.com/play/pao.php?id=43477221&id2="
+        ]
     },
     {
-        "id": "xtsxpfl1jvm2atb2jor1ti5jfu1",
+        "id": "uvmqk91e0qrx6qop7um2pildwdo",
         "match_id": "8197561313977157512",
         "source_name": "Premium M3U",
         "match_title_from_api": "Girona vs Espanyol",
