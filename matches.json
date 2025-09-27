@@ -1,6 +1,6 @@
 [
     {
-        "id": "78lcpinm2xaytsncmowdq8reuit",
+        "id": "yjx2e4dw7bg7u5g0tiaiww8arlr",
         "match_id": "321021494217392416",
         "source_name": "Premium M3U",
         "match_title_from_api": "Brentford vs Manchester United",
@@ -17,13 +17,13 @@
         "date": "27-09-2025",
         "links": [
             "https://live-en.aisports.cc/moviebox/device01/playlist.m3u8",
+            "http://play.sportsteam368.com/play/pao.php?id=43431951&id2=",
             "http://play.sportsteam368.com/play/kbs.html?id=958482181&id2=",
-            "http://play.sportsteam368.com/play/gm.php?id=958482181&id2=958482181",
-            "http://play.sportsteam368.com/play/pao.php?id=43431951&id2="
+            "http://play.sportsteam368.com/play/gm.php?id=958482181&id2=958482181"
         ]
     },
     {
-        "id": "5k40kcvodugg792y1wmp99nui9t",
+        "id": "bf656fypxqbhg7v1eg8o2e8v2vf",
         "match_id": "7064878356693926648",
         "source_name": "Premium M3U",
         "match_title_from_api": "Westbury United vs Farnborough",
@@ -41,7 +41,7 @@
         "links": []
     },
     {
-        "id": "k62n3w6nr1y1vr0sw9bsxk3m0mo",
+        "id": "dfq26zsfqzqbf3uhvpp69aqyy3y",
         "match_id": "7080668606389277056",
         "source_name": "Premium M3U",
         "match_title_from_api": "Getafe vs Levante",
@@ -59,7 +59,7 @@
         "links": []
     },
     {
-        "id": "izdycern9w851hzejzzvybe3ewn",
+        "id": "2wp9d26mck8cqwncbw521o53h1v",
         "match_id": "5376055443054907472",
         "source_name": "Premium M3U",
         "match_title_from_api": "Como 1907 vs Cremonese",
@@ -77,7 +77,7 @@
         "links": []
     },
     {
-        "id": "sv6otkw3ung6fap1wu8qwir6135",
+        "id": "2vjb5omqw6dt00hi2dnhuczxkg6",
         "match_id": "8305414127532626304",
         "source_name": "Premium M3U",
         "match_title_from_api": "Mainz 05 vs Borussia Dortmund",
@@ -92,10 +92,15 @@
         },
         "time": "13:30",
         "date": "27-09-2025",
-        "links": []
+        "links": [
+            "https://live-en.aisports.cc/moviebox/bsy_005/playlist.m3u8",
+            "http://play.sportsteam368.com/play/kbs.html?id=958482338&id2=",
+            "http://play.sportsteam368.com/play/gm.php?id=958482338&id2=958482338",
+            "http://play.sportsteam368.com/play/pao.php?id=43473971&id2="
+        ]
     },
     {
-        "id": "ekij9fpu41yogcj08lnqs8pns4r",
+        "id": "ztalf4mop3b5yxdnkcgyqt15asy",
         "match_id": "8458536514863223168",
         "source_name": "Premium M3U",
         "match_title_from_api": "Wolfsburg vs RB Leipzig",
@@ -113,7 +118,7 @@
         "links": []
     },
     {
-        "id": "kdq1p0ygv69bxpgr339aa3hpk8q",
+        "id": "aygdydq6ave8kg4weqn4r0w1cvi",
         "match_id": "3468548127736713600",
         "source_name": "Premium M3U",
         "match_title_from_api": "St. Pauli vs Bayer Leverkusen",
@@ -131,7 +136,7 @@
         "links": []
     },
     {
-        "id": "6k6w42k88gr1erc2f6oxrufyk79",
+        "id": "lgwzvegd7qv0u1jmz9yt9zfvr3e",
         "match_id": "4610773583228467672",
         "source_name": "Premium M3U",
         "match_title_from_api": "FC Heidenheim vs Augsburg",
@@ -149,7 +154,7 @@
         "links": []
     },
     {
-        "id": "5e0tklckrzq9y2fduko1wfzsjj4",
+        "id": "uz42xhl5zgr9m64m2j7tsm3gceo",
         "match_id": "8434256222925340960",
         "source_name": "Premium M3U",
         "match_title_from_api": "Crystal Palace vs Liverpool",
@@ -169,7 +174,7 @@
         ]
     },
     {
-        "id": "at8547ty35cqhvoakoa6i2yjwzw",
+        "id": "5qe82nrgqf1pcslctg1yx1cc2qo",
         "match_id": "4119807779904405792",
         "source_name": "Premium M3U",
         "match_title_from_api": "Manchester City vs Burnley",
@@ -187,7 +192,7 @@
         "links": []
     },
     {
-        "id": "ps8ugtbjzelt30wdpy15rp69zo6",
+        "id": "yyy3f7g707spuxxbvyjfgg7kub4",
         "match_id": "7995155259256718432",
         "source_name": "Premium M3U",
         "match_title_from_api": "Chelsea vs Brighton",
@@ -207,7 +212,7 @@
         ]
     },
     {
-        "id": "mr2715gthcfsskm2oxnb3shgobj",
+        "id": "r0f1bk8n34gmabbd6ta36rt9wzo",
         "match_id": "7119205131732107552",
         "source_name": "Premium M3U",
         "match_title_from_api": "Leeds United vs Bournemouth",
@@ -225,7 +230,7 @@
         "links": []
     },
     {
-        "id": "95eslidsysbddx6232nnumpuk9k",
+        "id": "5m973utriz0fhwn6plzmrff2xw3",
         "match_id": "969256261048058568",
         "source_name": "Premium M3U",
         "match_title_from_api": "Marine vs Buxton",
@@ -243,7 +248,7 @@
         "links": []
     },
     {
-        "id": "n0jxabl5whg4sq61thcgdl1fwme",
+        "id": "y4q09oonf1eqzyqu1j0as00noq1",
         "match_id": "8850555608946328312",
         "source_name": "Premium M3U",
         "match_title_from_api": "AFC Fylde vs Darlington",
@@ -261,7 +266,7 @@
         "links": []
     },
     {
-        "id": "6sx55kl57qzpd8ci89k4qqvba9d",
+        "id": "jfk296lqqw9p04wwi2e9p2qorfc",
         "match_id": "8518581781158939112",
         "source_name": "Premium M3U",
         "match_title_from_api": "Hemel Hempstead vs Hereford FC",
@@ -279,7 +284,7 @@
         "links": []
     },
     {
-        "id": "kost4b05gv2lwbr8myh3l04su0h",
+        "id": "on1cgjrlhm11y3ftmw3uwjb01k8",
         "match_id": "8175015664840753912",
         "source_name": "Premium M3U",
         "match_title_from_api": "Macclesfield FC vs Nantwich Town",
@@ -297,7 +302,7 @@
         "links": []
     },
     {
-        "id": "benu268gsd2ojcpx0ry353809n9",
+        "id": "8qqwkmenlmny17rst9hdfx8gczz",
         "match_id": "8063623248477570240",
         "source_name": "Premium M3U",
         "match_title_from_api": "AFC Telford United vs Evesham United",
@@ -315,7 +320,7 @@
         "links": []
     },
     {
-        "id": "obixbypox592ychbxq8bp6r4yj1",
+        "id": "m8x8qetj78zil39arh86fxqii34",
         "match_id": "7922814085708006136",
         "source_name": "Premium M3U",
         "match_title_from_api": "Spennymoor Town vs Chadderton",
@@ -333,7 +338,7 @@
         "links": []
     },
     {
-        "id": "2wmi8ae8qxaqvitildjz6otimyf",
+        "id": "to6z9akiv0o14eerqa1y1mtoeiz",
         "match_id": "7904799687197475576",
         "source_name": "Premium M3U",
         "match_title_from_api": "Farnham Town vs Dorchester Town",
@@ -351,7 +356,7 @@
         "links": []
     },
     {
-        "id": "bx88m8wfwix0glsivuo3vy5svqb",
+        "id": "f41lctjzem9ltcssh1pyhfdo2y3",
         "match_id": "7833939667481772976",
         "source_name": "Premium M3U",
         "match_title_from_api": "Spalding United vs Dagenham & Redbridge",
@@ -369,7 +374,7 @@
         "links": []
     },
     {
-        "id": "smszumddjgfrhnz0aoiqzrqizba",
+        "id": "m5jo6zhzi3vkunbscp4yelaady1",
         "match_id": "7671810080896337088",
         "source_name": "Premium M3U",
         "match_title_from_api": "Wimborne Town vs Worthing",
@@ -387,7 +392,7 @@
         "links": []
     },
     {
-        "id": "ytyh36vv7b8pz4t4hxg99dzqjcf",
+        "id": "wkzgbx3awphrowf2equgv0utltd",
         "match_id": "7634583709556392648",
         "source_name": "Premium M3U",
         "match_title_from_api": "South Shields vs Chorley",
@@ -405,7 +410,7 @@
         "links": []
     },
     {
-        "id": "ikffyep9ib4ioaqf5d0iq7hl0z5",
+        "id": "0ye3f9alrubmq9zfq4kmvzow464",
         "match_id": "7497223920921494264",
         "source_name": "Premium M3U",
         "match_title_from_api": "Walton and Hersham vs Chippenham Town",
@@ -423,7 +428,7 @@
         "links": []
     },
     {
-        "id": "pgosi0t91n8kk623bualk4f9z8v",
+        "id": "cint259z0p0os2k24bfyxc0iwzj",
         "match_id": "736266654745773248",
         "source_name": "Premium M3U",
         "match_title_from_api": "Poole Town vs Weston Super Mare",
@@ -441,7 +446,7 @@
         "links": []
     },
     {
-        "id": "q5c3caxjxeoi3p4eril31q26og0",
+        "id": "qsd9mftgrea4i4aci4kkb7ob09r",
         "match_id": "7274295739366752968",
         "source_name": "Premium M3U",
         "match_title_from_api": "Runcorn Linnets vs Ashton United",
@@ -459,7 +464,7 @@
         "links": []
     },
     {
-        "id": "ijn9e1f2k92ie49h7pvdentz0r0",
+        "id": "5kz614tg0jytfdtrd4477fx6hzg",
         "match_id": "7014284535299196096",
         "source_name": "Premium M3U",
         "match_title_from_api": "Halesowen vs Aveley",
@@ -477,7 +482,7 @@
         "links": []
     },
     {
-        "id": "r5dnawd5ogyc8piw9199l23tm8g",
+        "id": "nyw8nvciuk6q5872x6yjw88pl21",
         "match_id": "6986065363214942968",
         "source_name": "Premium M3U",
         "match_title_from_api": "Royston Town vs King's Lynn Town",
@@ -495,7 +500,7 @@
         "links": []
     },
     {
-        "id": "x5k9f51v9uelpfxfhtuxd5g4c8s",
+        "id": "j62cvpqe46gx11lb6o4w647qph0",
         "match_id": "6211446227307217656",
         "source_name": "Premium M3U",
         "match_title_from_api": "Chester FC vs Curzon Ashton",
@@ -513,7 +518,7 @@
         "links": []
     },
     {
-        "id": "0sjdpdldkiwm335h2p2jwhq12q5",
+        "id": "or13b84t4t4ubx5422ht4lo2b0r",
         "match_id": "6184424629542994680",
         "source_name": "Premium M3U",
         "match_title_from_api": "Alvechurch vs Chelmsford",
@@ -531,7 +536,7 @@
         "links": []
     },
     {
-        "id": "3lqumtko4pgdnv3zru6c3ffq9fa",
+        "id": "zwafez8584jpj97b3jfwzbrrroh",
         "match_id": "608968290858320632",
         "source_name": "Premium M3U",
         "match_title_from_api": "Harborough Town FC vs Peterborough Sports",
@@ -549,7 +554,7 @@
         "links": []
     },
     {
-        "id": "9rr9u6m29ucwkglszoh2lt8j5gd",
+        "id": "o3diy3sn6co24uowh7gtpqyz276",
         "match_id": "5508884685437420280",
         "source_name": "Premium M3U",
         "match_title_from_api": "Hednesford vs Billericay",
@@ -567,7 +572,7 @@
         "links": []
     },
     {
-        "id": "zjpxcmtxfmzwk86s31z2jszlnhs",
+        "id": "6knduqebodhpg5x4izydz0dqpfm",
         "match_id": "5465046263484794048",
         "source_name": "Premium M3U",
         "match_title_from_api": "Morpeth Town AFC vs Southport",
@@ -585,7 +590,7 @@
         "links": []
     },
     {
-        "id": "pfv40h2zgmjkxy5uo6jbqaxtz2p",
+        "id": "ljwa3cvutqjgcgdncna44jrgw8g",
         "match_id": "4626179158472803064",
         "source_name": "Premium M3U",
         "match_title_from_api": "Chatham Town vs Deal Town",
@@ -603,7 +608,7 @@
         "links": []
     },
     {
-        "id": "vcc3fnwgialzbwpsinbzqar17iu",
+        "id": "08mwlj7sc0c6cp83ej5jbd0uznb",
         "match_id": "4410006376359019256",
         "source_name": "Premium M3U",
         "match_title_from_api": "Dunston UTS vs Gainsborough",
@@ -621,7 +626,7 @@
         "links": []
     },
     {
-        "id": "j4hdnqpr1eaz60jcktor3ctor4d",
+        "id": "yblf0129h2ugw0qy3pm8m4qaioo",
         "match_id": "4229862391264199416",
         "source_name": "Premium M3U",
         "match_title_from_api": "Enfield Town vs Quorn",
@@ -639,7 +644,7 @@
         "links": []
     },
     {
-        "id": "glg5b59pu18yhpi06rmmaoxc4nv",
+        "id": "75w2d0dhoyaqh2ookea19t8a6fl",
         "match_id": "4149995172292609216",
         "source_name": "Premium M3U",
         "match_title_from_api": "Cray Valley Paper Mills vs Tonbridge Angels",
@@ -657,7 +662,7 @@
         "links": []
     },
     {
-        "id": "76b5h21qk6syb81qt73cjfcex9t",
+        "id": "j225xmcdhcmrx8qdzwz8cwmrqm3",
         "match_id": "3923617616603005688",
         "source_name": "Premium M3U",
         "match_title_from_api": "Hyde United vs Matlock Town",
@@ -675,7 +680,7 @@
         "links": []
     },
     {
-        "id": "l6vec9hkwhsw7nqcc4xwczqx8le",
+        "id": "43ucno48kri1jp2kc2hk7foa7a2",
         "match_id": "3671416037469733624",
         "source_name": "Premium M3U",
         "match_title_from_api": "Salisbury FC vs Dorking Wanderers",
@@ -693,7 +698,7 @@
         "links": []
     },
     {
-        "id": "g4qwwimgd88fp2sx87w5zo9airn",
+        "id": "yzi6nj2itgh1gbo6rnfle9tf4wl",
         "match_id": "3609563217008247728",
         "source_name": "Premium M3U",
         "match_title_from_api": "AFC Totton vs Frome Town",
@@ -711,7 +716,7 @@
         "links": []
     },
     {
-        "id": "yafbqy02ktnmamb6gyzdlom90ke",
+        "id": "lv4uf2ibrunhyfqs0w0hdmq8o60",
         "match_id": "3564527220734444736",
         "source_name": "Premium M3U",
         "match_title_from_api": "Woodford Town vs St.Albans",
@@ -729,7 +734,7 @@
         "links": []
     },
     {
-        "id": "7tcjdqqd0lw97fpdtjf0qs7n0fc",
+        "id": "1suyvlqeyulmviihspdi5oi1ab6",
         "match_id": "3474455228187034816",
         "source_name": "Premium M3U",
         "match_title_from_api": "Needham Market vs Witham Town",
@@ -747,7 +752,7 @@
         "links": []
     },
     {
-        "id": "qzr7kt3f9jflx7txo9ydenb3hbo",
+        "id": "lh3iglgrmxbs9s6kkhf3w90jjs4",
         "match_id": "3455243255356474104",
         "source_name": "Premium M3U",
         "match_title_from_api": "Waltham Abbey vs Maldon & Tiptree",
@@ -765,7 +770,7 @@
         "links": []
     },
     {
-        "id": "3jz6t10u3wbjuhaj0f7nk9qdos3",
+        "id": "uwnszexk5me19w8zzqo0qvuap37",
         "match_id": "3383185661317497592",
         "source_name": "Premium M3U",
         "match_title_from_api": "Sholing vs Eastbourne Borough",
@@ -783,7 +788,7 @@
         "links": []
     },
     {
-        "id": "ku4xximeko0pf4e3ivd8msugq9r",
+        "id": "448pljabex0sy1326ek8fkjxyug",
         "match_id": "321935489026736712",
         "source_name": "Premium M3U",
         "match_title_from_api": "Whitstable Town vs Hungerford Town",
@@ -801,7 +806,7 @@
         "links": []
     },
     {
-        "id": "4n9vmt824zf255eg287rpvqpw2p",
+        "id": "h516g9tziksbetpthb9nk19xlei",
         "match_id": "3167012879204336328",
         "source_name": "Premium M3U",
         "match_title_from_api": "Sutton Coldfield Town vs Stamford AFC",
@@ -819,7 +824,7 @@
         "links": []
     },
     {
-        "id": "qi2rfnp10ykfw9do00j05a9i4kk",
+        "id": "fopz3d10yfhntd5rpuz6hlv0xmf",
         "match_id": "2860768104543568632",
         "source_name": "Premium M3U",
         "match_title_from_api": "Flackwell Heath vs Bracknell Town",
@@ -837,7 +842,7 @@
         "links": []
     },
     {
-        "id": "he2xsib2ssf0g30iugwczvp524j",
+        "id": "gctr2jun4y48rg12t1oinccfmch",
         "match_id": "2816929682589893824",
         "source_name": "Premium M3U",
         "match_title_from_api": "Bedfont Sports Club vs Slough Town",
@@ -855,7 +860,7 @@
         "links": []
     },
     {
-        "id": "iwvawz5u5gb4pli0g66zpe8quek",
+        "id": "k7kxh7t2j3r82pqj5znt1pyks3b",
         "match_id": "1978062577578951416",
         "source_name": "Premium M3U",
         "match_title_from_api": "Merthyr Town vs Hampton & Richmond",
@@ -873,7 +878,7 @@
         "links": []
     },
     {
-        "id": "i2u6d6b9qyzk15m1d6tx1mi62sm",
+        "id": "ishn7h2yar7hsig8whdqvder67d",
         "match_id": "1203443441671226104",
         "source_name": "Premium M3U",
         "match_title_from_api": "Ebbsfleet United vs Faversham Town",
@@ -891,7 +896,7 @@
         "links": []
     },
     {
-        "id": "fkvx84nchoxvebxa2hxrs5zczqf",
+        "id": "crm3cjpz9882frltvt9fy3jatq2",
         "match_id": "5367611898127173512",
         "source_name": "Premium M3U",
         "match_title_from_api": "Atletico Madrid vs Real Madrid",
@@ -909,7 +914,7 @@
         "links": []
     },
     {
-        "id": "bh5hjiqxxeab5wparekb49kwuua",
+        "id": "ky53rmh6bgdk21koa1ke93zm7i5",
         "match_id": "7016417613627947480",
         "source_name": "Premium M3U",
         "match_title_from_api": "Lorient vs AS Monaco",
@@ -927,7 +932,7 @@
         "links": []
     },
     {
-        "id": "4u98tcxum0we6ol2hkbs6u2ur8a",
+        "id": "90sgj1cb3ih5nmyqx24o0wok6s3",
         "match_id": "1746154143394287696",
         "source_name": "Premium M3U",
         "match_title_from_api": "Juventus vs Atalanta",
@@ -945,7 +950,7 @@
         "links": []
     },
     {
-        "id": "l7dukyyro3bpc7z5vs1zzvccit5",
+        "id": "zqwtn5vn11g78mxwuc4n9mxett6",
         "match_id": "3237102252939789408",
         "source_name": "Premium M3U",
         "match_title_from_api": "Nottingham Forest vs Sunderland",
@@ -963,7 +968,7 @@
         "links": []
     },
     {
-        "id": "gl7go1uc0yduyc4t8zkq1hf5g0v",
+        "id": "l2g76mo8b6u7t5ovjgffc0udsp9",
         "match_id": "802650725834805632",
         "source_name": "Premium M3U",
         "match_title_from_api": "Mallorca vs Deportivo Alaves",
@@ -981,7 +986,7 @@
         "links": []
     },
     {
-        "id": "p53hiu8suoejx8nlyhbzstmp0wv",
+        "id": "6qu39cl73cotpe3jtogsenpguro",
         "match_id": "5385392719136192984",
         "source_name": "Premium M3U",
         "match_title_from_api": "Borussia M'gladbach vs Eintracht Frankfurt",
@@ -999,7 +1004,7 @@
         "links": []
     },
     {
-        "id": "or676lu4e0dzf79qrq14i5s7kt3",
+        "id": "jyqcll28sshh9r3z3u1pjwbz0bj",
         "match_id": "7692379770198675840",
         "source_name": "Premium M3U",
         "match_title_from_api": "Toulouse vs Nantes",
@@ -1017,7 +1022,7 @@
         "links": []
     },
     {
-        "id": "fr54ot7yv8b91vfrzi5ijzhfk6o",
+        "id": "ro13lp2gij7l7tkaoucjf6gp37l",
         "match_id": "8929395549050226128",
         "source_name": "Premium M3U",
         "match_title_from_api": "Cagliari vs Inter",
@@ -1035,7 +1040,7 @@
         "links": []
     },
     {
-        "id": "nvqddznesxp8n1y72c4jmv17j51",
+        "id": "pf0dmttic9v4hg9to8eki8heqh3",
         "match_id": "224194102228926752",
         "source_name": "Premium M3U",
         "match_title_from_api": "Tottenham Hotspur vs Wolves",
@@ -1053,7 +1058,7 @@
         "links": []
     },
     {
-        "id": "xbsbooqcgfmpq1rgs1dx8aj7wpl",
+        "id": "u2rxaub8hub6z3jr55vmevvj31j",
         "match_id": "4292940437046937480",
         "source_name": "Premium M3U",
         "match_title_from_api": "Villarreal vs Athletic Club",
@@ -1071,7 +1076,7 @@
         "links": []
     },
     {
-        "id": "kk4l856fsp4hf73d5zghbcarzla",
+        "id": "9ex6bcnkhyq7vq64jbl3m3nvrk1",
         "match_id": "8718778272774082944",
         "source_name": "Premium M3U",
         "match_title_from_api": "Paris Saint-Germain vs Auxerre",
