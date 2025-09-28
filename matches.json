@@ -1,1 +1,22 @@
-[]
+[
+    {
+        "id": "vibnr5ogtvajlyr6aem94i2sbn6",
+        "match_id": "890613767032160464",
+        "source_name": "Premium M3U",
+        "match_title_from_api": "India vs Pakistan",
+        "competition": "Asia Cup",
+        "team1": {
+            "name": "India",
+            "logo_url": "https://pacdn.aoneroom.com/image/2025/09/18/a94c2bbc54522e9f3e3116dc1bd0d497.png"
+        },
+        "team2": {
+            "name": "Pakistan",
+            "logo_url": "https://pacdn.aoneroom.com/image/2025/09/18/7e445efbcb4554f3b9a200cd23e315dc.png"
+        },
+        "time": "14:30",
+        "date": "28-09-2025",
+        "links": [
+            "https://live-en.aisports.cc/moviebox/device01/playlist.m3u8"
+        ]
+    }
+]
