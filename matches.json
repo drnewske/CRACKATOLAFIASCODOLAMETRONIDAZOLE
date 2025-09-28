@@ -1,6 +1,6 @@
 [
     {
-        "id": "4mrxcf20ftgj2yguzpr7wiz7mfl",
+        "id": "49xmms82356gv1lyby5stct5mxc",
         "match_id": "7406052975092158544",
         "source_name": "Premium M3U",
         "match_title_from_api": "Sassuolo vs Udinese",
@@ -18,7 +18,7 @@
         "links": []
     },
     {
-        "id": "pj3f3fcrpd6495ji1lydja7tu8y",
+        "id": "gtcgcakuf9zjfc9pwfb6cyu1n1q",
         "match_id": "7810251746023294856",
         "source_name": "Premium M3U",
         "match_title_from_api": "Rayo Vallecano vs Sevilla",
@@ -36,7 +36,7 @@
         "links": []
     },
     {
-        "id": "0j4tlbbe1g82xf160z3reg9309p",
+        "id": "b434jx5qyzw8bvqsrqiyr3byyne",
         "match_id": "6139672212780074080",
         "source_name": "Premium M3U",
         "match_title_from_api": "Aston Villa vs Fulham",
@@ -54,7 +54,7 @@
         "links": []
     },
     {
-        "id": "09t10s58gro9ngarpvsu2be81ut",
+        "id": "vwv9mwjv34c5pseadhg7xm3izpc",
         "match_id": "3344932011109765200",
         "source_name": "Premium M3U",
         "match_title_from_api": "AS Roma vs Hellas Verona",
@@ -72,7 +72,7 @@
         "links": []
     },
     {
-        "id": "fm7aoexo5l1zlslraxbjr55ij8m",
+        "id": "o276wzkikvv0qui5q48edq8f2en",
         "match_id": "5622627522652917840",
         "source_name": "Premium M3U",
         "match_title_from_api": "Pisa vs Fiorentina",
@@ -90,7 +90,7 @@
         "links": []
     },
     {
-        "id": "hsirqa71tza4eqbdy0dcxbmtj05",
+        "id": "pn22m8t06ixj2n50iow9gz12gkd",
         "match_id": "9025023047435188696",
         "source_name": "Premium M3U",
         "match_title_from_api": "Nice vs Paris FC",
@@ -108,7 +108,7 @@
         "links": []
     },
     {
-        "id": "oud38o3mwszs4ulh9w6ufstwkj2",
+        "id": "3z9nxjatbceyhuu0yi1t2od25t3",
         "match_id": "469150775907351000",
         "source_name": "Premium M3U",
         "match_title_from_api": "Freiburg vs Hoffenheim",
@@ -126,7 +126,7 @@
         "links": []
     },
     {
-        "id": "8wu70oe0ayy4a54s8y2b2vagban",
+        "id": "qxjwqicxcn6cv88qfom0emo04en",
         "match_id": "3964177664248893824",
         "source_name": "Premium M3U",
         "match_title_from_api": "Elche vs Celta Vigo",
@@ -144,7 +144,7 @@
         "links": []
     },
     {
-        "id": "9bzabzm10sc5pxmhpkgboxm7xzh",
+        "id": "20dmmkfjv3ver9itet0c9p2d7na",
         "match_id": "890613767032160464",
         "source_name": "Premium M3U",
         "match_title_from_api": "India vs Pakistan",
@@ -164,7 +164,7 @@
         ]
     },
     {
-        "id": "c4quojthqq5mcxp5zhbnuq1ak7d",
+        "id": "5kg8q6310fcdyy37y87o8vcfwb0",
         "match_id": "8835871863085627864",
         "source_name": "Premium M3U",
         "match_title_from_api": "Lille vs Lyon",
@@ -181,13 +181,13 @@
         "date": "28-09-2025",
         "links": [
             "https://live-en.aisports.cc/moviebox/bsy_004/playlist.m3u8",
-            "http://sports.cctv.com/H5/CCTV5/index.shtml",
             "http://tv.cctv.com/live/cctv5/",
-            "https://www.yangshipin.cn/tv/home?pid=600001818"
+            "https://www.yangshipin.cn/tv/home?pid=600001818",
+            "http://sports.cctv.com/H5/CCTV5/index.shtml"
         ]
     },
     {
-        "id": "axqvstbet849mrm28vjkfad6uy6",
+        "id": "ly24udhrcvzy7bgcbduwd7vd3wg",
         "match_id": "6349884868777114072",
         "source_name": "Premium M3U",
         "match_title_from_api": "Angers vs Brest",
@@ -204,13 +204,13 @@
         "date": "28-09-2025",
         "links": [
             "https://live-en.aisports.cc/moviebox/bsy_013/playlist.m3u8",
+            "http://play.sportsteam368.com/play/kbs.html?id=958482846&id2=",
             "http://play.sportsteam368.com/play/pao.php?id=43477151&id2=",
-            "http://play.sportsteam368.com/play/gm.php?id=958482846&id2=958482846",
-            "http://play.sportsteam368.com/play/kbs.html?id=958482846&id2="
+            "http://play.sportsteam368.com/play/gm.php?id=958482846&id2=958482846"
         ]
     },
     {
-        "id": "gsu5epi317jqk0z0ags0qpyoav2",
+        "id": "aq6u0d19ull6xqif3939x96q102",
         "match_id": "2728990768371235288",
         "source_name": "Premium M3U",
         "match_title_from_api": "Metz vs Le Havre",
@@ -233,7 +233,7 @@
         ]
     },
     {
-        "id": "1xf09qco7hp13o6cqh3hp8jjmvc",
+        "id": "6l6dollmrpahokj8th5myh4qd4i",
         "match_id": "8623407407274901792",
         "source_name": "Premium M3U",
         "match_title_from_api": "Newcastle United vs Arsenal",
@@ -256,7 +256,7 @@
         ]
     },
     {
-        "id": "c86b6dlk0qqkhxmlxhj45o7s4yq",
+        "id": "pmlf1hsopezmvufe0lrl9pln6ff",
         "match_id": "8754085240409323992",
         "source_name": "Premium M3U",
         "match_title_from_api": "FC Cologne vs VfB Stuttgart",
@@ -274,7 +274,7 @@
         "links": []
     },
     {
-        "id": "8dz7ouy1fguwymitjryuksoh9m0",
+        "id": "x1qoiu7bsjzv2w90orhpu3dhan6",
         "match_id": "5313005048271720528",
         "source_name": "Premium M3U",
         "match_title_from_api": "Lecce vs Bologna",
@@ -292,7 +292,7 @@
         "links": []
     },
     {
-        "id": "1g96276jdq6y8m43r1qot3s1awb",
+        "id": "thku0fk7i8sivbkxtkb3udlh9nm",
         "match_id": "431666706529112448",
         "source_name": "Premium M3U",
         "match_title_from_api": "Barcelona vs Real Sociedad",
@@ -309,13 +309,13 @@
         "date": "28-09-2025",
         "links": [
             "https://live-en.aisports.cc/moviebox/bsy_023/playlist.m3u8",
-            "http://play.sportsteam368.com/play/pao.php?id=43583391&id2=",
             "http://play.sportsteam368.com/play/kbs.html?id=958482170&id2=",
-            "http://play.sportsteam368.com/play/gm.php?id=958482170&id2=958482170"
+            "http://play.sportsteam368.com/play/gm.php?id=958482170&id2=958482170",
+            "http://play.sportsteam368.com/play/pao.php?id=43583391&id2="
         ]
     },
     {
-        "id": "blaz4pr2egexnsioumvv2yjx1uh",
+        "id": "d0fe2ist8f059lfqzr0cn5k49s6",
         "match_id": "1919309855921175000",
         "source_name": "Premium M3U",
         "match_title_from_api": "Union Berlin vs Hamburger SV",
@@ -332,13 +332,13 @@
         "date": "28-09-2025",
         "links": [
             "https://live-en.aisports.cc/moviebox/bsy_025/playlist.m3u8",
+            "http://play.sportsteam368.com/play/kbs.html?id=958482727&id2=",
             "http://play.sportsteam368.com/play/pao.php?id=43473991&id2=",
-            "http://play.sportsteam368.com/play/gm.php?id=958482727&id2=958482727",
-            "http://play.sportsteam368.com/play/kbs.html?id=958482727&id2="
+            "http://play.sportsteam368.com/play/gm.php?id=958482727&id2=958482727"
         ]
     },
     {
-        "id": "pk7qtf23k7pbnj01f3d6m8sr1g3",
+        "id": "qhhi33x8impghrqdu50dctfdmzk",
         "match_id": "2354140093089304656",
         "source_name": "Premium M3U",
         "match_title_from_api": "AC Milan vs Napoli",
@@ -361,7 +361,7 @@
         ]
     },
     {
-        "id": "o8lxq8i3178rrqt9elt35dj9lom",
+        "id": "zgaqqautb6e7w8yy05v6ajnk3uc",
         "match_id": "3386938526432481664",
         "source_name": "Premium M3U",
         "match_title_from_api": "Rennes vs Lens",
@@ -384,7 +384,7 @@
         ]
     },
     {
-        "id": "75eh8774hqo2lek4jfpiksf9ona",
+        "id": "0y0ix3v1rgolxmtv7hgwac8hzh0",
         "match_id": "2225788208083882368",
         "source_name": "Premium M3U",
         "match_title_from_api": "Real Betis vs Osasuna",
@@ -401,9 +401,9 @@
         "date": "28-09-2025",
         "links": [
             "https://live-en.aisports.cc/moviebox/bsy_010/playlist.m3u8",
-            "http://play.sportsteam368.com/play/kbs.html?id=958482124&id2=",
             "http://play.sportsteam368.com/play/gm.php?id=958482124&id2=958482124",
-            "http://play.sportsteam368.com/play/pao.php?id=43583401&id2="
+            "http://play.sportsteam368.com/play/pao.php?id=43583401&id2=",
+            "http://play.sportsteam368.com/play/kbs.html?id=958482124&id2="
         ]
     }
 ]
