@@ -1,6 +1,6 @@
 [
     {
-        "id": "bmxtd5ajuf5anfskr7pec1bteyl",
+        "id": "57hy0pi5akq1kqy8cequwgf42cy",
         "match_id": "4682501100439851088",
         "source_name": "Premium M3U",
         "match_title_from_api": "Parma vs Torino",
@@ -17,13 +17,13 @@
         "date": "29-09-2025",
         "links": [
             "https://live-en.aisports.cc/moviebox/bsy_022/playlist.m3u8",
-            "http://play.sportsteam368.com/play/kbs.html?id=958483045&id2=",
             "http://play.sportsteam368.com/play/gm.php?id=958483045&id2=958483045",
-            "http://play.sportsteam368.com/play/pao.php?id=43394971&id2="
+            "http://play.sportsteam368.com/play/pao.php?id=43394971&id2=",
+            "http://play.sportsteam368.com/play/kbs.html?id=958483045&id2="
         ]
     },
     {
-        "id": "t802l7lv46ipzrhwu18jegerhq7",
+        "id": "2rd8opbgzvhnpc6gxji333t0xhb",
         "match_id": "5574213826659206608",
         "source_name": "Premium M3U",
         "match_title_from_api": "Genoa vs Lazio",
@@ -46,7 +46,7 @@
         ]
     },
     {
-        "id": "xo0mem5j6sezqzvhw1v738hq1y2",
+        "id": "3svni1te8atanet2rje5c5r2eoh",
         "match_id": "7940219704814485712",
         "source_name": "Premium M3U",
         "match_title_from_api": "Aveley vs Halesowen",
@@ -64,7 +64,7 @@
         "links": []
     },
     {
-        "id": "x4xo9k0gujaq1l1ekg1rf9unrby",
+        "id": "i45v24sv8ty9rru864c91xtpkcu",
         "match_id": "8037939455715689568",
         "source_name": "Premium M3U",
         "match_title_from_api": "Everton vs West Ham United",
@@ -81,9 +81,9 @@
         "date": "29-09-2025",
         "links": [
             "https://live-en.aisports.cc/moviebox/bsy_019/playlist.m3u8",
-            "http://play.sportsteam368.com/play/kbs.html?id=958482450&id2=",
             "http://play.sportsteam368.com/play/gm.php?id=958482450&id2=958482450",
-            "http://play.sportsteam368.com/play/pao.php?id=43431981&id2="
+            "http://play.sportsteam368.com/play/pao.php?id=43431981&id2=",
+            "http://play.sportsteam368.com/play/kbs.html?id=958482450&id2="
         ]
     }
 ]
