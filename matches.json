@@ -1,409 +1,92 @@
 [
     {
-        "id": "49xmms82356gv1lyby5stct5mxc",
-        "match_id": "7406052975092158544",
+        "id": "34uoy41k88lsrij4ypejt1gg72q",
+        "match_id": "4682501100439851088",
         "source_name": "Premium M3U",
-        "match_title_from_api": "Sassuolo vs Udinese",
+        "match_title_from_api": "Parma vs Torino",
         "competition": "Serie A",
         "team1": {
-            "name": "Sassuolo",
-            "logo_url": "https://pacdn.aoneroom.com/image/2025/06/07/a6e618a38b1503a3c249dae163516af8.jpg"
+            "name": "Parma",
+            "logo_url": "https://pacdn.aoneroom.com/image/2025/04/08/c87669876cb999873c734bbafeaf3642.jpg"
         },
         "team2": {
-            "name": "Udinese",
-            "logo_url": "https://pacdn.aoneroom.com/image/2025/04/08/06b9c5425bfd06fa6df0ee7ae74e9598.jpg"
-        },
-        "time": "10:30",
-        "date": "28-09-2025",
-        "links": []
-    },
-    {
-        "id": "gtcgcakuf9zjfc9pwfb6cyu1n1q",
-        "match_id": "7810251746023294856",
-        "source_name": "Premium M3U",
-        "match_title_from_api": "Rayo Vallecano vs Sevilla",
-        "competition": "LaLiga",
-        "team1": {
-            "name": "Rayo Vallecano",
-            "logo_url": "https://pacdn.aoneroom.com/image/2025/04/08/fdab97f36e5ab15b9bf58f42eab77271.jpg"
-        },
-        "team2": {
-            "name": "Sevilla",
-            "logo_url": "https://pacdn.aoneroom.com/image/2025/04/08/5f8cdaa20efa4e9c33ae66823a28e873.jpg"
-        },
-        "time": "12:00",
-        "date": "28-09-2025",
-        "links": []
-    },
-    {
-        "id": "b434jx5qyzw8bvqsrqiyr3byyne",
-        "match_id": "6139672212780074080",
-        "source_name": "Premium M3U",
-        "match_title_from_api": "Aston Villa vs Fulham",
-        "competition": "Premier League",
-        "team1": {
-            "name": "Aston Villa",
-            "logo_url": "https://pacdn.aoneroom.com/image/2025/03/13/0cf890fdc1c1863b0d9f7f2d132f9c85.jpg"
-        },
-        "team2": {
-            "name": "Fulham",
-            "logo_url": "https://pacdn.aoneroom.com/image/2025/03/13/fb2106282b9366f1bf2ef81dfc62977d.jpg"
-        },
-        "time": "13:00",
-        "date": "28-09-2025",
-        "links": []
-    },
-    {
-        "id": "vwv9mwjv34c5pseadhg7xm3izpc",
-        "match_id": "3344932011109765200",
-        "source_name": "Premium M3U",
-        "match_title_from_api": "AS Roma vs Hellas Verona",
-        "competition": "Serie A",
-        "team1": {
-            "name": "AS Roma",
-            "logo_url": "https://pacdn.aoneroom.com/image/2025/04/08/0c0e9b42c84d430d985d4fb1d9cd853f.jpg"
-        },
-        "team2": {
-            "name": "Hellas Verona",
-            "logo_url": "https://pacdn.aoneroom.com/image/2025/04/08/bb10a751f09abfea3e43d45266cf5ebf.jpg"
-        },
-        "time": "13:00",
-        "date": "28-09-2025",
-        "links": []
-    },
-    {
-        "id": "o276wzkikvv0qui5q48edq8f2en",
-        "match_id": "5622627522652917840",
-        "source_name": "Premium M3U",
-        "match_title_from_api": "Pisa vs Fiorentina",
-        "competition": "Serie A",
-        "team1": {
-            "name": "Pisa",
-            "logo_url": "https://pacdn.aoneroom.com/image/2025/06/07/37cb8cb7e3f34262c9504c9f243e2afc.jpg"
-        },
-        "team2": {
-            "name": "Fiorentina",
-            "logo_url": "https://pacdn.aoneroom.com/image/2025/04/08/0b1a2aba997722da1239f25d04d9d088.jpg"
-        },
-        "time": "13:00",
-        "date": "28-09-2025",
-        "links": []
-    },
-    {
-        "id": "pn22m8t06ixj2n50iow9gz12gkd",
-        "match_id": "9025023047435188696",
-        "source_name": "Premium M3U",
-        "match_title_from_api": "Nice vs Paris FC",
-        "competition": "Ligue 1",
-        "team1": {
-            "name": "Nice",
-            "logo_url": "https://pacdn.aoneroom.com/image/2025/04/08/284a282acded0ba8ff39fc1807c95b0e.jpg"
-        },
-        "team2": {
-            "name": "Paris FC",
-            "logo_url": "https://pacdn.aoneroom.com/image/2025/04/08/6cfc86c3cacecb6ef7dd9dfa3855fccd.jpg"
-        },
-        "time": "13:00",
-        "date": "28-09-2025",
-        "links": []
-    },
-    {
-        "id": "3z9nxjatbceyhuu0yi1t2od25t3",
-        "match_id": "469150775907351000",
-        "source_name": "Premium M3U",
-        "match_title_from_api": "Freiburg vs Hoffenheim",
-        "competition": "Bundesliga",
-        "team1": {
-            "name": "Freiburg",
-            "logo_url": "https://pacdn.aoneroom.com/image/2025/04/08/36e8d5379682f408b584aef982492456.jpg"
-        },
-        "team2": {
-            "name": "Hoffenheim",
-            "logo_url": "https://pacdn.aoneroom.com/image/2025/04/08/4fd9da788dc76c50e8205eb78a7027f6.jpg"
-        },
-        "time": "13:30",
-        "date": "28-09-2025",
-        "links": []
-    },
-    {
-        "id": "qxjwqicxcn6cv88qfom0emo04en",
-        "match_id": "3964177664248893824",
-        "source_name": "Premium M3U",
-        "match_title_from_api": "Elche vs Celta Vigo",
-        "competition": "LaLiga",
-        "team1": {
-            "name": "Elche",
-            "logo_url": "https://pacdn.aoneroom.com/image/2025/07/02/f917dc33cbcd2dc4080c5d339b6013b1.jpg"
-        },
-        "team2": {
-            "name": "Celta Vigo",
-            "logo_url": "https://pacdn.aoneroom.com/image/2025/04/08/778923288c087aea490573c698ae961b.jpg"
-        },
-        "time": "14:15",
-        "date": "28-09-2025",
-        "links": []
-    },
-    {
-        "id": "20dmmkfjv3ver9itet0c9p2d7na",
-        "match_id": "890613767032160464",
-        "source_name": "Premium M3U",
-        "match_title_from_api": "India vs Pakistan",
-        "competition": "Asia Cup",
-        "team1": {
-            "name": "India",
-            "logo_url": "https://pacdn.aoneroom.com/image/2025/09/18/a94c2bbc54522e9f3e3116dc1bd0d497.png"
-        },
-        "team2": {
-            "name": "Pakistan",
-            "logo_url": "https://pacdn.aoneroom.com/image/2025/09/18/7e445efbcb4554f3b9a200cd23e315dc.png"
-        },
-        "time": "14:30",
-        "date": "28-09-2025",
-        "links": [
-            "https://live-en.aisports.cc/moviebox/device01/playlist.m3u8"
-        ]
-    },
-    {
-        "id": "5kg8q6310fcdyy37y87o8vcfwb0",
-        "match_id": "8835871863085627864",
-        "source_name": "Premium M3U",
-        "match_title_from_api": "Lille vs Lyon",
-        "competition": "Ligue 1",
-        "team1": {
-            "name": "Lille",
-            "logo_url": "https://pacdn.aoneroom.com/image/2025/03/13/0adb4f05bb290ea05274b87f5b7c125e.jpg"
-        },
-        "team2": {
-            "name": "Lyon",
-            "logo_url": "https://pacdn.aoneroom.com/image/2025/04/08/066724f7a61a584e611de62f7119ab21.jpg"
-        },
-        "time": "15:15",
-        "date": "28-09-2025",
-        "links": [
-            "https://live-en.aisports.cc/moviebox/bsy_004/playlist.m3u8",
-            "http://tv.cctv.com/live/cctv5/",
-            "https://www.yangshipin.cn/tv/home?pid=600001818",
-            "http://sports.cctv.com/H5/CCTV5/index.shtml"
-        ]
-    },
-    {
-        "id": "ly24udhrcvzy7bgcbduwd7vd3wg",
-        "match_id": "6349884868777114072",
-        "source_name": "Premium M3U",
-        "match_title_from_api": "Angers vs Brest",
-        "competition": "Ligue 1",
-        "team1": {
-            "name": "Angers",
-            "logo_url": "https://pacdn.aoneroom.com/image/2025/04/08/8771e74c472d62d095632b300455979d.jpg"
-        },
-        "team2": {
-            "name": "Brest",
-            "logo_url": "https://pacdn.aoneroom.com/image/2025/03/13/b1d7b22ec707d46123f38a24b2c9de83.jpg"
-        },
-        "time": "15:15",
-        "date": "28-09-2025",
-        "links": [
-            "https://live-en.aisports.cc/moviebox/bsy_013/playlist.m3u8",
-            "http://play.sportsteam368.com/play/kbs.html?id=958482846&id2=",
-            "http://play.sportsteam368.com/play/pao.php?id=43477151&id2=",
-            "http://play.sportsteam368.com/play/gm.php?id=958482846&id2=958482846"
-        ]
-    },
-    {
-        "id": "aq6u0d19ull6xqif3939x96q102",
-        "match_id": "2728990768371235288",
-        "source_name": "Premium M3U",
-        "match_title_from_api": "Metz vs Le Havre",
-        "competition": "Ligue 1",
-        "team1": {
-            "name": "Metz",
-            "logo_url": "https://pacdn.aoneroom.com/image/2025/04/08/90277626fdd0652ba163397c2b0f0fdd.jpg"
-        },
-        "team2": {
-            "name": "Le Havre",
-            "logo_url": "https://pacdn.aoneroom.com/image/2025/04/08/287185293c19c0cceb607d43b0541c1e.jpg"
-        },
-        "time": "15:15",
-        "date": "28-09-2025",
-        "links": [
-            "https://live-en.aisports.cc/moviebox/bsy_021/playlist.m3u8",
-            "http://play.sportsteam368.com/play/pao.php?id=43477181&id2=",
-            "http://play.sportsteam368.com/play/gm.php?id=958482884&id2=958482884",
-            "http://play.sportsteam368.com/play/kbs.html?id=958482884&id2="
-        ]
-    },
-    {
-        "id": "6l6dollmrpahokj8th5myh4qd4i",
-        "match_id": "8623407407274901792",
-        "source_name": "Premium M3U",
-        "match_title_from_api": "Newcastle United vs Arsenal",
-        "competition": "Premier League",
-        "team1": {
-            "name": "Newcastle United",
-            "logo_url": "https://pacdn.aoneroom.com/image/2025/03/13/720bfed17787c60885d68d44bfbacc9d.jpg"
-        },
-        "team2": {
-            "name": "Arsenal",
-            "logo_url": "https://pacdn.aoneroom.com/image/2025/03/13/4c5c946162d3b811beedf4203d9c0ca7.jpg"
-        },
-        "time": "15:30",
-        "date": "28-09-2025",
-        "links": [
-            "https://live-en.aisports.cc/moviebox/device02/playlist.m3u8",
-            "http://play.sportsteam368.com/play/gm.php?id=958482179&id2=958482179",
-            "http://play.sportsteam368.com/play/pao.php?id=43432041&id2=",
-            "http://play.sportsteam368.com/play/kbs.html?id=958482179&id2="
-        ]
-    },
-    {
-        "id": "pmlf1hsopezmvufe0lrl9pln6ff",
-        "match_id": "8754085240409323992",
-        "source_name": "Premium M3U",
-        "match_title_from_api": "FC Cologne vs VfB Stuttgart",
-        "competition": "Bundesliga",
-        "team1": {
-            "name": "FC Cologne",
-            "logo_url": "https://pacdn.aoneroom.com/image/2025/06/27/a26abd6129cd4764a3eb51c74ecf07a0.jpg"
-        },
-        "team2": {
-            "name": "VfB Stuttgart",
-            "logo_url": "https://pacdn.aoneroom.com/image/2025/03/13/ae0d82f54a0d4e357afdd2df860c0a19.jpg"
-        },
-        "time": "15:30",
-        "date": "28-09-2025",
-        "links": []
-    },
-    {
-        "id": "x1qoiu7bsjzv2w90orhpu3dhan6",
-        "match_id": "5313005048271720528",
-        "source_name": "Premium M3U",
-        "match_title_from_api": "Lecce vs Bologna",
-        "competition": "Serie A",
-        "team1": {
-            "name": "Lecce",
-            "logo_url": "https://pacdn.aoneroom.com/image/2025/04/08/31ff2dc58a0e2e7bc50c67ddf265ddc8.jpg"
-        },
-        "team2": {
-            "name": "Bologna",
-            "logo_url": "https://pacdn.aoneroom.com/image/2025/03/13/791d0f0548682c3de6cd2e1500c069d5.jpg"
-        },
-        "time": "16:00",
-        "date": "28-09-2025",
-        "links": []
-    },
-    {
-        "id": "thku0fk7i8sivbkxtkb3udlh9nm",
-        "match_id": "431666706529112448",
-        "source_name": "Premium M3U",
-        "match_title_from_api": "Barcelona vs Real Sociedad",
-        "competition": "LaLiga",
-        "team1": {
-            "name": "Barcelona",
-            "logo_url": "https://pacdn.aoneroom.com/image/2025/03/13/147e4df7a97170646e9ec11e7f441d08.jpg"
-        },
-        "team2": {
-            "name": "Real Sociedad",
-            "logo_url": "https://pacdn.aoneroom.com/image/2025/04/08/e729d99bc13e75f4af3411add7f50cff.jpg"
+            "name": "Torino",
+            "logo_url": "https://pacdn.aoneroom.com/image/2025/04/08/64e863048505b9b1cf67000624013932.jpg"
         },
         "time": "16:30",
-        "date": "28-09-2025",
-        "links": [
-            "https://live-en.aisports.cc/moviebox/bsy_023/playlist.m3u8",
-            "http://play.sportsteam368.com/play/kbs.html?id=958482170&id2=",
-            "http://play.sportsteam368.com/play/gm.php?id=958482170&id2=958482170",
-            "http://play.sportsteam368.com/play/pao.php?id=43583391&id2="
-        ]
+        "date": "29-09-2025",
+        "links": []
     },
     {
-        "id": "d0fe2ist8f059lfqzr0cn5k49s6",
-        "match_id": "1919309855921175000",
+        "id": "f8kyj7tnzq739ssvggh86clmu5h",
+        "match_id": "5574213826659206608",
         "source_name": "Premium M3U",
-        "match_title_from_api": "Union Berlin vs Hamburger SV",
-        "competition": "Bundesliga",
-        "team1": {
-            "name": "Union Berlin",
-            "logo_url": "https://pacdn.aoneroom.com/image/2025/04/08/02d39eec754946e781a2ac2d0eb2941e.jpg"
-        },
-        "team2": {
-            "name": "Hamburger SV",
-            "logo_url": "https://pacdn.aoneroom.com/image/2025/06/27/451a44721388d42e34dc3d1598561f71.jpg"
-        },
-        "time": "17:30",
-        "date": "28-09-2025",
-        "links": [
-            "https://live-en.aisports.cc/moviebox/bsy_025/playlist.m3u8",
-            "http://play.sportsteam368.com/play/kbs.html?id=958482727&id2=",
-            "http://play.sportsteam368.com/play/pao.php?id=43473991&id2=",
-            "http://play.sportsteam368.com/play/gm.php?id=958482727&id2=958482727"
-        ]
-    },
-    {
-        "id": "qhhi33x8impghrqdu50dctfdmzk",
-        "match_id": "2354140093089304656",
-        "source_name": "Premium M3U",
-        "match_title_from_api": "AC Milan vs Napoli",
+        "match_title_from_api": "Genoa vs Lazio",
         "competition": "Serie A",
         "team1": {
-            "name": "AC Milan",
-            "logo_url": "https://pacdn.aoneroom.com/image/2025/03/13/db85d98653a5a8ea1c5393a075af07e0.jpg"
+            "name": "Genoa",
+            "logo_url": "https://pacdn.aoneroom.com/image/2025/04/08/4c78cb0bd2f309ecd859eb0507212ec2.jpg"
         },
         "team2": {
-            "name": "Napoli",
-            "logo_url": "https://pacdn.aoneroom.com/image/2025/04/08/3f8941543102963ee5652528779d5ccc.jpg"
+            "name": "Lazio",
+            "logo_url": "https://pacdn.aoneroom.com/image/2025/04/08/f68155b786a908a3b1d44512702d38f4.jpg"
         },
         "time": "18:45",
-        "date": "28-09-2025",
-        "links": [
-            "https://live-en.aisports.cc/moviebox/bsy_015/playlist.m3u8",
-            "http://play.sportsteam368.com/play/pao.php?id=43394901&id2=",
-            "http://play.sportsteam368.com/play/kbs.html?id=958482895&id2=",
-            "http://play.sportsteam368.com/play/gm.php?id=958482895&id2=958482895"
-        ]
+        "date": "29-09-2025",
+        "links": []
     },
     {
-        "id": "zgaqqautb6e7w8yy05v6ajnk3uc",
-        "match_id": "3386938526432481664",
+        "id": "rullnew7mao1vog33grfxa6wuae",
+        "match_id": "7940219704814485712",
         "source_name": "Premium M3U",
-        "match_title_from_api": "Rennes vs Lens",
-        "competition": "Ligue 1",
+        "match_title_from_api": "Aveley vs Halesowen",
+        "competition": "FA Cup",
         "team1": {
-            "name": "Rennes",
-            "logo_url": "https://pacdn.aoneroom.com/image/2025/04/08/6f88cde522f363ff4d50cdbffd3bb9f5.jpg"
+            "name": "Aveley",
+            "logo_url": "https://pacdn.aoneroom.com/image/2025/08/23/78d76262eff9b1794a6cfb1bee25c1b5.jpg"
         },
         "team2": {
-            "name": "Lens",
-            "logo_url": "https://pacdn.aoneroom.com/image/2025/04/08/4dac691b7806f24483bb32b8891126b4.jpg"
+            "name": "Halesowen",
+            "logo_url": "https://pacdn.aoneroom.com/image/2025/08/27/dbf9884ea34bbcd004c579025ab0f179.jpg"
         },
         "time": "18:45",
-        "date": "28-09-2025",
-        "links": [
-            "https://live-en.aisports.cc/moviebox/bsy_013/playlist.m3u8",
-            "http://play.sportsteam368.com/play/kbs.html?id=958483011&id2=",
-            "http://play.sportsteam368.com/play/gm.php?id=958483011&id2=958483011",
-            "http://play.sportsteam368.com/play/pao.php?id=43477211&id2="
-        ]
+        "date": "29-09-2025",
+        "links": []
     },
     {
-        "id": "0y0ix3v1rgolxmtv7hgwac8hzh0",
-        "match_id": "2225788208083882368",
+        "id": "8yim1tbj6tg18e7f40xglfhcud5",
+        "match_id": "8037939455715689568",
         "source_name": "Premium M3U",
-        "match_title_from_api": "Real Betis vs Osasuna",
-        "competition": "LaLiga",
+        "match_title_from_api": "Everton vs West Ham United",
+        "competition": "Premier League",
         "team1": {
-            "name": "Real Betis",
-            "logo_url": "https://pacdn.aoneroom.com/image/2025/04/08/c226139c81d36c7858f2985730b5c460.jpg"
+            "name": "Everton",
+            "logo_url": "https://pacdn.aoneroom.com/image/2025/03/13/e941d9a061f6cfbb8cb0fa2da2d2205b.jpg"
         },
         "team2": {
-            "name": "Osasuna",
-            "logo_url": "https://pacdn.aoneroom.com/image/2025/04/08/450356f45727cb28e5265c9c53bc2991.jpg"
+            "name": "West Ham United",
+            "logo_url": "https://pacdn.aoneroom.com/image/2025/03/13/88ccbcd25b9f2b9a290ea522b78d0409.jpg"
         },
         "time": "19:00",
-        "date": "28-09-2025",
-        "links": [
-            "https://live-en.aisports.cc/moviebox/bsy_010/playlist.m3u8",
-            "http://play.sportsteam368.com/play/gm.php?id=958482124&id2=958482124",
-            "http://play.sportsteam368.com/play/pao.php?id=43583401&id2=",
-            "http://play.sportsteam368.com/play/kbs.html?id=958482124&id2="
-        ]
+        "date": "29-09-2025",
+        "links": []
+    },
+    {
+        "id": "1dufuxexpon430k1ylvi22cm1d0",
+        "match_id": "1518723066585665920",
+        "source_name": "Premium M3U",
+        "match_title_from_api": "Valencia vs Real Oviedo",
+        "competition": "LaLiga",
+        "team1": {
+            "name": "Valencia",
+            "logo_url": "https://pacdn.aoneroom.com/image/2025/04/08/6504dede51cadc1e76b239c3ba2e8d7d.jpg"
+        },
+        "team2": {
+            "name": "Real Oviedo",
+            "logo_url": "https://pacdn.aoneroom.com/image/2025/07/02/ced4b8632654b3a438945c7389db2ec6.jpg"
+        },
+        "time": "19:00",
+        "date": "29-09-2025",
+        "links": []
     }
 ]
