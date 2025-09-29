@@ -1,6 +1,6 @@
 [
     {
-        "id": "05cgs46j2ennjfi12z6imvkoprf",
+        "id": "lpsr9z5lj374wua9pahh5ba4k5o",
         "match_id": "4682501100439851088",
         "source_name": "Premium M3U",
         "match_title_from_api": "Parma vs Torino",
@@ -23,7 +23,7 @@
         ]
     },
     {
-        "id": "5kjg0kvokl7vo4sx86syhonoofk",
+        "id": "x1hlo9hnpal0pw93f4mie34xmi4",
         "match_id": "5574213826659206608",
         "source_name": "Premium M3U",
         "match_title_from_api": "Genoa vs Lazio",
@@ -40,13 +40,13 @@
         "date": "29-09-2025",
         "links": [
             "https://live-en.aisports.cc/moviebox/bsy_010/playlist.m3u8",
+            "http://play.sportsteam368.com/play/kbs.html?id=958483073&id2=",
             "http://play.sportsteam368.com/play/gm.php?id=958483073&id2=958483073",
-            "http://play.sportsteam368.com/play/pao.php?id=43394941&id2=",
-            "http://play.sportsteam368.com/play/kbs.html?id=958483073&id2="
+            "http://play.sportsteam368.com/play/pao.php?id=43394941&id2="
         ]
     },
     {
-        "id": "dl4kawj5olfi57ncu1q25x9zu4u",
+        "id": "h6k4rv95o04x5dv00ylsf9cu5m5",
         "match_id": "7940219704814485712",
         "source_name": "Premium M3U",
         "match_title_from_api": "Aveley vs Halesowen",
@@ -64,7 +64,7 @@
         "links": []
     },
     {
-        "id": "5qptsv1yewggvri3135a590a1zu",
+        "id": "51e8fyes51o8vwnpu79rpmno3hq",
         "match_id": "8037939455715689568",
         "source_name": "Premium M3U",
         "match_title_from_api": "Everton vs West Ham United",
@@ -81,9 +81,9 @@
         "date": "29-09-2025",
         "links": [
             "https://live-en.aisports.cc/moviebox/bsy_019/playlist.m3u8",
-            "http://play.sportsteam368.com/play/gm.php?id=958482450&id2=958482450",
             "http://play.sportsteam368.com/play/pao.php?id=43431981&id2=",
-            "http://play.sportsteam368.com/play/kbs.html?id=958482450&id2="
+            "http://play.sportsteam368.com/play/kbs.html?id=958482450&id2=",
+            "http://play.sportsteam368.com/play/gm.php?id=958482450&id2=958482450"
         ]
     }
 ]
