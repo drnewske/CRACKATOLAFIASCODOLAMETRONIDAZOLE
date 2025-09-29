@@ -1,6 +1,6 @@
 [
     {
-        "id": "m1wlzownx0ojaax43krjgoc4tu1",
+        "id": "f9q9fu5vtn9hm90sc56i5zkrz1c",
         "match_id": "4682501100439851088",
         "source_name": "Premium M3U",
         "match_title_from_api": "Parma vs Torino",
@@ -17,13 +17,13 @@
         "date": "29-09-2025",
         "links": [
             "https://live-en.aisports.cc/moviebox/bsy_022/playlist.m3u8",
-            "http://play.sportsteam368.com/play/gm.php?id=958483045&id2=958483045",
             "http://play.sportsteam368.com/play/pao.php?id=43394971&id2=",
-            "http://play.sportsteam368.com/play/kbs.html?id=958483045&id2="
+            "http://play.sportsteam368.com/play/kbs.html?id=958483045&id2=",
+            "http://play.sportsteam368.com/play/gm.php?id=958483045&id2=958483045"
         ]
     },
     {
-        "id": "7urbayd51e8qawbjhpuyr0p0ls1",
+        "id": "0jmsw7hu0fd02e5h3qc0blx86v7",
         "match_id": "5574213826659206608",
         "source_name": "Premium M3U",
         "match_title_from_api": "Genoa vs Lazio",
@@ -41,7 +41,7 @@
         "links": []
     },
     {
-        "id": "gwas0nydpke5nr0usdsqqjr3rhd",
+        "id": "zcanvv2j57qi4ili8l0hdpgf7ow",
         "match_id": "7940219704814485712",
         "source_name": "Premium M3U",
         "match_title_from_api": "Aveley vs Halesowen",
@@ -59,7 +59,7 @@
         "links": []
     },
     {
-        "id": "7be116nm4wbbxqmn2kdg8d0pv5s",
+        "id": "5adh3cgwq3ez3b45x526rjfs3wd",
         "match_id": "8037939455715689568",
         "source_name": "Premium M3U",
         "match_title_from_api": "Everton vs West Ham United",
