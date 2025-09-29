@@ -1,6 +1,6 @@
 [
     {
-        "id": "mm1ypmu837vr6n9x7wlrbuy2vq5",
+        "id": "k5o79bpcfgegtchqbo4jdmij8rr",
         "match_id": "4682501100439851088",
         "source_name": "Premium M3U",
         "match_title_from_api": "Parma vs Torino",
@@ -18,7 +18,7 @@
         "links": []
     },
     {
-        "id": "eyh7hr0vi9ensk24tqydbgnrrma",
+        "id": "r7jyyyddkqiheq324tjgdeo50o4",
         "match_id": "5574213826659206608",
         "source_name": "Premium M3U",
         "match_title_from_api": "Genoa vs Lazio",
@@ -36,7 +36,7 @@
         "links": []
     },
     {
-        "id": "4q3epwxrqtd7oni0ygvaz37fytr",
+        "id": "ajhbtadog8g8faqcadixs9wddt5",
         "match_id": "7940219704814485712",
         "source_name": "Premium M3U",
         "match_title_from_api": "Aveley vs Halesowen",
@@ -54,7 +54,7 @@
         "links": []
     },
     {
-        "id": "qfqrzvyw6wbnillz89ousmcbvfi",
+        "id": "v7ayeq4d3gh0qy1ll91f7d5i09v",
         "match_id": "8037939455715689568",
         "source_name": "Premium M3U",
         "match_title_from_api": "Everton vs West Ham United",
@@ -66,24 +66,6 @@
         "team2": {
             "name": "West Ham United",
             "logo_url": "https://pacdn.aoneroom.com/image/2025/03/13/88ccbcd25b9f2b9a290ea522b78d0409.jpg"
-        },
-        "time": "19:00",
-        "date": "29-09-2025",
-        "links": []
-    },
-    {
-        "id": "1w8vuyg96qnsmv754ijurbg8dir",
-        "match_id": "1518723066585665920",
-        "source_name": "Premium M3U",
-        "match_title_from_api": "Valencia vs Real Oviedo",
-        "competition": "LaLiga",
-        "team1": {
-            "name": "Valencia",
-            "logo_url": "https://pacdn.aoneroom.com/image/2025/04/08/6504dede51cadc1e76b239c3ba2e8d7d.jpg"
-        },
-        "team2": {
-            "name": "Real Oviedo",
-            "logo_url": "https://pacdn.aoneroom.com/image/2025/07/02/ced4b8632654b3a438945c7389db2ec6.jpg"
         },
         "time": "19:00",
         "date": "29-09-2025",
