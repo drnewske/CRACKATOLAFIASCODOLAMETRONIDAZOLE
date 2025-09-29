@@ -1,6 +1,6 @@
 [
     {
-        "id": "yzxtauckqggtq0040jqbrflvrcb",
+        "id": "03xzgtw0aulpvsrprickzntzxuu",
         "match_id": "4682501100439851088",
         "source_name": "Premium M3U",
         "match_title_from_api": "Parma vs Torino",
@@ -23,7 +23,7 @@
         ]
     },
     {
-        "id": "6r59r5k584fe3acb7vdnbjsg2qc",
+        "id": "5ygeecoqu3laq3phn03tqa6dfsw",
         "match_id": "5574213826659206608",
         "source_name": "Premium M3U",
         "match_title_from_api": "Genoa vs Lazio",
@@ -40,13 +40,13 @@
         "date": "29-09-2025",
         "links": [
             "https://live-en.aisports.cc/moviebox/bsy_010/playlist.m3u8",
+            "http://play.sportsteam368.com/play/kbs.html?id=958483073&id2=",
             "http://play.sportsteam368.com/play/gm.php?id=958483073&id2=958483073",
-            "http://play.sportsteam368.com/play/pao.php?id=43394941&id2=",
-            "http://play.sportsteam368.com/play/kbs.html?id=958483073&id2="
+            "http://play.sportsteam368.com/play/pao.php?id=43394941&id2="
         ]
     },
     {
-        "id": "7v4mz0owoy50jz5f2x9nqn0zub9",
+        "id": "eecgl12qdpqeqcv34xrexdlm23b",
         "match_id": "7940219704814485712",
         "source_name": "Premium M3U",
         "match_title_from_api": "Aveley vs Halesowen",
@@ -64,7 +64,7 @@
         "links": []
     },
     {
-        "id": "w41vmnyqbfhck6al0lbej7imtus",
+        "id": "s5779frrcdwn0yr1wxhrq3mnbok",
         "match_id": "8037939455715689568",
         "source_name": "Premium M3U",
         "match_title_from_api": "Everton vs West Ham United",
@@ -79,6 +79,11 @@
         },
         "time": "19:00",
         "date": "29-09-2025",
-        "links": []
+        "links": [
+            "https://live-en.aisports.cc/moviebox/bsy_019/playlist.m3u8",
+            "http://play.sportsteam368.com/play/gm.php?id=958482450&id2=958482450",
+            "http://play.sportsteam368.com/play/pao.php?id=43431981&id2=",
+            "http://play.sportsteam368.com/play/kbs.html?id=958482450&id2="
+        ]
     }
 ]
