@@ -1,6 +1,6 @@
 [
     {
-        "id": "wdsyejide840zcynktxgk46g16w",
+        "id": "1teqniobgkrp6c3pmhw8280zp1q",
         "match_id": "4099793704751352248",
         "source_name": "Premium M3U",
         "match_title_from_api": "Kairat Almaty vs Real Madrid",
@@ -18,7 +18,7 @@
         "links": []
     },
     {
-        "id": "zj8ctxjhhssm6ddlkxwufd76ok8",
+        "id": "wa7lsyfzfsuyh94nd3ukiveiitn",
         "match_id": "6650238468726606264",
         "source_name": "Premium M3U",
         "match_title_from_api": "Atalanta vs Club Brugge",
@@ -36,7 +36,7 @@
         "links": []
     },
     {
-        "id": "iz21q03ztwfs2yt2yq56axmvxic",
+        "id": "eadgm3umdv9x0tsmgdk24zn696s",
         "match_id": "1518723066585665920",
         "source_name": "Premium M3U",
         "match_title_from_api": "Valencia vs Real Oviedo",
@@ -54,7 +54,7 @@
         "links": []
     },
     {
-        "id": "vpqv6u6xtudio9bm6czg186pyzn",
+        "id": "73jc063me25s3r5pcbbgalwiicu",
         "match_id": "7226399163877310672",
         "source_name": "Premium M3U",
         "match_title_from_api": "Billericay vs Hednesford",
@@ -72,7 +72,7 @@
         "links": []
     },
     {
-        "id": "zgu1e2vzi62d82cvr9jfttauoir",
+        "id": "1olaaum6kgm1ihon1iqmxax788y",
         "match_id": "6460787227224326352",
         "source_name": "Premium M3U",
         "match_title_from_api": "Hereford FC vs Hemel Hempstead",
@@ -90,7 +90,7 @@
         "links": []
     },
     {
-        "id": "sgmiwp15i6vawxpv3w4joo5fto4",
+        "id": "3c0x7pnh09351y4ncpbm9a7lnkw",
         "match_id": "633129309406904528",
         "source_name": "Premium M3U",
         "match_title_from_api": "Bracknell Town vs Flackwell Heath",
@@ -108,7 +108,7 @@
         "links": []
     },
     {
-        "id": "zeomcuowdv6dn52vrejzyykam8d",
+        "id": "rwnos664jzca7fp6f78g82k1bic",
         "match_id": "4019836229188468944",
         "source_name": "Premium M3U",
         "match_title_from_api": "Darlington vs AFC Fylde",
@@ -126,7 +126,7 @@
         "links": []
     },
     {
-        "id": "r4eugf26z37dmlcj1jtfw1u1884",
+        "id": "pql9kvefs628hnp4v75pz6xgzkf",
         "match_id": "3776641849311510736",
         "source_name": "Premium M3U",
         "match_title_from_api": "Tonbridge Angels vs Cray Valley Paper Mills",
@@ -144,7 +144,7 @@
         "links": []
     },
     {
-        "id": "96vgz8u6hqutl533knwwf94bv50",
+        "id": "emxgq885eul8acrvgwqmv80i3e0",
         "match_id": "3686569856764100816",
         "source_name": "Premium M3U",
         "match_title_from_api": "Dorking Wanderers vs Salisbury FC",
@@ -162,7 +162,7 @@
         "links": []
     },
     {
-        "id": "h4v863dich986hk691mg7y0lywi",
+        "id": "a9nw0472axsq5g0khcfn0rkaoxc",
         "match_id": "1335690851276701904",
         "source_name": "Premium M3U",
         "match_title_from_api": "Ashton United vs Runcorn Linnets",
@@ -180,7 +180,7 @@
         "links": []
     },
     {
-        "id": "nxfr82padtlokaqhan8mpl34fcx",
+        "id": "1g832ajdfitxu9vm1qh9cp1jp5b",
         "match_id": "118048684202412472",
         "source_name": "Premium M3U",
         "match_title_from_api": "Pafos FC vs Bayern Munich",
@@ -195,10 +195,13 @@
         },
         "time": "19:00",
         "date": "30-09-2025",
-        "links": []
+        "links": [
+            "https://live-en.aisports.cc/moviebox/bsy_007/playlist.m3u8",
+            "http://play.88player.top/m3u8.html?url=https%3A%2F%2Fplay.livewithhy.com%2Flive%2Fhd-zh-6MvXMfc49g59hWqe8m.m3u8%3FtxSecret%3D16d9c9dd8ee55b546d37a9c8a86e8f02%26txTime%3D68DD30DB"
+        ]
     },
     {
-        "id": "3bl23i7oev07nmxmangvulyb50x",
+        "id": "7rqjolp38gbn4rt38a6kmwrfk7x",
         "match_id": "1592414612212828600",
         "source_name": "Premium M3U",
         "match_title_from_api": "Galatasaray vs Liverpool",
@@ -214,11 +217,14 @@
         "time": "19:00",
         "date": "30-09-2025",
         "links": [
-            "https://live-en.aisports.cc/moviebox/football001/playlist.m3u8"
+            "https://live-en.aisports.cc/moviebox/football001/playlist.m3u8",
+            "http://play.sportsteam368.com/play/wlive.php?id=323944f0a5bdad4533f70186b5248331&id2=",
+            "http://play.sportsteam368.com/play/wlive.php?id=d8401b9282fbbda6179dacd0c21b0ff1&id2=",
+            "http://play.sportsteam368.com/play/pao.php?id=44153561&id2="
         ]
     },
     {
-        "id": "xnjtqalyat053wb83hzd9kq53hb",
+        "id": "t6nmo8vg14ppybj93p0grr5danj",
         "match_id": "802032877609403656",
         "source_name": "Premium M3U",
         "match_title_from_api": "Chelsea vs Benfica",
@@ -234,11 +240,14 @@
         "time": "19:00",
         "date": "30-09-2025",
         "links": [
-            "https://live-en.aisports.cc/moviebox/device02/playlist.m3u8"
+            "https://live-en.aisports.cc/moviebox/device02/playlist.m3u8",
+            "http://play.sportsteam368.com/play/wlive.php?id=8b977a8eb300dec0a32080a1ddc1c81f&id2=",
+            "http://play.sportsteam368.com/play/pao.php?id=44153361&id2=",
+            "http://play.sportsteam368.com/play/wlive.php?id=f5b1f4b7d2929d302fffa131ab2a1a0e&id2="
         ]
     },
     {
-        "id": "eb910aziaoxekjvd80t9eeq8bui",
+        "id": "h7tpfdwgcjeg91yk1flkuxg5zqr",
         "match_id": "619918567677512120",
         "source_name": "Premium M3U",
         "match_title_from_api": "Atletico Madrid vs Eintracht Frankfurt",
@@ -256,7 +265,7 @@
         "links": []
     },
     {
-        "id": "z221haj63hcouq1nd0d95g9zkvx",
+        "id": "d71dwyls5o99pmnqtooaxevg1qn",
         "match_id": "5798776664176968968",
         "source_name": "Premium M3U",
         "match_title_from_api": "Inter vs Slavia Prague",
@@ -271,10 +280,15 @@
         },
         "time": "19:00",
         "date": "30-09-2025",
-        "links": []
+        "links": [
+            "https://live-en.aisports.cc/moviebox/bsy_011/playlist.m3u8",
+            "http://play.sportsteam368.com/play/wlive.php?id=e51652cc7356ebad904bd863a7730023&id2=",
+            "http://play.sportsteam368.com/play/wlive.php?id=5f17fed4e9a297013fbd001449e3aeef&id2=",
+            "http://play.sportsteam368.com/play/pao.php?id=44153611&id2="
+        ]
     },
     {
-        "id": "jqa98q2spjrlma5y85jk13fp8oj",
+        "id": "n3gl642hkv7wdm04livh6tgfecn",
         "match_id": "233734899630589192",
         "source_name": "Premium M3U",
         "match_title_from_api": "Bodoe/Glimt vs Tottenham Hotspur",
@@ -289,6 +303,11 @@
         },
         "time": "19:00",
         "date": "30-09-2025",
-        "links": []
+        "links": [
+            "https://live-en.aisports.cc/moviebox/bsy_010/playlist.m3u8",
+            "http://play.sportsteam368.com/play/wlive.php?id=9bdd05274eb9f77aa3a17ec29d78bf6c&id2=",
+            "http://play.sportsteam368.com/play/pao.php?id=44153331&id2=",
+            "http://play.sportsteam368.com/play/wen.php?id=6e89fcc16cc3907d0f3cbcda454b2c40&id2="
+        ]
     }
 ]
