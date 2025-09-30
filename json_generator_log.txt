@@ -16683,3 +16683,13 @@
 [2025-09-30 22:01:17 UTC] Found 0 matches for Basketball.
 [2025-09-30 22:01:17 UTC] Generated matches.json with 16 matches.
 [2025-09-30 22:01:17 UTC] --- JSON Generator Workflow Finished ---
+[2025-09-30 22:24:50 UTC] --- JSON Generator Workflow Started ---
+[2025-09-30 22:24:50 UTC] Scanning for matches in the 24-hour window ending on 2025-09-30 at 21:00 UTC.
+[2025-09-30 22:24:50 UTC] Fetching Football matches...
+[2025-09-30 22:24:51 UTC] Found 16 matches for Football. Processing...
+[2025-09-30 22:24:59 UTC] Fetching Cricket matches...
+[2025-09-30 22:24:59 UTC] Found 0 matches for Cricket.
+[2025-09-30 22:24:59 UTC] Fetching Basketball matches...
+[2025-09-30 22:25:00 UTC] Found 0 matches for Basketball.
+[2025-09-30 22:25:00 UTC] Generated matches.json with 16 matches.
+[2025-09-30 22:25:00 UTC] --- JSON Generator Workflow Finished ---
