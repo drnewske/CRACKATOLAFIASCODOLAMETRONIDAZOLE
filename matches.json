@@ -1,6 +1,6 @@
 [
     {
-        "id": "qatu41k0kw0nlxq9yg8edi4j5dy",
+        "id": "san1ai4h2s939dz4t503wdk9zcv",
         "match_id": "5559522933971862792",
         "source_name": "Premium M3U",
         "match_title_from_api": "Union St.Gilloise vs Newcastle United",
@@ -15,10 +15,15 @@
         },
         "time": "16:45",
         "date": "01-10-2025",
-        "links": []
+        "links": [
+            "https://live-en.aisports.cc/moviebox/bsy_024/playlist.m3u8",
+            "http://play.sportsteam368.com/play/wlive.php?id=f97d4facba7ac22ebd5d4f7fd8dcf25d&id2=",
+            "http://play.sportsteam368.com/play/wen.php?id=4ce9d7b27b88aa1a39bf716d8289704e&id2=",
+            "http://play.sportsteam368.com/play/pao.php?id=44154241&id2="
+        ]
     },
     {
-        "id": "b2ho045ot629let2vydxhr0nd76",
+        "id": "63qkp6f8w8lljayjrstkd6qcqb9",
         "match_id": "2374352097515128072",
         "source_name": "Premium M3U",
         "match_title_from_api": "Qarabag FK vs FC Copenhagen",
@@ -36,7 +41,7 @@
         "links": []
     },
     {
-        "id": "2es13aoz8hb30e5pzp4t9femrmu",
+        "id": "pnadh9cw8tkrdx8c1imu1nd7cx4",
         "match_id": "5775414241109887416",
         "source_name": "Premium M3U",
         "match_title_from_api": "Barcelona vs Paris Saint-Germain",
@@ -56,7 +61,7 @@
         ]
     },
     {
-        "id": "13yv81sqmuisv7qipwo5myfwnya",
+        "id": "322616moh5q8la6oe9a1elhmq3t",
         "match_id": "338443590966856120",
         "source_name": "Premium M3U",
         "match_title_from_api": "AS Monaco vs Manchester City",
@@ -76,7 +81,7 @@
         ]
     },
     {
-        "id": "39zxhozsg650y16wouwxwintlgh",
+        "id": "s3gdws2bomfbp3k28tockj30m1j",
         "match_id": "1686427254434284808",
         "source_name": "Premium M3U",
         "match_title_from_api": "Villarreal vs Juventus",
@@ -94,7 +99,7 @@
         "links": []
     },
     {
-        "id": "u6urst625tpbytv3nzb69x18w1i",
+        "id": "t3k8qvijl9akoro32eunekhz0j2",
         "match_id": "4902841813306329528",
         "source_name": "Premium M3U",
         "match_title_from_api": "Arsenal vs Olympiacos",
@@ -114,7 +119,7 @@
         ]
     },
     {
-        "id": "49x7lhen5obsgu1lgwy4higpz1m",
+        "id": "9jpz6aya793xb43qmvql3pk2zjy",
         "match_id": "323806892177902008",
         "source_name": "Premium M3U",
         "match_title_from_api": "Borussia Dortmund vs Athletic Club",
@@ -132,7 +137,7 @@
         "links": []
     },
     {
-        "id": "zbzzctxvow3vhy24mw5taaoofis",
+        "id": "2mdf1uwzqwtq2zb4orujlsa3ky7",
         "match_id": "5975542949551163832",
         "source_name": "Premium M3U",
         "match_title_from_api": "Napoli vs Sporting CP",
@@ -150,7 +155,7 @@
         "links": []
     },
     {
-        "id": "afsxh1znuff7yi21mdlpfw9db6l",
+        "id": "s98wr1m4wt1ut7igo0zk2hpjpce",
         "match_id": "5036823902221126072",
         "source_name": "Premium M3U",
         "match_title_from_api": "Bayer Leverkusen vs PSV Eindhoven",
