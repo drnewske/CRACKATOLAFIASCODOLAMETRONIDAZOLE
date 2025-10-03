@@ -1,24 +1,24 @@
 [
     {
-        "id": "11o575na2fefclzaubu88d1yisw",
+        "id": "negun8kxpcx6rd7kjmmgxbfo1tg",
         "match_id": "8630255953818566864",
         "source_name": "Premium M3U",
-        "match_title_from_api": "Melbourne United vs New Orleans Pelicans",
+        "match_title_from_api": "New Orleans Pelicans vs Melbourne United",
         "competition": "NBA",
         "team1": {
-            "name": "Melbourne United",
-            "logo_url": "https://pacdn.aoneroom.com/image/2025/10/02/9c4879f1a78a6198f60d8a56af287f62.jpg"
-        },
-        "team2": {
             "name": "New Orleans Pelicans",
             "logo_url": "https://pacdn.aoneroom.com/image/2025/07/10/a5346f8e89dafdf6c88962f83e12d3d6.jpg"
+        },
+        "team2": {
+            "name": "Melbourne United",
+            "logo_url": "https://pacdn.aoneroom.com/image/2025/10/02/9c4879f1a78a6198f60d8a56af287f62.jpg"
         },
         "time": "09:30",
         "date": "03-10-2025",
         "links": []
     },
     {
-        "id": "nuut9ynziea34ua5va0sswqvtv9",
+        "id": "m7s2olaqp673stk3m2jwr61rn4j",
         "match_id": "1077136725602892248",
         "source_name": "Premium M3U",
         "match_title_from_api": "Hoffenheim vs FC Cologne",
@@ -36,7 +36,7 @@
         "links": []
     },
     {
-        "id": "t86qhpjwa3xedt5uqf8ngnrtjxu",
+        "id": "20cemuwh9m4zndyfei2xop2403c",
         "match_id": "1051473900872386000",
         "source_name": "Premium M3U",
         "match_title_from_api": "Hellas Verona vs Sassuolo",
@@ -54,7 +54,7 @@
         "links": []
     },
     {
-        "id": "4j7t91zp8k1zsedd5xfraqz8z0h",
+        "id": "png9mz84dloyoxy5p1ks03nb7ls",
         "match_id": "7579789779514325464",
         "source_name": "Premium M3U",
         "match_title_from_api": "Paris FC vs Lorient",
@@ -72,7 +72,7 @@
         "links": []
     },
     {
-        "id": "yzy6b42crphabcd32xw3456lokf",
+        "id": "c4k0irolwfx069izrotsdr95fnb",
         "match_id": "2106698746469794912",
         "source_name": "Premium M3U",
         "match_title_from_api": "Bournemouth vs Fulham",
@@ -90,7 +90,7 @@
         "links": []
     },
     {
-        "id": "rbpf0pzsxv8lfv2mlxvm93pu9a5",
+        "id": "oez8fv3y6ue9pjcfffe3s2x9en9",
         "match_id": "7893568339129651584",
         "source_name": "Premium M3U",
         "match_title_from_api": "Osasuna vs Getafe",
