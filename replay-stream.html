@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<title>Watching a Replay - O.R STREAMS</title>
+<meta name="description"
+    content="Watch full match replays for free. Catch up on top football leagues and highlights from around the world.">
+<link rel="canonical" href="https://orstreams.info">
+<link rel="icon" href="https://cdn.jsdelivr.net/gh/drnewske/tyhdsjax-nfhbqsm/logos/default.png">
+<meta name="theme-color" content="#1a1a1a">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Full Match Replays - O.R STREAMS">
+<meta property="og:description"
+    content="Watch full match replays for free. Catch up on top football leagues and highlights from around the world.">
+<meta property="og:image" content="https://orstreams.info/ortreams.png">
+<meta property="og:url" content="https://orstreams.info">
+<meta property="og:site_name" content="O.R STREAMS">
+<meta property="og:locale" content="en_US">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Full Match Replays - O.R STREAMS">
+<meta name="twitter:description"
+    content="Watch full match replays for free. Catch up on top football leagues and highlights from around the world.">
+<meta name="twitter:image" content="https://orstreams.info/ortreams.png">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://universalmuseumofawkwardfirstdatesandbeanfarts.pages.dev/main-styles.css">
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-CP2CN28VHK"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+    
+      gtag('config', 'G-CP2CN28VHK');
+    </script>
+    <!-- Clarity tracking code for https://orstreams.info/ -->
+    <script>
+        (function(c,l,a,r,i,t,y){
+            c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+            t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i+"?ref=bwt";
+            y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+        })(window, document, "clarity", "script", "ta7oyeyhg7");
+    </script>
+    <script id="aclib" type="text/javascript" src="//acscdn.com/script/aclib.js"></script>
+    <script type="text/javascript">
+        aclib.runAutoTag({
+                zoneId: 'naljs7627k',
+            });
+    </script>
+</head>
+<body>
+    <header class="site-header">
+        <a href="/index" class="logo-container">
+            <img src="https://cdn.jsdelivr.net/gh/drnewske/tyhdsjax-nfhbqsm/logos/default.png" alt="O.R STREAMS Logo" class="logo-img">
+            <span class="site-title">O.R STREAMS</span>
+        </a>
+        <nav class="main-nav" id="main-nav">
+            <a href="/index" class="nav-link">Live Matches</a>
+            <a href="/replays" class="nav-link active">Full Replays</a>
+            <a href="/apk" class="header-apk-btn mobile-only-btn">Download App</a>
+        </nav>
+        <div class="header-actions">
+            <a href="/apk" class="header-apk-btn">Download App</a>
+            <button class="hamburger-menu" id="hamburger-menu">
+                <span></span><span></span><span></span>
+            </button>
+        </div>
+    </header>
+    
+    <main class="stream-layout">
+        <div class="player-column">
+            <div class="player-wrapper">
+                <iframe id="replay-iframe" class="replay-iframe" allowfullscreen allow="autoplay; fullscreen; encrypted-media; picture-in-picture"></iframe>
+            </div>
+
+            <a href="/apk" class="apk-ad-banner">
+                <img src="https://cdn.jsdelivr.net/gh/drnewske/tyhdsjax-nfhbqsm/logos/default.png" alt="App Icon" class="icon">
+                <div class="text">
+                    <strong>Get the Official App</strong>
+                    <span>For the best ad-free experience</span>
+                </div>
+                <div class="arrow">&rarr;</div>
+            </a>
+
+            <div class="share-section">
+                <p id="copy-link-msg">Share this replay with friends!</p>
+                <button id="copy-link-btn" class="share-btn">🔗 Copy Link</button>
+            </div>
+
+             <div id="page-message-ticker" class="page-message-ticker">
+                <a href="#" target="_blank" id="ticker-content" class="ticker-content"></a>
+            </div>
+        </div>
+        <aside class="info-column">
+            <div class="info-card">
+                <h2>Available Videos</h2>
+                <div class="links-container" id="links-container"></div>
+            </div>
+        </aside>
+    </main>
+    
+    <script src="https://universalmuseumofawkwardfirstdatesandbeanfarts.pages.dev/replay-stream.js"></script>
+    <script>
+        document.getElementById('hamburger-menu').addEventListener('click', () => {
+            document.getElementById('main-nav').classList.toggle('open');
+        });
+    </script>
+</body>
+</html>

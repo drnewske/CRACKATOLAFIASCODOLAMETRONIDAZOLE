@@ -1,0 +1,17 @@
+[
+    {
+        "source_name": "Premium M3U",
+        "match_title_from_api": "Manchester City vs Chelsea",
+        "team1": {
+            "name": "Manchester City",
+            "logo_url": "https://path/to/mancity_logo.png"
+        },
+        "team2": {
+            "name": "Chelsea",
+            "logo_url": "https://path/to/chelsea_logo.png"
+        },
+        "links": [
+            "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
+        ]
+    }
+]

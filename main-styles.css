@@ -1,0 +1,250 @@
+:root {
+    --bg-primary: #111827;
+    --bg-secondary: #1F2937;
+    --bg-tertiary: #374151;
+    --border-color: #374151;
+    --text-primary: #F9FAFB;
+    --text-secondary: #9CA3AF;
+    --accent-color: #3B82F6;
+    --live-color: #EF4444;
+    --success-color: #10B981;
+    --font-family: 'Poppins', sans-serif;
+}
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body { font-family: var(--font-family); background-color: var(--bg-primary); color: var(--text-primary); }
+
+/* --- Universal Header --- */
+.site-header { background-color: var(--bg-secondary); padding: 0.75rem 1.5rem; border-bottom: 1px solid var(--border-color); display: flex; justify-content: space-between; align-items: center; position: relative; }
+.logo-container { display: flex; align-items: center; gap: 1rem; text-decoration: none; }
+.logo-img { width: 48px; height: 48px; border-radius: 8px; }
+.site-title { font-size: 1.75rem; font-weight: 700; color: var(--text-primary); }
+.main-nav { display: flex; gap: 1rem; }
+.nav-link { color: var(--text-secondary); text-decoration: none; font-weight: 600; padding: 0.5rem 1rem; border-radius: 8px; transition: all 0.2s ease; }
+.nav-link:hover { color: var(--text-primary); background-color: var(--border-color); }
+.nav-link.active { color: var(--accent-color); background-color: rgba(59, 130, 246, 0.1); }
+.header-actions { display: flex; align-items: center; gap: 1rem; }
+.header-apk-btn { background-color: var(--success-color); color: white; padding: 0.6rem 1.2rem; border-radius: 8px; text-decoration: none; font-weight: 600; flex-shrink: 0; transition: background-color 0.2s ease; }
+.header-apk-btn:hover { background-color: #059669; }
+.hamburger-menu { display: none; flex-direction: column; justify-content: space-around; width: 2rem; height: 2rem; background: transparent; border: none; cursor: pointer; padding: 0; z-index: 101; }
+.hamburger-menu span { width: 2rem; height: 0.25rem; background: var(--text-primary); border-radius: 10px; transition: all 0.3s linear; position: relative; transform-origin: 1px; }
+
+/* --- Main Content Wrappers --- */
+.main-content-wrapper { max-width: 1200px; margin: 0 auto; padding: 2rem 1rem; }
+.page-title { text-align: center; margin-bottom: 2rem; }
+.page-title h1 { font-size: 2.5rem; margin-bottom: 0.5rem; }
+.page-title p { color: var(--text-secondary); font-size: 1.1rem; }
+
+/* --- NEW: View Switcher Tabs --- */
+.view-switcher {
+    display: flex;
+    justify-content: center;
+    gap: 0.5rem;
+    margin-bottom: 2rem;
+    background-color: var(--bg-secondary);
+    padding: 0.5rem;
+    border-radius: 12px;
+    max-width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.view-btn {
+    flex-grow: 1;
+    background: transparent;
+    border: none;
+    color: var(--text-secondary);
+    padding: 0.75rem 1rem;
+    border-radius: 8px;
+    cursor: pointer;
+    font-weight: 700;
+    font-size: 1rem;
+    transition: all 0.2s ease-in-out;
+}
+.view-btn:hover {
+    background-color: var(--bg-tertiary);
+    color: var(--text-primary);
+}
+.view-btn.active {
+    background-color: var(--accent-color);
+    color: white;
+    box-shadow: 0 4px 15px rgba(59, 130, 246, 0.3);
+}
+
+/* --- NEW: Content View Toggling --- */
+.view-content {
+    display: none;
+}
+.view-content.active {
+    display: block;
+}
+
+/* --- NEW: Offline Card State --- */
+.match-card.offline {
+    opacity: 0.5;
+    pointer-events: none;
+    user-select: none;
+}
+.match-card.offline .match-info {
+    font-size: 1.1rem;
+    font-weight: 700;
+    color: var(--live-color);
+}
+
+
+/* --- Live Match Filters --- */
+.filters-container { background-color: var(--bg-secondary); padding: 1rem; border-radius: 12px; margin-bottom: 2rem; }
+.day-filters { display: flex; overflow-x: auto; padding-bottom: 1rem; margin-bottom: 1rem; border-bottom: 1px solid var(--border-color); -ms-overflow-style: none; scrollbar-width: none; }
+.day-filters::-webkit-scrollbar { display: none; }
+.day-filter-btn { background-color: var(--bg-tertiary); border: 1px solid var(--border-color); color: var(--text-secondary); padding: 0.6rem 1.2rem; border-radius: 8px; cursor: pointer; font-weight: 600; white-space: nowrap; transition: all 0.2s ease; margin-right: 0.75rem; }
+.day-filter-btn:hover { background-color: var(--border-color); color: var(--text-primary); }
+.day-filter-btn.active { background-color: var(--accent-color); border-color: var(--accent-color); color: white; }
+.secondary-filters { display: flex; justify-content: space-between; align-items: center; gap: 1rem; flex-wrap: wrap; }
+#live-search-bar { flex-grow: 1; background-color: var(--bg-tertiary); border: 1px solid var(--border-color); color: var(--text-primary); padding: 0.7rem; border-radius: 8px; font-size: 1rem; min-width: 250px; }
+.status-filters { display: flex; background-color: var(--bg-tertiary); border-radius: 8px; padding: 4px; }
+.status-btn { background: none; border: none; color: var(--text-secondary); padding: 0.5rem 1rem; border-radius: 6px; cursor: pointer; font-weight: 600; }
+.status-btn.active { background-color: var(--bg-secondary); color: var(--text-primary); box-shadow: 0 2px 5px rgba(0,0,0,0.2); }
+
+/* --- Live Match Page Styles --- */
+.matches-container { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 1.5rem; min-height: 200px; }
+.match-card { background-color: var(--bg-secondary); border: 1px solid var(--border-color); border-radius: 12px; overflow: hidden; display: flex; flex-direction: column; transition: transform 0.3s ease, box-shadow 0.3s ease; text-decoration: none; color: var(--text-primary);}
+.match-card:hover { transform: translateY(-5px); box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2); }
+.match-card-header { padding: 0.75rem 1rem; background-color: rgba(0,0,0,0.2); display: flex; justify-content: space-between; align-items: center; font-size: 0.8rem; color: var(--text-secondary); }
+.live-indicator { display: flex; align-items: center; gap: 0.5rem; color: var(--live-color); font-weight: 600; }
+.live-indicator::before { content: ''; width: 8px; height: 8px; border-radius: 50%; background-color: var(--live-color); animation: pulse 2s infinite; }
+@keyframes pulse { 0% { box-shadow: 0 0 0 0 rgba(239, 68, 68, 0.7); } 70% { box-shadow: 0 0 0 10px rgba(239, 68, 68, 0); } 100% { box-shadow: 0 0 0 0 rgba(239, 68, 68, 0); } }
+.match-card-body { padding: 1.5rem; display: flex; justify-content: space-between; align-items: center; gap: 1rem; }
+.team { display: flex; flex-direction: column; align-items: center; text-align: center; gap: 0.75rem; width: 100px; }
+.team-logo { width: 50px; height: 50px; border-radius: 50%; object-fit: cover; background-color: #fff; }
+.team-name { font-size: 0.9rem; font-weight: 600; }
+.match-info { font-weight: 700; font-size: 1.5rem; }
+.footer { padding: 1.5rem; text-align: center; font-size: 0.9rem; color: var(--text-secondary); border-top: 1px solid var(--border-color); max-width: 1200px; margin: 2rem auto 0; }
+
+/* --- Replays Page Styles --- */
+.search-controls { max-width: 800px; margin: 0 auto 2rem auto; }
+#search-bar { width: 100%; background-color: var(--bg-secondary); border: 1px solid var(--border-color); color: var(--text-primary); padding: 0.8rem 1rem; border-radius: 8px; font-size: 1rem; }
+.replays-results-section { margin-top: 2rem; }
+.results-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 1.5rem; border-bottom: 1px solid var(--border-color); padding-bottom: 1rem; flex-wrap: wrap; gap: 1rem;}
+#filter-header { font-size: 1.5rem; }
+.sort-controls { display: flex; align-items: center; gap: 0.5rem; }
+.sort-controls span { color: var(--text-secondary); }
+.sort-btn { background: var(--bg-tertiary); border: 1px solid var(--border-color); color: var(--text-primary); padding: 0.4rem 0.8rem; border-radius: 6px; cursor: pointer; }
+.sort-btn.active { background-color: var(--accent-color); border-color: var(--accent-color); }
+.replays-container { display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 1.5rem; min-height: 300px;}
+.replay-card { text-decoration: none; color: var(--text-primary); background-color: var(--bg-secondary); border-radius: 12px; overflow: hidden; display: flex; flex-direction: column; transition: transform 0.2s ease, box-shadow 0.2s ease; border: 1px solid var(--border-color); }
+.replay-card:hover { transform: translateY(-5px); box-shadow: 0 8px 25px rgba(0, 0, 0, 0.2); }
+.card-header { padding: 1rem; border-bottom: 1px solid var(--border-color); }
+.card-header .competition { font-size: 0.8rem; color: var(--accent-color); font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px; }
+.card-header .match-title { font-size: 1.25rem; font-weight: 600; margin-top: 0.25rem; }
+.card-body { padding: 1rem; flex-grow: 1; display: flex; flex-direction: column; justify-content: space-between; }
+.card-info { font-size: 0.9rem; color: var(--text-secondary); margin-bottom: 1rem; }
+.card-footer { display: flex; justify-content: flex-end; }
+.watch-btn { background-color: var(--accent-color); color: white; text-decoration: none; padding: 0.6rem 1.2rem; border-radius: 8px; font-weight: 600; transition: background-color 0.2s ease; cursor: pointer; border: none; }
+.watch-btn:hover { background-color: #2563EB; }
+.pagination-controls { display: none; justify-content: center; align-items: center; gap: 0.5rem; margin-top: 2rem; }
+.pagination-btn { background-color: var(--bg-tertiary); border: 1px solid var(--border-color); color: var(--text-primary); width: 40px; height: 40px; border-radius: 8px; cursor: pointer; }
+.pagination-btn:disabled { opacity: 0.5; cursor: not-allowed; }
+#page-info { color: var(--text-secondary); }
+
+/* --- Stream Page Layouts --- */
+.stream-layout { display: grid; grid-template-columns: 1fr 350px; gap: 1.5rem; padding: 1.5rem; width: 100%; max-width: 1800px; margin: 0 auto; }
+.player-column { display: flex; flex-direction: column; gap: 1.5rem; }
+.player-wrapper { position: relative; width: 100%; background-color: #000; border-radius: 12px; overflow: hidden; aspect-ratio: 16 / 9; }
+.video-player, .iframe-player, .replay-iframe { position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none; }
+.video-player { display: none; } .video-player.active { display: block; } .iframe-player { display: none; } .iframe-player.active { display: block; }
+.info-column { display: flex; flex-direction: column; }
+.info-card { background-color: var(--bg-secondary); border-radius: 12px; border: 1px solid var(--border-color); overflow: hidden; display: flex; flex-direction: column; }
+.match-details-header { padding: 1rem; text-align: center; border-bottom: 1px solid var(--border-color); }
+.team-logos { display: flex; justify-content: center; align-items: center; gap: 1rem; margin-bottom: 0.5rem; }
+.team-logos img { width: 40px; height: 40px; background-color: #fff; border-radius: 50%; }
+#match-teams-info h3, .info-card h2 { font-size: 1.1rem; font-weight: 600; }
+.info-card h2 { padding: 1rem; border-bottom: 1px solid var(--border-color); }
+.links-container { padding: 0 1rem 1rem 1rem; display: flex; flex-direction: column; gap: 0.75rem; }
+.link-btn { background-color: var(--bg-tertiary); border: 1px solid transparent; color: var(--text-primary); padding: 0.75rem; border-radius: 6px; cursor: pointer; width: 100%; text-align: left; font-size: 0.9rem; transition: all 0.2s ease; }
+.link-btn:hover { background-color: #4B5563; }
+.link-btn.active { background-color: var(--accent-color); border-color: #60A5FA; font-weight: 600; color: white; }
+.social-links { padding: 1rem; border-top: 1px solid var(--border-color); }
+.social-links h2 { font-size: 1.1rem; margin-bottom: 1rem; }
+.social-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 0.75rem; }
+.social-item { background-color: var(--bg-tertiary); color: white; text-decoration: none; padding: 0.8rem; border-radius: 8px; text-align: center; transition: transform 0.2s ease; }
+.social-item:hover { transform: translateY(-3px); }
+.social-item.telegram { background-color: #2AABEE; } .social-item.discord { background-color: #5865F2; }
+
+/* --- Player Message Ticker --- */
+.page-message-ticker { padding: 0.75rem 1rem; background-color: var(--bg-tertiary); border-radius: 8px; text-align: center; }
+.ticker-content { color: var(--text-secondary); text-decoration: none; font-weight: 500; opacity: 0; transition: opacity 0.5s ease-in-out; }
+.ticker-content.visible { opacity: 1; }
+
+/* --- Share Popup Modal --- */
+.popup-overlay { position: fixed; top: 0; left: 0; width: 100%; height: 100%; background-color: rgba(0,0,0,0.7); z-index: 1000; display: none; justify-content: center; align-items: center; }
+.popup-overlay.visible { display: flex; }
+.popup-content { background-color: var(--bg-secondary); padding: 2rem; border-radius: 12px; text-align: center; max-width: 500px; width: 90%; position: relative; }
+.popup-close-btn { position: absolute; top: 1rem; right: 1rem; background: none; border: none; color: var(--text-secondary); font-size: 1.5rem; cursor: pointer; }
+.popup-content h2 { font-size: 1.8rem; margin-bottom: 1rem; }
+.popup-content p { color: var(--text-secondary); margin-bottom: 1.5rem; line-height: 1.6; }
+.popup-share-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 1rem; }
+.share-icon-btn { display: flex; align-items: center; justify-content: center; gap: 0.75rem; padding: 0.8rem; border-radius: 8px; text-decoration: none; color: white; font-weight: 600; transition: opacity 0.2s ease; }
+.share-icon-btn:hover { opacity: 0.9; }
+.share-icon-btn svg { width: 24px; height: 24px; fill: white; }
+.share-icon-btn.whatsapp { background-color: #25D366; }
+.share-icon-btn.twitter { background-color: #1DA1F2; }
+.share-icon-btn.facebook { background-color: #1877F2; }
+.share-icon-btn.telegram { background-color: #2AABEE; }
+.share-icon-btn.reddit { background-color: #FF4500; }
+
+/* --- APK Page Styles --- */
+.app-showcase { display: flex; gap: 2rem; align-items: center; background-color: var(--bg-secondary); padding: 2rem; border-radius: 12px; margin-bottom: 2rem; }
+.app-icon img { width: 120px; height: 120px; border-radius: 24px; }
+.app-info h2 { font-size: 1.8rem; margin-bottom: 0.5rem; }
+.app-info p { color: var(--text-secondary); margin-bottom: 1.5rem; }
+.download-btn { display: inline-block; background-color: var(--success-color); color: white; padding: 0.8rem 1.8rem; border-radius: 8px; text-decoration: none; font-weight: 600; margin-bottom: 1.5rem; transition: background-color 0.2s ease; }
+.download-btn:hover { background-color: #059669; }
+.app-stats { display: flex; flex-wrap: wrap; gap: 1.5rem; font-size: 0.9rem; color: var(--text-secondary); }
+.features-section { margin-top: 2rem; }
+.features-section h2 { font-size: 1.5rem; margin-bottom: 1.5rem; text-align: center; }
+.features-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 1rem; }
+.feature-card { background-color: var(--bg-secondary); padding: 1.5rem; border-radius: 8px; border: 1px solid var(--border-color); font-weight: 500; }
+.footer-actions { text-align: center; margin-top: 3rem; }
+.report-btn { background: none; border: 1px solid var(--border-color); color: var(--text-secondary); padding: 0.6rem 1.2rem; border-radius: 8px; cursor: pointer; transition: all 0.2s ease; }
+.report-btn:hover { color: var(--text-primary); border-color: var(--text-secondary); }
+.modal { display: none; position: fixed; z-index: 1000; left: 0; top: 0; width: 100%; height: 100%; overflow: auto; background-color: rgba(0,0,0,0.7); }
+.modal-content { background-color: var(--bg-secondary); margin: 15% auto; padding: 2rem; border: 1px solid var(--border-color); width: 90%; max-width: 500px; border-radius: 12px; position: relative; }
+.close-btn { color: #aaa; position: absolute; top: 1rem; right: 1.5rem; font-size: 28px; font-weight: bold; cursor: pointer; }
+.modal-content h2 { margin-bottom: 1rem; }
+.modal-content p { color: var(--text-secondary); margin-bottom: 1rem; }
+.contact-email { background-color: var(--bg-primary); padding: 0.8rem; border-radius: 6px; color: var(--text-primary); font-weight: 600; text-align: center; }
+
+/* --- NEW: APK Ad Banner --- */
+.apk-ad-banner { background: linear-gradient(90deg, var(--accent-color) 0%, var(--success-color) 100%); color: white; padding: 1.25rem 1.5rem; border-radius: 12px; display: flex; align-items: center; gap: 1.5rem; text-decoration: none; transition: transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out; }
+.apk-ad-banner:hover { transform: translateY(-3px); box-shadow: 0 8px 25px rgba(0, 0, 0, 0.2); }
+.apk-ad-banner .icon { flex-shrink: 0; width: 48px; height: 48px; }
+.apk-ad-banner .text { flex-grow: 1; }
+.apk-ad-banner .text strong { font-size: 1.2rem; font-weight: 700; display: block; }
+.apk-ad-banner .text span { font-size: 0.9rem; opacity: 0.9; }
+.apk-ad-banner .arrow { font-size: 1.75rem; font-weight: bold; }
+
+/* --- NEW: Share Button Section --- */
+.share-section { background-color: var(--bg-secondary); border: 1px solid var(--border-color); border-radius: 12px; padding: 1rem; display: flex; justify-content: space-between; align-items: center; gap: 1rem; flex-wrap: wrap; }
+#copy-link-msg { color: var(--text-secondary); font-weight: 500; flex-grow: 1; }
+#copy-link-btn { background-color: var(--accent-color); color: white; border: none; padding: 0.75rem 1.5rem; border-radius: 8px; font-weight: 600; cursor: pointer; transition: background-color 0.2s ease; }
+#copy-link-btn:hover { background-color: #2563EB; }
+#copy-link-btn.success { background-color: var(--success-color); }
+
+/* --- Responsive Fixes --- */
+@media (max-width: 900px) {
+    .stream-layout { grid-template-columns: 1fr; }
+}
+@media (max-width: 768px) {
+    .main-nav { flex-direction: column; justify-content: center; gap: 2rem; background-color: var(--bg-secondary); position: fixed; top: 0; right: 0; height: 100vh; width: 60%; text-align: center; transform: translateX(100%); transition: transform 0.3s ease-in-out; padding: 4rem 2rem; border-left: 1px solid var(--border-color); z-index: 100; }
+    .main-nav.open { transform: translateX(0); }
+    .nav-link { font-size: 1.5rem; }
+    .header-actions .header-apk-btn { display: none; }
+    .hamburger-menu { display: flex; }
+}
+@media (max-width: 480px) {
+    .popup-share-grid { grid-template-columns: 1fr; }
+}
+
+/* --- Mobile Nav App Button --- */
+.mobile-only-btn { display: none; margin-top: 1.5rem; padding: 0.75rem; text-align: center; }
+@media (max-width: 768px) {
+    .main-nav.open .mobile-only-btn { display: block; }
+}
