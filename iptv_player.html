@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IPTV Stream Player</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+
+    <div id="app-container">
+        <!-- =================================================================== -->
+        <!-- LOGIN/ENTRY VIEW                                                    -->
+        <!-- =================================================================== -->
+        <div id="login-view" class="view active-view">
+            <div class="login-box">
+                <div class="login-header">
+                    <i class="fas fa-tv logo-icon"></i>
+                    <h1 class="login-title">IPTV STREAM PLAYER</h1>
+                </div>
+                <p class="login-subtitle">Please add your playlist to continue</p>
+                <div class="login-buttons">
+                    <button id="open-xtream-modal" class="btn btn-primary">
+                        <i class="fas fa-user-check"></i> Login with Xtream Codes
+                    </button>
+                    <button id="open-m3u-modal" class="btn btn-secondary">
+                        <i class="fas fa-link"></i> Load M3U Playlist
+                    </button>
+                </div>
+            </div>
+        </div>
+
+        <!-- =================================================================== -->
+        <!-- MAIN DASHBOARD VIEW                                                 -->
+        <!-- =================================================================== -->
+        <div id="main-view" class="view">
+            <header class="app-header">
+                <div class="logo">
+                    <i class="fas fa-tv"></i>
+                    <span>IPTV <strong>STREAM PLAYER</strong></span>
+                </div>
+                <div class="header-icons">
+                    <a href="#" title="Favorites"><i class="fas fa-heart"></i></a>
+                    <a href="#" title="Add Playlist"><i class="fas fa-plus-circle"></i></a>
+                    <a href="#" title="Settings"><i class="fas fa-cog"></i></a>
+                    <span id="current-time" class="time"></span>
+                </div>
+            </header>
+            <main class="dashboard-content">
+                <div class="category-grid">
+                    <div class="category-card" style="--card-color: #e53e3e;">
+                        <i class="fas fa-broadcast-tower"></i>
+                        <span>LIVE TV</span>
+                    </div>
+                    <div class="category-card" style="--card-color: #dd6b20;">
+                        <i class="fas fa-film"></i>
+                        <span>MOVIES</span>
+                    </div>
+                    <div class="category-card" style="--card-color: #d53f8c;">
+                        <i class="fas fa-video"></i>
+                        <span>SERIES</span>
+                    </div>
+                    <div class="category-card" style="--card-color: #38a169;">
+                        <i class="fas fa-history"></i>
+                        <span>CATCH UP</span>
+                    </div>
+                </div>
+            </main>
+            <footer class="app-footer">
+                <span>Playlist Expires: <strong id="expiry-date">N/A</strong></span>
+                <span id="user-info"></span>
+            </footer>
+        </div>
+    </div>
+
+    <!-- =================================================================== -->
+    <!-- MODALS                                                              -->
+    <!-- =================================================================== -->
+    <div id="xtream-modal" class="modal-backdrop">
+        <div class="modal-content">
+            <h2 class="modal-title">Login with Xtream Codes</h2>
+            <form id="xtream-form">
+                <input type="text" id="xtream-name" placeholder="Any Name (e.g., My TV)" class="form-input" required>
+                <input type="text" id="xtream-username" placeholder="Username" class="form-input" required>
+                <input type="password" id="xtream-password" placeholder="Password" class="form-input" required>
+                <input type="url" id="xtream-url" placeholder="http://server.com:port" class="form-input" required>
+                <div class="modal-actions">
+                    <button type="button" class="btn btn-secondary" id="close-xtream-modal">Cancel</button>
+                    <button type="submit" class="btn btn-primary">Add User</button>
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <div id="m3u-modal" class="modal-backdrop">
+        <div class="modal-content">
+            <h2 class="modal-title">Load M3U Playlist</h2>
+            <form id="m3u-form">
+                <input type="text" id="m3u-name" placeholder="Any Name (e.g., My Playlist)" class="form-input" required>
+                <input type="url" id="m3u-url" placeholder="M3U URL" class="form-input" required>
+                <div class="modal-actions">
+                    <button type="button" class="btn btn-secondary" id="close-m3u-modal">Cancel</button>
+                    <button type="submit" class="btn btn-primary">Load Playlist</button>
+                </div>
+            </form>
+        </div>
+    </div>
+    
+    <!-- Loader Overlay -->
+    <div id="loader-overlay" class="loader-backdrop">
+        <div class="loader"></div>
+        <p id="loader-text">Loading...</p>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>
+
