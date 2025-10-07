@@ -249,7 +249,7 @@ document.addEventListener('DOMContentLoaded', function () {
     }
     
     function updateTime() {
-        const now = new D ate();
+        const now = new Date();
         currentTimeEl.textContent = now.toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' });
     }
 });
