@@ -1,0 +1,11 @@
+# Rewrite /stream to show the streaming.html page content (Status 200 = Rewrite)
+/stream         /streaming.html   200
+
+# Rewrite /replay to show the replay-stream.html page content
+/replay         /replay-stream.html 200
+
+# Redirect old /live/some-match to the new format (Status 301 = Permanent Redirect)
+/live/:match    /stream?fromlive=football&match=:match    301
+
+# Redirect old /replay/some-match to the new format
+/replay/:match  /replay?match=:match  301
