@@ -1,0 +1,11 @@
+# Apply these headers to all pages on the site
+/*
+  X-Content-Type-Options: nosniff
+  X-Frame-Options: SAMEORIGIN
+  Content-Security-Policy: default-src 'self'; script-src 'self' 'unsafe-inline' *; style-src 'self' 'unsafe-inline' *; font-src 'self' * data:; img-src 'self' * data:; connect-src 'self' *; media-src 'self' * blob:; frame-src 'self' *; worker-src 'self' blob:;
+  
+  # Cache static files in the user's browser for 1 month
+  /.(css|js)$
+    Cache-Control: public, max-age=2592000
+  /.(png|jpg|jpeg|gif|svg)$
+    Cache-Control: public, max-age=2592000
