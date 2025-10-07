@@ -113,8 +113,8 @@ document.addEventListener('DOMContentLoaded', function () {
         const fullApiUrl = `${serverUrl}/player_api.php?username=${username}&password=${password}`;
         
         try {
-            // Using a CORS proxy to prevent browser blocking the request
-            const proxyUrl = `https://cors-anywhere.herokuapp.com/${fullApiUrl}`;
+            // Switched to a more reliable CORS proxy
+            const proxyUrl = `https://corsproxy.io/?${encodeURIComponent(fullApiUrl)}`;
             const response = await fetch(proxyUrl);
 
             if (!response.ok) {
@@ -164,8 +164,8 @@ document.addEventListener('DOMContentLoaded', function () {
         showLoader('Fetching and parsing M3U playlist...');
         
         try {
-            // Using a CORS proxy for the M3U file as well
-            const proxyUrl = `https://cors-anywhere.herokuapp.com/${url}`;
+            // Switched to a more reliable CORS proxy
+            const proxyUrl = `https://corsproxy.io/?${encodeURIComponent(url)}`;
             const response = await fetch(proxyUrl);
             
             if (!response.ok) {
@@ -238,7 +238,7 @@ document.addEventListener('DOMContentLoaded', function () {
         // Use real expiry date from Xtream or show N/A for M3U
         if (userInfo.exp_date) {
             const expiry = new Date(userInfo.exp_date * 1000);
-            expiryDateEl.textContent = `Expires: ${expiry.toLocaleDateString()}`;
+            expiryDateEl.textContent = `Expires: ${expiry.toLocaleString()}`;
         } else {
             expiryDateEl.textContent = `Expires: N/A`;
         }
