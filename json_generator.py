@@ -115,7 +115,7 @@ def transform_details_to_json(details, match_id):
     return {
         "id": generate_unique_id(),
         "match_id": match_id,
-        "source_name": "Premium M3U",
+        "source_name": "Premium",
         "match_title_from_api": f"{team1.get('name', 'N/A')} vs {team2.get('name', 'N/A')}",
         "competition": details.get('league', 'Unknown Competition'),
         "team1": {
