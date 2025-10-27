@@ -1,6 +1,6 @@
 [
     {
-        "id": "gbaq4qlytzrtkvqg1vdjo1u2v54",
+        "id": "waoq6uo1kjudfmxjhxdvtv418fb",
         "match_id": "5429058395356775696",
         "source_name": "Premium",
         "match_title_from_api": "Cleveland Cavaliers vs Milwaukee Bucks",
@@ -23,7 +23,7 @@
         ]
     },
     {
-        "id": "is8vu8tybqjkiwoj67v6t1ujarf",
+        "id": "yi9p2rl9fx4wmq0cz6qxwb3qb8g",
         "match_id": "1429861926251775248",
         "source_name": "Premium",
         "match_title_from_api": "Miami Heat vs New York Knicks",
@@ -40,13 +40,13 @@
         "date": "26-10-2025",
         "links": [
             "https://live-en.aisports.cc/moviebox/bsy_019/playlist.m3u8",
-            "http://play.sportsteam368.com/play/mgxl.php?id=959623199&id2=38666752",
             "http://play.sportsteam368.com/play/kbs.html?id=10022500108&id2=",
-            "http://play.sportsteam368.com/play/pao.php?id=22500108&id2="
+            "http://play.sportsteam368.com/play/pao.php?id=22500108&id2=",
+            "http://play.sportsteam368.com/play/mgxl.php?id=959623199&id2=38666752"
         ]
     },
     {
-        "id": "a3v0bmabpyxnxh335itgadc69bb",
+        "id": "3iv64odeyyn0kzcdupm5yi1spgf",
         "match_id": "1312768335940042960",
         "source_name": "Premium",
         "match_title_from_api": "Washington Wizards vs Charlotte Hornets",
@@ -69,7 +69,7 @@
         ]
     },
     {
-        "id": "2knr0veqt1cwvv23h8aw4i7gz6n",
+        "id": "5pfixtdh1cz1n70m9p42fmn0rci",
         "match_id": "9094988492036260048",
         "source_name": "Premium",
         "match_title_from_api": "Minnesota Timberwolves vs Indiana Pacers",
@@ -86,13 +86,13 @@
         "date": "26-10-2025",
         "links": [
             "https://live-en.aisports.cc/moviebox/bsy_022/playlist.m3u8",
-            "http://play.sportsteam368.com/play/mgxl.php?id=959619155&id2=38668932",
             "http://play.sportsteam368.com/play/kbs.html?id=10022500110&id2=",
-            "http://play.sportsteam368.com/play/pao.php?id=22500110&id2="
+            "http://play.sportsteam368.com/play/pao.php?id=22500110&id2=",
+            "http://play.sportsteam368.com/play/mgxl.php?id=959619155&id2=38668932"
         ]
     },
     {
-        "id": "rc27fs54gsyf2asu8gjcwpf77em",
+        "id": "opzut44nqfrijm3uakrzba43ai8",
         "match_id": "3258323374964097232",
         "source_name": "Premium",
         "match_title_from_api": "Dallas Mavericks vs Toronto Raptors",
@@ -109,13 +109,13 @@
         "date": "26-10-2025",
         "links": [
             "https://live-en.aisports.cc/moviebox/bsy_024/playlist.m3u8",
-            "http://play.sportsteam368.com/play/mgxl.php?id=959620079&id2=38667842",
             "http://play.sportsteam368.com/play/kbs.html?id=10022500111&id2=",
-            "http://play.sportsteam368.com/play/pao.php?id=22500111&id2="
+            "http://play.sportsteam368.com/play/pao.php?id=22500111&id2=",
+            "http://play.sportsteam368.com/play/mgxl.php?id=959620079&id2=38667842"
         ]
     },
     {
-        "id": "6bdc78ctaffh2kx11jvh9zg8k66",
+        "id": "stu02de484vdmss33jpht1wbuyh",
         "match_id": "8698671724826707216",
         "source_name": "Premium",
         "match_title_from_api": "Sacramento Kings vs LA Lakers",
@@ -138,7 +138,7 @@
         ]
     },
     {
-        "id": "a837nvvhccu0nhrfm0eh1gquwfw",
+        "id": "nia2nggycae3b76bsyfpg4199lg",
         "match_id": "3402438563039428816",
         "source_name": "Premium",
         "match_title_from_api": "LA Clippers vs Portland Trail Blazers",
@@ -156,7 +156,7 @@
         "links": []
     },
     {
-        "id": "ewm5xg12fiwtcnazd9ti8ao1ais",
+        "id": "qw3lci5k4xdemm3dcz0fk9se771",
         "match_id": "3204195227130120072",
         "source_name": "Premium",
         "match_title_from_api": "Real Betis vs Atletico Madrid",
@@ -171,6 +171,11 @@
         },
         "time": "20:00",
         "date": "27-10-2025",
-        "links": []
+        "links": [
+            "https://live-en.aisports.cc/moviebox/bsy_027/playlist.m3u8",
+            "http://play.sportsteam368.com/play/pao.php?id=43584051&id2=",
+            "http://play.sportsteam368.com/play/kbs.html?id=959528753&id2=",
+            "http://play.sportsteam368.com/play/gm.php?id=959528753&id2=959528753"
+        ]
     }
 ]
