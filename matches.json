@@ -1,6 +1,6 @@
 [
     {
-        "id": "gbkv2ksdrpdpiy6k0ktm9auh0d2",
+        "id": "ft2i5c6o877znwsan7ytjl05jku",
         "match_id": "5654238376725300584",
         "source_name": "Premium",
         "match_title_from_api": "Toronto Raptors vs Houston Rockets",
@@ -23,7 +23,7 @@
         ]
     },
     {
-        "id": "9h3h87cto35n092qggxymqnc55m",
+        "id": "0f4qrxf943z8tgqsakc45q7u0q4",
         "match_id": "3762726533229692264",
         "source_name": "Premium",
         "match_title_from_api": "Boston Celtics vs Cleveland Cavaliers",
@@ -40,13 +40,13 @@
         "date": "29-10-2025",
         "links": [
             "https://live-en.aisports.cc/moviebox/bsy_025/playlist.m3u8",
-            "http://play.sportsteam368.com/play/pao.php?id=22500128&id2=",
             "http://play.sportsteam368.com/play/kbs.html?id=10022500128&id2=",
-            "http://play.sportsteam368.com/play/mgxl.php?id=959655913&id2=38666332"
+            "http://play.sportsteam368.com/play/mgxl.php?id=959655913&id2=38666332",
+            "http://play.sportsteam368.com/play/pao.php?id=22500128&id2="
         ]
     },
     {
-        "id": "jsjsoyuc3mmkftmwkb01i142ywv",
+        "id": "hivk01b1ur5qeaqsh9wldrffg41",
         "match_id": "4807561646779647248",
         "source_name": "Premium",
         "match_title_from_api": "Brooklyn Nets vs Atlanta Hawks",
@@ -69,7 +69,7 @@
         ]
     },
     {
-        "id": "l94u97j7yygvx2v0t3dq728v65b",
+        "id": "gi5pcypf4c5xsrlk0bfcck54j3s",
         "match_id": "5474094391630381264",
         "source_name": "Premium",
         "match_title_from_api": "Chicago Bulls vs Sacramento Kings",
@@ -92,7 +92,7 @@
         ]
     },
     {
-        "id": "lkgkipl824qky26ylkee47o0w3e",
+        "id": "iz6r8lh8wrchrpjc48xfx6yuom2",
         "match_id": "6381569716544487632",
         "source_name": "Premium",
         "match_title_from_api": "Dallas Mavericks vs Indiana Pacers",
@@ -115,7 +115,7 @@
         ]
     },
     {
-        "id": "bj95p0fccb6x3nirq98rwe3us0i",
+        "id": "lkyow0p0dth9u435c2ple5rdf8z",
         "match_id": "1337538133890580688",
         "source_name": "Premium",
         "match_title_from_api": "Denver Nuggets vs New Orleans Pelicans",
@@ -132,13 +132,13 @@
         "date": "30-10-2025",
         "links": [
             "https://live-en.aisports.cc/moviebox/bsy_015/playlist.m3u8",
-            "http://play.sportsteam368.com/play/pao.php?id=22500134&id2=",
             "http://play.sportsteam368.com/play/kbs.html?id=10022500134&id2=",
-            "http://play.sportsteam368.com/play/kbs.html?id=vl&id2="
+            "http://play.sportsteam368.com/play/kbs.html?id=vl&id2=",
+            "http://play.sportsteam368.com/play/pao.php?id=22500134&id2="
         ]
     },
     {
-        "id": "1yrzopvi5dim7wroe5c7r1pc7n9",
+        "id": "8ha7dps1dd6w7pqgkxml714mlpt",
         "match_id": "1049307757737820368",
         "source_name": "Premium",
         "match_title_from_api": "Utah Jazz vs Portland Trail Blazers",
@@ -155,13 +155,13 @@
         "date": "30-10-2025",
         "links": [
             "https://live-en.aisports.cc/moviebox/bsy_020/playlist.m3u8",
+            "http://play.sportsteam368.com/play/pao.php?id=22500135&id2=",
             "http://play.sportsteam368.com/play/mgxl.php?id=959655291&id2=38663532",
-            "http://play.sportsteam368.com/play/kbs.html?id=10022500135&id2=",
-            "http://play.sportsteam368.com/play/pao.php?id=22500135&id2="
+            "http://play.sportsteam368.com/play/kbs.html?id=10022500135&id2="
         ]
     },
     {
-        "id": "oifhvwy4si1q4bat75natogzgim",
+        "id": "a5c2aky6ciq0axwl9727qbt9tc0",
         "match_id": "1553710916004364496",
         "source_name": "Premium",
         "match_title_from_api": "Minnesota Timberwolves vs LA Lakers",
@@ -178,13 +178,13 @@
         "date": "30-10-2025",
         "links": [
             "https://live-en.aisports.cc/moviebox/bsy_016/playlist.m3u8",
-            "http://play.sportsteam368.com/play/mgxl.php?id=959655513&id2=38666742",
             "http://play.sportsteam368.com/play/pao.php?id=22500136&id2=",
-            "http://play.sportsteam368.com/play/kbs.html?id=10022500136&id2="
+            "http://play.sportsteam368.com/play/kbs.html?id=10022500136&id2=",
+            "http://play.sportsteam368.com/play/mgxl.php?id=959655513&id2=38666742"
         ]
     },
     {
-        "id": "qcv03zervfht7r6netrxlh280f6",
+        "id": "9utbuhzz70oronivyoal0smof57",
         "match_id": "8327124755568641296",
         "source_name": "Premium",
         "match_title_from_api": "Phoenix Suns vs Memphis Grizzlies",
@@ -199,10 +199,15 @@
         },
         "time": "02:00",
         "date": "30-10-2025",
-        "links": []
+        "links": [
+            "https://live-en.aisports.cc/moviebox/bsy_017/playlist.m3u8",
+            "http://play.sportsteam368.com/play/i11.html?id=10022500137&id2=",
+            "http://nba.toutiaozb.com/qq/qq-kbs.html?matchliveid=1775739400",
+            "http://play.sportsteam368.com/play/pao.php?id=22500137&id2="
+        ]
     },
     {
-        "id": "ff418u7fdh4xsuv14ouq9gpn1k5",
+        "id": "ruxw27h5qhkc6zxira7rmzrcm45",
         "match_id": "2693051940178644064",
         "source_name": "Premium",
         "match_title_from_api": "India W vs Australia W",
@@ -222,7 +227,7 @@
         ]
     },
     {
-        "id": "fr65an13pufmo9oc3doattakp07",
+        "id": "br9k3q61npbfyamw3uvrg50swg1",
         "match_id": "7957955035677050320",
         "source_name": "Premium",
         "match_title_from_api": "Cagliari vs Sassuolo",
@@ -240,7 +245,7 @@
         "links": []
     },
     {
-        "id": "zzkfi5oirnoaqr4vswtvr7intxf",
+        "id": "5t7lsz3mcmvv9iplcwa5ig93nnq",
         "match_id": "7095818585981731024",
         "source_name": "Premium",
         "match_title_from_api": "Orihuela vs Levante",
@@ -258,7 +263,7 @@
         "links": []
     },
     {
-        "id": "qc16usi0uig110cy95n4xkxm32x",
+        "id": "it8idv3tbrghkj4moc0ymim13zi",
         "match_id": "5094016225753055736",
         "source_name": "Premium",
         "match_title_from_api": "Orihuela vs Levante",
@@ -276,7 +281,7 @@
         "links": []
     },
     {
-        "id": "tbdu5xdf539zmd4dgg5zepx8fi5",
+        "id": "x3qte9hkai5q84rre3cb29yibxy",
         "match_id": "7348020165113954512",
         "source_name": "Premium",
         "match_title_from_api": "Valle de Egues vs FC Andorra",
@@ -294,7 +299,7 @@
         "links": []
     },
     {
-        "id": "7p3e2gr5ogwpcnzs9ywc3bf6gn6",
+        "id": "ve1xrr7a23a5lal6cuzmic5a5xy",
         "match_id": "2914274006105735672",
         "source_name": "Premium",
         "match_title_from_api": "Valle de Egues vs FC Andorra",
@@ -312,7 +317,7 @@
         "links": []
     },
     {
-        "id": "2aodrotsryzlxj8bum08rbyvnl6",
+        "id": "2kcwnnp1g3jao0i8mdd9ruoytsc",
         "match_id": "9134823317273298280",
         "source_name": "Premium",
         "match_title_from_api": "Real Avila vs Real Aviles Industrial",
@@ -330,7 +335,7 @@
         "links": []
     },
     {
-        "id": "ly3vteg15vsozyiyzdvkqtz9p4a",
+        "id": "a5wq89wkhs3jxh6pb9stvxh3c6a",
         "match_id": "6704053092536959480",
         "source_name": "Premium",
         "match_title_from_api": "Logrones vs Ponferradina",
@@ -348,7 +353,7 @@
         "links": []
     },
     {
-        "id": "p7xc17kyqoibudshe9xs52k9051",
+        "id": "r75i1k8efaim2olgpx1djgh2yaa",
         "match_id": "6163621137252516104",
         "source_name": "Premium",
         "match_title_from_api": "Real Avila vs Real Aviles Industrial",
@@ -366,7 +371,7 @@
         "links": []
     },
     {
-        "id": "haii6dxm2k4jkrc7a9tljw3ipd7",
+        "id": "cniex5he6aowzvkivyswkw1dsfx",
         "match_id": "5495914818357838032",
         "source_name": "Premium",
         "match_title_from_api": "Logrones vs Ponferradina",
@@ -384,7 +389,7 @@
         "links": []
     },
     {
-        "id": "cod6r13arrrghqjfjnv4duwzuf2",
+        "id": "wras145ym3gnmoz53lj0iue5q4r",
         "match_id": "3995137916674654712",
         "source_name": "Premium",
         "match_title_from_api": "Atletico Baleares vs Gimnastic",
@@ -402,7 +407,7 @@
         "links": []
     },
     {
-        "id": "8dpr9kqy1cgc3etf336nadtdp25",
+        "id": "83c0ndiv6899arabzfw5b0u7pn6",
         "match_id": "2343395079198490832",
         "source_name": "Premium",
         "match_title_from_api": "Atletico Baleares vs Gimnastic",
@@ -420,7 +425,7 @@
         "links": []
     },
     {
-        "id": "q1bxk6lj41vcc4auac636a7mr36",
+        "id": "kbh4wecqkujt85j6953vt7chqwd",
         "match_id": "7212609297347757520",
         "source_name": "Premium",
         "match_title_from_api": "Pisa vs Lazio",
@@ -438,7 +443,7 @@
         "links": []
     },
     {
-        "id": "4u13xqy25qkx2p6esaig1vfwv0u",
+        "id": "8kbz6yhgln9ulqkr3nk7n86sf5t",
         "match_id": "7793924202360635656",
         "source_name": "Premium",
         "match_title_from_api": "Atletico Palma Del Rio vs Real Betis",
@@ -456,7 +461,7 @@
         "links": []
     },
     {
-        "id": "0z1s58un34o9mcw3we3tem42wf2",
+        "id": "tgw52ogjihyvdof65qm4dwult0d",
         "match_id": "7559737021738402296",
         "source_name": "Premium",
         "match_title_from_api": "Real Murcia vs Antequera CF",
@@ -474,7 +479,7 @@
         "links": []
     },
     {
-        "id": "0is63dmbhn6p8hr2bdq3vm4d1w7",
+        "id": "dvrmxp3boedlqdv4oszvq1f5bfd",
         "match_id": "7325549841115136504",
         "source_name": "Premium",
         "match_title_from_api": "CD Estepona vs Malaga",
@@ -492,7 +497,7 @@
         "links": []
     },
     {
-        "id": "g25u5cl45ucazcdqtgarcvy5pls",
+        "id": "jew1gx5iezvcgfaojvkl5n6h2oj",
         "match_id": "6743411915139564904",
         "source_name": "Premium",
         "match_title_from_api": "UD Samano vs Deportivo La Coruna",
@@ -510,7 +515,7 @@
         "links": []
     },
     {
-        "id": "wecse3wwiec6icy0hn0qwp9pm4r",
+        "id": "qsd7fd1ohkj74x3eucq53ksn2yh",
         "match_id": "6531742732653675880",
         "source_name": "Premium",
         "match_title_from_api": "Atletico Palma Del Rio vs Real Betis",
@@ -528,7 +533,7 @@
         "links": []
     },
     {
-        "id": "17s0nnjpkneja7fe7jsmxbbi7zi",
+        "id": "resb23e8l4f3b0t2khrrxbs2zbt",
         "match_id": "5054562054876053712",
         "source_name": "Premium",
         "match_title_from_api": "Atletic Lleida vs Espanyol",
@@ -546,7 +551,7 @@
         "links": []
     },
     {
-        "id": "o726od4im26sq78vucoab3hfxnf",
+        "id": "a2w1y7kgmzq1wd7ynkhjix1670z",
         "match_id": "4835059247179268360",
         "source_name": "Premium",
         "match_title_from_api": "UD Samano vs Deportivo La Coruna",
@@ -564,7 +569,7 @@
         "links": []
     },
     {
-        "id": "fw6bro83ur0trz6of441n8ze33x",
+        "id": "27frzmqhro6e3zwt7tnm5eb5gwa",
         "match_id": "4171856527911011688",
         "source_name": "Premium",
         "match_title_from_api": "CD Estepona vs Malaga",
@@ -582,7 +587,7 @@
         "links": []
     },
     {
-        "id": "j7v5yz40gouhgba3mwzeu8tjp5t",
+        "id": "txotskughpnrxm92mxdc5u8kvsr",
         "match_id": "3248618604299960528",
         "source_name": "Premium",
         "match_title_from_api": "Real Murcia vs Antequera CF",
@@ -600,7 +605,7 @@
         "links": []
     },
     {
-        "id": "z7w09bp0rwgqav56ydyekxwa5qv",
+        "id": "r0d1k6f9p8rxmq5pgt3slj5gngc",
         "match_id": "2254496660695958008",
         "source_name": "Premium",
         "match_title_from_api": "Atletic Lleida vs Espanyol",
@@ -618,7 +623,7 @@
         "links": []
     },
     {
-        "id": "oe6g7b5h5ubqed6clnrwkpp8t94",
+        "id": "4qgljv486cyso3jn56p59y8cyqt",
         "match_id": "2157669268706968056",
         "source_name": "Premium",
         "match_title_from_api": "CA Antoniano vs Castellon",
@@ -636,7 +641,7 @@
         "links": []
     },
     {
-        "id": "y65fb7ozdnirwqf06w3pfl45z2j",
+        "id": "n3racyzuw45d617j5netja6vpxe",
         "match_id": "1527165320875098616",
         "source_name": "Premium",
         "match_title_from_api": "CA Antoniano vs Castellon",
@@ -654,7 +659,7 @@
         "links": []
     },
     {
-        "id": "6ca0l6w37erylzu3tjfkc5p3tk2",
+        "id": "vekb1ffgky71bv8qn18eqduqs1e",
         "match_id": "100602464767983824",
         "source_name": "Premium",
         "match_title_from_api": "CA Antoniano vs Castellon",
