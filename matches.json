@@ -1,6 +1,6 @@
 [
     {
-        "id": "1esdtob4sohvcv4o8an51vfd2j5",
+        "id": "jis4sdzjxi1a9arbjijh4rgm2ek",
         "match_id": "7095390257483759824",
         "source_name": "Premium",
         "match_title_from_api": "Milwaukee Bucks vs Golden State Warriors",
@@ -23,7 +23,7 @@
         ]
     },
     {
-        "id": "qn0d60p3mfjp81yweosc9bjl074",
+        "id": "ztsd7kr46s0rpv6swkw8y8nv21h",
         "match_id": "5041748827402913128",
         "source_name": "Premium",
         "match_title_from_api": "Oklahoma City Thunder vs Washington Wizards",
@@ -40,13 +40,13 @@
         "date": "31-10-2025",
         "links": [
             "https://live-en.aisports.cc/moviebox/bsy_019/playlist.m3u8",
-            "http://play.sportsteam368.com/play/kbs.html?id=10022500140&id2=",
             "http://play.sportsteam368.com/play/pao.php?id=22500140&id2=",
-            "http://play.sportsteam368.com/play/mgxl.php?id=959656049&id2=38671092"
+            "http://play.sportsteam368.com/play/mgxl.php?id=959656049&id2=38671092",
+            "http://play.sportsteam368.com/play/kbs.html?id=10022500140&id2="
         ]
     },
     {
-        "id": "utnxg0z97royckf3fv6b9zdxgcs",
+        "id": "mzr76qk4mtbzopiqa6kqlqg3eob",
         "match_id": "2058114074269959528",
         "source_name": "Premium",
         "match_title_from_api": "San Antonio Spurs vs Miami Heat",
@@ -63,13 +63,13 @@
         "date": "31-10-2025",
         "links": [
             "https://live-en.aisports.cc/moviebox/bsy_009/playlist.m3u8",
+            "http://play.sportsteam368.com/play/gm.php?id=959656301&id2=959656301",
             "http://play.sportsteam368.com/play/pao.php?id=38670012&id2=",
-            "http://play.sportsteam368.com/play/kbs.html?id=10022500141&id2=",
-            "http://play.sportsteam368.com/play/gm.php?id=959656301&id2=959656301"
+            "http://play.sportsteam368.com/play/kbs.html?id=10022500141&id2="
         ]
     },
     {
-        "id": "d0xjturiia4i8rv1pssbp36gob8",
+        "id": "phr2qfer0sb40nge1thqiffyxcs",
         "match_id": "5212930349622247632",
         "source_name": "Premium",
         "match_title_from_api": "Australia vs India",
@@ -89,7 +89,7 @@
         ]
     },
     {
-        "id": "1k3maqhacx8jho05aj24edox4pt",
+        "id": "x1edtopp8d08lsv2bz3ovvvyog6",
         "match_id": "1248991627826419160",
         "source_name": "Premium",
         "match_title_from_api": "Eveil des Trois-Ilets vs Golden Star",
@@ -107,7 +107,7 @@
         "links": []
     },
     {
-        "id": "dzschkysx8j1saic8178dv2t10j",
+        "id": "4li0aumkh097vzomtyrqfxp8341",
         "match_id": "8833461183841728984",
         "source_name": "Premium",
         "match_title_from_api": "Augsburg vs Borussia Dortmund",
@@ -125,7 +125,7 @@
         "links": []
     },
     {
-        "id": "5u6nsc21nrsgeyggqalv6vz55pc",
+        "id": "422sh0h96nhvuoph17s0ls53yst",
         "match_id": "1107579589087347192",
         "source_name": "Premium",
         "match_title_from_api": "AS Gosier vs Dynamo Le Moule",
@@ -143,7 +143,7 @@
         "links": []
     },
     {
-        "id": "qn1t3ry2wj8jwqyv5jrqhovfv2j",
+        "id": "ltb4a90atn5cc4n1foe91o0gwrc",
         "match_id": "7500316269457326288",
         "source_name": "Premium",
         "match_title_from_api": "Luton Town vs Forest Green Rovers",
@@ -161,7 +161,7 @@
         "links": []
     },
     {
-        "id": "6biby8k3qoiogf5akbz78x4hvo9",
+        "id": "xqblni1el5kxlusc9i34sf6nfuj",
         "match_id": "8858464559293780352",
         "source_name": "Premium",
         "match_title_from_api": "Getafe vs Girona",
