@@ -1,6 +1,6 @@
 [
     {
-        "id": "wn8mc0wrnm4mto6avyglf2j3052",
+        "id": "0cfntak1d1d5zvcc5ljbsim32vb",
         "match_id": "7255268044254987624",
         "source_name": "Premium",
         "match_title_from_api": "Indiana Pacers vs Milwaukee Bucks",
@@ -23,7 +23,7 @@
         ]
     },
     {
-        "id": "qndf35zdcz7niet2s9gz8z3l31b",
+        "id": "v8qhe0hu236xn7cojx79k8pm8bg",
         "match_id": "6615756897168802000",
         "source_name": "Premium",
         "match_title_from_api": "Brooklyn Nets vs Minnesota Timberwolves",
@@ -46,7 +46,7 @@
         ]
     },
     {
-        "id": "iorw63dsciiels602x3l96nvjtg",
+        "id": "lfbq22xxm3qnrllpo0mbesjobyf",
         "match_id": "2769682815393874128",
         "source_name": "Premium",
         "match_title_from_api": "Boston Celtics vs Utah Jazz",
@@ -69,7 +69,7 @@
         ]
     },
     {
-        "id": "jrz6id5j05nfxsgrqqxgvyaonih",
+        "id": "320ey3qr3soht9ck4puykel7c95",
         "match_id": "1508674919730759016",
         "source_name": "Premium",
         "match_title_from_api": "New York Knicks vs Washington Wizards",
@@ -86,13 +86,13 @@
         "date": "04-11-2025",
         "links": [
             "https://live-en.aisports.cc/moviebox/bsy_001/playlist.m3u8",
-            "http://play.sportsteam368.com/play/mgxl.php?id=959851598&id2=38662022",
             "http://play.sportsteam368.com/play/kbs.html?id=10022500159&id2=",
-            "http://play.sportsteam368.com/play/pao.php?id=22500159&id2="
+            "http://play.sportsteam368.com/play/pao.php?id=22500159&id2=",
+            "http://play.sportsteam368.com/play/mgxl.php?id=959851598&id2=38662022"
         ]
     },
     {
-        "id": "tlda77p5pe5x4az18widkip4osa",
+        "id": "hdwo2fc7d574g0kzp5e8uz0q7lw",
         "match_id": "9074722293713092816",
         "source_name": "Premium",
         "match_title_from_api": "Houston Rockets vs Dallas Mavericks",
@@ -109,13 +109,13 @@
         "date": "04-11-2025",
         "links": [
             "https://live-en.aisports.cc/moviebox/bsy_015/playlist.m3u8",
-            "http://play.sportsteam368.com/play/kbs.html?id=10022500160&id2=",
             "http://play.sportsteam368.com/play/pao.php?id=22500160&id2=",
-            "http://play.sportsteam368.com/play/kbs.html?id=vl&id2="
+            "http://play.sportsteam368.com/play/kbs.html?id=vl&id2=",
+            "http://play.sportsteam368.com/play/kbs.html?id=10022500160&id2="
         ]
     },
     {
-        "id": "coldhkmk05ii0ba2g0kzt40e5r8",
+        "id": "4t8vs0z8bd144vzp431aegxa3wb",
         "match_id": "2013078077996254568",
         "source_name": "Premium",
         "match_title_from_api": "Memphis Grizzlies vs Detroit Pistons",
@@ -138,7 +138,7 @@
         ]
     },
     {
-        "id": "01q2bi8p4h66vac3hj9l3yfrwwb",
+        "id": "p5u01brp8a07mw8l05v0aq6je4d",
         "match_id": "6061814143002230992",
         "source_name": "Premium",
         "match_title_from_api": "Denver Nuggets vs Sacramento Kings",
@@ -161,7 +161,7 @@
         ]
     },
     {
-        "id": "guzdvyp195rbsddokf869h2wuny",
+        "id": "pptyl01b6str00vgs8z89pkwwcz",
         "match_id": "6494159707229798608",
         "source_name": "Premium",
         "match_title_from_api": "Portland Trail Blazers vs LA Lakers",
@@ -176,10 +176,15 @@
         },
         "time": "03:00",
         "date": "04-11-2025",
-        "links": []
+        "links": [
+            "https://live-en.aisports.cc/moviebox/bsy_026/playlist.m3u8",
+            "https://www.yangshipin.cn/tv/home?pid=600001818",
+            "http://sports.cctv.com/H5/CCTV5/index.shtml",
+            "http://tv.cctv.com/live/cctv5/"
+        ]
     },
     {
-        "id": "0o0pwezec2f8ir6as8xz2paxstd",
+        "id": "7vp5e92fhfrs2eyy8m7fpv2ajb8",
         "match_id": "1233955342461059280",
         "source_name": "Premium",
         "match_title_from_api": "LA Clippers vs Miami Heat",
@@ -197,7 +202,7 @@
         "links": []
     },
     {
-        "id": "qs87gbsg69t3qd0ovzjoey7bz7b",
+        "id": "f0ojf5qe5epk0cvhk1xnus1mql1",
         "match_id": "4623900111386593720",
         "source_name": "Premium",
         "match_title_from_api": "Slavia Prague vs Arsenal",
@@ -215,7 +220,7 @@
         "links": []
     },
     {
-        "id": "g7bcbrxa3prksx6bwy79w87jkst",
+        "id": "qd5ngbrx3bsdruqzcaji7suqgtp",
         "match_id": "2498764037221238024",
         "source_name": "Premium",
         "match_title_from_api": "Napoli vs Eintracht Frankfurt",
@@ -233,7 +238,7 @@
         "links": []
     },
     {
-        "id": "qaspil4ugr878kpld2ij84nxz8o",
+        "id": "cr399oy5rmvq7phtn4z81j6aox9",
         "match_id": "1248991627826419160",
         "source_name": "Premium",
         "match_title_from_api": "Eveil des Trois-Ilets vs Golden Star",
@@ -251,7 +256,7 @@
         "links": []
     },
     {
-        "id": "cy4ju78py1depo4pjgh4o0ytz70",
+        "id": "f4fddufj9y4565tf99qfjtty881",
         "match_id": "9139321687778937272",
         "source_name": "Premium",
         "match_title_from_api": "Liverpool vs Real Madrid",
@@ -271,7 +276,7 @@
         ]
     },
     {
-        "id": "wi4vijkwrjij618j1ge0m2r43cf",
+        "id": "rq7fjw2jd3mh9selr6rfzxwaf9z",
         "match_id": "5013461479154141624",
         "source_name": "Premium",
         "match_title_from_api": "Paris Saint-Germain vs Bayern Munich",
@@ -291,7 +296,7 @@
         ]
     },
     {
-        "id": "6on282gw3sxtbdt1kinn70k9ke1",
+        "id": "avgrn4a3wthbh8hg5wfz727e5v2",
         "match_id": "163647630429538744",
         "source_name": "Premium",
         "match_title_from_api": "Juventus vs Sporting CP",
@@ -309,7 +314,7 @@
         "links": []
     },
     {
-        "id": "ncc2zgfwvvwz7lyqikabyx1z2yu",
+        "id": "kfkj9doq0q2y8o7i9r7opfbfw9t",
         "match_id": "7078080433325754808",
         "source_name": "Premium",
         "match_title_from_api": "Atletico Madrid vs Union St.Gilloise",
@@ -327,7 +332,7 @@
         "links": []
     },
     {
-        "id": "nnt6ir39o8qq398zbkyur0b4o56",
+        "id": "3zwj999pqdv298ch6sq58yqlxbb",
         "match_id": "6709911163789265336",
         "source_name": "Premium",
         "match_title_from_api": "Bodoe/Glimt vs AS Monaco",
@@ -345,7 +350,7 @@
         "links": []
     },
     {
-        "id": "tuzs7a8vv5wm5wvrjikzxs27g1s",
+        "id": "void5tz8kce73opyw2vruuquiys",
         "match_id": "3584131547417430456",
         "source_name": "Premium",
         "match_title_from_api": "Olympiacos vs PSV Eindhoven",
@@ -363,7 +368,7 @@
         "links": []
     },
     {
-        "id": "wg5k6ohbscv09hzxid9quecdqti",
+        "id": "4uifhz5fla8zi6m284yz7xoqas0",
         "match_id": "2772920664537416968",
         "source_name": "Premium",
         "match_title_from_api": "Tottenham Hotspur vs FC Copenhagen",
