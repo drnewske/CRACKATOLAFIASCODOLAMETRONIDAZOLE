@@ -1,6 +1,6 @@
 [
     {
-        "id": "1u423u1oa86fk10qs4xe02ukbmr",
+        "id": "pw6xgao3ktkg8sfcli652xr7g8q",
         "match_id": "3161495982975730960",
         "source_name": "Premium",
         "match_title_from_api": "Phoenix Suns vs LA Clippers",
@@ -18,7 +18,7 @@
         "links": []
     },
     {
-        "id": "mxya4hrld74u2jug975jnz1kx4u",
+        "id": "bcwu867e3846aunmqak6a47nocj",
         "match_id": "7007251534941944280",
         "source_name": "Premium",
         "match_title_from_api": "Werder Bremen vs Wolfsburg",
@@ -35,13 +35,13 @@
         "date": "07-11-2025",
         "links": [
             "https://live-en.aisports.cc/moviebox/bsy_026/playlist.m3u8",
+            "http://play.sportsteam368.com/play/pao.php?id=43474451&id2=",
             "http://play.sportsteam368.com/play/kbs.html?id=960006450&id2=",
-            "http://play.sportsteam368.com/play/gm.php?id=960006450&id2=960006450",
-            "http://play.sportsteam368.com/play/pao.php?id=43474451&id2="
+            "http://play.sportsteam368.com/play/gm.php?id=960006450&id2=960006450"
         ]
     },
     {
-        "id": "pbaw8wggxzo0de20em8ive0e95o",
+        "id": "6lhqh9wmmwkw5bel3dt9zi7y0hu",
         "match_id": "4579129415242859984",
         "source_name": "Premium",
         "match_title_from_api": "Pisa vs Cremonese",
@@ -59,7 +59,7 @@
         "links": []
     },
     {
-        "id": "a3e18kjicqbi38gktci5qiog1og",
+        "id": "bbkzx4m9pe933trpxz641w0erz0",
         "match_id": "6017603658770184664",
         "source_name": "Premium",
         "match_title_from_api": "Paris FC vs Rennes",
@@ -82,7 +82,7 @@
         ]
     },
     {
-        "id": "i6spxdpsq6vghbubakufvokq1dd",
+        "id": "ybzh5zadn9bsnkj9yj56sqxs3np",
         "match_id": "8007495335953289600",
         "source_name": "Premium",
         "match_title_from_api": "Elche vs Real Sociedad",
@@ -97,6 +97,11 @@
         },
         "time": "20:00",
         "date": "07-11-2025",
-        "links": []
+        "links": [
+            "https://live-en.aisports.cc/moviebox/bsy_013/playlist.m3u8",
+            "http://play.sportsteam368.com/play/kbs.html?id=959999066&id2=",
+            "http://play.sportsteam368.com/play/gm.php?id=959999066&id2=959999066",
+            "http://play.sportsteam368.com/play/pao.php?id=43584351&id2="
+        ]
     }
 ]
