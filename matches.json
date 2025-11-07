@@ -1,6 +1,6 @@
 [
     {
-        "id": "mmimyd2gh4yicqne2h28438m3pr",
+        "id": "7ncx2951ovg8lk3eyg379ya8gxd",
         "match_id": "3161495982975730960",
         "source_name": "Premium",
         "match_title_from_api": "Phoenix Suns vs LA Clippers",
@@ -18,7 +18,7 @@
         "links": []
     },
     {
-        "id": "78r7095ryae6gt1y9wdlcp0f577",
+        "id": "6t0rocpi1hyy2xweqedqsf7zl4l",
         "match_id": "7007251534941944280",
         "source_name": "Premium",
         "match_title_from_api": "Werder Bremen vs Wolfsburg",
@@ -33,10 +33,15 @@
         },
         "time": "19:30",
         "date": "07-11-2025",
-        "links": []
+        "links": [
+            "https://live-en.aisports.cc/moviebox/bsy_026/playlist.m3u8",
+            "http://play.sportsteam368.com/play/kbs.html?id=960006450&id2=",
+            "http://play.sportsteam368.com/play/gm.php?id=960006450&id2=960006450",
+            "http://play.sportsteam368.com/play/pao.php?id=43474451&id2="
+        ]
     },
     {
-        "id": "xck5njsvi4wbfs1ldchp4qh9qpz",
+        "id": "n2rqwdxxoq0ybiqaoj6p8y2thqf",
         "match_id": "4579129415242859984",
         "source_name": "Premium",
         "match_title_from_api": "Pisa vs Cremonese",
@@ -54,7 +59,7 @@
         "links": []
     },
     {
-        "id": "pzsnwss4twzwganw8c9z1mqo7jm",
+        "id": "3av6kohrh0hgqtnmjlp58iq2opx",
         "match_id": "6017603658770184664",
         "source_name": "Premium",
         "match_title_from_api": "Paris FC vs Rennes",
@@ -69,10 +74,15 @@
         },
         "time": "19:45",
         "date": "07-11-2025",
-        "links": []
+        "links": [
+            "https://live-en.aisports.cc/moviebox/bsy_020/playlist.m3u8",
+            "http://play.sportsteam368.com/play/gm.php?id=959996873&id2=959996873",
+            "http://play.sportsteam368.com/play/pao.php?id=43477831&id2=",
+            "http://play.sportsteam368.com/play/kbs.html?id=959996873&id2="
+        ]
     },
     {
-        "id": "pwsgbjbjaqit9t7mcdzdmpbp7kr",
+        "id": "7x4ot2ow5nelbola5j8cd1u79y5",
         "match_id": "8007495335953289600",
         "source_name": "Premium",
         "match_title_from_api": "Elche vs Real Sociedad",
