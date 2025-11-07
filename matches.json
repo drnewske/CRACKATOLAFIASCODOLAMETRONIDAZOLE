@@ -1,6 +1,6 @@
 [
     {
-        "id": "s19ku0ha0ajwz217h5vg1gfe219",
+        "id": "gpwu61rbmfeng45e60qtyicktli",
         "match_id": "3161495982975730960",
         "source_name": "Premium",
         "match_title_from_api": "Phoenix Suns vs LA Clippers",
@@ -18,7 +18,7 @@
         "links": []
     },
     {
-        "id": "7tauiowc0wazeephmj3gliq0d8w",
+        "id": "rqxeneab1c8i9cpdqaj7a1wh30d",
         "match_id": "7007251534941944280",
         "source_name": "Premium",
         "match_title_from_api": "Werder Bremen vs Wolfsburg",
@@ -41,7 +41,7 @@
         ]
     },
     {
-        "id": "6oly44ukfm80l17fljgaifd1geu",
+        "id": "w4y7dwqnmgrinvughy82nxynsl6",
         "match_id": "4579129415242859984",
         "source_name": "Premium",
         "match_title_from_api": "Pisa vs Cremonese",
@@ -59,7 +59,7 @@
         "links": []
     },
     {
-        "id": "wj1mvingpuv8oj5xid1lehrhuny",
+        "id": "umsct3z6t7gi56sv9e4q1rju6tx",
         "match_id": "6017603658770184664",
         "source_name": "Premium",
         "match_title_from_api": "Paris FC vs Rennes",
@@ -82,7 +82,7 @@
         ]
     },
     {
-        "id": "2e0510ax29v7icqfv50m5053iom",
+        "id": "thw6qrgc7nibf7i6pyxs5k903qy",
         "match_id": "8007495335953289600",
         "source_name": "Premium",
         "match_title_from_api": "Elche vs Real Sociedad",
@@ -99,9 +99,9 @@
         "date": "07-11-2025",
         "links": [
             "https://live-en.aisports.cc/moviebox/bsy_013/playlist.m3u8",
-            "http://play.sportsteam368.com/play/kbs.html?id=959999066&id2=",
             "http://play.sportsteam368.com/play/gm.php?id=959999066&id2=959999066",
-            "http://play.sportsteam368.com/play/pao.php?id=43584351&id2="
+            "http://play.sportsteam368.com/play/pao.php?id=43584351&id2=",
+            "http://play.sportsteam368.com/play/kbs.html?id=959999066&id2="
         ]
     }
 ]
