@@ -1,6 +1,6 @@
 [
     {
-        "id": "szxsbf6jm5zh3uefbgnvkxig74e",
+        "id": "s6ixld6x7q4uj3zq3tbvb0amybo",
         "match_id": "9043249872878584016",
         "source_name": "Premium",
         "match_title_from_api": "Brooklyn Nets vs Toronto Raptors",
@@ -23,7 +23,7 @@
         ]
     },
     {
-        "id": "4pzzm7doctyp1d9m5ixq94agw1d",
+        "id": "8vz86z574iuq4f28ruls4eimbzu",
         "match_id": "1116914528707659112",
         "source_name": "Premium",
         "match_title_from_api": "New York Knicks vs Memphis Grizzlies",
@@ -46,7 +46,7 @@
         ]
     },
     {
-        "id": "elfq4kzf7h3j2q42s6zdjjtbd9h",
+        "id": "489q7k8ovz6b73ofkgkfql9p6dg",
         "match_id": "7223795623422476496",
         "source_name": "Premium",
         "match_title_from_api": "Oklahoma City Thunder vs Golden State Warriors",
@@ -69,7 +69,7 @@
         ]
     },
     {
-        "id": "36et46flho23iu7atja9v5z53k9",
+        "id": "qyoanhof8hjwbo8rxp4h6fmi4fr",
         "match_id": "3620915921525555408",
         "source_name": "Premium",
         "match_title_from_api": "Philadelphia 76ers vs Boston Celtics",
@@ -92,7 +92,7 @@
         ]
     },
     {
-        "id": "l8v39un1asswiyxvynwetoij1w6",
+        "id": "gvxdp8ihms9irf4d9jzxrkk6dlk",
         "match_id": "7944371563801231568",
         "source_name": "Premium",
         "match_title_from_api": "Utah Jazz vs Indiana Pacers",
@@ -109,13 +109,13 @@
         "date": "12-11-2025",
         "links": [
             "https://live-en.aisports.cc/moviebox/bsy_010/playlist.m3u8",
-            "http://play.sportsteam368.com/play/j.php?id=22500211&id2=",
             "http://play.sportsteam368.com/play/i11.html?id=10022500211&id2=",
-            "http://nba.toutiaozb.com/qq/qq-kbs.html?matchliveid=1775971200"
+            "http://nba.toutiaozb.com/qq/qq-kbs.html?matchliveid=1775971200",
+            "http://play.sportsteam368.com/play/j.php?id=22500211&id2="
         ]
     },
     {
-        "id": "t73n9prdss0gafgvt05egq8zwqz",
+        "id": "ttc7gj1ag47glp3gg0m8my9ql67",
         "match_id": "5566470960549609680",
         "source_name": "Premium",
         "match_title_from_api": "Sacramento Kings vs Denver Nuggets",
@@ -130,10 +130,15 @@
         },
         "time": "04:00",
         "date": "12-11-2025",
-        "links": []
+        "links": [
+            "https://live-en.aisports.cc/moviebox/bsy_019/playlist.m3u8",
+            "http://play.sportsteam368.com/play/kbs.html?id=10022500212&id2=",
+            "http://play.sportsteam368.com/play/mgxl.php?id=960027632&id2=38665072",
+            "http://play.sportsteam368.com/play/j.php?id=22500212&id2="
+        ]
     },
     {
-        "id": "rslevwwdntls8pnlaekh5i551p4",
+        "id": "0407l3sg8eb0hyvywpf6peud89c",
         "match_id": "2964437729473447272",
         "source_name": "Premium",
         "match_title_from_api": "Aubagne vs Avignon",
