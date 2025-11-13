@@ -1,158 +1,384 @@
 [
     {
-        "id": "dymtta3feu5gitjzlakmidxw8ss",
-        "match_id": "9043249872878584016",
+        "id": "3e6057eoe23bhrkyv9vr5op8wc4",
+        "match_id": "7548054796592627920",
         "source_name": "Premium",
-        "match_title_from_api": "Brooklyn Nets vs Toronto Raptors",
+        "match_title_from_api": "Detroit Pistons vs Chicago Bulls",
         "competition": "NBA",
         "team1": {
-            "name": "Brooklyn Nets",
-            "logo_url": "https://pacdn.aoneroom.com/image/2025/07/10/6b69b615d381fce8c36f034634df271c.jpg"
+            "name": "Detroit Pistons",
+            "logo_url": "https://pacdn.aoneroom.com/image/2025/05/21/b248075d2235194fb41fff4c71b8fa56.jpg"
         },
         "team2": {
-            "name": "Toronto Raptors",
-            "logo_url": "https://pacdn.aoneroom.com/image/2025/07/11/8bb48bdd8172919940ecf05b9c968c94.jpg"
+            "name": "Chicago Bulls",
+            "logo_url": "https://pacdn.aoneroom.com/image/2025/05/21/59a17e8c9b3fba8828afac280548d09a.jpg"
         },
-        "time": "00:30",
-        "date": "12-11-2025",
+        "time": "00:00",
+        "date": "13-11-2025",
         "links": [
-            "https://live-en.aisports.cc/moviebox/bsy_019/playlist.m3u8",
-            "http://play.sportsteam368.com/play/j.php?id=22500207&id2=",
-            "http://play.sportsteam368.com/play/kbs.html?id=10022500207&id2=",
-            "http://play.sportsteam368.com/play/mgxl.php?id=960024453&id2=38664862"
+            "https://live-en.aisports.cc/moviebox/bsy_025/playlist.m3u8",
+            "http://play.sportsteam368.com/play/kbs.html?id=10022500214&id2=",
+            "http://play.sportsteam368.com/play/j.php?id=22500214&id2=",
+            "http://play.sportsteam368.com/play/mgxl.php?id=960090705&id2=38667232"
         ]
     },
     {
-        "id": "plnwlcai1gmxr7bfes0viyhrr67",
-        "match_id": "1116914528707659112",
+        "id": "b1e8cavf7kmo3g33rroirlmlqy4",
+        "match_id": "3981203891714245904",
         "source_name": "Premium",
-        "match_title_from_api": "New York Knicks vs Memphis Grizzlies",
+        "match_title_from_api": "Charlotte Hornets vs Milwaukee Bucks",
         "competition": "NBA",
         "team1": {
-            "name": "New York Knicks",
-            "logo_url": "https://pacdn.aoneroom.com/image/2025/05/21/ad072ba484d02766b45fee8456c24a4d.jpg"
+            "name": "Charlotte Hornets",
+            "logo_url": "https://pacdn.aoneroom.com/image/2025/07/11/23f474ce3de87e12320e87161c0fb2de.jpg"
+        },
+        "team2": {
+            "name": "Milwaukee Bucks",
+            "logo_url": "https://pacdn.aoneroom.com/image/2025/05/21/3d81ba3ca1ce0e5190919dd7389aa43d.jpg"
+        },
+        "time": "00:00",
+        "date": "13-11-2025",
+        "links": [
+            "https://live-en.aisports.cc/moviebox/bsy_021/playlist.m3u8",
+            "http://play.sportsteam368.com/play/j.php?id=22500213&id2=",
+            "http://play.sportsteam368.com/play/kbs.html?id=10022500213&id2=",
+            "http://play.sportsteam368.com/play/mgxl.php?id=960090900&id2=38668322"
+        ]
+    },
+    {
+        "id": "0cdzquxma29x84x2n9uragrr4f6",
+        "match_id": "7620112390629507280",
+        "source_name": "Premium",
+        "match_title_from_api": "Miami Heat vs Cleveland Cavaliers",
+        "competition": "NBA",
+        "team1": {
+            "name": "Miami Heat",
+            "logo_url": "https://pacdn.aoneroom.com/image/2025/05/21/86f04c4be3a620388b7eaf094fd7532f.jpg"
+        },
+        "team2": {
+            "name": "Cleveland Cavaliers",
+            "logo_url": "https://pacdn.aoneroom.com/image/2025/05/21/f88ffad626376b19150916bdd3abdca9.jpg"
+        },
+        "time": "00:30",
+        "date": "13-11-2025",
+        "links": [
+            "https://live-en.aisports.cc/moviebox/bsy_006/playlist.m3u8",
+            "http://play.sportsteam368.com/play/kbs.html?id=10022500217&id2=",
+            "http://play.sportsteam368.com/play/j.php?id=22500217&id2=",
+            "http://play.sportsteam368.com/play/mgxl.php?id=960023391&id2=38661642"
+        ]
+    },
+    {
+        "id": "wa0tdq888ek5ye4uzf9jke6u9ah",
+        "match_id": "7403939608516772048",
+        "source_name": "Premium",
+        "match_title_from_api": "Boston Celtics vs Memphis Grizzlies",
+        "competition": "NBA",
+        "team1": {
+            "name": "Boston Celtics",
+            "logo_url": "https://pacdn.aoneroom.com/image/2025/05/21/da58bbcb29cda07f12048877a99fa875.jpg"
         },
         "team2": {
             "name": "Memphis Grizzlies",
             "logo_url": "https://pacdn.aoneroom.com/image/2025/05/21/a62a77bc60a72fb6b4c812a430a5e2d5.jpg"
         },
         "time": "00:30",
-        "date": "12-11-2025",
+        "date": "13-11-2025",
         "links": [
-            "https://live-en.aisports.cc/moviebox/bsy_001/playlist.m3u8",
-            "http://play.sportsteam368.com/play/mgxl.php?id=960024542&id2=38663792",
-            "http://play.sportsteam368.com/play/kbs.html?id=10022500208&id2=",
-            "http://play.sportsteam368.com/play/j.php?id=22500208&id2="
+            "https://live-en.aisports.cc/moviebox/bsy_019/playlist.m3u8",
+            "http://play.sportsteam368.com/play/mgxl.php?id=960090418&id2=38669422",
+            "http://play.sportsteam368.com/play/kbs.html?id=10022500216&id2=",
+            "http://play.sportsteam368.com/play/j.php?id=22500216&id2="
         ]
     },
     {
-        "id": "9hoplt6ndv5gpb26x01qvlosvtm",
-        "match_id": "7223795623422476496",
+        "id": "b032n51ypaxj5rqrxqp8lutt5c9",
+        "match_id": "6350097295712075984",
         "source_name": "Premium",
-        "match_title_from_api": "Oklahoma City Thunder vs Golden State Warriors",
+        "match_title_from_api": "San Antonio Spurs vs Golden State Warriors",
         "competition": "NBA",
         "team1": {
-            "name": "Oklahoma City Thunder",
-            "logo_url": "https://pacdn.aoneroom.com/image/2025/05/21/436aa9a0fcae220c73838a390ec1d320.jpg"
+            "name": "San Antonio Spurs",
+            "logo_url": "https://pacdn.aoneroom.com/image/2025/07/05/5b18ba26ae25e1dccb7ed5774e5d80a0.jpg"
         },
         "team2": {
             "name": "Golden State Warriors",
             "logo_url": "https://pacdn.aoneroom.com/image/2025/05/21/6af8b55866d8d519e8ca4f8c53351018.jpg"
         },
         "time": "01:00",
-        "date": "12-11-2025",
+        "date": "13-11-2025",
         "links": [
-            "https://live-en.aisports.cc/moviebox/bsy_027/playlist.m3u8",
-            "http://play.sportsteam368.com/play/j.php?id=22500210&id2=",
-            "http://play.sportsteam368.com/play/kbs.html?id=10022500210&id2=",
-            "http://play.sportsteam368.com/play/kbs.html?id=vl&id2="
+            "https://live-en.aisports.cc/moviebox/bsy_017/playlist.m3u8",
+            "http://play.sportsteam368.com/play/j.php?id=22500220&id2=",
+            "http://play.sportsteam368.com/play/kbs.html?id=10022500220&id2=",
+            "http://play.sportsteam368.com/play/mgxl.php?id=960090005&id2=38662712"
         ]
     },
     {
-        "id": "iwxzcvf74wevoo4avjci8ra9zum",
-        "match_id": "3620915921525555408",
+        "id": "nc4eznnuasaltznw6hdjwu3gcv9",
+        "match_id": "4449578252961726672",
         "source_name": "Premium",
-        "match_title_from_api": "Philadelphia 76ers vs Boston Celtics",
+        "match_title_from_api": "Houston Rockets vs Washington Wizards",
         "competition": "NBA",
         "team1": {
-            "name": "Philadelphia 76ers",
-            "logo_url": "https://pacdn.aoneroom.com/image/2025/07/05/62d36f0d4a32a3f1777aea498a246fb6.jpg"
+            "name": "Houston Rockets",
+            "logo_url": "https://pacdn.aoneroom.com/image/2025/05/21/7c0607c7dcfc3d3749b75e2c5ff02f91.jpg"
         },
         "team2": {
-            "name": "Boston Celtics",
-            "logo_url": "https://pacdn.aoneroom.com/image/2025/05/21/da58bbcb29cda07f12048877a99fa875.jpg"
+            "name": "Washington Wizards",
+            "logo_url": "https://pacdn.aoneroom.com/image/2025/07/11/a5b7bb2e98b5e82f4805724822937249.jpg"
         },
         "time": "01:00",
-        "date": "12-11-2025",
+        "date": "13-11-2025",
         "links": [
-            "https://live-en.aisports.cc/moviebox/bsy_024/playlist.m3u8",
-            "http://play.sportsteam368.com/play/j.php?id=22500209&id2=",
-            "http://play.sportsteam368.com/play/mgxl.php?id=960024651&id2=38662922",
-            "http://play.sportsteam368.com/play/kbs.html?id=10022500209&id2="
+            "https://live-en.aisports.cc/moviebox/bsy_009/playlist.m3u8",
+            "http://play.sportsteam368.com/play/i11.html?id=10022500218&id2=",
+            "http://play.sportsteam368.com/play/j.php?id=22500218&id2=",
+            "http://nba.toutiaozb.com/qq/qq-kbs.html?matchliveid=1776005800"
         ]
     },
     {
-        "id": "h9zmocbanbor07lh01lbvkq4jul",
-        "match_id": "7944371563801231568",
+        "id": "1bmwucbj2nufqcx2o0guuayq5mn",
+        "match_id": "1711389679519416528",
         "source_name": "Premium",
-        "match_title_from_api": "Utah Jazz vs Indiana Pacers",
+        "match_title_from_api": "New Orleans Pelicans vs Portland Trail Blazers",
         "competition": "NBA",
         "team1": {
-            "name": "Utah Jazz",
-            "logo_url": "https://pacdn.aoneroom.com/image/2025/07/05/0bcdcb0109598444b15d9179fdaf555b.jpg"
+            "name": "New Orleans Pelicans",
+            "logo_url": "https://pacdn.aoneroom.com/image/2025/07/10/a5346f8e89dafdf6c88962f83e12d3d6.jpg"
         },
         "team2": {
-            "name": "Indiana Pacers",
-            "logo_url": "https://pacdn.aoneroom.com/image/2025/05/21/1ad5a70eba4b27dbd61eba60743de1ea.jpg"
+            "name": "Portland Trail Blazers",
+            "logo_url": "https://pacdn.aoneroom.com/image/2025/07/11/f3b1f689ec21d7e2add83c042350f913.jpg"
         },
-        "time": "02:00",
-        "date": "12-11-2025",
+        "time": "01:00",
+        "date": "13-11-2025",
         "links": [
-            "https://live-en.aisports.cc/moviebox/bsy_010/playlist.m3u8",
-            "http://play.sportsteam368.com/play/j.php?id=22500211&id2=",
-            "http://play.sportsteam368.com/play/i11.html?id=10022500211&id2=",
-            "http://nba.toutiaozb.com/qq/qq-kbs.html?matchliveid=1775971200"
+            "https://live-en.aisports.cc/moviebox/bsy_013/playlist.m3u8",
+            "http://play.sportsteam368.com/play/j.php?id=22500219&id2=",
+            "http://play.sportsteam368.com/play/kbs.html?id=10022500219&id2=",
+            "http://play.sportsteam368.com/play/mgxl.php?id=960090108&id2=38663772"
         ]
     },
     {
-        "id": "36gr1q4a2t1ww0oiyhdngvhhpz7",
-        "match_id": "5566470960549609680",
+        "id": "wi7uddq36h0196hkz0myfhu2nfl",
+        "match_id": "1306065713057120464",
         "source_name": "Premium",
-        "match_title_from_api": "Sacramento Kings vs Denver Nuggets",
+        "match_title_from_api": "Dallas Mavericks vs Phoenix Suns",
+        "competition": "NBA",
+        "team1": {
+            "name": "Dallas Mavericks",
+            "logo_url": "https://pacdn.aoneroom.com/image/2025/05/21/ed3a6d7e46a9ae002e9922a92fadad91.jpg"
+        },
+        "team2": {
+            "name": "Phoenix Suns",
+            "logo_url": "https://pacdn.aoneroom.com/image/2025/07/11/dc6d98b03e2c7ac0773a7d5bbe90247c.jpg"
+        },
+        "time": "01:30",
+        "date": "13-11-2025",
+        "links": [
+            "https://live-en.aisports.cc/moviebox/bsy_015/playlist.m3u8",
+            "http://play.sportsteam368.com/play/j.php?id=22500221&id2=",
+            "http://play.sportsteam368.com/play/mgxl.php?id=960089205&id2=38665922",
+            "http://play.sportsteam368.com/play/kbs.html?id=10022500221&id2="
+        ]
+    },
+    {
+        "id": "5qc8xjhl281i35n2zkr334uxnrb",
+        "match_id": "8511825116848964968",
+        "source_name": "Premium",
+        "match_title_from_api": "Oklahoma City Thunder vs LA Lakers",
+        "competition": "NBA",
+        "team1": {
+            "name": "Oklahoma City Thunder",
+            "logo_url": "https://pacdn.aoneroom.com/image/2025/05/21/436aa9a0fcae220c73838a390ec1d320.jpg"
+        },
+        "team2": {
+            "name": "LA Lakers",
+            "logo_url": "https://pacdn.aoneroom.com/image/2025/05/21/9ad9a400c0971b9ecbf8e15b9c749a1e.jpg"
+        },
+        "time": "02:30",
+        "date": "13-11-2025",
+        "links": []
+    },
+    {
+        "id": "1qu763yjmicc93qs278cz8oab34",
+        "match_id": "5269233385143256424",
+        "source_name": "Premium",
+        "match_title_from_api": "Sacramento Kings vs Atlanta Hawks",
         "competition": "NBA",
         "team1": {
             "name": "Sacramento Kings",
             "logo_url": "https://pacdn.aoneroom.com/image/2025/05/21/a15f7cf0acb7d08990880dc4396115d3.jpg"
         },
         "team2": {
+            "name": "Atlanta Hawks",
+            "logo_url": "https://pacdn.aoneroom.com/image/2025/05/21/b8b461891b682930791b31b852430e04.jpg"
+        },
+        "time": "03:00",
+        "date": "13-11-2025",
+        "links": []
+    },
+    {
+        "id": "5swlmijeeqo1p3yzjr9iz85jk91",
+        "match_id": "4404542256686973136",
+        "source_name": "Premium",
+        "match_title_from_api": "LA Clippers vs Denver Nuggets",
+        "competition": "NBA",
+        "team1": {
+            "name": "LA Clippers",
+            "logo_url": "https://pacdn.aoneroom.com/image/2025/05/21/9137a4010c1778aa15dd16af2754fee4.jpg"
+        },
+        "team2": {
             "name": "Denver Nuggets",
             "logo_url": "https://pacdn.aoneroom.com/image/2025/05/21/530b1e2d1fbd7c206621c8edb7d15f68.jpg"
         },
-        "time": "04:00",
-        "date": "12-11-2025",
-        "links": [
-            "https://live-en.aisports.cc/moviebox/bsy_019/playlist.m3u8",
-            "http://play.sportsteam368.com/play/j.php?id=22500212&id2=",
-            "http://play.sportsteam368.com/play/kbs.html?id=10022500212&id2=",
-            "http://play.sportsteam368.com/play/mgxl.php?id=960027632&id2=38665072"
-        ]
+        "time": "03:30",
+        "date": "13-11-2025",
+        "links": []
     },
     {
-        "id": "zxgj1m5c3loawzr9i1sp583r9e3",
-        "match_id": "2964437729473447272",
+        "id": "j396gb7oe8rgxewiajcheiyaz8d",
+        "match_id": "285031446393375792",
         "source_name": "Premium",
-        "match_title_from_api": "Aubagne vs Avignon",
-        "competition": "Coupe de France",
+        "match_title_from_api": "Azerbaijan vs Iceland",
+        "competition": "World Cup Qualifiers: UEFA",
         "team1": {
-            "name": "Aubagne",
-            "logo_url": "https://pacdn.aoneroom.com/image/2025/10/16/b985fc976a243d66865b7d66b6817d8b.jpg"
+            "name": "Azerbaijan",
+            "logo_url": "https://pacdn.aoneroom.com/image/2025/09/02/2b62175b945c29e20957305d9393deb3.jpg"
         },
         "team2": {
-            "name": "Avignon",
-            "logo_url": "https://pacdn.aoneroom.com/image/2025/10/16/82aa0e60f4a41ee76ced507a7dce9183.jpg"
+            "name": "Iceland",
+            "logo_url": "https://pacdn.aoneroom.com/image/2025/09/02/d32d222821e274dac4f7bca4a4a97575.jpg"
         },
-        "time": "19:30",
-        "date": "12-11-2025",
+        "time": "17:00",
+        "date": "13-11-2025",
+        "links": []
+    },
+    {
+        "id": "89veyu7fh0wjjpcv0k9wqmip4eb",
+        "match_id": "2498550663245974576",
+        "source_name": "Premium",
+        "match_title_from_api": "Armenia vs Hungary",
+        "competition": "World Cup Qualifiers: UEFA",
+        "team1": {
+            "name": "Armenia",
+            "logo_url": "https://pacdn.aoneroom.com/image/2025/09/02/d1f67377c9e879e2438916a74c9347b5.jpg"
+        },
+        "team2": {
+            "name": "Hungary",
+            "logo_url": "https://pacdn.aoneroom.com/image/2025/09/02/9e70d1c602ead833b2742a66440ad09d.jpg"
+        },
+        "time": "17:00",
+        "date": "13-11-2025",
+        "links": []
+    },
+    {
+        "id": "f82xd2puk5l4rnkd09pin6kw8uv",
+        "match_id": "1628792985210047536",
+        "source_name": "Premium",
+        "match_title_from_api": "Norway vs Estonia",
+        "competition": "World Cup Qualifiers: UEFA",
+        "team1": {
+            "name": "Norway",
+            "logo_url": "https://pacdn.aoneroom.com/image/2025/09/02/ab342d87262c680890cda7c40f76c873.jpg"
+        },
+        "team2": {
+            "name": "Estonia",
+            "logo_url": "https://pacdn.aoneroom.com/image/2025/09/02/14e7c50515171380cfef7e167bb385a2.jpg"
+        },
+        "time": "17:00",
+        "date": "13-11-2025",
+        "links": []
+    },
+    {
+        "id": "6eebcrb0111m5q0nzomif45ardk",
+        "match_id": "6722927113719398608",
+        "source_name": "Premium",
+        "match_title_from_api": "France vs Ukraine",
+        "competition": "World Cup Qualifiers: UEFA",
+        "team1": {
+            "name": "France",
+            "logo_url": "https://pacdn.aoneroom.com/image/2025/04/08/40e47c16456a4b077e3c16d1f4457127.jpg"
+        },
+        "team2": {
+            "name": "Ukraine",
+            "logo_url": "https://pacdn.aoneroom.com/image/2025/09/02/43857d36f33e7a56a3668fe19d6c6e27.jpg"
+        },
+        "time": "19:45",
+        "date": "13-11-2025",
+        "links": []
+    },
+    {
+        "id": "yir2c2n1mwonyfnnpreeswg1p4a",
+        "match_id": "6433007887707422928",
+        "source_name": "Premium",
+        "match_title_from_api": "England vs Serbia",
+        "competition": "World Cup Qualifiers: UEFA",
+        "team1": {
+            "name": "England",
+            "logo_url": "https://pacdn.aoneroom.com/image/2025/09/02/764ce564095fc4eff7e312a6a40fb2a1.jpg"
+        },
+        "team2": {
+            "name": "Serbia",
+            "logo_url": "https://pacdn.aoneroom.com/image/2025/09/02/d6823482ed3d9bfd31db5d072d3d93d0.jpg"
+        },
+        "time": "19:45",
+        "date": "13-11-2025",
+        "links": []
+    },
+    {
+        "id": "bdhm0leg8furhorivzrvsl8u0wd",
+        "match_id": "5484437216192613424",
+        "source_name": "Premium",
+        "match_title_from_api": "Ireland vs Portugal",
+        "competition": "World Cup Qualifiers: UEFA",
+        "team1": {
+            "name": "Ireland",
+            "logo_url": "https://pacdn.aoneroom.com/image/2025/09/02/fd88cfd2fd741929dee13f417d898a02.jpg"
+        },
+        "team2": {
+            "name": "Portugal",
+            "logo_url": "https://pacdn.aoneroom.com/image/2025/04/08/f353156695f5dac1f46d48e1d3bfef5e.jpg"
+        },
+        "time": "19:45",
+        "date": "13-11-2025",
+        "links": []
+    },
+    {
+        "id": "37c4y7yowgqrmf411xdz6iuxvx1",
+        "match_id": "4177830374301647056",
+        "source_name": "Premium",
+        "match_title_from_api": "Andorra vs Albania",
+        "competition": "World Cup Qualifiers: UEFA",
+        "team1": {
+            "name": "Andorra",
+            "logo_url": "https://pacdn.aoneroom.com/image/2025/09/02/c8c87d5ed5717dcc08a21b1dcc6000f3.jpg"
+        },
+        "team2": {
+            "name": "Albania",
+            "logo_url": "https://pacdn.aoneroom.com/image/2025/09/02/3ca469a4f1e96c5fe30c5a93ce51f8c6.jpg"
+        },
+        "time": "19:45",
+        "date": "13-11-2025",
+        "links": []
+    },
+    {
+        "id": "7ctdzad0upeq14x53sor5qu9jor",
+        "match_id": "3835556802621590576",
+        "source_name": "Premium",
+        "match_title_from_api": "Moldova vs Italy",
+        "competition": "World Cup Qualifiers: UEFA",
+        "team1": {
+            "name": "Moldova",
+            "logo_url": "https://pacdn.aoneroom.com/image/2025/09/02/a1ca76534031662d98a8ddebda7ae83e.jpg"
+        },
+        "team2": {
+            "name": "Italy",
+            "logo_url": "https://pacdn.aoneroom.com/image/2025/04/08/86b804bddd54f41c34dbec81bc76a013.jpg"
+        },
+        "time": "19:45",
+        "date": "13-11-2025",
         "links": []
     }
 ]
