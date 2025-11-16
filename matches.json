@@ -1,6 +1,6 @@
 [
     {
-        "id": "2x8ypcjnmyovfsksu2qs93c171g",
+        "id": "bnp7jpz01lmptwt54gt5a5nzqd1",
         "match_id": "1396137705604629864",
         "source_name": "Premium",
         "match_title_from_api": "Cleveland Cavaliers vs Memphis Grizzlies",
@@ -23,7 +23,7 @@
         ]
     },
     {
-        "id": "fx449ls6s5xc5oaerpcsxc57z2a",
+        "id": "ib5q6mvavgdtfije0f4nsh0u0vx",
         "match_id": "6115910115088810192",
         "source_name": "Premium",
         "match_title_from_api": "Indiana Pacers vs Toronto Raptors",
@@ -46,7 +46,7 @@
         ]
     },
     {
-        "id": "j5nhux6k31f9uqiwkcxck8yj10j",
+        "id": "nqcbk3i33tcnos1hl8pjx4p8g5t",
         "match_id": "5719593347880306024",
         "source_name": "Premium",
         "match_title_from_api": "Charlotte Hornets vs Oklahoma City Thunder",
@@ -69,7 +69,7 @@
         ]
     },
     {
-        "id": "u6o5ah5d91vovxxgblo04tm0lpz",
+        "id": "vzbosav1wql61y6oq0fro8z2mji",
         "match_id": "5899737332974077288",
         "source_name": "Premium",
         "match_title_from_api": "Minnesota Timberwolves vs Denver Nuggets",
@@ -92,7 +92,7 @@
         ]
     },
     {
-        "id": "54t5vo84ce85f8yek5zkmhbd20n",
+        "id": "jzyd0b481wgqu6a6mzbze55odhl",
         "match_id": "3089491165495836880",
         "source_name": "Premium",
         "match_title_from_api": "Milwaukee Bucks vs LA Lakers",
@@ -109,13 +109,13 @@
         "date": "16-11-2025",
         "links": [
             "https://live-en.aisports.cc/moviebox/bsy_014/playlist.m3u8",
+            "http://play.sportsteam368.com/play/kbs.html?id=10022500231&id2=",
             "http://play.sportsteam368.com/play/j.php?id=22500231&id2=",
-            "http://play.sportsteam368.com/play/kbs.html?id=vl&id2=",
-            "http://play.sportsteam368.com/play/kbs.html?id=10022500231&id2="
+            "http://play.sportsteam368.com/play/kbs.html?id=vl&id2="
         ]
     },
     {
-        "id": "ma8py0kuyoiugwolvbcf36jko5e",
+        "id": "zt0clid5wb56gtszmwgqattirsi",
         "match_id": "7439624859691663864",
         "source_name": "Premium",
         "match_title_from_api": "Reims Sainte-Anne vs GFC Ajaccio",
@@ -133,43 +133,7 @@
         "links": []
     },
     {
-        "id": "l5nccwrvzjcszrgnbf0obetdpk6",
-        "match_id": "955285821207233016",
-        "source_name": "Premium",
-        "match_title_from_api": "Cambrai vs Feignies Aulnoye",
-        "competition": "Coupe de France",
-        "team1": {
-            "name": "Cambrai",
-            "logo_url": "https://pacdn.aoneroom.com/image/2025/10/21/df448980f3624797810d4a70b36cf9c8.jpg"
-        },
-        "team2": {
-            "name": "Feignies Aulnoye",
-            "logo_url": "https://pacdn.aoneroom.com/image/2025/04/08/36abeb6b83e7c5742d92bbbd9bafdf44.jpg"
-        },
-        "time": "13:00",
-        "date": "16-11-2025",
-        "links": []
-    },
-    {
-        "id": "8tq42atz2pai00wq38mgg0e3iw3",
-        "match_id": "910249824934576632",
-        "source_name": "Premium",
-        "match_title_from_api": "De Gouzon vs US Chauvigny",
-        "competition": "Coupe de France",
-        "team1": {
-            "name": "De Gouzon",
-            "logo_url": "https://pacdn.aoneroom.com/image/2025/10/16/7df67c7224e8d4120b205ec6d4d4e37f.jpg"
-        },
-        "team2": {
-            "name": "US Chauvigny",
-            "logo_url": "https://pacdn.aoneroom.com/image/2025/10/23/a50a41dcd76b8a52514a35fc050a0c02.jpg"
-        },
-        "time": "13:00",
-        "date": "16-11-2025",
-        "links": []
-    },
-    {
-        "id": "8csveove9w412jw5srw2vkl5g0o",
+        "id": "82dq0hxvkuolb5ghlnacdwyfnfd",
         "match_id": "865213828660871672",
         "source_name": "Premium",
         "match_title_from_api": "Bassin d'Arcachon vs Blagnac",
@@ -187,7 +151,7 @@
         "links": []
     },
     {
-        "id": "cz8fqz5g87tthpi97kbg6n3wam0",
+        "id": "qtcqbw71l1ca7tyttle1adc7kwe",
         "match_id": "7884073847917789688",
         "source_name": "Premium",
         "match_title_from_api": "US Camon vs St Maur Lusitanos",
@@ -205,43 +169,7 @@
         "links": []
     },
     {
-        "id": "fkp0cg0dxsutqfmzzz5mumihk7s",
-        "match_id": "7694922663568228856",
-        "source_name": "Premium",
-        "match_title_from_api": "Soustons vs Marmande",
-        "competition": "Coupe de France",
-        "team1": {
-            "name": "Soustons",
-            "logo_url": "https://pacdn.aoneroom.com/image/2025/10/22/2f67db23da1be771dc8e162359114a27.jpg"
-        },
-        "team2": {
-            "name": "Marmande",
-            "logo_url": "https://pacdn.aoneroom.com/image/2025/04/08/c2a3b9481358a60b895957eca19163db.jpg"
-        },
-        "time": "13:00",
-        "date": "16-11-2025",
-        "links": []
-    },
-    {
-        "id": "knge4x2vhgrelhnxor9j3uv0tnf",
-        "match_id": "7469742682199704056",
-        "source_name": "Premium",
-        "match_title_from_api": "UF Touraine vs Epernay",
-        "competition": "Coupe de France",
-        "team1": {
-            "name": "UF Touraine",
-            "logo_url": "https://pacdn.aoneroom.com/image/2025/10/16/7c359f27baf7df1398f98b3ac1cf4bf9.jpg"
-        },
-        "team2": {
-            "name": "Epernay",
-            "logo_url": "https://pacdn.aoneroom.com/image/2025/10/16/762e9b2cf074bb7528363e5f1f7d0fac.jpg"
-        },
-        "time": "13:00",
-        "date": "16-11-2025",
-        "links": []
-    },
-    {
-        "id": "xahuhjslrt8cl63f71m9v0is8xj",
+        "id": "4ev15pfjqmurf2m8833rhosnij4",
         "match_id": "7138728109587972600",
         "source_name": "Premium",
         "match_title_from_api": "Longuenesse vs Bondues FC",
@@ -259,25 +187,7 @@
         "links": []
     },
     {
-        "id": "wa48se0lgzj82urrqgyjqgle12o",
-        "match_id": "6726648743683572216",
-        "source_name": "Premium",
-        "match_title_from_api": "Vitre vs Plouvorn",
-        "competition": "Coupe de France",
-        "team1": {
-            "name": "Vitre",
-            "logo_url": "https://pacdn.aoneroom.com/image/2025/04/08/b3d355267eca603dcb4e8328053b3752.jpg"
-        },
-        "team2": {
-            "name": "Plouvorn",
-            "logo_url": "https://pacdn.aoneroom.com/image/2025/10/16/ae71e3cae4f2d77488b9eb5ff285d185.jpg"
-        },
-        "time": "13:00",
-        "date": "16-11-2025",
-        "links": []
-    },
-    {
-        "id": "l5lzwmll69grnref4qn6rc4x85s",
+        "id": "xcpr0xluv7xct9gtuoglyy9mjbs",
         "match_id": "6499216962501362168",
         "source_name": "Premium",
         "match_title_from_api": "Merignac vs US Colomiers",
@@ -295,7 +205,7 @@
         "links": []
     },
     {
-        "id": "83qp2g9jnlm04kr80v3crmwf6nv",
+        "id": "4m6zx4fj7y0c8os87rebhvbmrx2",
         "match_id": "624271248596550136",
         "source_name": "Premium",
         "match_title_from_api": "St Cyr Collonges au Mont d'Or vs Thonon Evian",
@@ -313,43 +223,7 @@
         "links": []
     },
     {
-        "id": "lewjn6jtlelpjixj0g02dn2rxsa",
-        "match_id": "608508649899704824",
-        "source_name": "Premium",
-        "match_title_from_api": "Montreal La Cluse vs FC Chalon",
-        "competition": "Coupe de France",
-        "team1": {
-            "name": "Montreal La Cluse",
-            "logo_url": "https://pacdn.aoneroom.com/image/2025/10/16/ac3881e04a42020a0e15a3fb03dd9d1f.jpg"
-        },
-        "team2": {
-            "name": "FC Chalon",
-            "logo_url": "https://pacdn.aoneroom.com/image/2025/04/08/b317f31519a6626d39779691c9a4cb4e.jpg"
-        },
-        "time": "13:00",
-        "date": "16-11-2025",
-        "links": []
-    },
-    {
-        "id": "w075k7tyivz2zry9vksti0or9hy",
-        "match_id": "5875468414110548472",
-        "source_name": "Premium",
-        "match_title_from_api": "Sable FC vs St. Malo",
-        "competition": "Coupe de France",
-        "team1": {
-            "name": "Sable FC",
-            "logo_url": "https://pacdn.aoneroom.com/image/2025/04/08/2c0b773c32ea3cd63b1aa83f7c031fe7.jpg"
-        },
-        "team2": {
-            "name": "St. Malo",
-            "logo_url": "https://pacdn.aoneroom.com/image/2025/04/08/6c52588a3f67946fcd657413b1ea2e66.jpg"
-        },
-        "time": "13:00",
-        "date": "16-11-2025",
-        "links": []
-    },
-    {
-        "id": "8d7v5njmemotam41u82sst2xde4",
+        "id": "08e1cqja9v9vwt738pztfvy3ivi",
         "match_id": "5801159020258935288",
         "source_name": "Premium",
         "match_title_from_api": "Beaumont SA vs CM Aubervilliers",
@@ -367,7 +241,7 @@
         "links": []
     },
     {
-        "id": "7cxt9ptjt9h3obfw98o8oi9b0ot",
+        "id": "tu3igpl6kjcti8xrgho3e29cm3i",
         "match_id": "4943223291244855800",
         "source_name": "Premium",
         "match_title_from_api": "US Wittenheim vs Freyming",
@@ -385,25 +259,7 @@
         "links": []
     },
     {
-        "id": "lpvri5b52pbwvb4pelbn2ziyet1",
-        "match_id": "4373517938382488056",
-        "source_name": "Premium",
-        "match_title_from_api": "Montceau vs L'Etrat-la-Tour",
-        "competition": "Coupe de France",
-        "team1": {
-            "name": "Montceau",
-            "logo_url": "https://pacdn.aoneroom.com/image/2025/04/08/0e789f47540dd5af419c9ca8d617d29b.jpg"
-        },
-        "team2": {
-            "name": "L'Etrat-la-Tour",
-            "logo_url": "https://pacdn.aoneroom.com/image/2025/04/08/992dc57070b0eb68208a399ef80efa1e.jpg"
-        },
-        "time": "13:00",
-        "date": "16-11-2025",
-        "links": []
-    },
-    {
-        "id": "6aoselad1gtxsh22l86dfi57jn5",
+        "id": "064iqlujxmqcjpssl9utw4q5xm1",
         "match_id": "4142989932456460792",
         "source_name": "Premium",
         "match_title_from_api": "Association Still Mutzig vs Raon L Etape",
@@ -421,7 +277,7 @@
         "links": []
     },
     {
-        "id": "0riwqsqtul6pomt7uw50yrlqk91",
+        "id": "fbxg13yaoojv4h8dydyew06j89y",
         "match_id": "3950179573409661432",
         "source_name": "Premium",
         "match_title_from_api": "Mauguio Carnon vs Is-Selongey Football",
@@ -439,25 +295,7 @@
         "links": []
     },
     {
-        "id": "xm7pwkfh35qaf5arltj9mvmwarr",
-        "match_id": "3860107580862251512",
-        "source_name": "Premium",
-        "match_title_from_api": "Loon Plage vs Bethune",
-        "competition": "Coupe de France",
-        "team1": {
-            "name": "Loon Plage",
-            "logo_url": "https://pacdn.aoneroom.com/image/2025/10/23/56c7f6330d87d7bb752d1940ff32e92c.jpg"
-        },
-        "team2": {
-            "name": "Bethune",
-            "logo_url": "https://pacdn.aoneroom.com/image/2025/04/08/ea219deae5c18d504388e2a49fadf17e.jpg"
-        },
-        "time": "13:00",
-        "date": "16-11-2025",
-        "links": []
-    },
-    {
-        "id": "z51in6lr4gkby44fkbp9qk9oyau",
+        "id": "wgpqa2zgj1z8ejaeogbe3cofdki",
         "match_id": "3821826984029602296",
         "source_name": "Premium",
         "match_title_from_api": "Pledran vs Plabennec",
@@ -475,7 +313,7 @@
         "links": []
     },
     {
-        "id": "mccp5bkzs6r3fxrsdqoi01aiosr",
+        "id": "zgnj3ib8ezuzfbc2gqvalfvvadv",
         "match_id": "3335438224272540152",
         "source_name": "Premium",
         "match_title_from_api": "Savigneux-Montbrison vs Feurs",
@@ -493,7 +331,7 @@
         "links": []
     },
     {
-        "id": "85v869u1h0cwg3jw9ne45criibq",
+        "id": "pmbdjh6qg914l3a9yf408e8rene",
         "match_id": "3166553238247211272",
         "source_name": "Premium",
         "match_title_from_api": "Pierrelatte vs Lyon la Duchere",
@@ -511,7 +349,7 @@
         "links": []
     },
     {
-        "id": "ggqge5sdt60hqna6wn9ndz3q6la",
+        "id": "7u204ny9h3kehumks1i3a412cnn",
         "match_id": "2909848059487076856",
         "source_name": "Premium",
         "match_title_from_api": "Drancy vs Beauvais",
@@ -529,61 +367,7 @@
         "links": []
     },
     {
-        "id": "xqpay7kblbwq9j2d52efi6tht57",
-        "match_id": "2853553064144961800",
-        "source_name": "Premium",
-        "match_title_from_api": "Vendee Fontenay Foot vs Chamalieres",
-        "competition": "Coupe de France",
-        "team1": {
-            "name": "Vendee Fontenay Foot",
-            "logo_url": "https://pacdn.aoneroom.com/image/2025/04/08/d91efe3e025079c1dcad4178f567c42b.jpg"
-        },
-        "team2": {
-            "name": "Chamalieres",
-            "logo_url": "https://pacdn.aoneroom.com/image/2025/10/14/04fb003e14f7c292ae525c6972a4e4f7.jpg"
-        },
-        "time": "13:00",
-        "date": "16-11-2025",
-        "links": []
-    },
-    {
-        "id": "m887qg5n31n9x3333sxp984uxd1",
-        "match_id": "2575737262131528184",
-        "source_name": "Premium",
-        "match_title_from_api": "AS Steenvoorde vs Chambly",
-        "competition": "Coupe de France",
-        "team1": {
-            "name": "AS Steenvoorde",
-            "logo_url": "https://pacdn.aoneroom.com/image/2025/10/21/afdd729ba35e389d3d61940896dc67d1.jpg"
-        },
-        "team2": {
-            "name": "Chambly",
-            "logo_url": "https://pacdn.aoneroom.com/image/2025/10/21/38f42c8a9118c532e0f5576a7eaed8c1.jpg"
-        },
-        "time": "13:00",
-        "date": "16-11-2025",
-        "links": []
-    },
-    {
-        "id": "z6mox4nh4ex2v9aqapm170lm9us",
-        "match_id": "1982106536248754680",
-        "source_name": "Premium",
-        "match_title_from_api": "Boe Bon Encontre vs Bordeaux",
-        "competition": "Coupe de France",
-        "team1": {
-            "name": "Boe Bon Encontre",
-            "logo_url": "https://pacdn.aoneroom.com/image/2025/10/23/9b39043d6d2b5b50d9869efd915386f3.jpg"
-        },
-        "team2": {
-            "name": "Bordeaux",
-            "logo_url": "https://pacdn.aoneroom.com/image/2025/04/08/61524bbe52c012ab6cf27b8604b9ace4.jpg"
-        },
-        "time": "13:00",
-        "date": "16-11-2025",
-        "links": []
-    },
-    {
-        "id": "lzt64jncn7yhn4hber6rehu2ieo",
+        "id": "txc3u27kaeg9gqpqrnrij14sv7w",
         "match_id": "1883027344446603768",
         "source_name": "Premium",
         "match_title_from_api": "Cormontreuil vs Amiens Portugais",
@@ -601,7 +385,7 @@
         "links": []
     },
     {
-        "id": "gu8rr5nlb5dcc7yar8m2zqyt93f",
+        "id": "b2huo0wv1f74j02kxskxle2eb63",
         "match_id": "1720897757860757768",
         "source_name": "Premium",
         "match_title_from_api": "FC Saint-Meziery vs FC Perigny",
@@ -619,7 +403,7 @@
         "links": []
     },
     {
-        "id": "x7481uekkzvxnh7e23cia16ccag",
+        "id": "ca3zotr3s86u85jbpgqutf4hp1t",
         "match_id": "1684868960842301944",
         "source_name": "Premium",
         "match_title_from_api": "Etoile Bobigny vs Villeneuve La Garenne",
@@ -637,7 +421,7 @@
         "links": []
     },
     {
-        "id": "w1o7ejyhxujxwgy1p41mklkqkum",
+        "id": "n9yxygcuwbgl8v2iwrl0477u14n",
         "match_id": "1657002938147947000",
         "source_name": "Premium",
         "match_title_from_api": "Avion vs Torcy US",
@@ -655,7 +439,7 @@
         "links": []
     },
     {
-        "id": "gvwo1x6ad0ez6p31qb7v914f19i",
+        "id": "18i0mnjq7wlrvxdlaixt4niuzzh",
         "match_id": "1452933580032721400",
         "source_name": "Premium",
         "match_title_from_api": "St Brice vs Bogny",
@@ -673,7 +457,7 @@
         "links": []
     },
     {
-        "id": "z6tnqeym6lx8y9un6enzjc2p767",
+        "id": "x94n71i5kyzn3ef0c2dw27z8lw5",
         "match_id": "126623489772110328",
         "source_name": "Premium",
         "match_title_from_api": "Cappelle-la-Grande ES vs SC Abbeville",
@@ -691,7 +475,7 @@
         "links": []
     },
     {
-        "id": "f8ehyg8f294vjqlxvfa0fe9qn2r",
+        "id": "71b3sid0jvh1q7qgoumddexhhbt",
         "match_id": "1248019796987379976",
         "source_name": "Premium",
         "match_title_from_api": "Marcquois vs OM Aire sur La Lys",
@@ -709,7 +493,7 @@
         "links": []
     },
     {
-        "id": "fiznjgfu2uxm70rje6if3n6wf5u",
+        "id": "w2ykco3lefhv8vifg4ddw301276",
         "match_id": "1112911808166248952",
         "source_name": "Premium",
         "match_title_from_api": "Nord Lozere Foot vs US Ecotay Moingt",
@@ -727,7 +511,7 @@
         "links": []
     },
     {
-        "id": "kv2tpgkpj0zip3jpz1y2c3cadu7",
+        "id": "fujjxsby7l4gavnmy9i7g7mno22",
         "match_id": "7106217749777891832",
         "source_name": "Premium",
         "match_title_from_api": "Saint-Renan vs Stade Briochin",
@@ -745,7 +529,7 @@
         "links": []
     },
     {
-        "id": "5kjtzi8nook58pgw0pkmrz5qsfc",
+        "id": "ajmyl37k88nuddlr474yq33eidf",
         "match_id": "4745064907640553976",
         "source_name": "Premium",
         "match_title_from_api": "Pen Hir Camaret vs Les Sables VF",
@@ -763,7 +547,7 @@
         "links": []
     },
     {
-        "id": "4ns4c6m2edpriduvss1t9r8rd4t",
+        "id": "vxnejsppecm4wwq8twa1wh2gwvj",
         "match_id": "1880775544632918520",
         "source_name": "Premium",
         "match_title_from_api": "US Le Poinconnet vs Romorantin",
@@ -781,7 +565,7 @@
         "links": []
     },
     {
-        "id": "18l7o0v58o5eikba0z0kyijkt0v",
+        "id": "vyrp1lno2pvmbjfm4y2r71jf3bt",
         "match_id": "8266879816244281848",
         "source_name": "Premium",
         "match_title_from_api": "St Amand FC vs Dieppe",
@@ -799,7 +583,43 @@
         "links": []
     },
     {
-        "id": "tyieapiiz40ddzg47nt7c073srv",
+        "id": "11cc3xha4l5q0qn864k33b17z05",
+        "match_id": "7469742682199704056",
+        "source_name": "Premium",
+        "match_title_from_api": "UF Touraine vs Epernay",
+        "competition": "Coupe de France",
+        "team1": {
+            "name": "UF Touraine",
+            "logo_url": "https://pacdn.aoneroom.com/image/2025/10/16/7c359f27baf7df1398f98b3ac1cf4bf9.jpg"
+        },
+        "team2": {
+            "name": "Epernay",
+            "logo_url": "https://pacdn.aoneroom.com/image/2025/10/16/762e9b2cf074bb7528363e5f1f7d0fac.jpg"
+        },
+        "time": "14:00",
+        "date": "16-11-2025",
+        "links": []
+    },
+    {
+        "id": "iv0a5msxt4p1u8dngqu6hyxwaqh",
+        "match_id": "6726648743683572216",
+        "source_name": "Premium",
+        "match_title_from_api": "Vitre vs Plouvorn",
+        "competition": "Coupe de France",
+        "team1": {
+            "name": "Vitre",
+            "logo_url": "https://pacdn.aoneroom.com/image/2025/04/08/b3d355267eca603dcb4e8328053b3752.jpg"
+        },
+        "team2": {
+            "name": "Plouvorn",
+            "logo_url": "https://pacdn.aoneroom.com/image/2025/10/16/ae71e3cae4f2d77488b9eb5ff285d185.jpg"
+        },
+        "time": "14:00",
+        "date": "16-11-2025",
+        "links": []
+    },
+    {
+        "id": "g4hmmbl51v04z1sddouldt6loln",
         "match_id": "6626584389462934008",
         "source_name": "Premium",
         "match_title_from_api": "Agde vs Montpellier",
@@ -817,7 +637,7 @@
         "links": []
     },
     {
-        "id": "e9gkweh3yu65a93mwzon71k70lv",
+        "id": "q3jzzx7zxjh359w5wmf9iv6kaux",
         "match_id": "3809098154810687696",
         "source_name": "Premium",
         "match_title_from_api": "Hungary vs Ireland",
@@ -835,7 +655,7 @@
         "links": []
     },
     {
-        "id": "67tlbrhrr4ay5x2luk0jy4eh3jx",
+        "id": "9lfklemwua7ajar22x7s91ba2xx",
         "match_id": "3782076557046464720",
         "source_name": "Premium",
         "match_title_from_api": "Portugal vs Armenia",
@@ -853,7 +673,7 @@
         "links": []
     },
     {
-        "id": "cn4x6hhro9ae7l6m70qvgz7hqhg",
+        "id": "miw9ewgon2lrub03wdox27s40r7",
         "match_id": "9209398775759913464",
         "source_name": "Premium",
         "match_title_from_api": "Blois vs Clermont Foot 63",
@@ -871,7 +691,7 @@
         "links": []
     },
     {
-        "id": "he2cj0cu50ux8d8kpy8vko6z90k",
+        "id": "zopvz568oxdyvc822gkcku0b8vn",
         "match_id": "6840505371763032568",
         "source_name": "Premium",
         "match_title_from_api": "Nancy vs GSA Tomblaine",
@@ -889,7 +709,7 @@
         "links": []
     },
     {
-        "id": "xd5asu56w6zqb83encz6r4fwts6",
+        "id": "nmpy81hyio32664bygpeqiodgi9",
         "match_id": "5243764074459054584",
         "source_name": "Premium",
         "match_title_from_api": "Boulogne vs Dunkerque",
@@ -907,7 +727,7 @@
         "links": []
     },
     {
-        "id": "canh3igm867j34vqjy9q797jyq0",
+        "id": "xw74e5gjg1qjoqwyrkrw0npmt14",
         "match_id": "5147151911871726072",
         "source_name": "Premium",
         "match_title_from_api": "Forbach vs Red Star",
@@ -925,7 +745,7 @@
         "links": []
     },
     {
-        "id": "7zqjdhguh9b7e8ysvn4oe0944q2",
+        "id": "w1jk5nm81vh08fl9m6g1hu6pbt9",
         "match_id": "3287049713966532880",
         "source_name": "Premium",
         "match_title_from_api": "Saint-Pauloise vs ES Dominicaine",
@@ -943,25 +763,25 @@
         "links": []
     },
     {
-        "id": "bq2vr20fxixyetr2tge8xz7b8dy",
-        "match_id": "3020186250356605432",
+        "id": "6jttyg38pra0ptko8uq9ixwof4x",
+        "match_id": "1982106536248754680",
         "source_name": "Premium",
-        "match_title_from_api": "US Granvillaise vs Dinan-Lehon",
+        "match_title_from_api": "Boe Bon Encontre vs Bordeaux",
         "competition": "Coupe de France",
         "team1": {
-            "name": "US Granvillaise",
-            "logo_url": "https://pacdn.aoneroom.com/image/2025/10/23/9236541d3e9a3e3672f5b1d5dc39ca6e.jpg"
+            "name": "Boe Bon Encontre",
+            "logo_url": "https://pacdn.aoneroom.com/image/2025/10/23/9b39043d6d2b5b50d9869efd915386f3.jpg"
         },
         "team2": {
-            "name": "Dinan-Lehon",
-            "logo_url": "https://pacdn.aoneroom.com/image/2025/04/08/ce0aac250d738aaaf58b4bc347ce3893.jpg"
+            "name": "Bordeaux",
+            "logo_url": "https://pacdn.aoneroom.com/image/2025/04/08/61524bbe52c012ab6cf27b8604b9ace4.jpg"
         },
-        "time": "17:00",
+        "time": "14:45",
         "date": "16-11-2025",
         "links": []
     },
     {
-        "id": "4svhwv7q85c7cc28zf0dccejguu",
+        "id": "uhr4p6t9014irrha6pzjai8u06p",
         "match_id": "8797397692077034544",
         "source_name": "Premium",
         "match_title_from_api": "Serbia vs Latvia",
@@ -979,7 +799,7 @@
         "links": []
     },
     {
-        "id": "ncyp5xxrb9vssmvvvlh7bkk2saj",
+        "id": "p5x1ldbh6z0xfcvqpdt9z4u7cj4",
         "match_id": "5018877604713087184",
         "source_name": "Premium",
         "match_title_from_api": "Albania vs England",
@@ -997,7 +817,7 @@
         "links": []
     },
     {
-        "id": "6g6tzq5oyt9hhlmr03tz02dkkfp",
+        "id": "cvftxv1lbbtrou1muk689drkwyp",
         "match_id": "4732336078421216304",
         "source_name": "Premium",
         "match_title_from_api": "Azerbaijan vs France",
@@ -1015,7 +835,7 @@
         "links": []
     },
     {
-        "id": "xvzu4f5u44gb4f6ypr9azou0yro",
+        "id": "nx9ljir0imusnu943xkew2wpp0q",
         "match_id": "3322709395054775344",
         "source_name": "Premium",
         "match_title_from_api": "Ukraine vs Iceland",
@@ -1033,7 +853,7 @@
         "links": []
     },
     {
-        "id": "0xf9wlu8ng4in3fxwmfgjozbrk5",
+        "id": "gogeo2jy29269aoljiepc41zpbh",
         "match_id": "5424201571176533040",
         "source_name": "Premium",
         "match_title_from_api": "Italy vs Norway",
@@ -1051,7 +871,7 @@
         "links": []
     },
     {
-        "id": "3wnlzsyu4zwxhk65pkti9igewfe",
+        "id": "mnh78b9lxypmguc0n0b558m4ghy",
         "match_id": "2016102553163808976",
         "source_name": "Premium",
         "match_title_from_api": "Israel vs Moldova",
@@ -1069,7 +889,7 @@
         "links": []
     },
     {
-        "id": "cyyv879wbuhpy1zj4fdpc6qcbhg",
+        "id": "kc7j75pd2id2zvz4p0x78ika5v6",
         "match_id": "8493810718340432080",
         "source_name": "Premium",
         "match_title_from_api": "Boston Celtics vs LA Clippers",
