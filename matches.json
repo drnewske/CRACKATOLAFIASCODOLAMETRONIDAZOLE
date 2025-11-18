@@ -1,6 +1,6 @@
 [
     {
-        "id": "9x3dk0tr921u6fpmps8n1enx58w",
+        "id": "47qlcmer9sstacek8ba5nr2amya",
         "match_id": "2922857979282703632",
         "source_name": "Premium",
         "match_title_from_api": "Cleveland Cavaliers vs Milwaukee Bucks",
@@ -17,13 +17,13 @@
         "date": "18-11-2025",
         "links": [
             "https://live-en.aisports.cc/moviebox/bsy_015/playlist.m3u8",
-            "http://play.sportsteam368.com/play/i11.html?id=10022500241&id2=",
             "http://play.sportsteam368.com/play/j.php?id=22500241&id2=",
-            "http://nba.toutiaozb.com/qq/qq-kbs.html?matchliveid=1391588000"
+            "http://nba.toutiaozb.com/qq/qq-kbs.html?matchliveid=1391588000",
+            "http://play.sportsteam368.com/play/i11.html?id=10022500241&id2="
         ]
     },
     {
-        "id": "ubsyfgnal3niwrag80o9j1dkay1",
+        "id": "1e4au98dyjbxn9rnmcpij4dqede",
         "match_id": "2490512415055660304",
         "source_name": "Premium",
         "match_title_from_api": "Detroit Pistons vs Indiana Pacers",
@@ -46,7 +46,7 @@
         ]
     },
     {
-        "id": "fslah2exvxctvqclmfm3pm2cxvb",
+        "id": "k2nqsc60cldk55l3y7fi9sujcr4",
         "match_id": "2418454821017632976",
         "source_name": "Premium",
         "match_title_from_api": "Philadelphia 76ers vs LA Clippers",
@@ -69,7 +69,7 @@
         ]
     },
     {
-        "id": "op10ij22rlwaixn1jutsmg2lx37",
+        "id": "fbxa1sk2dv0hdousqsl0thv85o0",
         "match_id": "2130224444866020712",
         "source_name": "Premium",
         "match_title_from_api": "Miami Heat vs New York Knicks",
@@ -92,7 +92,7 @@
         ]
     },
     {
-        "id": "8yo4gwindsj22phrzq39ozb2gtn",
+        "id": "o391oz06d1n3ym2llut3cj8xjvg",
         "match_id": "1697878880637829328",
         "source_name": "Premium",
         "match_title_from_api": "Toronto Raptors vs Charlotte Hornets",
@@ -115,7 +115,7 @@
         ]
     },
     {
-        "id": "9z21oc23nu278bu683phhufp5lb",
+        "id": "zgial23ariyz1nexnqluw16gfoo",
         "match_id": "4778341025759772880",
         "source_name": "Premium",
         "match_title_from_api": "New Orleans Pelicans vs Oklahoma City Thunder",
@@ -138,7 +138,7 @@
         ]
     },
     {
-        "id": "90n9y5ta5ji8dq9sactiprv8wh1",
+        "id": "u7fmr1l3ato7y4bolk57ehsrnq3",
         "match_id": "2904843580773646544",
         "source_name": "Premium",
         "match_title_from_api": "Minnesota Timberwolves vs Dallas Mavericks",
@@ -155,13 +155,13 @@
         "date": "18-11-2025",
         "links": [
             "https://live-en.aisports.cc/moviebox/bsy_006/playlist.m3u8",
+            "http://play.sportsteam368.com/play/j.php?id=22500246&id2=",
             "http://play.sportsteam368.com/play/kbs.html?id=10022500246&id2=",
-            "http://play.sportsteam368.com/play/kbs.html?id=vl&id2=",
-            "http://play.sportsteam368.com/play/j.php?id=22500246&id2="
+            "http://play.sportsteam368.com/play/kbs.html?id=vl&id2="
         ]
     },
     {
-        "id": "4npjw1wui4b0lgm9ez6uc743s31",
+        "id": "91kcg7eb03p69c41g96zuut9es3",
         "match_id": "8525335915732025552",
         "source_name": "Premium",
         "match_title_from_api": "Denver Nuggets vs Chicago Bulls",
@@ -184,7 +184,7 @@
         ]
     },
     {
-        "id": "iv1em1sgtx33kx6rke29fjpacvb",
+        "id": "8u9gob8v1uf90p3s8xbt7of6bof",
         "match_id": "6914330097882644688",
         "source_name": "Premium",
         "match_title_from_api": "Sweden vs Slovenia",
@@ -202,7 +202,7 @@
         "links": []
     },
     {
-        "id": "q6nl2udc0dmflq399rayo77e87m",
+        "id": "znsyoipu1od4gex0ivpap2tg0r1",
         "match_id": "5238991036500921392",
         "source_name": "Premium",
         "match_title_from_api": "Kosovo vs Switzerland",
@@ -220,7 +220,7 @@
         "links": []
     },
     {
-        "id": "cnaskv560kh68suxnb0louf5je4",
+        "id": "eqw8wbsrapkgy0at1imtjpk7664",
         "match_id": "408880436145540144",
         "source_name": "Premium",
         "match_title_from_api": "Scotland vs Denmark",
@@ -238,7 +238,7 @@
         "links": []
     },
     {
-        "id": "tsaex4z31o8zv44kq8ucr6w5lgm",
+        "id": "vley378fh5t9p7apu0le42zqkoj",
         "match_id": "3691441614545633488",
         "source_name": "Premium",
         "match_title_from_api": "Austria vs Bosnia and Herzegovina",
@@ -256,7 +256,7 @@
         "links": []
     },
     {
-        "id": "rvfccx5y61su08j8hkwu64x6fdw",
+        "id": "em9zu699qmzup9405godyu72xkx",
         "match_id": "3664982966734831824",
         "source_name": "Premium",
         "match_title_from_api": "Spain vs Turkiye",
@@ -274,7 +274,7 @@
         "links": []
     },
     {
-        "id": "3havdf42jis6eps6oxl5sv8xx54",
+        "id": "e5iym2qcm65y09ce3i1ie0g3g20",
         "match_id": "3457254433922367696",
         "source_name": "Premium",
         "match_title_from_api": "Romania vs San Marino",
@@ -292,7 +292,7 @@
         "links": []
     },
     {
-        "id": "hojzkyaxtxw7e58dmnkqnpeealw",
+        "id": "r7cg832c8o6qihzt2pwkibkztxd",
         "match_id": "3262473750038593744",
         "source_name": "Premium",
         "match_title_from_api": "Belgium vs Liechtenstein",
@@ -310,7 +310,7 @@
         "links": []
     },
     {
-        "id": "dfgaj8idwsaqas2sr7a2kfs90i6",
+        "id": "xnojtz6hkbfwttld6oh0ex3d3j7",
         "match_id": "3034479018902015024",
         "source_name": "Premium",
         "match_title_from_api": "Bulgaria vs Georgia",
@@ -328,7 +328,7 @@
         "links": []
     },
     {
-        "id": "1ewik4zvxixyliqkaa4du1umvcg",
+        "id": "rlpe755p1p9p10i9hf0y6vs3b1o",
         "match_id": "2568919407423638576",
         "source_name": "Premium",
         "match_title_from_api": "Wales vs North Macedonia",
@@ -346,7 +346,7 @@
         "links": []
     },
     {
-        "id": "6pxxzxt66ztc42qgevp0i1mer1f",
+        "id": "ozbq5oj30zsb6kw8vozro2ey9ec",
         "match_id": "1967125907216154832",
         "source_name": "Premium",
         "match_title_from_api": "Belarus vs Greece",
