@@ -1,6 +1,6 @@
 [
     {
-        "id": "9918zswhz81o4pzm5lmef6v739g",
+        "id": "uo3dyycrt6jhk6pqxepjt7nz9s0",
         "match_id": "7444472005162057936",
         "source_name": "Premium",
         "match_title_from_api": "Atlanta Hawks vs Detroit Pistons",
@@ -17,13 +17,13 @@
         "date": "19-11-2025",
         "links": [
             "https://live-en.aisports.cc/moviebox/bsy_016/playlist.m3u8",
-            "http://play.sportsteam368.com/play/j.php?id=22500251&id2=",
             "http://play.sportsteam368.com/play/kbs.html?id=10022500251&id2=",
-            "http://play.sportsteam368.com/play/mgxl.php?id=960240688&id2=38847802"
+            "http://play.sportsteam368.com/play/mgxl.php?id=960240688&id2=38847802",
+            "http://play.sportsteam368.com/play/j.php?id=22500251&id2="
         ]
     },
     {
-        "id": "vt0i7w29zagywlr6n91a6r3k3jv",
+        "id": "3bo81dmpvy33j9og6l0laa4gp90",
         "match_id": "6723896064782778576",
         "source_name": "Premium",
         "match_title_from_api": "Brooklyn Nets vs Boston Celtics",
@@ -45,7 +45,7 @@
         ]
     },
     {
-        "id": "1wpbieaq381dlfh999swvz6i232",
+        "id": "58u3q5239j3py7nkdfdbn0ukrlf",
         "match_id": "7552558396219998416",
         "source_name": "Premium",
         "match_title_from_api": "San Antonio Spurs vs Memphis Grizzlies",
@@ -68,7 +68,7 @@
         ]
     },
     {
-        "id": "t59mhjhudzvmrnnoht78sv1qvio",
+        "id": "m3f8agkbrug4m9vcd0i1m4cvimb",
         "match_id": "202683804351348944",
         "source_name": "Premium",
         "match_title_from_api": "LA Lakers vs Utah Jazz",
@@ -85,13 +85,13 @@
         "date": "19-11-2025",
         "links": [
             "https://live-en.aisports.cc/moviebox/bsy_010/playlist.m3u8",
-            "http://play.sportsteam368.com/play/j.php?id=22500253&id2=",
             "http://play.sportsteam368.com/play/kbs.html?id=10022500253&id2=",
+            "http://play.sportsteam368.com/play/j.php?id=22500253&id2=",
             "http://play.sportsteam368.com/play/kbs.html?id=vl&id2="
         ]
     },
     {
-        "id": "jhzfmns1c188yvfgjry26mbwff6",
+        "id": "pyzl5ggl4fnf2mgbsxl63971ksb",
         "match_id": "8561364712750989520",
         "source_name": "Premium",
         "match_title_from_api": "Portland Trail Blazers vs Phoenix Suns",
@@ -106,6 +106,11 @@
         },
         "time": "04:00",
         "date": "19-11-2025",
-        "links": []
+        "links": [
+            "https://live-en.aisports.cc/moviebox/bsy_005/playlist.m3u8",
+            "http://play.sportsteam368.com/play/j.php?id=22500254&id2=",
+            "http://play.sportsteam368.com/play/kbs.html?id=10022500254&id2=",
+            "http://play.sportsteam368.com/play/mgxl.php?id=960239080&id2=38669142"
+        ]
     }
 ]
