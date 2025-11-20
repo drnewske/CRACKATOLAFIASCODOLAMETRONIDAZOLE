@@ -1,6 +1,6 @@
 [
     {
-        "id": "7tji82b6wml9dhpjj65rc9h4aak",
+        "id": "l40jdx1g7n9h86r8102ugawafd6",
         "match_id": "6471694485651079376",
         "source_name": "Premium",
         "match_title_from_api": "Cleveland Cavaliers vs Houston Rockets",
@@ -17,13 +17,13 @@
         "date": "20-11-2025",
         "links": [
             "https://live-en.aisports.cc/moviebox/bsy_025/playlist.m3u8",
-            "http://nba.toutiaozb.com/qq/qq-kbs.html?matchliveid=1776165400",
             "http://play.sportsteam368.com/play/j.php?id=22500255&id2=",
-            "http://play.sportsteam368.com/play/i11.html?id=10022500255&id2="
+            "http://play.sportsteam368.com/play/i11.html?id=10022500255&id2=",
+            "http://nba.toutiaozb.com/qq/qq-kbs.html?matchliveid=1776165400"
         ]
     },
     {
-        "id": "bv6p1tu4s7qwx7s262p7uzbas91",
+        "id": "ytpgdw1gippku6cr9gbku0h7juj",
         "match_id": "5489909766884410640",
         "source_name": "Premium",
         "match_title_from_api": "Philadelphia 76ers vs Toronto Raptors",
@@ -46,7 +46,7 @@
         ]
     },
     {
-        "id": "hbofbf13pklt3u1cbt0vwqxlhvl",
+        "id": "kklc3ud4owbwcsxpbjfnjklew9u",
         "match_id": "3733505912209817808",
         "source_name": "Premium",
         "match_title_from_api": "Indiana Pacers vs Charlotte Hornets",
@@ -69,7 +69,7 @@
         ]
     },
     {
-        "id": "eamvrlol9n58s8osxlf0iwju270",
+        "id": "zv2mgc9yd8fajpc068pqspov1nm",
         "match_id": "2292354031450734800",
         "source_name": "Premium",
         "match_title_from_api": "Miami Heat vs Golden State Warriors",
@@ -86,13 +86,13 @@
         "date": "20-11-2025",
         "links": [
             "https://live-en.aisports.cc/moviebox/bsy_027/playlist.m3u8",
-            "http://play.sportsteam368.com/play/kbs.html?id=10022500257&id2=",
             "http://play.sportsteam368.com/play/j.php?id=22500257&id2=",
-            "http://play.sportsteam368.com/play/kbs.html?id=vl&id2="
+            "http://play.sportsteam368.com/play/kbs.html?id=vl&id2=",
+            "http://play.sportsteam368.com/play/kbs.html?id=10022500257&id2="
         ]
     },
     {
-        "id": "8uqj3f7ckhislv5yzhmd9hec2i7",
+        "id": "0pj4w1jjaoj3cvbomkgrs6mfnif",
         "match_id": "5561967360922239184",
         "source_name": "Premium",
         "match_title_from_api": "Oklahoma City Thunder vs Sacramento Kings",
@@ -115,7 +115,7 @@
         ]
     },
     {
-        "id": "syzqdeblq11m99balp89nes0uac",
+        "id": "b28uyoid5v3h6v1e26vmioj4nrj",
         "match_id": "5057564202656743632",
         "source_name": "Premium",
         "match_title_from_api": "Minnesota Timberwolves vs Washington Wizards",
@@ -132,13 +132,13 @@
         "date": "20-11-2025",
         "links": [
             "https://live-en.aisports.cc/moviebox/bsy_021/playlist.m3u8",
-            "http://play.sportsteam368.com/play/j.php?id=22500259&id2=",
             "http://play.sportsteam368.com/play/mgxl.php?id=960245833&id2=38661372",
-            "http://play.sportsteam368.com/play/kbs.html?id=10022500259&id2="
+            "http://play.sportsteam368.com/play/kbs.html?id=10022500259&id2=",
+            "http://play.sportsteam368.com/play/j.php?id=22500259&id2="
         ]
     },
     {
-        "id": "ike0lnyobuybu38l613nck9qlt2",
+        "id": "68ox85pl6594c3x06vaewca83gn",
         "match_id": "3544354727860256976",
         "source_name": "Premium",
         "match_title_from_api": "New Orleans Pelicans vs Denver Nuggets",
@@ -161,7 +161,7 @@
         ]
     },
     {
-        "id": "2heez1clzjzx29exbt4ti2cp747",
+        "id": "fybe0hhvfik062wl15e510drk4h",
         "match_id": "517935778267283664",
         "source_name": "Premium",
         "match_title_from_api": "Dallas Mavericks vs New York Knicks",
@@ -176,10 +176,15 @@
         },
         "time": "02:30",
         "date": "20-11-2025",
-        "links": []
+        "links": [
+            "https://live-en.aisports.cc/moviebox/bsy_019/playlist.m3u8",
+            "http://play.sportsteam368.com/play/j.php?id=22500262&id2=",
+            "http://play.sportsteam368.com/play/i11.html?id=10022500262&id2=",
+            "http://nba.toutiaozb.com/qq/qq-kbs.html?matchliveid=1391587300"
+        ]
     },
     {
-        "id": "7zlpjvzage90u1ztvu2yq8u2u98",
+        "id": "toiqpoiskbtguie53ffvx9pov90",
         "match_id": "4661247435448239376",
         "source_name": "Premium",
         "match_title_from_api": "Portland Trail Blazers vs Chicago Bulls",
@@ -194,6 +199,11 @@
         },
         "time": "03:00",
         "date": "20-11-2025",
-        "links": []
+        "links": [
+            "https://live-en.aisports.cc/moviebox/bsy_015/playlist.m3u8",
+            "http://play.sportsteam368.com/play/j.php?id=22500263&id2=",
+            "http://play.sportsteam368.com/play/kbs.html?id=10022500263&id2=",
+            "http://play.sportsteam368.com/play/mgxl.php?id=960387109&id2=38665642"
+        ]
     }
 ]
