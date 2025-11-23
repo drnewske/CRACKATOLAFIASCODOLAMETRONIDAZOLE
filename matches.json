@@ -1,6 +1,6 @@
 [
     {
-        "id": "n9hkync112juvkgkub95ti0vfoz",
+        "id": "jte25y7d62mdudrmzqilx10di2c",
         "match_id": "2273620933461264",
         "source_name": "Premium",
         "match_title_from_api": "New Orleans Pelicans vs Atlanta Hawks",
@@ -23,7 +23,7 @@
         ]
     },
     {
-        "id": "mgowdu4lfkh2bgvwr1jzl8avrhh",
+        "id": "o6lvftofentr39dx6menu3twvwh",
         "match_id": "8721242499522642128",
         "source_name": "Premium",
         "match_title_from_api": "Milwaukee Bucks vs Detroit Pistons",
@@ -46,7 +46,7 @@
         ]
     },
     {
-        "id": "ba7ct18fs5yinfbrkhgwwq3g53v",
+        "id": "bpd2kzxtompv6swp60yp2ock4p5",
         "match_id": "8216839341257245968",
         "source_name": "Premium",
         "match_title_from_api": "Chicago Bulls vs Washington Wizards",
@@ -69,7 +69,7 @@
         ]
     },
     {
-        "id": "5j127emh7c3bu9ptj98ikgs7bg8",
+        "id": "cty9a92poyms1csbb9q4igmcgti",
         "match_id": "3388980540714926288",
         "source_name": "Premium",
         "match_title_from_api": "Dallas Mavericks vs Memphis Grizzlies",
@@ -86,13 +86,13 @@
         "date": "23-11-2025",
         "links": [
             "https://live-en.aisports.cc/moviebox/bsy_023/playlist.m3u8",
-            "http://play.sportsteam368.com/play/kbs.html?id=10022500273&id2=",
             "http://play.sportsteam368.com/play/wlive.php?id=8e8c55d8eaa365381089d08815668641&id2=",
-            "http://play.sportsteam368.com/play/j.php?id=22500273&id2="
+            "http://play.sportsteam368.com/play/j.php?id=22500273&id2=",
+            "http://play.sportsteam368.com/play/kbs.html?id=10022500273&id2="
         ]
     },
     {
-        "id": "udatip8xw98z8f7m9si1i4ovi6d",
+        "id": "1wl0by2p8a6jc6mjf23sjndq80j",
         "match_id": "7820522574048542928",
         "source_name": "Premium",
         "match_title_from_api": "Denver Nuggets vs Sacramento Kings",
@@ -109,13 +109,13 @@
         "date": "23-11-2025",
         "links": [
             "https://live-en.aisports.cc/moviebox/bsy_028/playlist.m3u8",
-            "http://tv.cctv.com/live/cctv5/",
             "https://www.yangshipin.cn/tv/home?pid=600001818",
-            "http://sports.cctv.com/H5/CCTV5/index.shtml"
+            "http://sports.cctv.com/H5/CCTV5/index.shtml",
+            "http://tv.cctv.com/live/cctv5/"
         ]
     },
     {
-        "id": "5tlr6vch4hduirx0tyiyr2y7ar7",
+        "id": "7x9lh97g1y9xel7eep7diii7a66",
         "match_id": "5723043720594965968",
         "source_name": "Premium",
         "match_title_from_api": "Hellas Verona vs Parma",
@@ -133,7 +133,7 @@
         "links": []
     },
     {
-        "id": "rltyqq6jlluro2nt9p8md13tt5s",
+        "id": "5wjdrzsrn623g3xtun9w8qieeii",
         "match_id": "8545675491424061320",
         "source_name": "Premium",
         "match_title_from_api": "Real Oviedo vs Rayo Vallecano",
@@ -151,7 +151,7 @@
         "links": []
     },
     {
-        "id": "p1ztqy623wbiftoqarz4c172dil",
+        "id": "w0hnntv5xvtn99xtotl9hne8w5g",
         "match_id": "9204934709159117088",
         "source_name": "Premium",
         "match_title_from_api": "Leeds United vs Aston Villa",
@@ -169,7 +169,7 @@
         "links": []
     },
     {
-        "id": "hrnu40ibz9vhxec9hjuwgfeulzz",
+        "id": "eaz6mz3kseqw71jalbvo67l7lnf",
         "match_id": "7938814737261252688",
         "source_name": "Premium",
         "match_title_from_api": "Cremonese vs AS Roma",
@@ -187,7 +187,7 @@
         "links": []
     },
     {
-        "id": "vypyiagd9sugnh4p3e1vy54ac4w",
+        "id": "940ng2u21rzoqgczotpawz9g6w5",
         "match_id": "6927330783499024856",
         "source_name": "Premium",
         "match_title_from_api": "Auxerre vs Lyon",
@@ -205,7 +205,7 @@
         "links": []
     },
     {
-        "id": "r3xfahbd09mddcg2ubloe2j8tmh",
+        "id": "soucl99ja80it3qws8romvxhia2",
         "match_id": "7089160753165793752",
         "source_name": "Premium",
         "match_title_from_api": "RB Leipzig vs Werder Bremen",
@@ -223,7 +223,7 @@
         "links": []
     },
     {
-        "id": "hvuyfq6hefafh67cpmypyaujt4j",
+        "id": "j4nyy7swma5kupuzdr9gkr35arf",
         "match_id": "4042075864053567872",
         "source_name": "Premium",
         "match_title_from_api": "Real Betis vs Girona",
@@ -241,7 +241,7 @@
         "links": []
     },
     {
-        "id": "k3bet3v82f7jfvj1dhcl879fss5",
+        "id": "4jcat20xn55ye8vizimg0orlpn2",
         "match_id": "8147806282516517248",
         "source_name": "Premium",
         "match_title_from_api": "Nantes vs Lorient",
@@ -259,7 +259,7 @@
         "links": []
     },
     {
-        "id": "aighy34ju5xsi6misqk8efddu4c",
+        "id": "ir19ltecxzqcf15c91sjda7meok",
         "match_id": "4945746947456006616",
         "source_name": "Premium",
         "match_title_from_api": "Brest vs Metz",
@@ -277,7 +277,7 @@
         "links": []
     },
     {
-        "id": "zuvk73qivmb80y8memw3x4jw6g9",
+        "id": "8lmdxuhpw68lrlsru2nluqlv7td",
         "match_id": "338564528655989208",
         "source_name": "Premium",
         "match_title_from_api": "Toulouse vs Angers",
@@ -295,7 +295,7 @@
         "links": []
     },
     {
-        "id": "m019joxtkikdu9so2hmqj5z00wc",
+        "id": "35eepm1cnv6kheiu1ic2w1wetbl",
         "match_id": "6349652545406222624",
         "source_name": "Premium",
         "match_title_from_api": "Arsenal vs Tottenham Hotspur",
@@ -315,7 +315,7 @@
         ]
     },
     {
-        "id": "gtb8pat8u1wfhzhpvqgztb66et2",
+        "id": "mp5dgc48jyidqqp38tr2l0kf3is",
         "match_id": "3954655412516016512",
         "source_name": "Premium",
         "match_title_from_api": "St. Pauli vs Union Berlin",
@@ -333,7 +333,7 @@
         "links": []
     },
     {
-        "id": "k1zazse0l469um2xawwqvdhfkgx",
+        "id": "r53iqjqc8vislx7zackj3sk43s4",
         "match_id": "116062184518176848",
         "source_name": "Premium",
         "match_title_from_api": "Lazio vs Lecce",
@@ -351,7 +351,7 @@
         "links": []
     },
     {
-        "id": "izlgggfavh5aumv2xzdbyxeb5ge",
+        "id": "0zbu1zxtk69gc5d6fb1k68q4p2g",
         "match_id": "3650262696471810432",
         "source_name": "Premium",
         "match_title_from_api": "Getafe vs Atletico Madrid",
@@ -369,7 +369,7 @@
         "links": []
     },
     {
-        "id": "3hhzeajoyv7rlten7fmiqbobffo",
+        "id": "1xqn8lp7n8lnt2u23742q3rh3te",
         "match_id": "7027889039631335632",
         "source_name": "Premium",
         "match_title_from_api": "Philadelphia 76ers vs Miami Heat",
@@ -387,7 +387,7 @@
         "links": []
     },
     {
-        "id": "2hippbfaczvmwkoyaq7mfrb1u8n",
+        "id": "5dqljp7b2j3kygbkxnsjx3y16lk",
         "match_id": "5484352940343805392",
         "source_name": "Premium",
         "match_title_from_api": "Inter vs AC Milan",
@@ -405,7 +405,7 @@
         "links": []
     },
     {
-        "id": "adra5xxr2ima8z38vzp7iphw96k",
+        "id": "njbiix4k76q4265acnsod7p8mdl",
         "match_id": "3378494277131161984",
         "source_name": "Premium",
         "match_title_from_api": "Lille vs Paris FC",
@@ -423,7 +423,7 @@
         "links": []
     },
     {
-        "id": "fekmal3ieuuhjn20e5x3jq7yp56",
+        "id": "p1d17wiv7nh1yik7tya6q3utx0i",
         "match_id": "1389455683531821440",
         "source_name": "Premium",
         "match_title_from_api": "Elche vs Real Madrid",
