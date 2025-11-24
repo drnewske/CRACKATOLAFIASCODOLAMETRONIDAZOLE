@@ -1,6 +1,6 @@
 [
     {
-        "id": "ybjdqyemlptja72gxdxkel9amh5",
+        "id": "yi1mfl9bfp7mscx1xfkutjfx4h0",
         "match_id": "3623167721339240656",
         "source_name": "Premium",
         "match_title_from_api": "Toronto Raptors vs Brooklyn Nets",
@@ -23,7 +23,7 @@
         ]
     },
     {
-        "id": "a3tpy9gxrxai439huioiiob5xaj",
+        "id": "z7z48rqfouxrd6h5m4qdrnd69zs",
         "match_id": "2614361404807824656",
         "source_name": "Premium",
         "match_title_from_api": "Cleveland Cavaliers vs LA Clippers",
@@ -40,13 +40,13 @@
         "date": "23-11-2025",
         "links": [
             "https://live-en.aisports.cc/moviebox/bsy_010/playlist.m3u8",
-            "http://play.sportsteam368.com/play/j.php?id=22500278&id2=",
             "http://play.sportsteam368.com/play/mgxl.php?id=960516429&id2=d005dacf1e13653e28eef3df81987c67",
-            "http://play.sportsteam368.com/play/kbs.html?id=10022500278&id2="
+            "http://play.sportsteam368.com/play/kbs.html?id=10022500278&id2=",
+            "http://play.sportsteam368.com/play/j.php?id=22500278&id2="
         ]
     },
     {
-        "id": "2e8pc0oalp97gsa7m8rrbqocysp",
+        "id": "9raf7gectih3z8l4iyvnj3pjs9m",
         "match_id": "254475200065160552",
         "source_name": "Premium",
         "match_title_from_api": "Atlanta Hawks vs Charlotte Hornets",
@@ -69,7 +69,7 @@
         ]
     },
     {
-        "id": "04fm5nc5wy22cibbks9pblvsap4",
+        "id": "d39jugmfm4jpnrqbx0htc57vhkl",
         "match_id": "5856953136515006672",
         "source_name": "Premium",
         "match_title_from_api": "Oklahoma City Thunder vs Portland Trail Blazers",
@@ -86,13 +86,13 @@
         "date": "24-11-2025",
         "links": [
             "https://live-en.aisports.cc/moviebox/bsy_015/playlist.m3u8",
-            "http://play.sportsteam368.com/play/j.php?id=22500280&id2=",
             "http://play.sportsteam368.com/play/kbs.html?id=10022500280&id2=",
-            "http://play.sportsteam368.com/play/mgxl.php?id=960517181&id2=8e8c55d8eaa365381089d08815668641"
+            "http://play.sportsteam368.com/play/mgxl.php?id=960517181&id2=8e8c55d8eaa365381089d08815668641",
+            "http://play.sportsteam368.com/play/j.php?id=22500280&id2="
         ]
     },
     {
-        "id": "urwa22lyeoensfkp897j7m3jg2e",
+        "id": "mjksp9v2mewqu8kdsydjagtf1gs",
         "match_id": "5136377196135727312",
         "source_name": "Premium",
         "match_title_from_api": "Utah Jazz vs LA Lakers",
@@ -115,7 +115,7 @@
         ]
     },
     {
-        "id": "9hpmjalrngo799b8dunihjq0do4",
+        "id": "50odu3twhwvxd1hzn8q9h9o5ag6",
         "match_id": "3262879751149600976",
         "source_name": "Premium",
         "match_title_from_api": "Phoenix Suns vs San Antonio Spurs",
@@ -138,7 +138,7 @@
         ]
     },
     {
-        "id": "y4k60a1kuw3ual0g7c743eiy9ea",
+        "id": "5nbwfisbeputz7kh37jpqhm0evi",
         "match_id": "6538195253147979856",
         "source_name": "Premium",
         "match_title_from_api": "Torino vs Como 1907",
@@ -155,13 +155,13 @@
         "date": "24-11-2025",
         "links": [
             "https://live-en.aisports.cc/moviebox/bsy_014/playlist.m3u8",
-            "http://play.sportsteam368.com/play/kbs.html?id=960484392&id2=",
             "http://play.sportsteam368.com/play/gm.php?id=960484392&id2=960484392",
-            "http://play.sportsteam368.com/play/wlive.php?id=95a872df47e10f1513a90720cc5a92e8&id2="
+            "http://play.sportsteam368.com/play/wlive.php?id=95a872df47e10f1513a90720cc5a92e8&id2=",
+            "http://play.sportsteam368.com/play/kbs.html?id=960484392&id2="
         ]
     },
     {
-        "id": "z84jnqr5saj42q47b3a9y3rjk8t",
+        "id": "xkixcavgdvx7ifmsnmm3udo25s7",
         "match_id": "8663894277267902544",
         "source_name": "Premium",
         "match_title_from_api": "Sassuolo vs Pisa",
@@ -176,10 +176,15 @@
         },
         "time": "19:45",
         "date": "24-11-2025",
-        "links": []
+        "links": [
+            "https://live-en.aisports.cc/moviebox/bsy_025/playlist.m3u8",
+            "http://play.sportsteam368.com/play/wlive.php?id=7bc6360e3a553dd1144597a1d435a902&id2=",
+            "http://play.sportsteam368.com/play/kbs.html?id=960484436&id2=",
+            "http://play.sportsteam368.com/play/gm.php?id=960484436&id2=960484436"
+        ]
     },
     {
-        "id": "grq036xnapii32o7ws5cpgjfpr6",
+        "id": "nyk6x4gyzkuwb5v23i9rg2z64hh",
         "match_id": "4179761949943775520",
         "source_name": "Premium",
         "match_title_from_api": "Manchester United vs Everton",
@@ -199,7 +204,7 @@
         ]
     },
     {
-        "id": "znw7oroajnitpkv2uypm3oc6xm5",
+        "id": "yqs1cux6r5b83is6c5qsxf3p0es",
         "match_id": "6901861627433830280",
         "source_name": "Premium",
         "match_title_from_api": "Espanyol vs Sevilla",
