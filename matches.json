@@ -1,6 +1,6 @@
 [
     {
-        "id": "o5ci8zt61alwm4vkjfvqoy9kfun",
+        "id": "5ef1llykqmli2npekd9hxppruwq",
         "match_id": "8009673758398203152",
         "source_name": "Premium",
         "match_title_from_api": "Washington Wizards vs Atlanta Hawks",
@@ -23,7 +23,7 @@
         ]
     },
     {
-        "id": "7svrbsn6h70c46t3zpqjpo0giy2",
+        "id": "4itzeobedfl5hwye4ivpwi3taze",
         "match_id": "8982451277910230376",
         "source_name": "Premium",
         "match_title_from_api": "LA Lakers vs LA Clippers",
@@ -40,13 +40,13 @@
         "date": "26-11-2025",
         "links": [
             "https://live-en.aisports.cc/moviebox/bsy_016/playlist.m3u8",
+            "http://tv.cctv.com/live/cctv5/",
             "https://www.yangshipin.cn/tv/home?pid=600001818",
-            "http://sports.cctv.com/H5/CCTV5/index.shtml",
-            "http://tv.cctv.com/live/cctv5/"
+            "http://sports.cctv.com/H5/CCTV5/index.shtml"
         ]
     },
     {
-        "id": "m0iw9a6r9fpz96ti7tvrvf2bn5d",
+        "id": "8ekodzqb0vtwqj57jbgo0hrah4x",
         "match_id": "3515451653100030392",
         "source_name": "Premium",
         "match_title_from_api": "FC Copenhagen vs Kairat Almaty",
@@ -64,7 +64,7 @@
         "links": []
     },
     {
-        "id": "9pqjvefh27n3s4zs6c2o7wqwyds",
+        "id": "6iw92ug11ita2v4iospuma32sm7",
         "match_id": "2387862896397142456",
         "source_name": "Premium",
         "match_title_from_api": "Pafos FC vs AS Monaco",
@@ -82,7 +82,7 @@
         "links": []
     },
     {
-        "id": "47dttlxf6wck1upoqqalh9ml0oj",
+        "id": "tgcu6yo6d5dujyuymo6w8ti9p26",
         "match_id": "3025685193623488952",
         "source_name": "Premium",
         "match_title_from_api": "Olympiacos vs Real Madrid",
@@ -100,7 +100,7 @@
         "links": []
     },
     {
-        "id": "42wifl9ign3td5nb2mfcbhx8j6i",
+        "id": "dcwn7eq78dut1xvc1492zrr7a6b",
         "match_id": "275674671160379832",
         "source_name": "Premium",
         "match_title_from_api": "Paris Saint-Germain vs Tottenham Hotspur",
@@ -120,7 +120,7 @@
         ]
     },
     {
-        "id": "5z3brd2n0hppbekdavpg7p3absh",
+        "id": "g1u6f9y2f3rky57uysjzbucoka4",
         "match_id": "1689523479178004920",
         "source_name": "Premium",
         "match_title_from_api": "Arsenal vs Bayern Munich",
@@ -140,7 +140,7 @@
         ]
     },
     {
-        "id": "vex3tjezib7tbrgo3fg0iyx55mg",
+        "id": "zi486czwfm06k8l9vz28927rqkg",
         "match_id": "6527233903904049592",
         "source_name": "Premium",
         "match_title_from_api": "Liverpool vs PSV Eindhoven",
@@ -158,7 +158,7 @@
         "links": []
     },
     {
-        "id": "dn1tu9qmsm7yzdx4ym912xsapuu",
+        "id": "hxg8w39022lq93ty44v8nf1v1ms",
         "match_id": "8167951543150463416",
         "source_name": "Premium",
         "match_title_from_api": "Atletico Madrid vs Inter",
@@ -178,7 +178,7 @@
         ]
     },
     {
-        "id": "76w7wk7xc52rjl5z74drxm9i7oc",
+        "id": "870s741l4kixsq4cdl0renc2w40",
         "match_id": "6096577189536745912",
         "source_name": "Premium",
         "match_title_from_api": "Sporting CP vs Club Brugge",
@@ -196,7 +196,7 @@
         "links": []
     },
     {
-        "id": "uy84ukuc5lx6vp0s9h8o52ahl8i",
+        "id": "d8sx419o9qspg5awsctl50ghmxw",
         "match_id": "5030912927710202296",
         "source_name": "Premium",
         "match_title_from_api": "Eintracht Frankfurt vs Atalanta",
