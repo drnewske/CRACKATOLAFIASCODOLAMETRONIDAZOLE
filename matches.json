@@ -1,6 +1,6 @@
 [
     {
-        "id": "yndr5w0zisrheie7f8timdra7de",
+        "id": "z33aqpnho8ud3lduln80r3kfnn6",
         "match_id": "8009673758398203152",
         "source_name": "Premium",
         "match_title_from_api": "Washington Wizards vs Atlanta Hawks",
@@ -17,13 +17,13 @@
         "date": "26-11-2025",
         "links": [
             "https://live-en.aisports.cc/moviebox/bsy_011/playlist.m3u8",
-            "http://play.sportsteam368.com/play/j.php?id=22500057&id2=",
             "http://play.sportsteam368.com/play/kbs.html?id=10022500057&id2=",
-            "http://play.sportsteam368.com/play/mgxl.php?id=960514417&id2=5316942efa529d66bbb8671b60749346"
+            "http://play.sportsteam368.com/play/mgxl.php?id=960514417&id2=5316942efa529d66bbb8671b60749346",
+            "http://play.sportsteam368.com/play/j.php?id=22500057&id2="
         ]
     },
     {
-        "id": "23vxudg90o35rqf9n8yl6d24jt7",
+        "id": "59bkcakv00j6rixs06r5tzbf1rj",
         "match_id": "8982451277910230376",
         "source_name": "Premium",
         "match_title_from_api": "LA Lakers vs LA Clippers",
@@ -40,13 +40,13 @@
         "date": "26-11-2025",
         "links": [
             "https://live-en.aisports.cc/moviebox/bsy_016/playlist.m3u8",
-            "http://tv.cctv.com/live/cctv5/",
             "https://www.yangshipin.cn/tv/home?pid=600001818",
-            "http://sports.cctv.com/H5/CCTV5/index.shtml"
+            "http://sports.cctv.com/H5/CCTV5/index.shtml",
+            "http://tv.cctv.com/live/cctv5/"
         ]
     },
     {
-        "id": "f7zu5lbyswyt2sqwotzajg21e5g",
+        "id": "qnca2dzrk0ezep70dp4nkceityl",
         "match_id": "3515451653100030392",
         "source_name": "Premium",
         "match_title_from_api": "FC Copenhagen vs Kairat Almaty",
@@ -64,7 +64,7 @@
         "links": []
     },
     {
-        "id": "rh0i4idlwz68jcrxz5hnqmz2edh",
+        "id": "y8yzazk2wwn7vybwmcreuxtfzhj",
         "match_id": "2387862896397142456",
         "source_name": "Premium",
         "match_title_from_api": "Pafos FC vs AS Monaco",
@@ -82,7 +82,7 @@
         "links": []
     },
     {
-        "id": "3u5mps34q5pef5mzird1rq4u7iz",
+        "id": "5p7tenduf7y7lql6b99vzozp3g9",
         "match_id": "3025685193623488952",
         "source_name": "Premium",
         "match_title_from_api": "Olympiacos vs Real Madrid",
@@ -100,7 +100,7 @@
         "links": []
     },
     {
-        "id": "bkpit4t2adu4uvau4ujohcv1rp0",
+        "id": "bekxklrm4ja570ubhpvu41cakbf",
         "match_id": "275674671160379832",
         "source_name": "Premium",
         "match_title_from_api": "Paris Saint-Germain vs Tottenham Hotspur",
@@ -118,7 +118,7 @@
         "links": []
     },
     {
-        "id": "fxab77jypl0nv0ox30yx3tta57g",
+        "id": "jvf0gpnggr7a6xkv7tp3xaqf9l1",
         "match_id": "1689523479178004920",
         "source_name": "Premium",
         "match_title_from_api": "Arsenal vs Bayern Munich",
@@ -136,7 +136,7 @@
         "links": []
     },
     {
-        "id": "iewrtk96s2n2z2o1xv6ggarcleg",
+        "id": "gepnnnw7uu0se4op2lqug8dzfnm",
         "match_id": "6527233903904049592",
         "source_name": "Premium",
         "match_title_from_api": "Liverpool vs PSV Eindhoven",
@@ -154,7 +154,7 @@
         "links": []
     },
     {
-        "id": "fjmx25bbfsa8mumvdzmb9c6u97s",
+        "id": "s0q8acasufa2xqm9avsp3b7ybve",
         "match_id": "8167951543150463416",
         "source_name": "Premium",
         "match_title_from_api": "Atletico Madrid vs Inter",
@@ -172,7 +172,7 @@
         "links": []
     },
     {
-        "id": "csazvtbnmydouzyxwozwewac6xz",
+        "id": "7h1wu9b6fgcvapdng20xhw8tbsd",
         "match_id": "6096577189536745912",
         "source_name": "Premium",
         "match_title_from_api": "Sporting CP vs Club Brugge",
@@ -190,7 +190,7 @@
         "links": []
     },
     {
-        "id": "gkx5brhdokjn1pcuhy05rogmobf",
+        "id": "kliwc5mx770dqutljos2bml29yi",
         "match_id": "5030912927710202296",
         "source_name": "Premium",
         "match_title_from_api": "Eintracht Frankfurt vs Atalanta",
