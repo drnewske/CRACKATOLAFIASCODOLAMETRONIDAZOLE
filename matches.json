@@ -1,6 +1,6 @@
 [
     {
-        "id": "ig39bj8z3dgck9bj5jlpxl0famu",
+        "id": "4tr7xbkgjx9y86a3y967337n62f",
         "match_id": "8009673758398203152",
         "source_name": "Premium",
         "match_title_from_api": "Washington Wizards vs Atlanta Hawks",
@@ -17,13 +17,13 @@
         "date": "26-11-2025",
         "links": [
             "https://live-en.aisports.cc/moviebox/bsy_011/playlist.m3u8",
-            "http://play.sportsteam368.com/play/j.php?id=22500057&id2=",
             "http://play.sportsteam368.com/play/kbs.html?id=10022500057&id2=",
-            "http://play.sportsteam368.com/play/mgxl.php?id=960514417&id2=5316942efa529d66bbb8671b60749346"
+            "http://play.sportsteam368.com/play/mgxl.php?id=960514417&id2=5316942efa529d66bbb8671b60749346",
+            "http://play.sportsteam368.com/play/j.php?id=22500057&id2="
         ]
     },
     {
-        "id": "m3n3rs8u1qs267uj9ll3zjir8az",
+        "id": "bvx9jwftx1j9jn1jpimczlkx31n",
         "match_id": "8982451277910230376",
         "source_name": "Premium",
         "match_title_from_api": "LA Lakers vs LA Clippers",
@@ -40,13 +40,13 @@
         "date": "26-11-2025",
         "links": [
             "https://live-en.aisports.cc/moviebox/bsy_016/playlist.m3u8",
+            "http://tv.cctv.com/live/cctv5/",
             "https://www.yangshipin.cn/tv/home?pid=600001818",
-            "http://sports.cctv.com/H5/CCTV5/index.shtml",
-            "http://tv.cctv.com/live/cctv5/"
+            "http://sports.cctv.com/H5/CCTV5/index.shtml"
         ]
     },
     {
-        "id": "b8fvo03iefeimgt5gk9r7nnrztp",
+        "id": "sgizrhrhta9n6jcfrzkcgqvs6k0",
         "match_id": "3515451653100030392",
         "source_name": "Premium",
         "match_title_from_api": "FC Copenhagen vs Kairat Almaty",
@@ -64,7 +64,7 @@
         "links": []
     },
     {
-        "id": "6h6lzc8k8bhxzs7nx85q1gwlnoe",
+        "id": "lvn2skmcf33zvmzmpvdcjr259ht",
         "match_id": "2387862896397142456",
         "source_name": "Premium",
         "match_title_from_api": "Pafos FC vs AS Monaco",
@@ -82,7 +82,7 @@
         "links": []
     },
     {
-        "id": "zrrf9j1lgl9mcpc48487pt7kmx4",
+        "id": "xey9zkpx6ipmzo9kvq6foj7xb9b",
         "match_id": "3025685193623488952",
         "source_name": "Premium",
         "match_title_from_api": "Olympiacos vs Real Madrid",
@@ -99,13 +99,13 @@
         "date": "26-11-2025",
         "links": [
             "https://live-en.aisports.cc/moviebox/bsy_025/playlist.m3u8",
-            "http://play.88player.top/m3u8.html?url=http%3A%2F%2Flive.qfngx.com%2Fsport%2F202_3960716_1.m3u8%3FtxSecret%3D16fdf2d580392f3007b09e73f0f51eb8%26txTime%3D1764187332",
             "http://play.88player.top/m3u8.html?url=http%3A%2F%2Fplay1nm.hnyongshun.cn%2Flive%2F8fa33f38b4c429a4c7bde69f696c35ea.m3u8",
-            "http://play.88player.top/m3u8.html?url=http%3A%2F%2Fplay1nm.hnyongshun.cn%2Flive%2F6adaf8bf8530045e603c7533f1a06680.m3u8"
+            "http://play.88player.top/m3u8.html?url=http%3A%2F%2Fplay1nm.hnyongshun.cn%2Flive%2F6adaf8bf8530045e603c7533f1a06680.m3u8",
+            "http://play.88player.top/m3u8.html?url=http%3A%2F%2Flive.qfngx.com%2Fsport%2F202_3960716_1.m3u8%3FtxSecret%3D16fdf2d580392f3007b09e73f0f51eb8%26txTime%3D1764187332"
         ]
     },
     {
-        "id": "oxuouqjc8fle2ro20ig9x7e6hwj",
+        "id": "gdclxzcig5gzg90h1yi1x2tdqs1",
         "match_id": "275674671160379832",
         "source_name": "Premium",
         "match_title_from_api": "Paris Saint-Germain vs Tottenham Hotspur",
@@ -128,7 +128,7 @@
         ]
     },
     {
-        "id": "645xynfasq1aski6bwmuyrothlw",
+        "id": "00ysfr26r48ilkjjf4f4rbqjy4j",
         "match_id": "1689523479178004920",
         "source_name": "Premium",
         "match_title_from_api": "Arsenal vs Bayern Munich",
@@ -151,7 +151,7 @@
         ]
     },
     {
-        "id": "13626965xckbdpa5g7yjs6lpymb",
+        "id": "teeu3wpt3bq1ldf5fgvycvy9s4l",
         "match_id": "6527233903904049592",
         "source_name": "Premium",
         "match_title_from_api": "Liverpool vs PSV Eindhoven",
@@ -174,7 +174,7 @@
         ]
     },
     {
-        "id": "5m6qtbgo1abjaxku6v4qxzuqpef",
+        "id": "afl8lu0xclkr3rwmqy8zalz94rg",
         "match_id": "8167951543150463416",
         "source_name": "Premium",
         "match_title_from_api": "Atletico Madrid vs Inter",
@@ -191,13 +191,13 @@
         "date": "26-11-2025",
         "links": [
             "https://live-en.aisports.cc/moviebox/football001/playlist.m3u8",
-            "http://play.88player.top/m3u8.html?url=http%3A%2F%2Fplay1nm.hnyongshun.cn%2Flive%2Fa65efed9dc4507af715afdf3de7449a8.m3u8",
             "http://play.88player.top/m3u8.html?url=http%3A%2F%2Fplay1nm.hnyongshun.cn%2Flive%2Fbe099b041e9e7085f40a57f85c47eeec.m3u8",
-            "http://play.88player.top/m3u8.html?url=http%3A%2F%2Fbf.njscwh.com%2Flive%2Fsd-1-4415308.m3u8%3FtxSecret%3Dc5c4fe29610ccd6404542616c1a2b5c0%26txTime%3D69275dea"
+            "http://play.88player.top/m3u8.html?url=http%3A%2F%2Fbf.njscwh.com%2Flive%2Fsd-1-4415308.m3u8%3FtxSecret%3Dc5c4fe29610ccd6404542616c1a2b5c0%26txTime%3D69275dea",
+            "http://play.88player.top/m3u8.html?url=http%3A%2F%2Fplay1nm.hnyongshun.cn%2Flive%2Fa65efed9dc4507af715afdf3de7449a8.m3u8"
         ]
     },
     {
-        "id": "wd9avfgw534do9haspzqrszwt6r",
+        "id": "vcygqsgek2y1q2lht55grroev8n",
         "match_id": "6096577189536745912",
         "source_name": "Premium",
         "match_title_from_api": "Sporting CP vs Club Brugge",
@@ -214,13 +214,13 @@
         "date": "26-11-2025",
         "links": [
             "https://live-en.aisports.cc/moviebox/bsy_024/playlist.m3u8",
-            "http://play.88player.top/m3u8.html?url=http%3A%2F%2Flive.qfngx.com%2Fsport%2F202_3960686_1.m3u8%3FtxSecret%3D3e05ced67e855566f9a74dae51fe9dde%26txTime%3D1764187132",
             "http://play.88player.top/m3u8.html?url=http%3A%2F%2Fplay1nm.hnyongshun.cn%2Flive%2Fab66165ab344875f660e172290a81694.m3u8",
-            "http://play.88player.top/m3u8.html?url=http%3A%2F%2Fplay1nm.hnyongshun.cn%2Flive%2Ffad58c789d9a23a717dd96f99125b071.m3u8"
+            "http://play.88player.top/m3u8.html?url=http%3A%2F%2Fplay1nm.hnyongshun.cn%2Flive%2Ffad58c789d9a23a717dd96f99125b071.m3u8",
+            "http://play.88player.top/m3u8.html?url=http%3A%2F%2Flive.qfngx.com%2Fsport%2F202_3960686_1.m3u8%3FtxSecret%3D3e05ced67e855566f9a74dae51fe9dde%26txTime%3D1764187132"
         ]
     },
     {
-        "id": "hyugwvfc633dolshw780gbwj8mp",
+        "id": "qd035qpefyj83jqwznks9eamjcj",
         "match_id": "5030912927710202296",
         "source_name": "Premium",
         "match_title_from_api": "Eintracht Frankfurt vs Atalanta",
