@@ -1,6 +1,6 @@
 [
     {
-        "id": "3cyczpjykgpw19pbzqy7og5xl4h",
+        "id": "lkrn468j8tiwmra2dfjuvg5yuzv",
         "match_id": "8009673758398203152",
         "source_name": "Premium",
         "match_title_from_api": "Washington Wizards vs Atlanta Hawks",
@@ -17,13 +17,13 @@
         "date": "26-11-2025",
         "links": [
             "https://live-en.aisports.cc/moviebox/bsy_011/playlist.m3u8",
-            "http://play.sportsteam368.com/play/j.php?id=22500057&id2=",
             "http://play.sportsteam368.com/play/kbs.html?id=10022500057&id2=",
-            "http://play.sportsteam368.com/play/mgxl.php?id=960514417&id2=5316942efa529d66bbb8671b60749346"
+            "http://play.sportsteam368.com/play/mgxl.php?id=960514417&id2=5316942efa529d66bbb8671b60749346",
+            "http://play.sportsteam368.com/play/j.php?id=22500057&id2="
         ]
     },
     {
-        "id": "8i3s65gtdh6jd8a8ns3v1xw27wl",
+        "id": "smw8ecmfxituc1slxo78zjzy48m",
         "match_id": "8982451277910230376",
         "source_name": "Premium",
         "match_title_from_api": "LA Lakers vs LA Clippers",
@@ -40,13 +40,13 @@
         "date": "26-11-2025",
         "links": [
             "https://live-en.aisports.cc/moviebox/bsy_016/playlist.m3u8",
-            "http://tv.cctv.com/live/cctv5/",
             "https://www.yangshipin.cn/tv/home?pid=600001818",
-            "http://sports.cctv.com/H5/CCTV5/index.shtml"
+            "http://sports.cctv.com/H5/CCTV5/index.shtml",
+            "http://tv.cctv.com/live/cctv5/"
         ]
     },
     {
-        "id": "bkdl5rwbkl4dfgw9i7jl0zm1m7k",
+        "id": "54bjjwk2256algr7186rqgd8mgw",
         "match_id": "3515451653100030392",
         "source_name": "Premium",
         "match_title_from_api": "FC Copenhagen vs Kairat Almaty",
@@ -64,7 +64,7 @@
         "links": []
     },
     {
-        "id": "uxuvlv63lzzu3t74fwfxihitfk5",
+        "id": "4nrbmqgg13z96at6bm5dztg5wr6",
         "match_id": "2387862896397142456",
         "source_name": "Premium",
         "match_title_from_api": "Pafos FC vs AS Monaco",
@@ -82,7 +82,7 @@
         "links": []
     },
     {
-        "id": "g4pohpr3o23fkfr7o9qumpesutm",
+        "id": "8q1za3y6goxsyut1gtdva5vv2cw",
         "match_id": "3025685193623488952",
         "source_name": "Premium",
         "match_title_from_api": "Olympiacos vs Real Madrid",
@@ -100,7 +100,7 @@
         "links": []
     },
     {
-        "id": "pdmwjgh8qdrin783qooln9usuo9",
+        "id": "xjf8m7xkz9yhxyrji8t3ryrl7be",
         "match_id": "275674671160379832",
         "source_name": "Premium",
         "match_title_from_api": "Paris Saint-Germain vs Tottenham Hotspur",
@@ -120,7 +120,7 @@
         ]
     },
     {
-        "id": "xlc53upnfypkr6w7jn5y3gsj8ap",
+        "id": "r164zoycsf3n8x4sgguqe82mt2w",
         "match_id": "1689523479178004920",
         "source_name": "Premium",
         "match_title_from_api": "Arsenal vs Bayern Munich",
@@ -140,7 +140,7 @@
         ]
     },
     {
-        "id": "271809d3bm6o16oapd7axiqcyrj",
+        "id": "szmrk45lk8lum65uw9sula6a0gw",
         "match_id": "6527233903904049592",
         "source_name": "Premium",
         "match_title_from_api": "Liverpool vs PSV Eindhoven",
@@ -158,7 +158,7 @@
         "links": []
     },
     {
-        "id": "gm06wr7fvyil1f24f0racgyrx4d",
+        "id": "tcj9ppyepwdmu8mjvrp89gmzczu",
         "match_id": "8167951543150463416",
         "source_name": "Premium",
         "match_title_from_api": "Atletico Madrid vs Inter",
@@ -178,7 +178,7 @@
         ]
     },
     {
-        "id": "ebn5wdglr89hoyxqjcnhucxbzhd",
+        "id": "otwz0qe8g7ynfyjkyxziwhuxg0i",
         "match_id": "6096577189536745912",
         "source_name": "Premium",
         "match_title_from_api": "Sporting CP vs Club Brugge",
@@ -196,7 +196,7 @@
         "links": []
     },
     {
-        "id": "nrvd5pgpq8j2sr9p2tg05hvnz3v",
+        "id": "wef1xgod65fqz5tn5vg1tqpna6o",
         "match_id": "5030912927710202296",
         "source_name": "Premium",
         "match_title_from_api": "Eintracht Frankfurt vs Atalanta",
