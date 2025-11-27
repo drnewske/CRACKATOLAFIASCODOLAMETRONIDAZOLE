@@ -1,6 +1,6 @@
 [
     {
-        "id": "8ejpwe4gkh68hqctjmfws7ewm3d",
+        "id": "yryf9v2clp6uafj2s9a73ur5py4",
         "match_id": "2785498190648328400",
         "source_name": "Premium",
         "match_title_from_api": "Boston Celtics vs Detroit Pistons",
@@ -18,7 +18,7 @@
         "links": []
     },
     {
-        "id": "3f70v1tdmyjsqluu2wk55gcd1tj",
+        "id": "c8rtnswbl04krzjnb9qap4qbgjm",
         "match_id": "3578131725064586600",
         "source_name": "Premium",
         "match_title_from_api": "Charlotte Hornets vs New York Knicks",
@@ -36,7 +36,7 @@
         "links": []
     },
     {
-        "id": "udnjd13qwlr7z301v2uz4vqoeok",
+        "id": "d8ptutoj54jjwjp09u2mhxw1fds",
         "match_id": "984058339700229480",
         "source_name": "Premium",
         "match_title_from_api": "Miami Heat vs Milwaukee Bucks",
@@ -54,7 +54,7 @@
         "links": []
     },
     {
-        "id": "jtkfx6477qimrzsaz9jlvd83uso",
+        "id": "f948bg85mwjombeywra4fh5qab7",
         "match_id": "551712775472661776",
         "source_name": "Premium",
         "match_title_from_api": "Oklahoma City Thunder vs Minnesota Timberwolves",
@@ -77,7 +77,7 @@
         ]
     },
     {
-        "id": "u9ngus7nnddgptnoae1ekezqmgc",
+        "id": "uxv8r3fks7c3wt2l8dir340pnd6",
         "match_id": "2911598980213653712",
         "source_name": "Premium",
         "match_title_from_api": "Toronto Raptors vs Indiana Pacers",
@@ -94,13 +94,13 @@
         "date": "27-11-2025",
         "links": [
             "https://live-en.aisports.cc/moviebox/bsy_025/playlist.m3u8",
+            "http://play.sportsteam368.com/play/gm.php?id=960516350&id2=960516350",
             "http://play.sportsteam368.com/play/j.php?id=22500063&id2=",
-            "http://play.sportsteam368.com/play/kbs.html?id=10022500063&id2=",
-            "http://play.sportsteam368.com/play/gm.php?id=960516350&id2=960516350"
+            "http://play.sportsteam368.com/play/kbs.html?id=10022500063&id2="
         ]
     },
     {
-        "id": "ywbtqqrkwdfqyksireo2r1n7nhy",
+        "id": "0puf63kjfuzaszuhh7rhjbb5tag",
         "match_id": "2046907851759666536",
         "source_name": "Premium",
         "match_title_from_api": "New Orleans Pelicans vs Memphis Grizzlies",
@@ -117,13 +117,13 @@
         "date": "27-11-2025",
         "links": [
             "https://live-en.aisports.cc/moviebox/bsy_016/playlist.m3u8",
-            "http://play.sportsteam368.com/play/kbs.html?id=10022500065&id2=",
             "http://play.sportsteam368.com/play/gm.php?id=960518038&id2=960518038",
-            "http://play.sportsteam368.com/play/j.php?id=22500065&id2="
+            "http://play.sportsteam368.com/play/j.php?id=22500065&id2=",
+            "http://play.sportsteam368.com/play/kbs.html?id=10022500065&id2="
         ]
     },
     {
-        "id": "6alc8yaj6pqjl49i4waav1ttgrj",
+        "id": "1yoghmf9im5yteqoizt5baifh8d",
         "match_id": "9036494473437627752",
         "source_name": "Premium",
         "match_title_from_api": "Sacramento Kings vs Phoenix Suns",
@@ -140,13 +140,13 @@
         "date": "27-11-2025",
         "links": [
             "https://live-en.aisports.cc/moviebox/bsy_026/playlist.m3u8",
-            "http://play.sportsteam368.com/play/i11.html?id=10022500068&id2=",
             "http://play.sportsteam368.com/play/gm.php?id=960518270&id2=960518270",
-            "http://play.sportsteam368.com/play/pao.php?id=38664582&id2="
+            "http://play.sportsteam368.com/play/pao.php?id=38664582&id2=",
+            "http://play.sportsteam368.com/play/i11.html?id=10022500068&id2="
         ]
     },
     {
-        "id": "wayddqreykmqup0fd5fph1sad3m",
+        "id": "81igaxkfgf4v8qijurmw23owaml",
         "match_id": "8171803344983441616",
         "source_name": "Premium",
         "match_title_from_api": "Portland Trail Blazers vs San Antonio Spurs",
@@ -169,7 +169,7 @@
         ]
     },
     {
-        "id": "90v9kdzosw516aszb14ogt7e4jc",
+        "id": "2wxe08ufg9829kp7a5empbca32h",
         "match_id": "1614562287532098920",
         "source_name": "Premium",
         "match_title_from_api": "Golden State Warriors vs Houston Rockets",
@@ -192,7 +192,7 @@
         ]
     },
     {
-        "id": "qxlwbz5ffvftkfauv3z8xs6tamc",
+        "id": "7y9ra2ttc1oo452bw2nuupi9l3a",
         "match_id": "749487377979164944",
         "source_name": "Premium",
         "match_title_from_api": "AS Roma vs FC Midtjylland",
@@ -215,7 +215,7 @@
         ]
     },
     {
-        "id": "jcrv9k3w7rnbpgc64i0slpzd32s",
+        "id": "j450bp6na67zuz0cphpgnqfs6q6",
         "match_id": "6761792880518777104",
         "source_name": "Premium",
         "match_title_from_api": "PAOK FC vs Brann",
@@ -232,13 +232,13 @@
         "date": "27-11-2025",
         "links": [
             "https://live-en.aisports.cc/moviebox/bsy_016/playlist.m3u8",
-            "http://play.sportsteam368.com/play/wen.php?id=5d49491a29898736f74b62cf4655315a&id2=",
             "http://play.88player.top/m3u8.html?url=https%3A%2F%2Fplay7ba.peodlc.com%2Flive%2F202_3964089_1.m3u8",
-            "http://play.sportsteam368.com/play/wlive.php?id=f97d4facba7ac22ebd5d4f7fd8dcf25d&id2="
+            "http://play.sportsteam368.com/play/wlive.php?id=f97d4facba7ac22ebd5d4f7fd8dcf25d&id2=",
+            "http://play.sportsteam368.com/play/wen.php?id=5d49491a29898736f74b62cf4655315a&id2="
         ]
     },
     {
-        "id": "uh5qmmlhvadydroc3n3n5zft8js",
+        "id": "jnkcpk5xdv4xavy4djl34vst019",
         "match_id": "6117778133803747600",
         "source_name": "Premium",
         "match_title_from_api": "Aston Villa vs Young Boys",
@@ -261,7 +261,7 @@
         ]
     },
     {
-        "id": "1tddzc8iovs8khgbwtv9hgre8e9",
+        "id": "monx97prf91n0igclxxdvvbew9w",
         "match_id": "4771201845221116584",
         "source_name": "Premium",
         "match_title_from_api": "Viktoria Plzen vs Freiburg",
@@ -284,7 +284,7 @@
         ]
     },
     {
-        "id": "shvbfcpzncvkcdj75o47q0py07u",
+        "id": "0enmstqjoo7es8ne94gwwgl84ef",
         "match_id": "4618079457889372432",
         "source_name": "Premium",
         "match_title_from_api": "FC Porto vs Nice",
@@ -307,7 +307,7 @@
         ]
     },
     {
-        "id": "ey8mc9t5w1ffregyc1mxapj7xc8",
+        "id": "f7nlbgqkqqask3mxb8w2sevj3xp",
         "match_id": "3969561111549069584",
         "source_name": "Premium",
         "match_title_from_api": "Fenerbahce vs Ferencvaros",
@@ -325,7 +325,7 @@
         "links": []
     },
     {
-        "id": "dqi2vd01a3z1mzsptnelwynsmbj",
+        "id": "hrl22o7z7l84v3shxud1owivk4k",
         "match_id": "258595018595256592",
         "source_name": "Premium",
         "match_title_from_api": "Feyenoord vs Celtic",
@@ -343,7 +343,7 @@
         "links": []
     },
     {
-        "id": "9562vf5drsqv1nj8pg8c4mmlr9f",
+        "id": "2qbyf2dezje87cl8xtjg3ewt1uu",
         "match_id": "2402308441224136976",
         "source_name": "Premium",
         "match_title_from_api": "Lille vs Dinamo Zagreb",
@@ -366,7 +366,7 @@
         ]
     },
     {
-        "id": "ey7s7q2mynj4422pmaqqss9cuo4",
+        "id": "17f50e13r72zsthlk0rgyvxczay",
         "match_id": "1789818891901749520",
         "source_name": "Premium",
         "match_title_from_api": "Ludogorets Razgrad vs Celta Vigo",
@@ -389,7 +389,7 @@
         ]
     },
     {
-        "id": "7qfcc6ug2r1v7dgvlvx1e6gjpce",
+        "id": "qg6c3gjih5r9xssmwsbtcnhypz5",
         "match_id": "9119427285446183184",
         "source_name": "Premium",
         "match_title_from_api": "SK Sigma Olomouc vs NK Celje",
@@ -407,7 +407,7 @@
         "links": []
     },
     {
-        "id": "cvgf5umlbxaetbkwmhppnm2jmfr",
+        "id": "5bw17bcx6sn2rfym8pm4n4bnp69",
         "match_id": "868832768104483088",
         "source_name": "Premium",
         "match_title_from_api": "CS Universitatea Craiova vs Mainz 05",
@@ -425,7 +425,7 @@
         "links": []
     },
     {
-        "id": "rvnf793l1edyu56shcumo0rsg3c",
+        "id": "lx4d7mzls9ed1rh1m1zrzp32m7u",
         "match_id": "796775174066555152",
         "source_name": "Premium",
         "match_title_from_api": "Lech Poznan vs Lausanne",
@@ -443,7 +443,7 @@
         "links": []
     },
     {
-        "id": "3je7aun87mqyd35e1r09yoo8254",
+        "id": "0cexcwhtnyazvudiwm8zfgllhoz",
         "match_id": "7516145818103335184",
         "source_name": "Premium",
         "match_title_from_api": "Zrinjski Mostar vs BK Haecken",
@@ -461,7 +461,7 @@
         "links": []
     },
     {
-        "id": "xtqmfrn5pw95zo24vmbwdoneg4l",
+        "id": "4wsyc7t19xgkpd66xq6d3rw0c4z",
         "match_id": "7173872246422751912",
         "source_name": "Premium",
         "match_title_from_api": "Slovan Bratislava vs Rayo Vallecano",
@@ -479,7 +479,7 @@
         "links": []
     },
     {
-        "id": "iim73dzlftl22g56n4tszc1aksz",
+        "id": "ccz54qz67jdv9ufgencqv5vcvct",
         "match_id": "5516547583550834960",
         "source_name": "Premium",
         "match_title_from_api": "Rakow Czestochowa vs Rapid Wien",
@@ -497,7 +497,7 @@
         "links": []
     },
     {
-        "id": "1y6jroy2yk5v4bq78hsqqk4jsax",
+        "id": "2hu7ykvbdrpfctmgrn6pwwj3569",
         "match_id": "4687885252114663696",
         "source_name": "Premium",
         "match_title_from_api": "Hamrun Spartans vs Lincoln Red Imps FC",
@@ -515,7 +515,7 @@
         "links": []
     },
     {
-        "id": "hn8477aq0bdfmttcwu7w6mt81r9",
+        "id": "pv55sfmydwpq0fowxd526whit88",
         "match_id": "2879690001725409552",
         "source_name": "Premium",
         "match_title_from_api": "AZ Alkmaar vs Shelbourne",
@@ -533,7 +533,7 @@
         "links": []
     },
     {
-        "id": "ntajqei2gz6jcow5zsm99aysa81",
+        "id": "5j0og0nszofq4r17g1h5uzmaly8",
         "match_id": "6806828876792482064",
         "source_name": "Premium",
         "match_title_from_api": "Maccabi Tel Aviv vs Lyon",
@@ -556,7 +556,7 @@
         ]
     },
     {
-        "id": "02ed8ngug8ix3wfc880jmr5ojh0",
+        "id": "crkfx5a45w6ic1h91585p8mkv0t",
         "match_id": "2339258046440950032",
         "source_name": "Premium",
         "match_title_from_api": "Go Ahead Eagles vs VfB Stuttgart",
@@ -573,13 +573,13 @@
         "date": "27-11-2025",
         "links": [
             "https://live-en.aisports.cc/moviebox/bsy_017/playlist.m3u8",
-            "http://play.sportsteam368.com/play/pao.php?id=44156911&id2=",
             "http://play.sportsteam368.com/play/wlive.php?id=d8401b9282fbbda6179dacd0c21b0ff1&id2=",
+            "http://play.sportsteam368.com/play/pao.php?id=44156911&id2=",
             "http://play.sportsteam368.com/play/wen.php?id=a12f6796dfed2add45ea9d1f8b29b987&id2="
         ]
     },
     {
-        "id": "35wr44zmy79uik51t45n30fd9ee",
+        "id": "iszg2w5um4ovbdkb6p6aamqvk2p",
         "match_id": "4176726694408112400",
         "source_name": "Premium",
         "match_title_from_api": "Real Betis vs FC Utrecht",
@@ -596,13 +596,13 @@
         "date": "27-11-2025",
         "links": [
             "https://live-en.aisports.cc/moviebox/bsy_020/playlist.m3u8",
-            "http://play.sportsteam368.com/play/pao.php?id=44157291&id2=",
             "http://play.sportsteam368.com/play/wlive.php?id=5f17fed4e9a297013fbd001449e3aeef&id2=",
+            "http://play.sportsteam368.com/play/pao.php?id=44157291&id2=",
             "http://play.sportsteam368.com/play/wen.php?id=0fed61de1e14c7dfd4c69168a7e93c03&id2="
         ]
     },
     {
-        "id": "wbk2itiyiv717ftgs8sl6xsuh24",
+        "id": "zo2jy780uzo5ind9bgm5vewda1w",
         "match_id": "3528208348066859688",
         "source_name": "Premium",
         "match_title_from_api": "Panathinaikos vs Sturm Graz",
@@ -625,7 +625,7 @@
         ]
     },
     {
-        "id": "q8la5yj63v8db40u9iqnfr47o86",
+        "id": "zkbyx85zzsd5cs3jqoll3cf6sy9",
         "match_id": "3221963573404518672",
         "source_name": "Premium",
         "match_title_from_api": "FK Crvena Zvezda vs FCSB",
@@ -646,7 +646,7 @@
         ]
     },
     {
-        "id": "nhjkbr666kvx6cvhrrs87fdngf6",
+        "id": "w86l3wx9svkpe10jg0lhz73ncq8",
         "match_id": "2537416430045251856",
         "source_name": "Premium",
         "match_title_from_api": "Bologna vs RB Salzburg",
@@ -664,7 +664,7 @@
         "links": []
     },
     {
-        "id": "cd1i4jl9lk77946hl9cmuzw77mh",
+        "id": "3wnhywez4nczbv85ywfsh9k1m9c",
         "match_id": "249587819341039888",
         "source_name": "Premium",
         "match_title_from_api": "Nottingham Forest vs Malmo FF",
@@ -687,7 +687,7 @@
         ]
     },
     {
-        "id": "boe0454l832vlfmn493ip0j9i63",
+        "id": "wi9y22kbc5pvkigks5t2g0yo507",
         "match_id": "7707548802265631400",
         "source_name": "Premium",
         "match_title_from_api": "Rangers vs SC Braga",
@@ -704,13 +704,13 @@
         "date": "27-11-2025",
         "links": [
             "https://live-en.aisports.cc/moviebox/bsy_006/playlist.m3u8",
-            "http://play.88player.top/m3u8.html?url=https%3A%2F%2Fplay7ba.peodlc.com%2Flive%2F202_3964030_1.m3u8",
             "http://play.sportsteam368.com/play/wlive.php?id=f5b1f4b7d2929d302fffa131ab2a1a0e&id2=",
+            "http://play.88player.top/m3u8.html?url=https%3A%2F%2Fplay7ba.peodlc.com%2Flive%2F202_3964030_1.m3u8",
             "http://play.sportsteam368.com/play/wen.php?id=55a5911a59727e536c725340a7405a15&id2="
         ]
     },
     {
-        "id": "i2rlcsbexmudw4aoqanqkfuphzm",
+        "id": "z4kh0lvucaojveo63pr914bxrsj",
         "match_id": "411717405926377744",
         "source_name": "Premium",
         "match_title_from_api": "Genk vs Basel",
@@ -727,13 +727,13 @@
         "date": "27-11-2025",
         "links": [
             "https://live-en.aisports.cc/moviebox/bsy_028/playlist.m3u8",
+            "http://play.88player.top/m3u8.html?url=https%3A%2F%2Fplay7ba.peodlc.com%2Flive%2F202_3964122_1.m3u8",
             "http://play.sportsteam368.com/play/wlive.php?id=6ffb12c0fdafe1e426fc045fcda6002d&id2=",
-            "http://play.sportsteam368.com/play/wen.php?id=aaa5712a02e2f837d5d89c2cc4144c33&id2=",
-            "http://play.88player.top/m3u8.html?url=https%3A%2F%2Fplay7ba.peodlc.com%2Flive%2F202_3964122_1.m3u8"
+            "http://play.sportsteam368.com/play/wen.php?id=aaa5712a02e2f837d5d89c2cc4144c33&id2="
         ]
     },
     {
-        "id": "z4kre1u6sv80lkfrf8cinp6b2yl",
+        "id": "cmhbn7n65l653qq6rl4swiyilur",
         "match_id": "8443887341341657360",
         "source_name": "Premium",
         "match_title_from_api": "Strasbourg vs Crystal Palace",
@@ -751,7 +751,7 @@
         "links": []
     },
     {
-        "id": "0woid8l895mm8a70svqq8xqw5ls",
+        "id": "jqv5hovl5wjew15ub2y9p2bkhkq",
         "match_id": "7363023430772738320",
         "source_name": "Premium",
         "match_title_from_api": "Shamrock Rovers vs Shakhtar Donetsk",
@@ -769,7 +769,7 @@
         "links": []
     },
     {
-        "id": "w6lmffn62k0kn9vtdrh2365r4xd",
+        "id": "nna6gqgh92ze8nbo9cfhwjmx5n2",
         "match_id": "6687483486666115344",
         "source_name": "Premium",
         "match_title_from_api": "Fiorentina vs AEK Athens",
@@ -787,7 +787,7 @@
         "links": []
     },
     {
-        "id": "36wh8doej9j3rrzclprpsyf89c2",
+        "id": "f6ukedvgd6h8v5vul5v2ohrnktc",
         "match_id": "5201295609634900240",
         "source_name": "Premium",
         "match_title_from_api": "Rijeka vs AEK Larnaca",
@@ -805,7 +805,7 @@
         "links": []
     },
     {
-        "id": "podtw40u0atr4248xecj0br5nch",
+        "id": "zfeqovvlp8h8ldkwilv3a6t8ivi",
         "match_id": "4741928447643109648",
         "source_name": "Premium",
         "match_title_from_api": "Jagiellonia Bialystok vs KuPS",
@@ -823,7 +823,7 @@
         "links": []
     },
     {
-        "id": "t3e311qyjzknuvufelbn5172s6q",
+        "id": "ka7j0hcyhvu9t5bqt061g4glocp",
         "match_id": "454501602386397456",
         "source_name": "Premium",
         "match_title_from_api": "Aberdeen vs FC Noah",
@@ -841,7 +841,7 @@
         "links": []
     },
     {
-        "id": "hgc21buktpak2yl8bnpaqv0y4gl",
+        "id": "xvm517y1gv0x09jo7kgc1v8v3z5",
         "match_id": "1535365512955316496",
         "source_name": "Premium",
         "match_title_from_api": "Breidablik vs Samsunspor",
@@ -859,7 +859,7 @@
         "links": []
     },
     {
-        "id": "wdaxrgzdgpxawwhng4adtt29s0y",
+        "id": "t191d270tb342t9khcmqlz2kv9u",
         "match_id": "1427279121898424592",
         "source_name": "Premium",
         "match_title_from_api": "Legia Warszawa vs Sparta Prague",
@@ -877,7 +877,7 @@
         "links": []
     },
     {
-        "id": "hkmywkumnjpmeofoqbtbmsv69vw",
+        "id": "c31g0hwt93fwq2ovrxqwun7fdfv",
         "match_id": "1103019948727748880",
         "source_name": "Premium",
         "match_title_from_api": "Drita vs KF Shkendija",
