@@ -1,6 +1,6 @@
 [
     {
-        "id": "nldzab19zoddxcdpbmjfzl32rtb",
+        "id": "rbbthujlgftiisj5ntxryymlj7r",
         "match_id": "840121358407323640",
         "source_name": "Premium",
         "match_title_from_api": "Concarneau vs Stade Briochin",
@@ -18,7 +18,7 @@
         "links": []
     },
     {
-        "id": "l59w4x7dumusg2xpp59a29e84oe",
+        "id": "jznyd65x3bqkduje43tmraoxvgp",
         "match_id": "8892557492145770488",
         "source_name": "Premium",
         "match_title_from_api": "FC Annecy vs Grenoble",
@@ -36,7 +36,7 @@
         "links": []
     },
     {
-        "id": "bkyfdxv176l4lmrjq9ejjprk3ac",
+        "id": "4hsq2in4426isjesqe5l5mof9tt",
         "match_id": "3717921520297070584",
         "source_name": "Premium",
         "match_title_from_api": "Sarreguemines FC vs Nancy",
@@ -54,7 +54,7 @@
         "links": []
     },
     {
-        "id": "h81g5s1lghohr6hwuvhlrm4liyw",
+        "id": "kdeck3wartfltco3ecpqh6pfjwz",
         "match_id": "158120926642600408",
         "source_name": "Premium",
         "match_title_from_api": "Borussia M'gladbach vs RB Leipzig",
@@ -71,13 +71,13 @@
         "date": "28-11-2025",
         "links": [
             "https://live-en.aisports.cc/moviebox/bsy_006/playlist.m3u8",
-            "http://play.sportsteam368.com/play/kbs.html?id=960736542&id2=",
             "http://play.sportsteam368.com/play/gm.php?id=960736542&id2=960736542",
-            "http://play.sportsteam368.com/play/wlive.php?id=0fe35cf26051f3bbfbc3605a4a51c02c&id2="
+            "http://play.sportsteam368.com/play/wlive.php?id=0fe35cf26051f3bbfbc3605a4a51c02c&id2=",
+            "http://play.sportsteam368.com/play/kbs.html?id=960736542&id2="
         ]
     },
     {
-        "id": "o59vfpzvebn5hylyba45nz93pjd",
+        "id": "ryf8tfiva6riaodwjhauqacip5e",
         "match_id": "2261464457007318480",
         "source_name": "Premium",
         "match_title_from_api": "Como 1907 vs Sassuolo",
@@ -100,7 +100,7 @@
         ]
     },
     {
-        "id": "uldmv9z0loa6u86mwnhjxyxe1zn",
+        "id": "ixgl0ouywdmi55vzbu5zmsxqfkx",
         "match_id": "5812689875724827096",
         "source_name": "Premium",
         "match_title_from_api": "Metz vs Rennes",
@@ -118,12 +118,12 @@
         "links": [
             "https://live-en.aisports.cc/moviebox/bsy_028/playlist.m3u8",
             "http://play.sportsteam368.com/play/gm.php?id=960736545&id2=960736545",
-            "http://play.sportsteam368.com/play/wlive.php?id=819c387dac2a7f04721ade0832979b93&id2=",
-            "http://play.sportsteam368.com/play/kbs.html?id=960736545&id2="
+            "http://play.sportsteam368.com/play/kbs.html?id=960736545&id2=",
+            "http://play.sportsteam368.com/play/wlive.php?id=819c387dac2a7f04721ade0832979b93&id2="
         ]
     },
     {
-        "id": "5utm2s2tyjmrhtzd3i7k7xtxqo9",
+        "id": "eddphhitktg8eqjvqsspsyj4o5u",
         "match_id": "5009223884031379336",
         "source_name": "Premium",
         "match_title_from_api": "Getafe vs Elche",
@@ -140,9 +140,9 @@
         "date": "28-11-2025",
         "links": [
             "https://live-en.aisports.cc/moviebox/bsy_023/playlist.m3u8",
-            "http://play.sportsteam368.com/play/gm.php?id=960736551&id2=960736551",
             "http://play.sportsteam368.com/play/wlive.php?id=95a872df47e10f1513a90720cc5a92e8&id2=",
-            "http://play.sportsteam368.com/play/kbs.html?id=960736551&id2="
+            "http://play.sportsteam368.com/play/kbs.html?id=960736551&id2=",
+            "http://play.sportsteam368.com/play/gm.php?id=960736551&id2=960736551"
         ]
     }
 ]
