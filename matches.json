@@ -1,6 +1,6 @@
 [
     {
-        "id": "5dlywp9b3d2t6v3tmfr8uvu5vyj",
+        "id": "ptwvzi8v5blba1r53fnrkhcb273",
         "match_id": "840121358407323640",
         "source_name": "Premium",
         "match_title_from_api": "Concarneau vs Stade Briochin",
@@ -18,7 +18,7 @@
         "links": []
     },
     {
-        "id": "0dkrkwqhuntmh9hzpa2hph59t6f",
+        "id": "3zt9rykja8rqxi84nkyp86dxrsi",
         "match_id": "8892557492145770488",
         "source_name": "Premium",
         "match_title_from_api": "FC Annecy vs Grenoble",
@@ -36,7 +36,7 @@
         "links": []
     },
     {
-        "id": "o5dm3nbtehz1g6w23hnh5lj78pm",
+        "id": "esyne17k5lzk5a3ayxe23l57y18",
         "match_id": "3717921520297070584",
         "source_name": "Premium",
         "match_title_from_api": "Sarreguemines FC vs Nancy",
@@ -54,7 +54,7 @@
         "links": []
     },
     {
-        "id": "03l7oaq9qtb2xg9gutgf0c9xxnw",
+        "id": "gfslip3hhxfls6qoe86kvp6x1i2",
         "match_id": "158120926642600408",
         "source_name": "Premium",
         "match_title_from_api": "Borussia M'gladbach vs RB Leipzig",
@@ -77,7 +77,7 @@
         ]
     },
     {
-        "id": "jjkbk1m8hgsbfi1totx8aoqcxwg",
+        "id": "a275b70cigdg5jdpkucn9hd9yot",
         "match_id": "2261464457007318480",
         "source_name": "Premium",
         "match_title_from_api": "Como 1907 vs Sassuolo",
@@ -92,10 +92,15 @@
         },
         "time": "19:45",
         "date": "28-11-2025",
-        "links": []
+        "links": [
+            "https://live-en.aisports.cc/moviebox/bsy_014/playlist.m3u8",
+            "http://play.sportsteam368.com/play/gm.php?id=960737104&id2=960737104",
+            "http://play.sportsteam368.com/play/wlive.php?id=386ad40abcb07e5094eadab217222ce5&id2=",
+            "http://play.sportsteam368.com/play/kbs.html?id=960737104&id2="
+        ]
     },
     {
-        "id": "gwjhsx5phqr7yzcghpxxh9h7l6r",
+        "id": "q0o3xrwru1vztdpkzbikuid9tj4",
         "match_id": "5812689875724827096",
         "source_name": "Premium",
         "match_title_from_api": "Metz vs Rennes",
@@ -110,10 +115,15 @@
         },
         "time": "19:45",
         "date": "28-11-2025",
-        "links": []
+        "links": [
+            "https://live-en.aisports.cc/moviebox/bsy_028/playlist.m3u8",
+            "http://play.sportsteam368.com/play/gm.php?id=960736545&id2=960736545",
+            "http://play.sportsteam368.com/play/wlive.php?id=819c387dac2a7f04721ade0832979b93&id2=",
+            "http://play.sportsteam368.com/play/kbs.html?id=960736545&id2="
+        ]
     },
     {
-        "id": "248fo7rlbkpnetj9rtuv35fjuum",
+        "id": "8h54lz8q6m16ym2vya7358fg3h6",
         "match_id": "5009223884031379336",
         "source_name": "Premium",
         "match_title_from_api": "Getafe vs Elche",
