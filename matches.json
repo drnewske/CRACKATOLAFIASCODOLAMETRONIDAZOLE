@@ -1,6 +1,6 @@
 [
     {
-        "id": "4ibzk23hq20odhwev47r2xpistx",
+        "id": "qpgisw84vs9fhvu58278nqtetfu",
         "match_id": "7215914324074153320",
         "source_name": "Premium",
         "match_title_from_api": "Charlotte Hornets vs Denver Nuggets",
@@ -17,13 +17,13 @@
         "date": "07-12-2025",
         "links": [
             "https://live-en.aisports.cc/moviebox/bsy_017/playlist.m3u8",
-            "http://nba.toutiaozb.com/qq/qq-kbs.html?matchliveid=1392130700",
             "http://play.sportsteam368.com/play/j.php?id=22500359&id2=",
-            "http://play.sportsteam368.com/play/i11.html?id=10022500359&id2="
+            "http://play.sportsteam368.com/play/i11.html?id=10022500359&id2=",
+            "http://nba.toutiaozb.com/qq/qq-kbs.html?matchliveid=1392130700"
         ]
     },
     {
-        "id": "g02gr33jz476lye12gbgk8yohbf",
+        "id": "jj0u5623v9aank7bhoyka2s0q6p",
         "match_id": "1883652365266338000",
         "source_name": "Premium",
         "match_title_from_api": "Memphis Grizzlies vs Portland Trail Blazers",
@@ -46,7 +46,7 @@
         ]
     },
     {
-        "id": "i2tkbkymrj8or0tg0e5i0tot123",
+        "id": "uqkudcnl30xtp7c2kj23tnwjzoe",
         "match_id": "4477725750632792272",
         "source_name": "Premium",
         "match_title_from_api": "Chicago Bulls vs Golden State Warriors",
@@ -69,7 +69,7 @@
         ]
     },
     {
-        "id": "rnndusk7n7h9sl9mt6pqhbz3rc2",
+        "id": "b4kxkoyvd8zlugxgc2fj34zeak8",
         "match_id": "7287971918111981776",
         "source_name": "Premium",
         "match_title_from_api": "Philadelphia 76ers vs LA Lakers",
@@ -86,13 +86,13 @@
         "date": "08-12-2025",
         "links": [
             "https://live-en.aisports.cc/moviebox/bsy_023/playlist.m3u8",
+            "http://play.sportsteam368.com/play/kbs.html?id=vl&id2=",
             "http://play.sportsteam368.com/play/j.php?id=22500362&id2=",
-            "http://play.sportsteam368.com/play/kbs.html?id=10022500362&id2=",
-            "http://play.sportsteam368.com/play/kbs.html?id=vl&id2="
+            "http://play.sportsteam368.com/play/kbs.html?id=10022500362&id2="
         ]
     },
     {
-        "id": "244o7jnv24te8u3mhblsi52i5b1",
+        "id": "lltu1yq13gkdqrb9yqurnvqutg8",
         "match_id": "3108631463912260968",
         "source_name": "Premium",
         "match_title_from_api": "Utah Jazz vs Oklahoma City Thunder",
@@ -115,7 +115,7 @@
         ]
     },
     {
-        "id": "pge88xe0eia764eyynqguvgrszn",
+        "id": "nftwj89ushetb2a61xjwo04of63",
         "match_id": "5596379981075170768",
         "source_name": "Premium",
         "match_title_from_api": "Pisa vs Parma",
@@ -138,7 +138,7 @@
         ]
     },
     {
-        "id": "5qorfjp1x3he1fhr8acwpjrdmgx",
+        "id": "53og6vtiryv2sfexqqh42h8gltp",
         "match_id": "7537431420471857232",
         "source_name": "Premium",
         "match_title_from_api": "Udinese vs Genoa",
@@ -161,7 +161,7 @@
         ]
     },
     {
-        "id": "ek6vtt7krr4rd75uuwrbw3oshq1",
+        "id": "aeg0hdzlum5sg00k4j0phjvm4l2",
         "match_id": "1146823549233123408",
         "source_name": "Premium",
         "match_title_from_api": "Torino vs AC Milan",
@@ -184,7 +184,7 @@
         ]
     },
     {
-        "id": "xymcorkp2jpdut762pj14yrr6ab",
+        "id": "aemxd3063u3qqyfgx3j0ehd0kc3",
         "match_id": "8963710654118084896",
         "source_name": "Premium",
         "match_title_from_api": "Wolves vs Manchester United",
@@ -200,11 +200,14 @@
         "time": "20:00",
         "date": "08-12-2025",
         "links": [
-            "https://live-en.aisports.cc/moviebox/device02/playlist.m3u8"
+            "https://live-en.aisports.cc/moviebox/device02/playlist.m3u8",
+            "http://play.sportsteam368.com/play/gm.php?id=960931835&id2=960931835",
+            "http://play.sportsteam368.com/play/wlive.php?id=819c387dac2a7f04721ade0832979b93&id2=",
+            "http://play.sportsteam368.com/play/kbs.html?id=960931835&id2="
         ]
     },
     {
-        "id": "9a774dx94krlbzg8s3zr3cipzm8",
+        "id": "az0zvmul2ch0xk5pnfucykt2fzl",
         "match_id": "7418649684674594696",
         "source_name": "Premium",
         "match_title_from_api": "Osasuna vs Levante",
