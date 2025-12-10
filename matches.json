@@ -1,6 +1,6 @@
 [
     {
-        "id": "ktujpc6ehzucax97weeb2tak8pt",
+        "id": "ko6y1dlrv8caw1m49rfe8vtehwm",
         "match_id": "4952373830738134776",
         "source_name": "Premium",
         "match_title_from_api": "Toronto Raptors vs New York Knicks",
@@ -17,13 +17,13 @@
         "date": "10-12-2025",
         "links": [
             "https://live-en.aisports.cc/moviebox/bsy_023/playlist.m3u8",
-            "http://tv.cctv.com/live/cctv5/",
             "http://sports.cctv.com/H5/CCTV5/index.shtml",
-            "http://play.sportsteam368.com/play/kbs.html?id=vl&id2="
+            "http://play.sportsteam368.com/play/kbs.html?id=vl&id2=",
+            "http://tv.cctv.com/live/cctv5/"
         ]
     },
     {
-        "id": "eiqcullwgskjtsphe4q1t2aal6l",
+        "id": "oe3apsf62iwc8thykyrrlbzfjan",
         "match_id": "5163206166764210616",
         "source_name": "Premium",
         "match_title_from_api": "Villarreal vs FC Copenhagen",
@@ -41,7 +41,7 @@
         "links": []
     },
     {
-        "id": "n5010h3a0ivm95qxhykinase77t",
+        "id": "nd949rbn6a8ofu525gigdnuu6dz",
         "match_id": "7145634427737457928",
         "source_name": "Premium",
         "match_title_from_api": "Athletic Club vs Paris Saint-Germain",
@@ -61,7 +61,7 @@
         ]
     },
     {
-        "id": "s87tyn00yq374smxbfeyw9chl5d",
+        "id": "p2wys1mvecucdpfxp0nafa6tovq",
         "match_id": "8684458125414614280",
         "source_name": "Premium",
         "match_title_from_api": "Juventus vs Pafos FC",
@@ -79,7 +79,7 @@
         "links": []
     },
     {
-        "id": "zpmj0oeqm9u65vf9cnigu4xfc1e",
+        "id": "jfa4daxpcl7ko58io7ccexxdc35",
         "match_id": "2273021105899194808",
         "source_name": "Premium",
         "match_title_from_api": "Real Madrid vs Manchester City",
@@ -99,7 +99,7 @@
         ]
     },
     {
-        "id": "ajstyb6hy3kaqeogh0dh7qcr6sa",
+        "id": "wk1lm692fgm66m1u16sox55femn",
         "match_id": "6490079206978243000",
         "source_name": "Premium",
         "match_title_from_api": "Club Brugge vs Arsenal",
@@ -119,7 +119,7 @@
         ]
     },
     {
-        "id": "23lf0v28tiie0ht72dqz0omtsc8",
+        "id": "6hrtljd3ypfwqr63z7bb1dp27zx",
         "match_id": "1656872381879665928",
         "source_name": "Premium",
         "match_title_from_api": "Borussia Dortmund vs Bodoe/Glimt",
@@ -137,7 +137,7 @@
         "links": []
     },
     {
-        "id": "k2o17sh96dafrqsk66vly7hetsq",
+        "id": "q0lsqaqmvpu12jvowe0vjrwf2p3",
         "match_id": "5451155067939211704",
         "source_name": "Premium",
         "match_title_from_api": "Bayer Leverkusen vs Newcastle United",
@@ -155,7 +155,7 @@
         "links": []
     },
     {
-        "id": "apz0tl0zr8pyy9m6nah64m6cc7i",
+        "id": "2qkvqpe811bki6fgvl1o9dgu25o",
         "match_id": "4885953314704214456",
         "source_name": "Premium",
         "match_title_from_api": "Benfica vs Napoli",
