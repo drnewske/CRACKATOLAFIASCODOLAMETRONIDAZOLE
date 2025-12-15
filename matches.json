@@ -1,6 +1,6 @@
 [
     {
-        "id": "amlfs63ajyys1uga2qqhoq0cwm5",
+        "id": "50juoa5lw7kxhytff37m4g1zjd9",
         "match_id": "4920633129067497208",
         "source_name": "Premium",
         "match_title_from_api": "Brooklyn Nets vs Milwaukee Bucks",
@@ -17,13 +17,13 @@
         "date": "14-12-2025",
         "links": [
             "https://live-en.aisports.cc/moviebox/bsy_022/playlist.m3u8",
-            "http://play.sportsteam368.com/play/pao.php?id=38673452&id2=",
             "http://play.sportsteam368.com/play/j.php?id=22501219&id2=",
-            "http://play.sportsteam368.com/play/kbs.html?id=10022501219&id2="
+            "http://play.sportsteam368.com/play/kbs.html?id=10022501219&id2=",
+            "http://play.sportsteam368.com/play/pao.php?id=38673452&id2="
         ]
     },
     {
-        "id": "lpg0tnxm18wtk4vvq0nrbbfkjqk",
+        "id": "let8uoxop8cnqe2ax61usddj00m",
         "match_id": "2848977300477166472",
         "source_name": "Premium",
         "match_title_from_api": "Atlanta Hawks vs Philadelphia 76ers",
@@ -46,7 +46,7 @@
         ]
     },
     {
-        "id": "smdo36j8pn34fvdffstyx7xhqrp",
+        "id": "1b4s64qoro6c5397jza9ju1o2u0",
         "match_id": "6145612227712272120",
         "source_name": "Premium",
         "match_title_from_api": "Chicago Bulls vs New Orleans Pelicans",
@@ -63,13 +63,13 @@
         "date": "15-12-2025",
         "links": [
             "https://live-en.aisports.cc/moviebox/bsy_009/playlist.m3u8",
-            "http://play.sportsteam368.com/play/j.php?id=22501223&id2=",
             "http://nba.toutiaozb.com/qq/qq-kbs.html?matchliveid=1776884300",
-            "http://play.sportsteam368.com/play/i11.html?id=10022501223&id2="
+            "http://play.sportsteam368.com/play/i11.html?id=10022501223&id2=",
+            "http://play.sportsteam368.com/play/j.php?id=22501223&id2="
         ]
     },
     {
-        "id": "3bhnpzpr8d423cklxepvhd4p3bb",
+        "id": "p2v4th52656hli1n4ggrssf26cr",
         "match_id": "2470674931777947384",
         "source_name": "Premium",
         "match_title_from_api": "Minnesota Timberwolves vs Sacramento Kings",
@@ -92,7 +92,7 @@
         ]
     },
     {
-        "id": "f4ujnrwlato825rl4plewx8vzew",
+        "id": "73viprmbg0bry8x56655ad97utq",
         "match_id": "7552167081749136176",
         "source_name": "Premium",
         "match_title_from_api": "Phoenix Suns vs LA Lakers",
@@ -115,7 +115,7 @@
         ]
     },
     {
-        "id": "21taox8ji15x7bpdjo3y6rxykqz",
+        "id": "bxwhnzasfxxt6bu05swtt8iobdd",
         "match_id": "7370591326356522744",
         "source_name": "Premium",
         "match_title_from_api": "Portland Trail Blazers vs Golden State Warriors",
@@ -138,7 +138,7 @@
         ]
     },
     {
-        "id": "g0ot1k10z52npjjvrsrgk85eto1",
+        "id": "e8wycjczicf2p9v60zzcuazef8c",
         "match_id": "3087874988629804496",
         "source_name": "Premium",
         "match_title_from_api": "AS Roma vs Como 1907",
@@ -153,10 +153,15 @@
         },
         "time": "19:45",
         "date": "15-12-2025",
-        "links": []
+        "links": [
+            "https://live-en.aisports.cc/moviebox/bsy_014/playlist.m3u8",
+            "http://play.sportsteam368.com/play/gm.php?id=961106805&id2=961106805",
+            "http://play.sportsteam368.com/play/pao.php?id=43396091&id2=",
+            "http://play.sportsteam368.com/play/kbs.html?id=961106805&id2="
+        ]
     },
     {
-        "id": "ujrj7tgacw6qoii9527m9bwj8gm",
+        "id": "occi6pg589z2n0tzwfxr3gwa8s4",
         "match_id": "3221621129220703328",
         "source_name": "Premium",
         "match_title_from_api": "Manchester United vs Bournemouth",
@@ -172,11 +177,14 @@
         "time": "20:00",
         "date": "15-12-2025",
         "links": [
-            "https://live-en.aisports.cc/moviebox/device01/playlist.m3u8"
+            "https://live-en.aisports.cc/moviebox/device01/playlist.m3u8",
+            "http://play.sportsteam368.com/play/kbs.html?id=961106596&id2=",
+            "http://play.sportsteam368.com/play/pao.php?id=43434151&id2=",
+            "http://play.88player.top/m3u8.html?url=https%3A%2F%2Fplay7ba.peodlc.com%2Flive%2F202_4316058_1.m3u8"
         ]
     },
     {
-        "id": "wzwp2jukx96s0l80emgd7b3pm3y",
+        "id": "8bfms6u9ohc8x03b7wopcbaqjrg",
         "match_id": "3675595444376291208",
         "source_name": "Premium",
         "match_title_from_api": "Rayo Vallecano vs Real Betis",
