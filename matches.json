@@ -1,6 +1,6 @@
 [
     {
-        "id": "6fvuha3vnt8wqdowoel53nhm71x",
+        "id": "1rhi8emyi3z2d62nwqf65zfjzd1",
         "match_id": "2398617337738970872",
         "source_name": "Premium",
         "match_title_from_api": "Boston Celtics vs Detroit Pistons",
@@ -23,7 +23,7 @@
         ]
     },
     {
-        "id": "n2o2lampfath14oyb3im5ds9fue",
+        "id": "afqet01l3lab94e7tsxoochqtub",
         "match_id": "7031042000892085040",
         "source_name": "Premium",
         "match_title_from_api": "Miami Heat vs Toronto Raptors",
@@ -46,7 +46,7 @@
         ]
     },
     {
-        "id": "ot9plc8ejed96by573e7ae7yti2",
+        "id": "1wfiqayfkl37d965t6i91etulxr",
         "match_id": "1389811021209028344",
         "source_name": "Premium",
         "match_title_from_api": "Utah Jazz vs Dallas Mavericks",
@@ -61,10 +61,15 @@
         },
         "time": "02:00",
         "date": "16-12-2025",
-        "links": []
+        "links": [
+            "https://live-en.aisports.cc/moviebox/bsy_009/playlist.m3u8",
+            "http://play.sportsteam368.com/play/j.php?id=22501224&id2=",
+            "http://play.sportsteam368.com/play/kbs.html?id=10022501224&id2=",
+            "http://play.sportsteam368.com/play/pao.php?id=38670322&id2="
+        ]
     },
     {
-        "id": "xypr394mk43clp8cegfduz688l9",
+        "id": "kbk87datzsramxi42o33i9prls4",
         "match_id": "8595570425001821944",
         "source_name": "Premium",
         "match_title_from_api": "Denver Nuggets vs Houston Rockets",
@@ -79,10 +84,15 @@
         },
         "time": "02:30",
         "date": "16-12-2025",
-        "links": []
+        "links": [
+            "https://live-en.aisports.cc/moviebox/bsy_023/playlist.m3u8",
+            "http://tv.cctv.com/live/cctv5/",
+            "http://sports.cctv.com/H5/CCTV5/index.shtml",
+            "https://www.yangshipin.cn/tv/home?pid=600001818"
+        ]
     },
     {
-        "id": "bciiox070gogz54kx9dygdz4ov3",
+        "id": "9b08wyx51iy9pkjb016wrfgd7dk",
         "match_id": "6832367190421161720",
         "source_name": "Premium",
         "match_title_from_api": "LA Clippers vs Memphis Grizzlies",
@@ -100,7 +110,7 @@
         "links": []
     },
     {
-        "id": "002ikd0u8ny8egidv1n3e4m77uo",
+        "id": "b1dwntqp7t29w6he10iq0avmwez",
         "match_id": "8779618432289588104",
         "source_name": "Premium",
         "match_title_from_api": "Deportivo La Coruna vs Mallorca",
@@ -118,7 +128,7 @@
         "links": []
     },
     {
-        "id": "k7g7d06aggxrli65il62cguwdtv",
+        "id": "dr1860dgamilwk8qezke2nkwjp5",
         "match_id": "1528823032223089544",
         "source_name": "Premium",
         "match_title_from_api": "Eibar vs Elche",
@@ -136,7 +146,7 @@
         "links": []
     },
     {
-        "id": "njfr93pooszfmlc50j37xbbhmtd",
+        "id": "4nuglocdosql8ithjt7zvfyrxpv",
         "match_id": "6158523449159862008",
         "source_name": "Premium",
         "match_title_from_api": "Guadalajara vs Barcelona",
@@ -154,7 +164,7 @@
         "links": []
     },
     {
-        "id": "0q71nt7u96e0050z7d0bkpwt2gt",
+        "id": "bwuk5zvyd0ynsbb38y79253gy2w",
         "match_id": "6831811593451751160",
         "source_name": "Premium",
         "match_title_from_api": "Sporting Gijon vs Valencia",
@@ -172,7 +182,7 @@
         "links": []
     },
     {
-        "id": "bwtc3s88otkf5o23x8ux9awth2v",
+        "id": "dubwmus63q18aerqwj4c0gnve02",
         "match_id": "4762407564674483960",
         "source_name": "Premium",
         "match_title_from_api": "CD Eldense vs Real Sociedad",
