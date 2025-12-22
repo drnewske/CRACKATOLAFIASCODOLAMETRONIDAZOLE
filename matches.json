@@ -1,6 +1,6 @@
 [
     {
-        "id": "sygtd7yali8zfefdhzmfa88yse6",
+        "id": "tmlyswa2azymch25fe84512ff34",
         "match_id": "8310289033525084368",
         "source_name": "Premium",
         "match_title_from_api": "Brooklyn Nets vs Toronto Raptors",
@@ -23,7 +23,7 @@
         ]
     },
     {
-        "id": "tsuxd01n796h6avjcw2d7t50bku",
+        "id": "76r5v880p6w8jiawelacm56tdvq",
         "match_id": "6977223543823417552",
         "source_name": "Premium",
         "match_title_from_api": "New York Knicks vs Miami Heat",
@@ -40,13 +40,13 @@
         "date": "21-12-2025",
         "links": [
             "https://live-en.aisports.cc/moviebox/bsy_023/playlist.m3u8",
+            "http://play.sportsteam368.com/play/kbs.html?id=10022500398&id2=",
             "http://play.sportsteam368.com/play/kbs.html?id=961278424&id2=",
-            "http://play.sportsteam368.com/play/j.php?id=22500398&id2=",
-            "http://play.sportsteam368.com/play/kbs.html?id=10022500398&id2="
+            "http://play.sportsteam368.com/play/j.php?id=22500398&id2="
         ]
     },
     {
-        "id": "i2z5cmucqefg5y6ceosy5oggbzo",
+        "id": "0z88qilrnh8dxqhs5hvdw91wo9y",
         "match_id": "780270456561615056",
         "source_name": "Premium",
         "match_title_from_api": "Minnesota Timberwolves vs Milwaukee Bucks",
@@ -63,13 +63,13 @@
         "date": "22-12-2025",
         "links": [
             "https://live-en.aisports.cc/moviebox/bsy_021/playlist.m3u8",
+            "http://play.sportsteam368.com/play/j.php?id=22500400&id2=",
             "http://nba.toutiaozb.com/qq/qq-kbs.html?matchliveid=1777008300",
-            "http://play.sportsteam368.com/play/i11.html?id=10022500400&id2=",
-            "http://play.sportsteam368.com/play/j.php?id=22500400&id2="
+            "http://play.sportsteam368.com/play/i11.html?id=10022500400&id2="
         ]
     },
     {
-        "id": "r2vmbgoqi5wwytgdpr1swlf4lp0",
+        "id": "orbb82zj6ipm87f8rs9rlfyy4t5",
         "match_id": "4743438128647651536",
         "source_name": "Premium",
         "match_title_from_api": "Washington Wizards vs San Antonio Spurs",
@@ -92,7 +92,7 @@
         ]
     },
     {
-        "id": "bbkswz4skgqh6awmwnxzumecmnp",
+        "id": "f4lxxvq13ahm4chhbbba6vq29s2",
         "match_id": "996443238675398864",
         "source_name": "Premium",
         "match_title_from_api": "Sacramento Kings vs Houston Rockets",
@@ -107,10 +107,15 @@
         },
         "time": "03:00",
         "date": "22-12-2025",
-        "links": []
+        "links": [
+            "https://live-en.aisports.cc/moviebox/bsy_011/playlist.m3u8",
+            "http://play.sportsteam368.com/play/kbs.html?id=10022500401&id2=",
+            "http://play.sportsteam368.com/play/j.php?id=22500401&id2=",
+            "http://play.sportsteam368.com/play/kbs.html?id=vl&id2="
+        ]
     },
     {
-        "id": "ftrzkt8q98m8lmyie9472yvoib0",
+        "id": "ueopemjdpxi7aereiwi7iv8cen1",
         "match_id": "4456626884851519368",
         "source_name": "Premium",
         "match_title_from_api": "Mali vs Zambia",
@@ -130,7 +135,7 @@
         ]
     },
     {
-        "id": "3emobulgt5eibtxwhobio8h3vw3",
+        "id": "di7i9tzc6s8546bm3uo12bfdcsb",
         "match_id": "7023228939985634064",
         "source_name": "Premium",
         "match_title_from_api": "South Africa vs Angola",
@@ -150,7 +155,7 @@
         ]
     },
     {
-        "id": "z1xx52qecsdo5ooo68d3nswhlm8",
+        "id": "ln1d7ktoomifz87qqya61awm7fv",
         "match_id": "9155683363545663384",
         "source_name": "Premium",
         "match_title_from_api": "Egypt vs Zimbabwe",
@@ -170,7 +175,7 @@
         ]
     },
     {
-        "id": "0f0mhca4wk16okhk5ewlfods88f",
+        "id": "nn5q18o10zk9t8v7m70c83yoc5v",
         "match_id": "3219369329405969504",
         "source_name": "Premium",
         "match_title_from_api": "Fulham vs Nottingham Forest",
@@ -188,7 +193,7 @@
         "links": []
     },
     {
-        "id": "2kc89spoorjrabktz3rkkx8z336",
+        "id": "2i6kkyk3oa1yrduoypf8ixyb402",
         "match_id": "153780535772563336",
         "source_name": "Premium",
         "match_title_from_api": "Athletic Club vs Espanyol",
