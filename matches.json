@@ -1,6 +1,6 @@
 [
     {
-        "id": "kzom0mfalcvjxoi6nh66v17vmvw",
+        "id": "fta1opgank4hvwvdl8k3om6izu9",
         "match_id": "7769857078240724240",
         "source_name": "Premium",
         "match_title_from_api": "Cleveland Cavaliers vs Charlotte Hornets",
@@ -23,7 +23,7 @@
         ]
     },
     {
-        "id": "3s679e3js0w56v0kdq9ckjiybql",
+        "id": "jlzukv2vu6qm4l0ubab36g3sip5",
         "match_id": "4626344538336018640",
         "source_name": "Premium",
         "match_title_from_api": "Boston Celtics vs Indiana Pacers",
@@ -46,7 +46,7 @@
         ]
     },
     {
-        "id": "xlv2a8du45vjlf1x3pb4k5qwabc",
+        "id": "w2qr1ssqgnzxha1avvrr6wz5nm3",
         "match_id": "8373339428308271312",
         "source_name": "Premium",
         "match_title_from_api": "New Orleans Pelicans vs Dallas Mavericks",
@@ -63,13 +63,13 @@
         "date": "23-12-2025",
         "links": [
             "https://live-en.aisports.cc/moviebox/bsy_023/playlist.m3u8",
-            "http://play.sportsteam368.com/play/pao.php?id=38668582&id2=",
             "http://play.sportsteam368.com/play/j.php?id=22500404&id2=",
-            "http://play.sportsteam368.com/play/kbs.html?id=10022500404&id2="
+            "http://play.sportsteam368.com/play/kbs.html?id=10022500404&id2=",
+            "http://play.sportsteam368.com/play/pao.php?id=38668582&id2="
         ]
     },
     {
-        "id": "48tjroxv8maf2f464gm18o5yowx",
+        "id": "blzvzeb955ob665q2qewe0eolzl",
         "match_id": "4193998974107501928",
         "source_name": "Premium",
         "match_title_from_api": "Denver Nuggets vs Utah Jazz",
@@ -84,10 +84,15 @@
         },
         "time": "02:00",
         "date": "23-12-2025",
-        "links": []
+        "links": [
+            "https://live-en.aisports.cc/moviebox/bsy_011/playlist.m3u8",
+            "http://play.sportsteam368.com/play/j.php?id=22500405&id2=",
+            "http://play.sportsteam368.com/play/kbs.html?id=10022500405&id2=",
+            "http://play.sportsteam368.com/play/pao.php?id=38667482&id2="
+        ]
     },
     {
-        "id": "s61m4tlsd9dlt49xb222s0wtu7j",
+        "id": "nycinesqd9itj5g6g2h3vc5nkgc",
         "match_id": "4698402132373946576",
         "source_name": "Premium",
         "match_title_from_api": "Oklahoma City Thunder vs Memphis Grizzlies",
@@ -102,10 +107,15 @@
         },
         "time": "02:30",
         "date": "23-12-2025",
-        "links": []
+        "links": [
+            "https://live-en.aisports.cc/moviebox/bsy_020/playlist.m3u8",
+            "http://tv.cctv.com/live/cctv5/",
+            "https://www.yangshipin.cn/tv/home?pid=600001818",
+            "http://sports.cctv.com/H5/CCTV5/index.shtml"
+        ]
     },
     {
-        "id": "duqaruffdf2pcsp7ldfe77hybqf",
+        "id": "dsdbohhq9dydawgk6bp2b3ner5a",
         "match_id": "5995438825056649424",
         "source_name": "Premium",
         "match_title_from_api": "Portland Trail Blazers vs Detroit Pistons",
@@ -120,10 +130,15 @@
         },
         "time": "03:00",
         "date": "23-12-2025",
-        "links": []
+        "links": [
+            "https://live-en.aisports.cc/moviebox/bsy_016/playlist.m3u8",
+            "http://play.sportsteam368.com/play/j.php?id=22500408&id2=",
+            "http://play.sportsteam368.com/play/kbs.html?id=10022500408&id2=",
+            "http://play.sportsteam368.com/play/pao.php?id=38661912&id2="
+        ]
     },
     {
-        "id": "c1bg6s5eafwhxb33pzy30vcwu1d",
+        "id": "a89buaevcrwur1qu41tbbwunyzj",
         "match_id": "5021590011851981584",
         "source_name": "Premium",
         "match_title_from_api": "DR Congo vs Benin",
@@ -143,7 +158,7 @@
         ]
     },
     {
-        "id": "rfpweuf7xy1zd1w4n7ktgwu03yr",
+        "id": "16nrejq18fa5buh7sj7fg35lb0q",
         "match_id": "8216893947470824208",
         "source_name": "Premium",
         "match_title_from_api": "Senegal vs Botswana",
@@ -163,7 +178,7 @@
         ]
     },
     {
-        "id": "hjwnvna9r1qbyl9lojh1z67j9b1",
+        "id": "ikbexkqmeuskkik9hcjeqgzo9e8",
         "match_id": "5242055287360602896",
         "source_name": "Premium",
         "match_title_from_api": "Nigeria vs Tanzania",
@@ -183,7 +198,7 @@
         ]
     },
     {
-        "id": "n3wgqu7mh8dc2l8hulia3zuzlm1",
+        "id": "fyt0lrwspz5cltdoxnegd4mh9yq",
         "match_id": "3026284270694318864",
         "source_name": "Premium",
         "match_title_from_api": "Tunisia vs Uganda",
