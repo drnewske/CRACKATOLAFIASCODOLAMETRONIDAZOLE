@@ -1,6 +1,6 @@
 [
     {
-        "id": "sz916wnwwqgo29twecuh8w6v2bq",
+        "id": "1b3shbwuxi7ekou2on14ujmm725",
         "match_id": "5977424426547167440",
         "source_name": "Premium",
         "match_title_from_api": "New York Knicks vs Cleveland Cavaliers",
@@ -15,10 +15,15 @@
         },
         "time": "17:00",
         "date": "25-12-2025",
-        "links": []
+        "links": [
+            "https://live-en.aisports.cc/moviebox/bsy_023/playlist.m3u8",
+            "http://play.sportsteam368.com/play/pao.php?id=vl&id2=",
+            "http://play.sportsteam368.com/play/kbs.html?id=10022500009&id2=",
+            "http://play.sportsteam368.com/play/j.php?id=22500009&id2="
+        ]
     },
     {
-        "id": "9ktxvwr20y8c539bspziccfvx10",
+        "id": "4grl7os5zs9pqk2myoi25cldqws",
         "match_id": "7995037059609249040",
         "source_name": "Premium",
         "match_title_from_api": "Oklahoma City Thunder vs San Antonio Spurs",
