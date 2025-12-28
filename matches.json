@@ -1,6 +1,6 @@
 [
     {
-        "id": "06bbll4pecgh8lhouk6w2gbgphv",
+        "id": "02omi9tjx0yobld1qfo1ownumjb",
         "match_id": "8758397196448448720",
         "source_name": "Premium",
         "match_title_from_api": "Sacramento Kings vs Dallas Mavericks",
@@ -23,7 +23,7 @@
         ]
     },
     {
-        "id": "xtg4m2ixeqzhphuvxjgqa69wsn7",
+        "id": "atz2iyt74s3wv21zzb25hliwgrt",
         "match_id": "832061852276375760",
         "source_name": "Premium",
         "match_title_from_api": "New Orleans Pelicans vs Phoenix Suns",
@@ -46,7 +46,7 @@
         ]
     },
     {
-        "id": "czh7qoapo8owgx2dyuslf51g4t5",
+        "id": "bcsh9yxgb076bbsaq9kbleyt3ww",
         "match_id": "9100670768128606416",
         "source_name": "Premium",
         "match_title_from_api": "Miami Heat vs Indiana Pacers",
@@ -69,7 +69,7 @@
         ]
     },
     {
-        "id": "couojo48lqeyw15lrrm3wn56vyl",
+        "id": "ied3ktaieqm7xt4zriznakc1oly",
         "match_id": "7155115729104552144",
         "source_name": "Premium",
         "match_title_from_api": "San Antonio Spurs vs Utah Jazz",
@@ -92,7 +92,7 @@
         ]
     },
     {
-        "id": "mipw4ztu76ydwv7ac4ln8s2b1bh",
+        "id": "kf7wfsz4xip1r7c1uvjbkhwzeha",
         "match_id": "4993387907965665488",
         "source_name": "Premium",
         "match_title_from_api": "Minnesota Timberwolves vs Brooklyn Nets",
@@ -115,7 +115,7 @@
         ]
     },
     {
-        "id": "wj79tkwat7nl9u88ju9xgvzk2p5",
+        "id": "hm24rijnaeqvgr1mvh4p2ax4p7t",
         "match_id": "3768408809321939152",
         "source_name": "Premium",
         "match_title_from_api": "Chicago Bulls vs Milwaukee Bucks",
@@ -138,7 +138,7 @@
         ]
     },
     {
-        "id": "33uxn3ddbsiykgta2ykjwm3mk20",
+        "id": "5nezrisc7w8qvztvy34m03th5vo",
         "match_id": "1318450612032488808",
         "source_name": "Premium",
         "match_title_from_api": "Houston Rockets vs Cleveland Cavaliers",
@@ -155,13 +155,13 @@
         "date": "28-12-2025",
         "links": [
             "https://live-en.aisports.cc/moviebox/bsy_019/playlist.m3u8",
-            "http://tv.cctv.com/live/cctv5/",
             "https://www.yangshipin.cn/tv/home?pid=600001818",
-            "http://sports.cctv.com/H5/CCTV5/index.shtml"
+            "http://sports.cctv.com/H5/CCTV5/index.shtml",
+            "http://tv.cctv.com/live/cctv5/"
         ]
     },
     {
-        "id": "pzqzebcc5ogq09gh56jbomd1uix",
+        "id": "a37y7k3fyfc1vvqy5vx0otf1udo",
         "match_id": "1174335423956533456",
         "source_name": "Premium",
         "match_title_from_api": "Atlanta Hawks vs New York Knicks",
@@ -184,7 +184,7 @@
         ]
     },
     {
-        "id": "9s4b29uq7zt8q4b9h9l365q1rbg",
+        "id": "tg0zewottc6ydr0mea871q5eihh",
         "match_id": "2616122927661699152",
         "source_name": "Premium",
         "match_title_from_api": "AC Milan vs Hellas Verona",
@@ -201,13 +201,13 @@
         "date": "28-12-2025",
         "links": [
             "https://live-en.aisports.cc/moviebox/bsy_020/playlist.m3u8",
+            "http://play.sportsteam368.com/play/wlive.php?id=9b5363c89e2f7984c76cbbbfaf389772&id2=",
             "http://play.sportsteam368.com/play/wlive.php?id=7d518b5cb460f7d0c1552b55cafd590d&id2=",
-            "http://play.sportsteam368.com/play/kbs.html?id=961449506&id2=",
-            "http://play.sportsteam368.com/play/wlive.php?id=9b5363c89e2f7984c76cbbbfaf389772&id2="
+            "http://play.sportsteam368.com/play/kbs.html?id=961449506&id2="
         ]
     },
     {
-        "id": "0zy6yp8dl5sl2uubwb73najav05",
+        "id": "t7h2ijd6qn5yo47xp1z5vhjjjdt",
         "match_id": "4660176141755499280",
         "source_name": "Premium",
         "match_title_from_api": "Gabon vs Mozambique",
@@ -227,7 +227,7 @@
         ]
     },
     {
-        "id": "2rbpuj3b46gf0yfxzkibefxhyfw",
+        "id": "rr766hce6obea5j3x5qk9tocaeo",
         "match_id": "7440931030113436768",
         "source_name": "Premium",
         "match_title_from_api": "Sunderland vs Leeds United",
@@ -250,7 +250,7 @@
         ]
     },
     {
-        "id": "ho0tw6bxpbesbz8jsio7qv95tjf",
+        "id": "f4vvy1c4r187vfkhtfpl7oinxxu",
         "match_id": "3345706067296765392",
         "source_name": "Premium",
         "match_title_from_api": "Cremonese vs Napoli",
@@ -268,7 +268,7 @@
         "links": []
     },
     {
-        "id": "i5jkbhd96w6yknc0vabksagf1si",
+        "id": "kbcnv7jp4kr4n69aj8exr87jy7k",
         "match_id": "7684343291533838232",
         "source_name": "Premium",
         "match_title_from_api": "Equatorial Guinea vs Sudan",
@@ -288,7 +288,7 @@
         ]
     },
     {
-        "id": "pk82jyg8awril4chwkgsul52g2t",
+        "id": "877n2nlbx4cwhyw6hknvl8t66j3",
         "match_id": "71353189875041376",
         "source_name": "Premium",
         "match_title_from_api": "Crystal Palace vs Tottenham Hotspur",
@@ -311,7 +311,7 @@
         ]
     },
     {
-        "id": "6mjj0cel1jioma5f3aymd8qx08w",
+        "id": "n3ho0ltndgr1ftzrdifolvzneds",
         "match_id": "4228411594260334032",
         "source_name": "Premium",
         "match_title_from_api": "Bologna vs Sassuolo",
@@ -328,13 +328,13 @@
         "date": "28-12-2025",
         "links": [
             "https://live-en.aisports.cc/moviebox/bsy_016/playlist.m3u8",
+            "http://play.sportsteam368.com/play/wlive.php?id=95a872df47e10f1513a90720cc5a92e8&id2=",
             "http://play.sportsteam368.com/play/kbs.html?id=961449602&id2=",
-            "http://play.sportsteam368.com/play/gm.php?id=961449602&id2=961449602",
-            "http://play.sportsteam368.com/play/wlive.php?id=95a872df47e10f1513a90720cc5a92e8&id2="
+            "http://play.sportsteam368.com/play/gm.php?id=961449602&id2=961449602"
         ]
     },
     {
-        "id": "2axp6nzr6ry0u4mc1cx7ephykb9",
+        "id": "t8ig02fg8f4sva6s1nac7q8umee",
         "match_id": "6635004578357561240",
         "source_name": "Premium",
         "match_title_from_api": "Algeria vs Burkina Faso",
@@ -354,7 +354,7 @@
         ]
     },
     {
-        "id": "e55qgbobxgxnixje6tko4ql0kv8",
+        "id": "bpmlpne0v5zu0knmaenskszjtq3",
         "match_id": "2463000540332150864",
         "source_name": "Premium",
         "match_title_from_api": "Atalanta vs Inter",
@@ -369,10 +369,15 @@
         },
         "time": "19:45",
         "date": "28-12-2025",
-        "links": []
+        "links": [
+            "https://live-en.aisports.cc/moviebox/bsy_022/playlist.m3u8",
+            "http://play.sportsteam368.com/play/wlive.php?id=797d148d5ed5e1f03a9fd06a962f6d1a&id2=",
+            "http://play.sportsteam368.com/play/kbs.html?id=961449631&id2=",
+            "http://play.sportsteam368.com/play/wlive.php?id=7bc6360e3a553dd1144597a1d435a902&id2="
+        ]
     },
     {
-        "id": "m3r9dz3jq2l0jrzb81hfj561hbi",
+        "id": "mx30wzxuanvq3txn33bh4ca569q",
         "match_id": "6119342421023639448",
         "source_name": "Premium",
         "match_title_from_api": "Ivory Coast vs Cameroon",
@@ -392,7 +397,7 @@
         ]
     },
     {
-        "id": "b3qu4n0f79mucjli4824h4nxqf1",
+        "id": "emmjbb34tvd2vf9s3txm7mr0pb3",
         "match_id": "6866885352952939792",
         "source_name": "Premium",
         "match_title_from_api": "Oklahoma City Thunder vs Philadelphia 76ers",
@@ -410,7 +415,7 @@
         "links": []
     },
     {
-        "id": "2i9da409nf12ddek8sob988cfx1",
+        "id": "nvx1rh01kynt69z60twc1kp3y9g",
         "match_id": "2651516101733531856",
         "source_name": "Premium",
         "match_title_from_api": "Toronto Raptors vs Golden State Warriors",
