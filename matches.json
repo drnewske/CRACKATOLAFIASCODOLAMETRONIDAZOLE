@@ -1,6 +1,6 @@
 [
     {
-        "id": "sfrhqh2o3kx8ylc13givfgh0n3h",
+        "id": "h39j9t9807rldlgpgvoo6qg0n9e",
         "match_id": "5966165427477692624",
         "source_name": "Premium",
         "match_title_from_api": "Portland Trail Blazers vs Boston Celtics",
@@ -17,13 +17,13 @@
         "date": "28-12-2025",
         "links": [
             "https://live-en.aisports.cc/moviebox/bsy_020/playlist.m3u8",
+            "http://play.sportsteam368.com/play/kbs.html?id=10022500444&id2=",
             "http://play.sportsteam368.com/play/pao.php?id=38661482&id2=",
-            "http://play.sportsteam368.com/play/j.php?id=22500444&id2=",
-            "http://play.sportsteam368.com/play/kbs.html?id=10022500444&id2="
+            "http://play.sportsteam368.com/play/j.php?id=22500444&id2="
         ]
     },
     {
-        "id": "a6smz1bhbxhznol6x9m4fc8p6wl",
+        "id": "sj77s2thbdi6hxb9rjpsx7a8ork",
         "match_id": "3372092042113335504",
         "source_name": "Premium",
         "match_title_from_api": "Washington Wizards vs Memphis Grizzlies",
@@ -40,13 +40,13 @@
         "date": "28-12-2025",
         "links": [
             "https://live-en.aisports.cc/moviebox/bsy_023/playlist.m3u8",
+            "http://nba.toutiaozb.com/qq/qq-kbs.html?matchliveid=1392467700",
             "http://play.sportsteam368.com/play/i11.html?id=10022500443&id2=",
-            "http://play.sportsteam368.com/play/pao.php?id=38664672&id2=",
-            "http://nba.toutiaozb.com/qq/qq-kbs.html?matchliveid=1392467700"
+            "http://play.sportsteam368.com/play/pao.php?id=38664672&id2="
         ]
     },
     {
-        "id": "9obfbrx2q9fg7tcpjnznk78zmel",
+        "id": "v53awmxs3kx2lku5zqap3pab24v",
         "match_id": "4164725576530542800",
         "source_name": "Premium",
         "match_title_from_api": "LA Clippers vs Detroit Pistons",
@@ -63,13 +63,13 @@
         "date": "29-12-2025",
         "links": [
             "https://live-en.aisports.cc/moviebox/bsy_014/playlist.m3u8",
-            "http://play.sportsteam368.com/play/pao.php?id=38663612&id2=",
             "http://play.sportsteam368.com/play/j.php?id=22500445&id2=",
-            "http://play.sportsteam368.com/play/kbs.html?id=10022500445&id2="
+            "http://play.sportsteam368.com/play/kbs.html?id=10022500445&id2=",
+            "http://play.sportsteam368.com/play/pao.php?id=38663612&id2="
         ]
     },
     {
-        "id": "dz4tcrqdr0cp4ayv00msikq8db3",
+        "id": "ynlnjtagvwscgzqlxb6uk9e6nah",
         "match_id": "9064641971109642448",
         "source_name": "Premium",
         "match_title_from_api": "LA Lakers vs Sacramento Kings",
@@ -92,7 +92,7 @@
         ]
     },
     {
-        "id": "fecxbvmlasd697947h449j65ite",
+        "id": "o9dyt7uqyml158b8214m01juma9",
         "match_id": "4134169779027460880",
         "source_name": "Premium",
         "match_title_from_api": "Zimbabwe vs South Africa",
@@ -112,7 +112,7 @@
         ]
     },
     {
-        "id": "b982wnhhe3ngo34ec89n4zhx25z",
+        "id": "rqe2gygwcfq4cb24v0dmew6v1ba",
         "match_id": "2458830717645636368",
         "source_name": "Premium",
         "match_title_from_api": "Angola vs Egypt",
@@ -132,7 +132,7 @@
         ]
     },
     {
-        "id": "ypashahghsmpurn2ryx1x4jt5cn",
+        "id": "a6490vnrmrg5m2pr60eqnl82q40",
         "match_id": "7643486571169566776",
         "source_name": "Premium",
         "match_title_from_api": "Comoros vs Mali",
@@ -152,7 +152,7 @@
         ]
     },
     {
-        "id": "gzh22or6ghlmy8p3s2lx0p9i2ih",
+        "id": "3b2hshqkoculu92oyulfrkdtk4w",
         "match_id": "4461693434433359752",
         "source_name": "Premium",
         "match_title_from_api": "Zambia vs Morocco",
@@ -172,7 +172,7 @@
         ]
     },
     {
-        "id": "3qdhne98nyahuo8f6xxweaikj8x",
+        "id": "7dos24p21lwvfq9ru8o8t54pzj3",
         "match_id": "3228612476984610896",
         "source_name": "Premium",
         "match_title_from_api": "AS Roma vs Genoa",
@@ -187,6 +187,11 @@
         },
         "time": "19:45",
         "date": "29-12-2025",
-        "links": []
+        "links": [
+            "https://live-en.aisports.cc/moviebox/bsy_027/playlist.m3u8",
+            "http://play.sportsteam368.com/play/kbs.html?id=961450100&id2=",
+            "http://play.sportsteam368.com/play/wlive.php?id=7d518b5cb460f7d0c1552b55cafd590d&id2=",
+            "http://play.sportsteam368.com/play/gm.php?id=961450100&id2=961450100"
+        ]
     }
 ]
