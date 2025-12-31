@@ -1,6 +1,6 @@
 [
     {
-        "id": "y17wzmmfmvrusel8l1zzkv2amlr",
+        "id": "mxv4piv4knkvv9acg9x4mhx4iiy",
         "match_id": "985184239606972624",
         "source_name": "Premium",
         "match_title_from_api": "Memphis Grizzlies vs Philadelphia 76ers",
@@ -23,7 +23,7 @@
         ]
     },
     {
-        "id": "e6iogjzhroyke1g55tdpcoj2078",
+        "id": "djefv0b77utja743dn4pr9je45l",
         "match_id": "7758598079171150032",
         "source_name": "Premium",
         "match_title_from_api": "Utah Jazz vs Boston Celtics",
@@ -46,7 +46,7 @@
         ]
     },
     {
-        "id": "vo4frz3dfjtc67quezh2fc4bfbb",
+        "id": "16g5qf2pze8ammgdr53fhxo00qu",
         "match_id": "4642107137031390568",
         "source_name": "Premium",
         "match_title_from_api": "LA Lakers vs Detroit Pistons",
@@ -63,13 +63,13 @@
         "date": "31-12-2025",
         "links": [
             "https://live-en.aisports.cc/moviebox/bsy_022/playlist.m3u8",
-            "http://sports.cctv.com/H5/CCTV5/index.shtml",
             "http://tv.cctv.com/live/cctv5/",
-            "https://www.yangshipin.cn/tv/home?pid=600001818"
+            "https://www.yangshipin.cn/tv/home?pid=600001818",
+            "http://sports.cctv.com/H5/CCTV5/index.shtml"
         ]
     },
     {
-        "id": "rco2owjttjbe2bdd8qszu8lcn6e",
+        "id": "8vmtmyhcx9mearu7f9msazn2v7s",
         "match_id": "3777416008576779624",
         "source_name": "Premium",
         "match_title_from_api": "LA Clippers vs Sacramento Kings",
@@ -92,7 +92,7 @@
         ]
     },
     {
-        "id": "jsnrr90mcz5p0mrqnstxoazgix4",
+        "id": "zzvdf25hgk7514rklcgfcovo0xo",
         "match_id": "7877998075511818136",
         "source_name": "Premium",
         "match_title_from_api": "Equatorial Guinea vs Algeria",
@@ -112,7 +112,7 @@
         ]
     },
     {
-        "id": "hdjumgasjs1haztffv5tvhial4l",
+        "id": "0j5p9mekluuxkntty2smtnq4bq9",
         "match_id": "2644815308507202320",
         "source_name": "Premium",
         "match_title_from_api": "Sudan vs Burkina Faso",
@@ -132,7 +132,7 @@
         ]
     },
     {
-        "id": "aaah0dbanssfw98yv3yspfvcqg4",
+        "id": "hzq927jbqks3fem2pxgnkczmzlv",
         "match_id": "7668526086624788688",
         "source_name": "Premium",
         "match_title_from_api": "Charlotte Hornets vs Golden State Warriors",
@@ -150,7 +150,7 @@
         "links": []
     },
     {
-        "id": "go43t1voy2bl6cwubv75zqqmlm7",
+        "id": "g7wbg8csssbg1l49bguehsd0z3u",
         "match_id": "5520363670583264016",
         "source_name": "Premium",
         "match_title_from_api": "Gabon vs Ivory Coast",
@@ -170,7 +170,7 @@
         ]
     },
     {
-        "id": "tfe3rrev6jc7e9lhm93y8dgg3rs",
+        "id": "h0qbprrv2rh3tw4lrh2237aabze",
         "match_id": "4385456564485998488",
         "source_name": "Premium",
         "match_title_from_api": "Mozambique vs Cameroon",
@@ -190,7 +190,7 @@
         ]
     },
     {
-        "id": "h65vm6etf29oybjtkbgtfwif46q",
+        "id": "9syfto7frzbm8izf5i86q99vfib",
         "match_id": "7020007740283437264",
         "source_name": "Premium",
         "match_title_from_api": "Atlanta Hawks vs Minnesota Timberwolves",
@@ -208,7 +208,7 @@
         "links": []
     },
     {
-        "id": "i3b1ydgk4atyapgfttgwebmvyob",
+        "id": "3rsdecqzb1h1xny68gbfflscwm2",
         "match_id": "1399515405324009680",
         "source_name": "Premium",
         "match_title_from_api": "Cleveland Cavaliers vs Phoenix Suns",
