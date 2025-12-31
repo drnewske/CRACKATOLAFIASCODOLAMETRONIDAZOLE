@@ -1,6 +1,6 @@
 [
     {
-        "id": "wig5z7xbrjmo463e3cuwncr8wxw",
+        "id": "jjlekqzd2joj0v28cm8weeca5zc",
         "match_id": "985184239606972624",
         "source_name": "Premium",
         "match_title_from_api": "Memphis Grizzlies vs Philadelphia 76ers",
@@ -17,13 +17,13 @@
         "date": "31-12-2025",
         "links": [
             "https://live-en.aisports.cc/moviebox/bsy_019/playlist.m3u8",
-            "http://play.sportsteam368.com/play/j.php?id=22500458&id2=",
             "http://play.sportsteam368.com/play/kbs.html?id=10022500458&id2=",
-            "http://play.sportsteam368.com/play/pao.php?id=38670742&id2="
+            "http://play.sportsteam368.com/play/pao.php?id=38670742&id2=",
+            "http://play.sportsteam368.com/play/j.php?id=22500458&id2="
         ]
     },
     {
-        "id": "j38sezqkb2063ma0g43213a6krs",
+        "id": "o7pyyaqcaqdz00y6oq84cnzfiyi",
         "match_id": "7758598079171150032",
         "source_name": "Premium",
         "match_title_from_api": "Utah Jazz vs Boston Celtics",
@@ -38,10 +38,15 @@
         },
         "time": "02:00",
         "date": "31-12-2025",
-        "links": []
+        "links": [
+            "https://live-en.aisports.cc/moviebox/bsy_016/playlist.m3u8",
+            "http://play.sportsteam368.com/play/j.php?id=22500459&id2=",
+            "http://play.sportsteam368.com/play/kbs.html?id=10022500459&id2=",
+            "http://play.sportsteam368.com/play/pao.php?id=38669642&id2="
+        ]
     },
     {
-        "id": "sk2t1o1ind6kwot5dlix8qajq89",
+        "id": "qk8bi1l620hstjcho25trkuja2y",
         "match_id": "4642107137031390568",
         "source_name": "Premium",
         "match_title_from_api": "LA Lakers vs Detroit Pistons",
@@ -56,10 +61,15 @@
         },
         "time": "03:30",
         "date": "31-12-2025",
-        "links": []
+        "links": [
+            "https://live-en.aisports.cc/moviebox/bsy_022/playlist.m3u8",
+            "https://www.yangshipin.cn/tv/home?pid=600001818",
+            "http://sports.cctv.com/H5/CCTV5/index.shtml",
+            "http://tv.cctv.com/live/cctv5/"
+        ]
     },
     {
-        "id": "koswy69nmv8c3t20b0gvha8hff9",
+        "id": "kq5r594finnbi71y0a2ukk13en3",
         "match_id": "3777416008576779624",
         "source_name": "Premium",
         "match_title_from_api": "LA Clippers vs Sacramento Kings",
@@ -77,7 +87,7 @@
         "links": []
     },
     {
-        "id": "x9oims86uh37ot2eg2q73ubiwm9",
+        "id": "ldfhhr6j12qe4m0ot4fmr25g9nu",
         "match_id": "7877998075511818136",
         "source_name": "Premium",
         "match_title_from_api": "Equatorial Guinea vs Algeria",
@@ -97,7 +107,7 @@
         ]
     },
     {
-        "id": "yghs6q8ogk4yd1daguble0ry2i4",
+        "id": "29wcho461qz0g56ud503ckj8e7l",
         "match_id": "2644815308507202320",
         "source_name": "Premium",
         "match_title_from_api": "Sudan vs Burkina Faso",
@@ -117,7 +127,7 @@
         ]
     },
     {
-        "id": "gio2awge6ob5g3vhzh792tz3eyr",
+        "id": "ndn1ordfi7ckmvueglxznn95uz8",
         "match_id": "7668526086624788688",
         "source_name": "Premium",
         "match_title_from_api": "Charlotte Hornets vs Golden State Warriors",
@@ -135,7 +145,7 @@
         "links": []
     },
     {
-        "id": "9841nvem49l88p5ck2v1ex45tqu",
+        "id": "lvwepfc2v9iu5k7qn1qtm2cmuod",
         "match_id": "5520363670583264016",
         "source_name": "Premium",
         "match_title_from_api": "Gabon vs Ivory Coast",
@@ -155,7 +165,7 @@
         ]
     },
     {
-        "id": "976p7252f0porfa8blqbwvf1cdm",
+        "id": "bbwh0fwc007i96m2j2m0k32cka4",
         "match_id": "4385456564485998488",
         "source_name": "Premium",
         "match_title_from_api": "Mozambique vs Cameroon",
@@ -175,7 +185,7 @@
         ]
     },
     {
-        "id": "g2pz0hns1opqli1qsvjrryyj7gu",
+        "id": "o8vxn146tyxz0t0t1jfrbiudbgt",
         "match_id": "7020007740283437264",
         "source_name": "Premium",
         "match_title_from_api": "Atlanta Hawks vs Minnesota Timberwolves",
@@ -193,7 +203,7 @@
         "links": []
     },
     {
-        "id": "kvnlr2a7h3ga3alhqej2u1dirzp",
+        "id": "et0enpawp53ha05avzdkuwo0jlm",
         "match_id": "1399515405324009680",
         "source_name": "Premium",
         "match_title_from_api": "Cleveland Cavaliers vs Phoenix Suns",
