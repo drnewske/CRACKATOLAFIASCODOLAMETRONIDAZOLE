@@ -1,6 +1,6 @@
 [
     {
-        "id": "bea7klk4akwrhiknwjw5rbf0e1g",
+        "id": "td72x12icnxcqliim5mhj0s6mqa",
         "match_id": "985184239606972624",
         "source_name": "Premium",
         "match_title_from_api": "Memphis Grizzlies vs Philadelphia 76ers",
@@ -23,7 +23,7 @@
         ]
     },
     {
-        "id": "c54ar01l3vvggh5ejt6ebo3b7ll",
+        "id": "q30drw0bvui5vw090wn3ecn5fyo",
         "match_id": "7758598079171150032",
         "source_name": "Premium",
         "match_title_from_api": "Utah Jazz vs Boston Celtics",
@@ -40,13 +40,13 @@
         "date": "31-12-2025",
         "links": [
             "https://live-en.aisports.cc/moviebox/bsy_016/playlist.m3u8",
-            "http://play.sportsteam368.com/play/j.php?id=22500459&id2=",
             "http://play.sportsteam368.com/play/kbs.html?id=10022500459&id2=",
-            "http://play.sportsteam368.com/play/pao.php?id=38669642&id2="
+            "http://play.sportsteam368.com/play/pao.php?id=38669642&id2=",
+            "http://play.sportsteam368.com/play/j.php?id=22500459&id2="
         ]
     },
     {
-        "id": "ambjbfw1dd928m47eqlw4k9lpzg",
+        "id": "oc32ya95cqfded5s72v3vny2740",
         "match_id": "4642107137031390568",
         "source_name": "Premium",
         "match_title_from_api": "LA Lakers vs Detroit Pistons",
@@ -69,7 +69,7 @@
         ]
     },
     {
-        "id": "a385lm1ti05x4xajjgr2x7llgvs",
+        "id": "z6b1abe88p806homlarwwjvece0",
         "match_id": "3777416008576779624",
         "source_name": "Premium",
         "match_title_from_api": "LA Clippers vs Sacramento Kings",
@@ -92,7 +92,7 @@
         ]
     },
     {
-        "id": "d03q7dek5g1blrc0as52fvr2tci",
+        "id": "rq7he79z65pqky67or2sy4myj4i",
         "match_id": "7877998075511818136",
         "source_name": "Premium",
         "match_title_from_api": "Equatorial Guinea vs Algeria",
@@ -112,7 +112,7 @@
         ]
     },
     {
-        "id": "cwihbku1s7y4btk4ve2o68hokfi",
+        "id": "jyem1suesjb5f7urg8s3887ha1k",
         "match_id": "2644815308507202320",
         "source_name": "Premium",
         "match_title_from_api": "Sudan vs Burkina Faso",
@@ -132,7 +132,7 @@
         ]
     },
     {
-        "id": "78bcdzv8a7mm1rruetqux3nzvc6",
+        "id": "dmgxym46arpfx3hx4lpg87m55nf",
         "match_id": "7668526086624788688",
         "source_name": "Premium",
         "match_title_from_api": "Charlotte Hornets vs Golden State Warriors",
@@ -147,10 +147,15 @@
         },
         "time": "18:00",
         "date": "31-12-2025",
-        "links": []
+        "links": [
+            "https://live-en.aisports.cc/moviebox/bsy_023/playlist.m3u8",
+            "http://play.sportsteam368.com/play/pao.php?id=38664012&id2=",
+            "http://play.sportsteam368.com/play/kbs.html?id=10022500462&id2=",
+            "http://play.sportsteam368.com/play/j.php?id=22500462&id2="
+        ]
     },
     {
-        "id": "o68y3olrova6fu2zep8lkjjgwj6",
+        "id": "ldb7toihcovfmyazt8o7c5d3cd9",
         "match_id": "5520363670583264016",
         "source_name": "Premium",
         "match_title_from_api": "Gabon vs Ivory Coast",
@@ -170,7 +175,7 @@
         ]
     },
     {
-        "id": "zibirhd0qyronnfwk8az6mbo2kf",
+        "id": "1cion1yd8tobagwe43yj4t5jzy9",
         "match_id": "4385456564485998488",
         "source_name": "Premium",
         "match_title_from_api": "Mozambique vs Cameroon",
@@ -190,7 +195,7 @@
         ]
     },
     {
-        "id": "v69t40wr8o68sw8w35yevylv01y",
+        "id": "a8duyvqp0fz3k7x64zl1mbb151g",
         "match_id": "7020007740283437264",
         "source_name": "Premium",
         "match_title_from_api": "Atlanta Hawks vs Minnesota Timberwolves",
@@ -208,7 +213,7 @@
         "links": []
     },
     {
-        "id": "whumynupqy1qhbdvemahz1l62fi",
+        "id": "8ig74nlfzyo6h76ulby20y6cde3",
         "match_id": "1399515405324009680",
         "source_name": "Premium",
         "match_title_from_api": "Cleveland Cavaliers vs Phoenix Suns",
