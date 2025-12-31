@@ -1,6 +1,6 @@
 [
     {
-        "id": "yrnlqgf2hq0d35ggs7doko36k1y",
+        "id": "to42mc920o84d8c2nneqy58213t",
         "match_id": "985184239606972624",
         "source_name": "Premium",
         "match_title_from_api": "Memphis Grizzlies vs Philadelphia 76ers",
@@ -17,13 +17,13 @@
         "date": "31-12-2025",
         "links": [
             "https://live-en.aisports.cc/moviebox/bsy_019/playlist.m3u8",
-            "http://play.sportsteam368.com/play/pao.php?id=38670742&id2=",
             "http://play.sportsteam368.com/play/j.php?id=22500458&id2=",
-            "http://play.sportsteam368.com/play/kbs.html?id=10022500458&id2="
+            "http://play.sportsteam368.com/play/kbs.html?id=10022500458&id2=",
+            "http://play.sportsteam368.com/play/pao.php?id=38670742&id2="
         ]
     },
     {
-        "id": "c4l0c7zfx3e965ngq2myefr9s1s",
+        "id": "569zk96k9l0os66tsrubbb3cc06",
         "match_id": "7758598079171150032",
         "source_name": "Premium",
         "match_title_from_api": "Utah Jazz vs Boston Celtics",
@@ -46,7 +46,7 @@
         ]
     },
     {
-        "id": "8kclknvft7ocpohysixxtpins93",
+        "id": "ish3di8fp3d3e7utymexur4p9bq",
         "match_id": "4642107137031390568",
         "source_name": "Premium",
         "match_title_from_api": "LA Lakers vs Detroit Pistons",
@@ -69,7 +69,7 @@
         ]
     },
     {
-        "id": "5zym1ldqaib5kcsfkgkjtjyo5ni",
+        "id": "89gnmbakv4qiu2pvw5bow662mok",
         "match_id": "3777416008576779624",
         "source_name": "Premium",
         "match_title_from_api": "LA Clippers vs Sacramento Kings",
@@ -92,7 +92,7 @@
         ]
     },
     {
-        "id": "mu4kr2bb9mz1szppo2l9w9yq4vy",
+        "id": "667dj6iao449jp8a6hcytb82ji2",
         "match_id": "7877998075511818136",
         "source_name": "Premium",
         "match_title_from_api": "Equatorial Guinea vs Algeria",
@@ -112,7 +112,7 @@
         ]
     },
     {
-        "id": "olvmlep4xav5zg4ssduuo4r7zun",
+        "id": "bzh7tbl99yt2n5et8efhpjto6qz",
         "match_id": "2644815308507202320",
         "source_name": "Premium",
         "match_title_from_api": "Sudan vs Burkina Faso",
@@ -132,7 +132,7 @@
         ]
     },
     {
-        "id": "6bp3tah27mp6czesjvqxq2bn6c3",
+        "id": "7f4lhwxuwkxavao3u1lpmyl6751",
         "match_id": "7668526086624788688",
         "source_name": "Premium",
         "match_title_from_api": "Charlotte Hornets vs Golden State Warriors",
@@ -155,7 +155,7 @@
         ]
     },
     {
-        "id": "gfq3bq21um17kdrzpdmkhh0nqyu",
+        "id": "h0z3qqliudngsvfrb41mo57dqla",
         "match_id": "5520363670583264016",
         "source_name": "Premium",
         "match_title_from_api": "Gabon vs Ivory Coast",
@@ -175,7 +175,7 @@
         ]
     },
     {
-        "id": "4l2x5k3zlsk21hxeakur0jf8wtl",
+        "id": "9o72lsfcr0gk9pdbnixgfnk6ejn",
         "match_id": "4385456564485998488",
         "source_name": "Premium",
         "match_title_from_api": "Mozambique vs Cameroon",
@@ -195,7 +195,7 @@
         ]
     },
     {
-        "id": "udlgwcbctktezciv8ivx7gsra83",
+        "id": "vrmbpnbhf1eldc6wt9re85kli6g",
         "match_id": "7020007740283437264",
         "source_name": "Premium",
         "match_title_from_api": "Atlanta Hawks vs Minnesota Timberwolves",
@@ -212,13 +212,13 @@
         "date": "31-12-2025",
         "links": [
             "https://live-en.aisports.cc/moviebox/bsy_011/playlist.m3u8",
-            "http://play.sportsteam368.com/play/j.php?id=22500463&id2=",
             "http://play.sportsteam368.com/play/pao.php?id=38662942&id2=",
-            "http://play.sportsteam368.com/play/kbs.html?id=10022500463&id2="
+            "http://play.sportsteam368.com/play/kbs.html?id=10022500463&id2=",
+            "http://play.sportsteam368.com/play/j.php?id=22500463&id2="
         ]
     },
     {
-        "id": "iojyu510ist1ykm99mzmr9qmj5k",
+        "id": "8bzwwy7v7zd32f1u3ds74c8df7r",
         "match_id": "1399515405324009680",
         "source_name": "Premium",
         "match_title_from_api": "Cleveland Cavaliers vs Phoenix Suns",
@@ -233,6 +233,11 @@
         },
         "time": "20:30",
         "date": "31-12-2025",
-        "links": []
+        "links": [
+            "https://live-en.aisports.cc/moviebox/bsy_022/playlist.m3u8",
+            "http://play.sportsteam368.com/play/j.php?id=22500465&id2=",
+            "http://play.sportsteam368.com/play/pao.php?id=38665092&id2=",
+            "http://play.sportsteam368.com/play/kbs.html?id=10022500465&id2="
+        ]
     }
 ]
