@@ -1,6 +1,6 @@
 [
     {
-        "id": "qnvurqfom895s7bgm3xptjfhgg3",
+        "id": "a96qxohcozwxah5kc935aff06cf",
         "match_id": "5182539092315325712",
         "source_name": "Premium",
         "match_title_from_api": "Brooklyn Nets vs Houston Rockets",
@@ -23,7 +23,7 @@
         ]
     },
     {
-        "id": "fdek0qs4bmivegqy070bbh3kxe0",
+        "id": "5l6x4qw47oqmxie2ejohuym3uws",
         "match_id": "5196049891198485864",
         "source_name": "Premium",
         "match_title_from_api": "Detroit Pistons vs Miami Heat",
@@ -46,7 +46,7 @@
         ]
     },
     {
-        "id": "b97dkw1fj4pf010b0kp7kxcets9",
+        "id": "hf3n58pqnlr3o6zq7ivxlsu65nh",
         "match_id": "152018308543530256",
         "source_name": "Premium",
         "match_title_from_api": "Dallas Mavericks vs Philadelphia 76ers",
@@ -69,7 +69,7 @@
         ]
     },
     {
-        "id": "esdu9cr0m5iozdf2q5ftn7w6ofk",
+        "id": "1x5cu7nere32li1n91gxgq8qa6h",
         "match_id": "3899013198515782928",
         "source_name": "Premium",
         "match_title_from_api": "Sacramento Kings vs Boston Celtics",
@@ -84,10 +84,15 @@
         },
         "time": "03:00",
         "date": "02-01-2026",
-        "links": []
+        "links": [
+            "https://live-en.aisports.cc/moviebox/bsy_016/playlist.m3u8",
+            "http://play.sportsteam368.com/play/j.php?id=22500474&id2=",
+            "http://play.sportsteam368.com/play/pao.php?id=38665952&id2=",
+            "http://play.sportsteam368.com/play/kbs.html?id=10022500474&id2="
+        ]
     },
     {
-        "id": "22rp38u96omr5niytr4r2zzybfi",
+        "id": "zcatrh63x97z1ktgqywpnn0shzw",
         "match_id": "656421466808926416",
         "source_name": "Premium",
         "match_title_from_api": "LA Clippers vs Utah Jazz",
@@ -102,10 +107,15 @@
         },
         "time": "03:30",
         "date": "02-01-2026",
-        "links": []
+        "links": [
+            "https://live-en.aisports.cc/moviebox/bsy_023/playlist.m3u8",
+            "http://play.sportsteam368.com/play/j.php?id=22500475&id2=",
+            "http://play.sportsteam368.com/play/kbs.html?id=10022500475&id2=",
+            "http://play.sportsteam368.com/play/pao.php?id=38664872&id2="
+        ]
     },
     {
-        "id": "bf290t6zxxh12j6yzd7pdtnkbj1",
+        "id": "khrdv6nd5lj6plxb6l26votuxn9",
         "match_id": "5511937488061973968",
         "source_name": "Premium",
         "match_title_from_api": "Cagliari vs AC Milan",
@@ -123,7 +133,7 @@
         "links": []
     },
     {
-        "id": "4dhjrpcxk0bpb9fvf7823bzk9kk",
+        "id": "s2zeluqt7wco5sndkj9ibgpcpqz",
         "match_id": "8804205928205767040",
         "source_name": "Premium",
         "match_title_from_api": "Toulouse vs Lens",
@@ -141,7 +151,7 @@
         "links": []
     },
     {
-        "id": "g6rnjs80l9uxzo0ksddbho8hxlc",
+        "id": "tjtlk4thdc9vvl4phppe2kmf8ci",
         "match_id": "2551947337347352456",
         "source_name": "Premium",
         "match_title_from_api": "Rayo Vallecano vs Getafe",
