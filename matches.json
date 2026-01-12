@@ -1,6 +1,6 @@
 [
     {
-        "id": "zveap40f5cuf9ft8c0joscd0cl7",
+        "id": "dejnmje9tp61f6wkpw9f90pjqeg",
         "match_id": "892297497291407568",
         "source_name": "Premium",
         "match_title_from_api": "Toronto Raptors vs Philadelphia 76ers",
@@ -17,13 +17,13 @@
         "date": "11-01-2026",
         "links": [
             "https://live-en.aisports.cc/moviebox/bsy_011/playlist.m3u8",
-            "http://play.sportsteam368.com/play/j.php?id=22500550&id2=",
             "http://play.sportsteam368.com/play/kbs.html?id=10022500550&id2=",
-            "http://play.sportsteam368.com/play/pao.php?id=38669852&id2="
+            "http://play.sportsteam368.com/play/pao.php?id=38669852&id2=",
+            "http://play.sportsteam368.com/play/j.php?id=22500550&id2="
         ]
     },
     {
-        "id": "eha41efkx3sago5umcqj9a0m2md",
+        "id": "ph48js0mjym71jgdg7q6hyk3qx9",
         "match_id": "2279406182522568912",
         "source_name": "Premium",
         "match_title_from_api": "Portland Trail Blazers vs New York Knicks",
@@ -46,7 +46,7 @@
         ]
     },
     {
-        "id": "78kcnd9co2qv3cgin5hgwns4cxm",
+        "id": "0mhbwlohyh6yh9oqb0a47npfbg7",
         "match_id": "99663962875248848",
         "source_name": "Premium",
         "match_title_from_api": "Oklahoma City Thunder vs Miami Heat",
@@ -69,7 +69,7 @@
         ]
     },
     {
-        "id": "6fv2a2f3ge73adzsd4n7uu88055",
+        "id": "3w65y11m07t3sya9el6klpjhw9y",
         "match_id": "1901103813823546728",
         "source_name": "Premium",
         "match_title_from_api": "Minnesota Timberwolves vs San Antonio Spurs",
@@ -86,13 +86,13 @@
         "date": "12-01-2026",
         "links": [
             "https://live-en.aisports.cc/moviebox/bsy_027/playlist.m3u8",
+            "http://play.sportsteam368.com/play/j.php?id=22500552&id2=",
             "http://play.sportsteam368.com/play/pao.php?id=38670062&id2=",
-            "http://play.sportsteam368.com/play/kbs.html?id=10022500552&id2=",
-            "http://play.sportsteam368.com/play/j.php?id=22500552&id2="
+            "http://play.sportsteam368.com/play/kbs.html?id=10022500552&id2="
         ]
     },
     {
-        "id": "68v8qjoqm3o82iolzvuxer712n6",
+        "id": "hgpup0nptlw2tubffu7gm94e5o9",
         "match_id": "7305423366668042448",
         "source_name": "Premium",
         "match_title_from_api": "Denver Nuggets vs Milwaukee Bucks",
@@ -109,13 +109,13 @@
         "date": "12-01-2026",
         "links": [
             "https://live-en.aisports.cc/moviebox/bsy_014/playlist.m3u8",
-            "http://play.sportsteam368.com/play/j.php?id=22500554&id2=",
             "http://play.sportsteam368.com/play/pao.php?id=38661202&id2=",
-            "http://play.sportsteam368.com/play/kbs.html?id=10022500554&id2="
+            "http://play.sportsteam368.com/play/kbs.html?id=10022500554&id2=",
+            "http://play.sportsteam368.com/play/j.php?id=22500554&id2="
         ]
     },
     {
-        "id": "8n4tz341ajqz08s9lnghqlrrnhx",
+        "id": "sqwf1cs2drfhhq0gh110u4lso21",
         "match_id": "1396700655557951696",
         "source_name": "Premium",
         "match_title_from_api": "Phoenix Suns vs Washington Wizards",
@@ -132,13 +132,13 @@
         "date": "12-01-2026",
         "links": [
             "https://live-en.aisports.cc/moviebox/bsy_016/playlist.m3u8",
-            "http://play.sportsteam368.com/play/kbs.html?id=10022500555&id2=",
             "http://play.sportsteam368.com/play/j.php?id=22500555&id2=",
-            "http://play.sportsteam368.com/play/pao.php?id=38671132&id2="
+            "http://play.sportsteam368.com/play/pao.php?id=38671132&id2=",
+            "http://play.sportsteam368.com/play/kbs.html?id=10022500555&id2="
         ]
     },
     {
-        "id": "xs8tzmgex8kfjovc0r63j8a3i2c",
+        "id": "mfksm9da362pirs06m01dw80ofy",
         "match_id": "3414313288620033384",
         "source_name": "Premium",
         "match_title_from_api": "Golden State Warriors vs Atlanta Hawks",
@@ -161,7 +161,7 @@
         ]
     },
     {
-        "id": "4tfzqu371ls0m6y9n7miwcv8jrw",
+        "id": "ho5ynsw6ayyjwzfjhrb14h0avue",
         "match_id": "4963551560435384528",
         "source_name": "Premium",
         "match_title_from_api": "Sacramento Kings vs Houston Rockets",
@@ -184,7 +184,7 @@
         ]
     },
     {
-        "id": "ntllzmlozly5xio9wgwjh337nwi",
+        "id": "rysgtatq37ua161y85dbz60ewi1",
         "match_id": "4677364182114881616",
         "source_name": "Premium",
         "match_title_from_api": "Genoa vs Cagliari",
@@ -199,10 +199,15 @@
         },
         "time": "17:30",
         "date": "12-01-2026",
-        "links": []
+        "links": [
+            "https://live-en.aisports.cc/moviebox/bsy_019/playlist.m3u8",
+            "http://play.sportsteam368.com/play/wlive.php?id=0fe35cf26051f3bbfbc3605a4a51c02c&id2=",
+            "http://play.sportsteam368.com/play/kbs.html?id=962265510&id2=",
+            "http://play.sportsteam368.com/play/gm.php?id=962265510&id2=962265510"
+        ]
     },
     {
-        "id": "agp3y2rjdms70kyk8pklujm8c6u",
+        "id": "eqoxivk0q7ezd0101l5y6x4alxr",
         "match_id": "6077983666226054608",
         "source_name": "Premium",
         "match_title_from_api": "Juventus vs Cremonese",
@@ -220,7 +225,7 @@
         "links": []
     },
     {
-        "id": "oh4rotybsxbc6qdufaj6zrsmo7b",
+        "id": "hbk0f2eq6jkkmsn0paqxs3cqfs1",
         "match_id": "6553427154948212560",
         "source_name": "Premium",
         "match_title_from_api": "Liverpool vs Barnsley",
@@ -238,7 +243,7 @@
         "links": []
     },
     {
-        "id": "s6tfio3ynsozlcknh712djciic9",
+        "id": "bf2qq8eyq5lrxw6qh7wc2ai7rx9",
         "match_id": "6973356271518339456",
         "source_name": "Premium",
         "match_title_from_api": "Sevilla vs Celta Vigo",
@@ -256,7 +261,7 @@
         "links": []
     },
     {
-        "id": "9t5ray3zf991y0ezc5q5ljk4f2h",
+        "id": "8hrzjfuvopix36j10n66gqkchbm",
         "match_id": "5757612269535480096",
         "source_name": "Premium",
         "match_title_from_api": "Paris Saint-Germain vs Paris FC",
