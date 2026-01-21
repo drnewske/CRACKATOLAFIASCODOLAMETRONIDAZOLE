@@ -1,6 +1,6 @@
 [
     {
-        "id": "9mf8wp10jl68wgqvrdj5wmuhj70",
+        "id": "6ualoy9w9wf8t37fo85zhfwzu54",
         "match_id": "4938781762484846800",
         "source_name": "Premium",
         "match_title_from_api": "Philadelphia 76ers vs Phoenix Suns",
@@ -23,7 +23,7 @@
         ]
     },
     {
-        "id": "iha8wh5sry4tar7g880skgiw3aq",
+        "id": "x5rlqs6dvrvt2el7l8vjtpu4jlh",
         "match_id": "7965200712077820112",
         "source_name": "Premium",
         "match_title_from_api": "Houston Rockets vs San Antonio Spurs",
@@ -46,7 +46,7 @@
         ]
     },
     {
-        "id": "ed1eojptzrvdnwl0bia545xdf05",
+        "id": "kjil6bg5z0mgp91yhbro85qoerf",
         "match_id": "5371127326712414416",
         "source_name": "Premium",
         "match_title_from_api": "Chicago Bulls vs LA Clippers",
@@ -63,13 +63,13 @@
         "date": "21-01-2026",
         "links": [
             "https://live-en.aisports.cc/moviebox/bsy_020/playlist.m3u8",
-            "http://play.sportsteam368.com/play/j.php?id=22500614&id2=",
             "http://play.sportsteam368.com/play/pao.php?id=38664082&id2=",
-            "http://play.sportsteam368.com/play/kbs.html?id=10022500614&id2="
+            "http://play.sportsteam368.com/play/kbs.html?id=10022500614&id2=",
+            "http://play.sportsteam368.com/play/j.php?id=22500614&id2="
         ]
     },
     {
-        "id": "0jz073qhhjj7lwtdk6sbqtzq7j7",
+        "id": "8x87yuw3tsjg1skk2sfq5u474ee",
         "match_id": "5010839356522874216",
         "source_name": "Premium",
         "match_title_from_api": "Utah Jazz vs Minnesota Timberwolves",
@@ -92,7 +92,7 @@
         ]
     },
     {
-        "id": "x7qt0ppfwkd4ittunv3039xn63k",
+        "id": "qu6cby7t3c2if29feo6t3zzo7km",
         "match_id": "5785458492430500048",
         "source_name": "Premium",
         "match_title_from_api": "Golden State Warriors vs Toronto Raptors",
@@ -109,13 +109,13 @@
         "date": "21-01-2026",
         "links": [
             "https://live-en.aisports.cc/moviebox/bsy_016/playlist.m3u8",
+            "http://play.sportsteam368.com/play/i11.html?id=10022500618&id2=",
             "http://nba.toutiaozb.com/qq/qq-kbs.html?matchliveid=1777439200",
-            "http://play.sportsteam368.com/play/pao.php?id=38665352&id2=",
-            "http://play.sportsteam368.com/play/i11.html?id=10022500618&id2="
+            "http://play.sportsteam368.com/play/pao.php?id=38665352&id2="
         ]
     },
     {
-        "id": "pg2mzsu3p71eqkyp4h25j7ouvez",
+        "id": "adrmy1io4s5cjrzkadegleb105a",
         "match_id": "3191385107065193744",
         "source_name": "Premium",
         "match_title_from_api": "Sacramento Kings vs Miami Heat",
@@ -132,13 +132,13 @@
         "date": "21-01-2026",
         "links": [
             "https://live-en.aisports.cc/moviebox/bsy_019/playlist.m3u8",
-            "http://play.sportsteam368.com/play/j.php?id=22500619&id2=",
             "http://play.sportsteam368.com/play/kbs.html?id=10022500619&id2=",
-            "http://play.sportsteam368.com/play/pao.php?id=38664272&id2="
+            "http://play.sportsteam368.com/play/pao.php?id=38664272&id2=",
+            "http://play.sportsteam368.com/play/j.php?id=22500619&id2="
         ]
     },
     {
-        "id": "6d9ribegr4tiq8zt4fir4svfwt0",
+        "id": "h5rshhwx26zvkggbz3ro4abygs2",
         "match_id": "2849111535384936656",
         "source_name": "Premium",
         "match_title_from_api": "Denver Nuggets vs LA Lakers",
@@ -161,7 +161,7 @@
         ]
     },
     {
-        "id": "5dxptja9lve8g1jrb82uueef1nf",
+        "id": "trn3x0afg45syi1ku85amg6pb4v",
         "match_id": "2131748909147996592",
         "source_name": "Premium",
         "match_title_from_api": "India vs New Zealand",
@@ -181,7 +181,7 @@
         ]
     },
     {
-        "id": "vy2spbzpnh2zhk1xhx64mhc3jxs",
+        "id": "s02mpid5311ysn1yi8wfmysibzi",
         "match_id": "407967910213339576",
         "source_name": "Premium",
         "match_title_from_api": "Galatasaray vs Atletico Madrid",
@@ -204,7 +204,7 @@
         ]
     },
     {
-        "id": "rpmf85rvp1eubirdn910m6m1oez",
+        "id": "kf5k8avhzygb3oizuq28zswavmb",
         "match_id": "1131358600360774072",
         "source_name": "Premium",
         "match_title_from_api": "Qarabag FK vs Eintracht Frankfurt",
@@ -227,7 +227,7 @@
         ]
     },
     {
-        "id": "dyqd5at7eirqk643wz3lzhj4rtl",
+        "id": "92oxtyde7he571gcyc9fg14jeri",
         "match_id": "2634153501019063560",
         "source_name": "Premium",
         "match_title_from_api": "Bayern Munich vs Union St.Gilloise",
@@ -242,10 +242,15 @@
         },
         "time": "20:00",
         "date": "21-01-2026",
-        "links": []
+        "links": [
+            "https://live-en.aisports.cc/moviebox/bsy_027/playlist.m3u8",
+            "http://play.sportsteam368.com/play/wlive.php?id=386ad40abcb07e5094eadab217222ce5&id2=",
+            "http://play.sportsteam368.com/play/pao.php?id=44153231&id2=",
+            "http://play.sportsteam368.com/play/wlive.php?id=819c387dac2a7f04721ade0832979b93&id2="
+        ]
     },
     {
-        "id": "78cf410xtuwoq3iskzeqwlxyysy",
+        "id": "gkzyoiif1pqx0w5pt8h8qru627v",
         "match_id": "1795639545397922232",
         "source_name": "Premium",
         "match_title_from_api": "Slavia Prague vs Barcelona",
@@ -260,10 +265,15 @@
         },
         "time": "20:00",
         "date": "21-01-2026",
-        "links": []
+        "links": [
+            "https://live-en.aisports.cc/moviebox/bsy_011/playlist.m3u8",
+            "http://play.sportsteam368.com/play/wlive.php?id=95a872df47e10f1513a90720cc5a92e8&id2=",
+            "http://play.sportsteam368.com/play/pao.php?id=44154271&id2=",
+            "http://play.sportsteam368.com/play/wlive.php?id=797d148d5ed5e1f03a9fd06a962f6d1a&id2="
+        ]
     },
     {
-        "id": "e0aw7j7f95elivhdfxhfzdhs6vs",
+        "id": "kuvmlg0a2z51sovkukyf19jibzq",
         "match_id": "8717109222713050376",
         "source_name": "Premium",
         "match_title_from_api": "Juventus vs Benfica",
@@ -278,10 +288,15 @@
         },
         "time": "20:00",
         "date": "21-01-2026",
-        "links": []
+        "links": [
+            "https://live-en.aisports.cc/moviebox/bsy_020/playlist.m3u8",
+            "http://play.sportsteam368.com/play/wlive.php?id=1bf2b8d9f1570c3a518c5ff14886b703&id2=",
+            "http://play.sportsteam368.com/play/wlive.php?id=9bdd05274eb9f77aa3a17ec29d78bf6c&id2=",
+            "http://play.sportsteam368.com/play/pao.php?id=44153621&id2="
+        ]
     },
     {
-        "id": "8faoqp7fpxe9sn2wwghgj5wuw28",
+        "id": "fwhnl87mmpwpbg67z6bbua7n2s8",
         "match_id": "3624663944063764920",
         "source_name": "Premium",
         "match_title_from_api": "Marseille vs Liverpool",
@@ -297,11 +312,14 @@
         "time": "20:00",
         "date": "21-01-2026",
         "links": [
-            "https://live-en.aisports.cc/moviebox/device02/playlist.m3u8"
+            "https://live-en.aisports.cc/moviebox/device02/playlist.m3u8",
+            "http://play.sportsteam368.com/play/wlive.php?id=f0d835f3ee40d4b37a87efa05ae0e99e&id2=",
+            "http://play.sportsteam368.com/play/wlive.php?id=f97d4facba7ac22ebd5d4f7fd8dcf25d&id2=",
+            "http://play.sportsteam368.com/play/pao.php?id=44153801&id2="
         ]
     },
     {
-        "id": "m7zktiqa1fs87iu3j9hjf8o59vr",
+        "id": "2xyhjhz1q6805i8qoz50djzws6d",
         "match_id": "4927330136279632312",
         "source_name": "Premium",
         "match_title_from_api": "Chelsea vs Pafos FC",
@@ -317,11 +335,12 @@
         "time": "20:00",
         "date": "21-01-2026",
         "links": [
-            "https://live-en.aisports.cc/moviebox/football001/playlist.m3u8"
+            "https://live-en.aisports.cc/moviebox/football001/playlist.m3u8",
+            "https://play.88player.top/m3u8.html?url=https%3A%2F%2Fplay7ba.peodlc.com%2Flive%2F202_3960775_1.m3u8"
         ]
     },
     {
-        "id": "ox2wsawiwrivjjmsundzq0yylpm",
+        "id": "lxnds9uo6v61nc2cm5yfy2vbzhu",
         "match_id": "2800505212255061256",
         "source_name": "Premium",
         "match_title_from_api": "Newcastle United vs PSV Eindhoven",
@@ -336,10 +355,15 @@
         },
         "time": "20:00",
         "date": "21-01-2026",
-        "links": []
+        "links": [
+            "https://live-en.aisports.cc/moviebox/bsy_014/playlist.m3u8",
+            "http://play.sportsteam368.com/play/wen.php?id=f911fc464ad1fcc0e200fbc8782713dc&id2=",
+            "http://play.sportsteam368.com/play/pao.php?id=44153941&id2=",
+            "http://play.sportsteam368.com/play/wlive.php?id=7bf3baaebde4710a9cb050952174fcc5&id2="
+        ]
     },
     {
-        "id": "3ifo9zko4xw1mb19m0aevwol27y",
+        "id": "jjfqvjwbv4ndqe8a7n5y660jc4q",
         "match_id": "1083789329296148920",
         "source_name": "Premium",
         "match_title_from_api": "Atalanta vs Athletic Club",
@@ -354,6 +378,11 @@
         },
         "time": "20:00",
         "date": "21-01-2026",
-        "links": []
+        "links": [
+            "https://live-en.aisports.cc/moviebox/bsy_023/playlist.m3u8",
+            "http://play.sportsteam368.com/play/pao.php?id=44152981&id2=",
+            "http://play.sportsteam368.com/play/wlive.php?id=5e0a6e180ab86d89ba8e27232958076f&id2=",
+            "http://play.sportsteam368.com/play/wen.php?id=393301f9f58f255d012d5a2802106f04&id2="
+        ]
     }
 ]
