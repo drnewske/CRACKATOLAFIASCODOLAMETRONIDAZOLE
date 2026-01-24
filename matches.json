@@ -1,6 +1,6 @@
 [
     {
-        "id": "llfr2zivrmrnoky8n61yldeeb9f",
+        "id": "fxpocmzutgl43fhbw2pvtk13jho",
         "match_id": "1092707680710443216",
         "source_name": "Premium",
         "match_title_from_api": "Detroit Pistons vs Houston Rockets",
@@ -23,7 +23,7 @@
         ]
     },
     {
-        "id": "qf8yjgsitf3ow0gkvf3d866kin3",
+        "id": "g5du72ax9x9z7b0msuk0mwr4pgv",
         "match_id": "8694783851711840464",
         "source_name": "Premium",
         "match_title_from_api": "Atlanta Hawks vs Phoenix Suns",
@@ -46,7 +46,7 @@
         ]
     },
     {
-        "id": "onambj817dw3lio1lift68jhx7m",
+        "id": "oyy6kbwdowj17m8pot41vb702rt",
         "match_id": "8262438287484272848",
         "source_name": "Premium",
         "match_title_from_api": "Brooklyn Nets vs Boston Celtics",
@@ -69,7 +69,7 @@
         ]
     },
     {
-        "id": "gjv3wpbwtb9di4doj5htz6xqn2k",
+        "id": "vdy6nhv0p61fgqmlbhant6195uc",
         "match_id": "4155155427321955688",
         "source_name": "Premium",
         "match_title_from_api": "Cleveland Cavaliers vs Sacramento Kings",
@@ -92,7 +92,7 @@
         ]
     },
     {
-        "id": "wcpw7ee4nwahgluevxqn8uq0n4p",
+        "id": "p6qirei6lhu25kwb7gksp4xhtqj",
         "match_id": "8676769453202457872",
         "source_name": "Premium",
         "match_title_from_api": "Oklahoma City Thunder vs Indiana Pacers",
@@ -115,7 +115,7 @@
         ]
     },
     {
-        "id": "vtchdukvzwck2g6lbs6t60iltyd",
+        "id": "wi7wjzj6n09vs7gx3werspqo5ze",
         "match_id": "6028652872308606312",
         "source_name": "Premium",
         "match_title_from_api": "Memphis Grizzlies vs New Orleans Pelicans",
@@ -138,7 +138,7 @@
         ]
     },
     {
-        "id": "ih6zmb6l4vgek4jnwj0pacy80yc",
+        "id": "t0wshe05xx0k2wyuryifc1m3tg7",
         "match_id": "3434579486943200616",
         "source_name": "Premium",
         "match_title_from_api": "Milwaukee Bucks vs Denver Nuggets",
@@ -161,7 +161,7 @@
         ]
     },
     {
-        "id": "brrsvbzyrsf9mq7v79yy3ysiiaf",
+        "id": "qzrkvjtf8tv80tdnawajpx3ksrt",
         "match_id": "1326894861333709008",
         "source_name": "Premium",
         "match_title_from_api": "Portland Trail Blazers vs Toronto Raptors",
@@ -178,13 +178,13 @@
         "date": "24-01-2026",
         "links": [
             "https://live-en.aisports.cc/moviebox/bsy_023/playlist.m3u8",
-            "http://tv.cctv.com/live/cctv5/",
             "https://www.yangshipin.cn/tv/home?pid=600001818",
-            "http://sports.cctv.com/H5/CCTV5/index.shtml"
+            "http://sports.cctv.com/H5/CCTV5/index.shtml",
+            "http://tv.cctv.com/live/cctv5/"
         ]
     },
     {
-        "id": "c7tyl1ehqt0vr4mdvp98f8ldrc8",
+        "id": "ke13rq7u3qjopg2y2712v8yvs2m",
         "match_id": "1904881188168254560",
         "source_name": "Premium",
         "match_title_from_api": "West Ham United vs Sunderland",
@@ -207,7 +207,7 @@
         ]
     },
     {
-        "id": "5tl3ueb1k0e6rvl84hux8hewi1m",
+        "id": "l9znlpnpdaxq1incu0o8qoqolhm",
         "match_id": "2206296065946669440",
         "source_name": "Premium",
         "match_title_from_api": "Rayo Vallecano vs Osasuna",
@@ -224,13 +224,13 @@
         "date": "24-01-2026",
         "links": [
             "https://live-en.aisports.cc/moviebox/bsy_020/playlist.m3u8",
+            "http://play.sportsteam368.com/play/kbs.html?id=962603279&id2=",
             "http://play.sportsteam368.com/play/gm.php?id=962603279&id2=962603279",
-            "http://play.sportsteam368.com/play/wlive.php?id=9b5363c89e2f7984c76cbbbfaf389772&id2=",
-            "http://play.sportsteam368.com/play/kbs.html?id=962603279&id2="
+            "http://play.sportsteam368.com/play/wlive.php?id=9b5363c89e2f7984c76cbbbfaf389772&id2="
         ]
     },
     {
-        "id": "syst1e3wf17h3zo12p235bjkchb",
+        "id": "riq6n1ku9nwwwb3tr6xafyhnotg",
         "match_id": "5635505002837951952",
         "source_name": "Premium",
         "match_title_from_api": "Como 1907 vs Torino",
@@ -247,13 +247,13 @@
         "date": "24-01-2026",
         "links": [
             "https://live-en.aisports.cc/moviebox/bsy_022/playlist.m3u8",
+            "http://play.sportsteam368.com/play/wlive.php?id=0fe35cf26051f3bbfbc3605a4a51c02c&id2=",
             "http://play.sportsteam368.com/play/kbs.html?id=962600216&id2=",
-            "http://play.sportsteam368.com/play/gm.php?id=962600216&id2=962600216",
-            "http://play.sportsteam368.com/play/wlive.php?id=0fe35cf26051f3bbfbc3605a4a51c02c&id2="
+            "http://play.sportsteam368.com/play/gm.php?id=962600216&id2=962600216"
         ]
     },
     {
-        "id": "4x5hldmt7kgqe5mtgk6j5blf3ap",
+        "id": "cyhoe1oqehnxbqxqbrobswt1fry",
         "match_id": "8967466815618172792",
         "source_name": "Premium",
         "match_title_from_api": "Royal Challengers Bengaluru W vs Delhi Capitals W",
@@ -271,7 +271,7 @@
         "links": []
     },
     {
-        "id": "obf3tf8qpi44788x8s7sb5ix2br",
+        "id": "djskqjt0h54kbcn95oaxchwcbnc",
         "match_id": "5299542851239530880",
         "source_name": "Premium",
         "match_title_from_api": "Bayern Munich vs Augsburg",
@@ -288,13 +288,13 @@
         "date": "24-01-2026",
         "links": [
             "https://live-en.aisports.cc/moviebox/bsy_016/playlist.m3u8",
+            "http://play.sportsteam368.com/play/kbs.html?id=962601519&id2=",
             "http://play.sportsteam368.com/play/gm.php?id=962601519&id2=962601519",
-            "http://play.sportsteam368.com/play/wlive.php?id=386ad40abcb07e5094eadab217222ce5&id2=",
-            "http://play.sportsteam368.com/play/kbs.html?id=962601519&id2="
+            "http://play.sportsteam368.com/play/wlive.php?id=386ad40abcb07e5094eadab217222ce5&id2="
         ]
     },
     {
-        "id": "uqk88q9vvmf1ai04npex743pmsb",
+        "id": "kh7jeqkv6azzwosdiq0jt4iazwc",
         "match_id": "8515112985181977048",
         "source_name": "Premium",
         "match_title_from_api": "FC Heidenheim vs RB Leipzig",
@@ -316,7 +316,7 @@
         ]
     },
     {
-        "id": "sf20e23j6k3rug753l2gu0zz75e",
+        "id": "adscebv1l2j21gwv6gggcqhe9jz",
         "match_id": "363597659641379288",
         "source_name": "Premium",
         "match_title_from_api": "Bayer Leverkusen vs Werder Bremen",
@@ -339,7 +339,7 @@
         ]
     },
     {
-        "id": "054xrn5sbm6v63lvg4napmbptqk",
+        "id": "towre7vu6vaze2u5ppps86apvi6",
         "match_id": "8244897007539835264",
         "source_name": "Premium",
         "match_title_from_api": "Mainz 05 vs Wolfsburg",
@@ -356,13 +356,13 @@
         "date": "24-01-2026",
         "links": [
             "https://live-en.aisports.cc/moviebox/bsy_027/playlist.m3u8",
+            "http://play.sportsteam368.com/play/gm.php?id=962601771&id2=962601771",
             "http://play.sportsteam368.com/play/kbs.html?id=962601771&id2=",
-            "http://play.sportsteam368.com/play/wlive.php?id=797d148d5ed5e1f03a9fd06a962f6d1a&id2=",
-            "http://play.sportsteam368.com/play/gm.php?id=962601771&id2=962601771"
+            "http://play.sportsteam368.com/play/wlive.php?id=797d148d5ed5e1f03a9fd06a962f6d1a&id2="
         ]
     },
     {
-        "id": "qzzpgy3sajsvd78cu2amblziya8",
+        "id": "dcqg19tmr7qr3b59dpeb3tpn34f",
         "match_id": "6830766724545411544",
         "source_name": "Premium",
         "match_title_from_api": "Eintracht Frankfurt vs Hoffenheim",
@@ -385,7 +385,7 @@
         ]
     },
     {
-        "id": "w8f7x3bf5wze9l9ymkszhli8vz9",
+        "id": "dhgfqjy7ekatoiwst3mz9p0muqj",
         "match_id": "6210322431934448736",
         "source_name": "Premium",
         "match_title_from_api": "Manchester City vs Wolves",
@@ -408,7 +408,7 @@
         ]
     },
     {
-        "id": "cloytkpwy2bmpbe60gm2yhyitgn",
+        "id": "0drlkr8hbt4cxy6ejvvy8v086x8",
         "match_id": "9083618994196825184",
         "source_name": "Premium",
         "match_title_from_api": "Burnley vs Tottenham Hotspur",
@@ -431,7 +431,7 @@
         ]
     },
     {
-        "id": "8t6j8wwwkft2cxhnxyal169z2kc",
+        "id": "6gbi6nwwib4clqs99co8u0xk8x5",
         "match_id": "6255358428207629408",
         "source_name": "Premium",
         "match_title_from_api": "Fulham vs Brighton",
@@ -454,7 +454,7 @@
         ]
     },
     {
-        "id": "dt5xteqizyu8jpesx6ctgkhobdo",
+        "id": "mkzv8v5twsx60oxd41e9pl4z7av",
         "match_id": "4088800710187536768",
         "source_name": "Premium",
         "match_title_from_api": "Valencia vs Espanyol",
@@ -477,7 +477,7 @@
         ]
     },
     {
-        "id": "p0qmakk8j5cs1nygj4zlothxn33",
+        "id": "kow0610lsxk2fcgakq693qmo5ka",
         "match_id": "4369004720175872472",
         "source_name": "Premium",
         "match_title_from_api": "Rennes vs Lorient",
@@ -494,13 +494,13 @@
         "date": "24-01-2026",
         "links": [
             "https://live-en.aisports.cc/moviebox/bsy_027/playlist.m3u8",
-            "http://sports.cctv.com/H5/CCTV5/index.shtml",
             "http://tv.cctv.com/live/cctv5/",
-            "https://www.yangshipin.cn/tv/home?pid=600001818"
+            "https://www.yangshipin.cn/tv/home?pid=600001818",
+            "http://sports.cctv.com/H5/CCTV5/index.shtml"
         ]
     },
     {
-        "id": "j23mot91cp11wpbgexfm6eb5d33",
+        "id": "29f15ztfukr2p7voyeutizj6tp3",
         "match_id": "3005402820453584976",
         "source_name": "Premium",
         "match_title_from_api": "Fiorentina vs Cagliari",
@@ -523,7 +523,7 @@
         ]
     },
     {
-        "id": "n6g9bjpocf7wteuyb7zcofckvxt",
+        "id": "s22kul226qiy2grl36urkhpvw6u",
         "match_id": "3704795464584282320",
         "source_name": "Premium",
         "match_title_from_api": "Charlotte Hornets vs Washington Wizards",
@@ -546,7 +546,7 @@
         ]
     },
     {
-        "id": "4du7u2rlo4ktd3js34o73qulnpo",
+        "id": "ceo1wlaomv89bjcxq1m1v9p9nf8",
         "match_id": "1835075393943487584",
         "source_name": "Premium",
         "match_title_from_api": "Bournemouth vs Liverpool",
@@ -563,13 +563,13 @@
         "date": "24-01-2026",
         "links": [
             "https://live-en.aisports.cc/moviebox/bsy_023/playlist.m3u8",
-            "http://play.sportsteam368.com/play/gm.php?id=962601382&id2=962601382",
             "http://play.sportsteam368.com/play/wlive.php?id=6ffb12c0fdafe1e426fc045fcda6002d&id2=",
-            "http://play.sportsteam368.com/play/kbs.html?id=962601382&id2="
+            "http://play.sportsteam368.com/play/kbs.html?id=962601382&id2=",
+            "http://play.sportsteam368.com/play/gm.php?id=962601382&id2=962601382"
         ]
     },
     {
-        "id": "2fqtaizwxgst7fnugfs9v7xicbk",
+        "id": "kiaxsdmahs0vxxo7vv9m7bop94u",
         "match_id": "5178671820011196800",
         "source_name": "Premium",
         "match_title_from_api": "Sevilla vs Athletic Club",
@@ -592,7 +592,7 @@
         ]
     },
     {
-        "id": "9ayru4dtm9e07wussuysdlw1c5o",
+        "id": "9n99xfraws47pibiy9zz1ff0a1d",
         "match_id": "1448965169837668824",
         "source_name": "Premium",
         "match_title_from_api": "Union Berlin vs Borussia Dortmund",
@@ -615,7 +615,7 @@
         ]
     },
     {
-        "id": "17ay7vi04o3tqbx5p8lyqq5yahk",
+        "id": "r46rziafg0izl0hgcfinhphyie7",
         "match_id": "9078925505475279320",
         "source_name": "Premium",
         "match_title_from_api": "Le Havre vs AS Monaco",
@@ -632,13 +632,13 @@
         "date": "24-01-2026",
         "links": [
             "https://live-en.aisports.cc/moviebox/bsy_022/playlist.m3u8",
-            "http://play.sportsteam368.com/play/kbs.html?id=962602323&id2=",
             "http://play.sportsteam368.com/play/gm.php?id=962602323&id2=962602323",
-            "http://play.sportsteam368.com/play/wlive.php?id=8b977a8eb300dec0a32080a1ddc1c81f&id2="
+            "http://play.sportsteam368.com/play/wlive.php?id=8b977a8eb300dec0a32080a1ddc1c81f&id2=",
+            "http://play.sportsteam368.com/play/kbs.html?id=962602323&id2="
         ]
     },
     {
-        "id": "0p6i9mxnsbbr19y4zz7r0zxck2t",
+        "id": "c5d0boxmmuhfmmd0rp55kebbf5x",
         "match_id": "3120244610950484048",
         "source_name": "Premium",
         "match_title_from_api": "Lecce vs Lazio",
@@ -655,13 +655,13 @@
         "date": "24-01-2026",
         "links": [
             "https://live-en.aisports.cc/moviebox/bsy_019/playlist.m3u8",
-            "http://play.sportsteam368.com/play/kbs.html?id=962600963&id2=",
-            "https://play.88player.top/m3u8.html?url=https%3A%2F%2Fplay7ba.peodlc.com%2Flive%2F202_4418246_1.m3u8",
-            "http://play.sportsteam368.com/play/gm.php?id=962600963&id2=962600963"
+            "https://play.88player.top/m3u8.html?url=http%3A%2F%2Flive.trendgallary.com%2Flive%2F61061377_24730f1f1c47ece9a4186fd5645ee0d8_h1080p.m3u8",
+            "https://play.88player.top/m3u8.html?url=http%3A%2F%2Fplay1nm.hnyongshun.cn%2Flive%2F3ba72d693baca5d29d8ea7e45b8f80c7.m3u8",
+            "https://play.88player.top/m3u8.html?url=http%3A%2F%2Flive.vivo200.com%2Flive%2Fsd-1-4339749.m3u8%3FtxSecret%3Dde7e2ca43045720cab584dbf0333333c%26txTime%3D6975666A"
         ]
     },
     {
-        "id": "kho86qxbyyrecaa6s63qh159kgz",
+        "id": "vuw0yc6v9qjcze76neok9csitb3",
         "match_id": "1332597738235742088",
         "source_name": "Premium",
         "match_title_from_api": "Villarreal vs Real Madrid",
@@ -678,13 +678,13 @@
         "date": "24-01-2026",
         "links": [
             "https://live-en.aisports.cc/moviebox/bsy_023/playlist.m3u8",
-            "http://play.sportsteam368.com/play/kbs.html?id=962603390&id2=",
             "http://play.sportsteam368.com/play/gm.php?id=962603390&id2=962603390",
-            "http://play.sportsteam368.com/play/wlive.php?id=dd9dd516e8d6628d60756537eeb0d7f6&id2="
+            "http://play.sportsteam368.com/play/wlive.php?id=dd9dd516e8d6628d60756537eeb0d7f6&id2=",
+            "http://play.sportsteam368.com/play/kbs.html?id=962603390&id2="
         ]
     },
     {
-        "id": "jk4b31oi8je72tbdlu46z7ghw95",
+        "id": "ydhr09lzhujkih4udv1qqqg4t0o",
         "match_id": "3344507494395691216",
         "source_name": "Premium",
         "match_title_from_api": "Philadelphia 76ers vs New York Knicks",
@@ -699,10 +699,15 @@
         },
         "time": "20:00",
         "date": "24-01-2026",
-        "links": []
+        "links": [
+            "https://live-en.aisports.cc/moviebox/bsy_014/playlist.m3u8",
+            "http://play.sportsteam368.com/play/pao.php?id=38668202&id2=",
+            "http://play.sportsteam368.com/play/kbs.html?id=10022500643&id2=",
+            "http://play.sportsteam368.com/play/j.php?id=22500643&id2="
+        ]
     },
     {
-        "id": "pgrk2166mvpq41suv8qrrsheoeh",
+        "id": "ibga7b9n33oq330g4v4y52lqcja",
         "match_id": "3567363986503924184",
         "source_name": "Premium",
         "match_title_from_api": "Marseille vs Lens",
@@ -717,6 +722,11 @@
         },
         "time": "20:05",
         "date": "24-01-2026",
-        "links": []
+        "links": [
+            "https://live-en.aisports.cc/moviebox/bsy_022/playlist.m3u8",
+            "http://play.sportsteam368.com/play/gm.php?id=962602394&id2=962602394",
+            "http://play.sportsteam368.com/play/wlive.php?id=034072ddafac4fed44473e9db1e7aa3d&id2=",
+            "http://play.sportsteam368.com/play/kbs.html?id=962602394&id2="
+        ]
     }
 ]
