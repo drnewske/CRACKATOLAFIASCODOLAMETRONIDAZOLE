@@ -1,6 +1,6 @@
 [
     {
-        "id": "qwly53mefizcen3uuyj2ue666ag",
+        "id": "bqayqxo5cgl0dvinpw8zc1ws1hx",
         "match_id": "8690280252084469968",
         "source_name": "Premium",
         "match_title_from_api": "Chicago Bulls vs LA Lakers",
@@ -23,7 +23,7 @@
         ]
     },
     {
-        "id": "w56bcnbyip3zcz9t288hntj8d9b",
+        "id": "4yu15ylszw8xjwh9tzx0r9taelo",
         "match_id": "4799170174036361424",
         "source_name": "Premium",
         "match_title_from_api": "Houston Rockets vs Memphis Grizzlies",
@@ -46,7 +46,7 @@
         ]
     },
     {
-        "id": "qa5hw7q3jzyjtl2qja2fa91ql45",
+        "id": "6nelwyr3zvyixxv5yyz8ec95xu8",
         "match_id": "3394047090296766672",
         "source_name": "Premium",
         "match_title_from_api": "Boston Celtics vs Portland Trail Blazers",
@@ -69,7 +69,7 @@
         ]
     },
     {
-        "id": "lx8qwdzczun2ce7wjjs8kwbqwou",
+        "id": "7bujcflt3lwspupblmyp5us0spp",
         "match_id": "8546165064008614096",
         "source_name": "Premium",
         "match_title_from_api": "Minnesota Timberwolves vs Golden State Warriors",
@@ -86,13 +86,13 @@
         "date": "27-01-2026",
         "links": [
             "https://live-en.aisports.cc/moviebox/bsy_019/playlist.m3u8",
+            "http://sports.cctv.com/H5/CCTV5/index.shtml",
             "http://tv.cctv.com/live/cctv5/",
-            "https://www.yangshipin.cn/tv/home?pid=600001818",
-            "http://sports.cctv.com/H5/CCTV5/index.shtml"
+            "https://www.yangshipin.cn/tv/home?pid=600001818"
         ]
     },
     {
-        "id": "mfhzuy34t9bpas6whas9xexoi0g",
+        "id": "fcnuddl8es46876yw61r6kczsvh",
         "match_id": "6517508618329671544",
         "source_name": "Premium",
         "match_title_from_api": "Gujarat Giants vs Delhi Capitals W",
@@ -110,7 +110,7 @@
         "links": []
     },
     {
-        "id": "0ng8hg9j5vfovbk4e2pnlxj4leg",
+        "id": "6xix7fmn7bve35q52hxnctb7ijf",
         "match_id": "7772581996619354496",
         "source_name": "Premium",
         "match_title_from_api": "St. Pauli vs RB Leipzig",
@@ -133,7 +133,7 @@
         ]
     },
     {
-        "id": "6yotw7lrkxslq2jcp6wy104x7sk",
+        "id": "04vslpoxe7cehzk1vgrbue25nql",
         "match_id": "269585017420108160",
         "source_name": "Premium",
         "match_title_from_api": "Werder Bremen vs Hoffenheim",
@@ -150,13 +150,13 @@
         "date": "27-01-2026",
         "links": [
             "https://live-en.aisports.cc/moviebox/bsy_022/playlist.m3u8",
-            "http://play.sportsteam368.com/play/kbs.html?id=962602225&id2=",
             "http://play.sportsteam368.com/play/gm.php?id=962602225&id2=962602225",
-            "http://play.sportsteam368.com/play/wlive.php?id=9b5363c89e2f7984c76cbbbfaf389772&id2="
+            "http://play.sportsteam368.com/play/wlive.php?id=9b5363c89e2f7984c76cbbbfaf389772&id2=",
+            "http://play.sportsteam368.com/play/kbs.html?id=962602225&id2="
         ]
     },
     {
-        "id": "59g3y1po70cfm5un0lit2jwhu51",
+        "id": "a3pxh9eqhflwmy9i1op2syu0r05",
         "match_id": "7824584676806640320",
         "source_name": "Premium",
         "match_title_from_api": "Fiorentina vs Como 1907",
