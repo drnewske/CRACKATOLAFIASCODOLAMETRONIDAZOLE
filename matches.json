@@ -1,6 +1,6 @@
 [
     {
-        "id": "qyq6qn48l4gcfpkrzln0bwmonbz",
+        "id": "9l37ds66zt6umed0f0gorr50awf",
         "match_id": "5622203005938319568",
         "source_name": "Premium",
         "match_title_from_api": "Toronto Raptors vs Utah Jazz",
@@ -17,13 +17,13 @@
         "date": "01-02-2026",
         "links": [
             "https://live-en.aisports.cc/moviebox/bsy_020/playlist.m3u8",
-            "http://play.sportsteam368.com/play/kbs.html?id=10022500706&id2=",
             "http://play.sportsteam368.com/play/pao.php?id=38661282&id2=",
-            "http://play.sportsteam368.com/play/j.php?id=22500706&id2="
+            "http://play.sportsteam368.com/play/j.php?id=22500706&id2=",
+            "http://play.sportsteam368.com/play/kbs.html?id=10022500706&id2="
         ]
     },
     {
-        "id": "020jclut6s0w8xsh7292353zhn0",
+        "id": "tvh59pnfrt8neyeynh5stlpvpwv",
         "match_id": "5189857441710851344",
         "source_name": "Premium",
         "match_title_from_api": "Detroit Pistons vs Brooklyn Nets",
@@ -40,13 +40,13 @@
         "date": "01-02-2026",
         "links": [
             "https://live-en.aisports.cc/moviebox/bsy_011/playlist.m3u8",
+            "http://play.sportsteam368.com/play/pao.php?id=38670142&id2=",
             "http://play.sportsteam368.com/play/j.php?id=22500704&id2=",
-            "http://play.sportsteam368.com/play/kbs.html?id=10022500704&id2=",
-            "http://play.sportsteam368.com/play/pao.php?id=38670142&id2="
+            "http://play.sportsteam368.com/play/kbs.html?id=10022500704&id2="
         ]
     },
     {
-        "id": "7dx9emwere0tce7sfwndh30zraz",
+        "id": "2oh5ccv7p6jayb2pdvhw4z3j6tf",
         "match_id": "4757511877483283816",
         "source_name": "Premium",
         "match_title_from_api": "Miami Heat vs Chicago Bulls",
@@ -64,7 +64,7 @@
         "links": []
     },
     {
-        "id": "4qtcppejp9hj062rrbrcr3a3nuw",
+        "id": "x74puu8f7sr0lm5816n4i0m8ivc",
         "match_id": "2667841650383274192",
         "source_name": "Premium",
         "match_title_from_api": "Washington Wizards vs Sacramento Kings",
@@ -87,7 +87,7 @@
         ]
     },
     {
-        "id": "nl70a99ucwebspfch7126s9rgmp",
+        "id": "1ftz5lex9lm7ogsjoybeftr2j9i",
         "match_id": "5406030223824110864",
         "source_name": "Premium",
         "match_title_from_api": "New York Knicks vs LA Lakers",
@@ -110,7 +110,7 @@
         ]
     },
     {
-        "id": "fam6scozqhw03dda6ijs8tyrx7k",
+        "id": "cwg03movwcfjbxa8zhyoz9ofkww",
         "match_id": "6955268495639561488",
         "source_name": "Premium",
         "match_title_from_api": "Phoenix Suns vs LA Clippers",
@@ -128,7 +128,7 @@
         "links": []
     },
     {
-        "id": "y9xjqg37yel4v2zkeoihixwmcq5",
+        "id": "5kdv8vyk5yy9p6m1pee3fx1ze99",
         "match_id": "3784734357971256592",
         "source_name": "Premium",
         "match_title_from_api": "Portland Trail Blazers vs Cleveland Cavaliers",
@@ -145,13 +145,13 @@
         "date": "02-02-2026",
         "links": [
             "https://live-en.aisports.cc/moviebox/bsy_019/playlist.m3u8",
+            "http://play.sportsteam368.com/play/kbs.html?id=10022500710&id2=",
             "http://play.sportsteam368.com/play/pao.php?id=38665562&id2=",
-            "http://play.sportsteam368.com/play/j.php?id=22500710&id2=",
-            "http://play.sportsteam368.com/play/kbs.html?id=10022500710&id2="
+            "http://play.sportsteam368.com/play/j.php?id=22500710&id2="
         ]
     },
     {
-        "id": "kvgdosdyl0gplkgaauw3s67kkmq",
+        "id": "cgktzjyxqaz8621q1no0xtbkio4",
         "match_id": "470085032226047248",
         "source_name": "Premium",
         "match_title_from_api": "Denver Nuggets vs Oklahoma City Thunder",
@@ -168,13 +168,13 @@
         "date": "02-02-2026",
         "links": [
             "https://live-en.aisports.cc/moviebox/bsy_011/playlist.m3u8",
-            "http://play.sportsteam368.com/play/j.php?id=22500711&id2=",
             "http://play.sportsteam368.com/play/kbs.html?id=vl&id2=",
-            "http://play.sportsteam368.com/play/kbs.html?id=10022500711&id2="
+            "http://play.sportsteam368.com/play/kbs.html?id=10022500711&id2=",
+            "http://play.sportsteam368.com/play/j.php?id=22500711&id2="
         ]
     },
     {
-        "id": "tq7rei6vphs18a74lqueei27hlg",
+        "id": "ijhtf96rkcfrxmuaj8r85r1c07v",
         "match_id": "2701409845606076496",
         "source_name": "Premium",
         "match_title_from_api": "Udinese vs AS Roma",
@@ -189,10 +189,15 @@
         },
         "time": "19:45",
         "date": "02-02-2026",
-        "links": []
+        "links": [
+            "https://live-en.aisports.cc/moviebox/bsy_023/playlist.m3u8",
+            "http://play.sportsteam368.com/play/gm.php?id=962748499&id2=962748499",
+            "http://play.sportsteam368.com/play/wlive.php?id=7d518b5cb460f7d0c1552b55cafd590d&id2=",
+            "http://play.sportsteam368.com/play/kbs.html?id=962748499&id2="
+        ]
     },
     {
-        "id": "nqt0h2x4yvxfxtzaz4ks936vqjf",
+        "id": "qcc7baddk1as4vz5gfekhtb05fu",
         "match_id": "6376955618146632800",
         "source_name": "Premium",
         "match_title_from_api": "Sunderland vs Burnley",
@@ -207,10 +212,15 @@
         },
         "time": "20:00",
         "date": "02-02-2026",
-        "links": []
+        "links": [
+            "https://live-en.aisports.cc/moviebox/bsy_027/playlist.m3u8",
+            "http://play.sportsteam368.com/play/gm.php?id=962748925&id2=962748925",
+            "http://play.sportsteam368.com/play/kbs.html?id=962748925&id2=",
+            "http://play.sportsteam368.com/play/wlive.php?id=9b5363c89e2f7984c76cbbbfaf389772&id2="
+        ]
     },
     {
-        "id": "wo96sko9at422fnp00jgowa6bys",
+        "id": "0msi6n6f1vnsiwv9gwweb2ikkne",
         "match_id": "2207140490876801408",
         "source_name": "Premium",
         "match_title_from_api": "Mallorca vs Sevilla",
@@ -225,10 +235,15 @@
         },
         "time": "20:00",
         "date": "02-02-2026",
-        "links": []
+        "links": [
+            "https://live-en.aisports.cc/moviebox/bsy_022/playlist.m3u8",
+            "http://play.sportsteam368.com/play/gm.php?id=962748725&id2=962748725",
+            "http://play.sportsteam368.com/play/wlive.php?id=0fe35cf26051f3bbfbc3605a4a51c02c&id2=",
+            "http://play.sportsteam368.com/play/kbs.html?id=962748725&id2="
+        ]
     },
     {
-        "id": "ii5erxs10oncsok99nfehb0squi",
+        "id": "rhlt5uuwgljdf129sk4udbb0wro",
         "match_id": "7027326089677489424",
         "source_name": "Premium",
         "match_title_from_api": "Charlotte Hornets vs New Orleans Pelicans",
