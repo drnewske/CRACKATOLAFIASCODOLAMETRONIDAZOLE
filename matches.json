@@ -1,6 +1,6 @@
 [
     {
-        "id": "51i5g8e3l2munjg24m1jgez9ehc",
+        "id": "zbhlx8kdb8fmo2wi21fnaeaczlq",
         "match_id": "5622203005938319568",
         "source_name": "Premium",
         "match_title_from_api": "Toronto Raptors vs Utah Jazz",
@@ -23,7 +23,7 @@
         ]
     },
     {
-        "id": "hvg0fycy0ghidhxltk2uc8lkczc",
+        "id": "8al1f2cccf9caa7xzp3mtbwxywd",
         "match_id": "5189857441710851344",
         "source_name": "Premium",
         "match_title_from_api": "Detroit Pistons vs Brooklyn Nets",
@@ -40,13 +40,13 @@
         "date": "01-02-2026",
         "links": [
             "https://live-en.aisports.cc/moviebox/bsy_011/playlist.m3u8",
-            "http://play.sportsteam368.com/play/pao.php?id=38670142&id2=",
             "http://play.sportsteam368.com/play/j.php?id=22500704&id2=",
-            "http://play.sportsteam368.com/play/kbs.html?id=10022500704&id2="
+            "http://play.sportsteam368.com/play/kbs.html?id=10022500704&id2=",
+            "http://play.sportsteam368.com/play/pao.php?id=38670142&id2="
         ]
     },
     {
-        "id": "apofxa5k6lal73eplaaggs41c54",
+        "id": "bby8zxjo3fpgktk7nbwb4n3nbkw",
         "match_id": "4757511877483283816",
         "source_name": "Premium",
         "match_title_from_api": "Miami Heat vs Chicago Bulls",
@@ -64,7 +64,7 @@
         "links": []
     },
     {
-        "id": "jnsh9m9hvflzx91kni18khwxq7n",
+        "id": "tl414b87kbd5t85wrcjbat4g33s",
         "match_id": "2667841650383274192",
         "source_name": "Premium",
         "match_title_from_api": "Washington Wizards vs Sacramento Kings",
@@ -81,13 +81,13 @@
         "date": "01-02-2026",
         "links": [
             "https://live-en.aisports.cc/moviebox/bsy_023/playlist.m3u8",
+            "http://play.sportsteam368.com/play/pao.php?id=38671212&id2=",
             "http://play.sportsteam368.com/play/mgxl.php?id=962781867&id2=",
-            "http://play.sportsteam368.com/play/i11.html?id=10022500707&id2=",
-            "http://play.sportsteam368.com/play/pao.php?id=38671212&id2="
+            "http://play.sportsteam368.com/play/i11.html?id=10022500707&id2="
         ]
     },
     {
-        "id": "soek2uy539mdj6sz74aa2fut6b6",
+        "id": "ivam21dszemr3jnzq7xezwga1d5",
         "match_id": "5406030223824110864",
         "source_name": "Premium",
         "match_title_from_api": "New York Knicks vs LA Lakers",
@@ -104,13 +104,13 @@
         "date": "02-02-2026",
         "links": [
             "https://live-en.aisports.cc/moviebox/bsy_016/playlist.m3u8",
+            "http://play.sportsteam368.com/play/j.php?id=22500708&id2=",
             "http://play.sportsteam368.com/play/kbs.html?id=vl&id2=",
-            "http://play.sportsteam368.com/play/kbs.html?id=10022500708&id2=",
-            "http://play.sportsteam368.com/play/j.php?id=22500708&id2="
+            "http://play.sportsteam368.com/play/kbs.html?id=10022500708&id2="
         ]
     },
     {
-        "id": "6si4z4431yn0exrlzecs6n1sfbp",
+        "id": "g6q26s2db92e8y3zeklu7v9wdx7",
         "match_id": "6955268495639561488",
         "source_name": "Premium",
         "match_title_from_api": "Phoenix Suns vs LA Clippers",
@@ -128,7 +128,7 @@
         "links": []
     },
     {
-        "id": "5dz6ghno4mbvvlbx5dy1xjhwp6s",
+        "id": "vfjmjw3gffbdlmc50j641z861rn",
         "match_id": "3784734357971256592",
         "source_name": "Premium",
         "match_title_from_api": "Portland Trail Blazers vs Cleveland Cavaliers",
@@ -151,7 +151,7 @@
         ]
     },
     {
-        "id": "mxbznkingsrs9uytz8cj2gsuuhm",
+        "id": "d6w4dbs1vf1ctqvnubefmhladrm",
         "match_id": "470085032226047248",
         "source_name": "Premium",
         "match_title_from_api": "Denver Nuggets vs Oklahoma City Thunder",
@@ -174,7 +174,7 @@
         ]
     },
     {
-        "id": "dgtgab15ke7t2ughpacg5qzu93e",
+        "id": "1uxh01ew99t5rv2pbu147qm8d0z",
         "match_id": "2701409845606076496",
         "source_name": "Premium",
         "match_title_from_api": "Udinese vs AS Roma",
@@ -192,7 +192,7 @@
         "links": []
     },
     {
-        "id": "gmirfa5o9oy01nh2dp8somoiuys",
+        "id": "4cw1e15e428w7sn40hwf8ilwba9",
         "match_id": "6376955618146632800",
         "source_name": "Premium",
         "match_title_from_api": "Sunderland vs Burnley",
@@ -210,7 +210,7 @@
         "links": []
     },
     {
-        "id": "4mosmtzi3je63258ri5mm6nhox0",
+        "id": "lqn0yzvzafy5n2vktmjfnk0wpm5",
         "match_id": "2207140490876801408",
         "source_name": "Premium",
         "match_title_from_api": "Mallorca vs Sevilla",
@@ -222,6 +222,24 @@
         "team2": {
             "name": "Sevilla",
             "logo_url": "https://pbcdn.aoneroom.com/image/2025/04/08/5f8cdaa20efa4e9c33ae66823a28e873.jpg"
+        },
+        "time": "20:00",
+        "date": "02-02-2026",
+        "links": []
+    },
+    {
+        "id": "ierhetd2l7b9shdyna7v6hsvflg",
+        "match_id": "7027326089677489424",
+        "source_name": "Premium",
+        "match_title_from_api": "Charlotte Hornets vs New Orleans Pelicans",
+        "competition": "NBA",
+        "team1": {
+            "name": "Charlotte Hornets",
+            "logo_url": "https://pbcdn.aoneroom.com/image/2025/07/11/23f474ce3de87e12320e87161c0fb2de.jpg"
+        },
+        "team2": {
+            "name": "New Orleans Pelicans",
+            "logo_url": "https://pbcdn.aoneroom.com/image/2025/07/10/a5346f8e89dafdf6c88962f83e12d3d6.jpg"
         },
         "time": "20:00",
         "date": "02-02-2026",
