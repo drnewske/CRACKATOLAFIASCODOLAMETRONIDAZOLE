@@ -1,6 +1,6 @@
 [
     {
-        "id": "5e7soa9slqwvwetusclzho26ais",
+        "id": "wuwnnk5xr7pates75ag8gclcvhj",
         "match_id": "7432650056141258960",
         "source_name": "Premium",
         "match_title_from_api": "Detroit Pistons vs Washington Wizards",
@@ -18,7 +18,7 @@
         "links": []
     },
     {
-        "id": "qpnrkv51t6zkdhfqcxe0sj2cbuz",
+        "id": "3ti1xgnlryah9m5nv1dnru8nmae",
         "match_id": "7684851635274006736",
         "source_name": "Premium",
         "match_title_from_api": "Toronto Raptors vs Chicago Bulls",
@@ -36,7 +36,7 @@
         "links": []
     },
     {
-        "id": "fwtn6sbg1jhxijws8ceepur571b",
+        "id": "vto2ab9i6kx0z1ytfgitgq479mj",
         "match_id": "4081971933377609936",
         "source_name": "Premium",
         "match_title_from_api": "Atlanta Hawks vs Utah Jazz",
@@ -53,13 +53,13 @@
         "date": "06-02-2026",
         "links": [
             "https://live-en.aisports.cc/moviebox/bsy_011/playlist.m3u8",
-            "http://play.sportsteam368.com/play/pao.php?id=38670362&id2=",
             "http://play.sportsteam368.com/play/j.php?id=22500735&id2=",
-            "http://play.sportsteam368.com/play/kbs.html?id=10022500735&id2="
+            "http://play.sportsteam368.com/play/kbs.html?id=10022500735&id2=",
+            "http://play.sportsteam368.com/play/pao.php?id=38670362&id2="
         ]
     },
     {
-        "id": "53ho3sln6mx0ut1cm8mjhu4yq81",
+        "id": "nm49yh6ay7z6qlj47x5f6ykv3jk",
         "match_id": "7973082011425718480",
         "source_name": "Premium",
         "match_title_from_api": "Houston Rockets vs Charlotte Hornets",
@@ -76,13 +76,13 @@
         "date": "06-02-2026",
         "links": [
             "https://live-en.aisports.cc/moviebox/bsy_023/playlist.m3u8",
-            "http://play.sportsteam368.com/play/kbs.html?id=10022500737&id2=",
             "http://play.sportsteam368.com/play/j.php?id=22500737&id2=",
-            "http://play.sportsteam368.com/play/pao.php?id=38661502&id2="
+            "http://play.sportsteam368.com/play/pao.php?id=38661502&id2=",
+            "http://play.sportsteam368.com/play/kbs.html?id=10022500737&id2="
         ]
     },
     {
-        "id": "lf0jhjgve1kaperxte4h2roeacx",
+        "id": "9ulsskxk85zcmf09e5nyyv8dxdt",
         "match_id": "2712877646656979152",
         "source_name": "Premium",
         "match_title_from_api": "Dallas Mavericks vs San Antonio Spurs",
@@ -100,7 +100,7 @@
         "links": []
     },
     {
-        "id": "alw54khe9p5dipvptn98aaaqm5r",
+        "id": "rht7fngt0nnoq9ir8si16592jwh",
         "match_id": "7756909229311934672",
         "source_name": "Premium",
         "match_title_from_api": "Phoenix Suns vs Golden State Warriors",
@@ -118,7 +118,7 @@
         "links": []
     },
     {
-        "id": "2bx6z4zfaxl74rv5yp4k7fwb47j",
+        "id": "0kjlsvhut6amc3196qs9l4lcd0c",
         "match_id": "4586375091643105488",
         "source_name": "Premium",
         "match_title_from_api": "LA Lakers vs Philadelphia 76ers",
@@ -133,10 +133,15 @@
         },
         "time": "03:00",
         "date": "06-02-2026",
-        "links": []
+        "links": [
+            "https://live-en.aisports.cc/moviebox/bsy_022/playlist.m3u8",
+            "http://play.sportsteam368.com/play/kbs.html?id=10022500740&id2=",
+            "http://play.sportsteam368.com/play/pao.php?id=38666842&id2=",
+            "http://play.sportsteam368.com/play/kbs.html?id=vl&id2="
+        ]
     },
     {
-        "id": "4tnihvgn9e2o77okfmsqqufnwpf",
+        "id": "pxmmi853hpl28o3l0v9484952ii",
         "match_id": "3555523895540218328",
         "source_name": "Premium",
         "match_title_from_api": "Union Berlin vs Eintracht Frankfurt",
@@ -154,7 +159,7 @@
         "links": []
     },
     {
-        "id": "zuxkrwe7ajbv9q3szlqsbsld1kr",
+        "id": "5uvikes0dqppbjsz73xedz6yrkh",
         "match_id": "316190892959450576",
         "source_name": "Premium",
         "match_title_from_api": "Hellas Verona vs Pisa",
@@ -172,7 +177,7 @@
         "links": []
     },
     {
-        "id": "cmilg9jhmt7i5ssotw2m9iagmls",
+        "id": "9hgbp26uvdsnyxdhkun6mhp0d16",
         "match_id": "1633067946548384128",
         "source_name": "Premium",
         "match_title_from_api": "Metz vs Lille",
@@ -190,7 +195,7 @@
         "links": []
     },
     {
-        "id": "qhazu6he7k2zi2tuf02jinn3420",
+        "id": "t7jjajr4gplf82oijb3tgdq1nvx",
         "match_id": "6908802586641940768",
         "source_name": "Premium",
         "match_title_from_api": "Leeds United vs Nottingham Forest",
@@ -208,7 +213,7 @@
         "links": []
     },
     {
-        "id": "zzqbeyc6hkzztxnu5g6307t3okv",
+        "id": "d6cwf97j2e0a5v160snvkf2ev3i",
         "match_id": "8462640373294417800",
         "source_name": "Premium",
         "match_title_from_api": "Celta Vigo vs Osasuna",
