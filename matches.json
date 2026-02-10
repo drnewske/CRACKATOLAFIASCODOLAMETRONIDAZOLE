@@ -1,6 +1,6 @@
 [
     {
-        "id": "qu1anf5w7rsfqnhykehurihf7cv",
+        "id": "dy0d8gnro50boi62r21d4j684fp",
         "match_id": "7031829689304236240",
         "source_name": "Premium",
         "match_title_from_api": "Charlotte Hornets vs Detroit Pistons",
@@ -23,7 +23,7 @@
         ]
     },
     {
-        "id": "88bs1k1j3a69lujo51ob4gtndox",
+        "id": "7z6hklhg2gtwzxmien6dslgtfs9",
         "match_id": "978991790119338192",
         "source_name": "Premium",
         "match_title_from_api": "Brooklyn Nets vs Chicago Bulls",
@@ -46,7 +46,7 @@
         ]
     },
     {
-        "id": "zzuoh3g9xk1olnul8650rdbek7y",
+        "id": "vgm0oz8k0fpfejms1lx5azyza82",
         "match_id": "1987798106649904400",
         "source_name": "Premium",
         "match_title_from_api": "Miami Heat vs Utah Jazz",
@@ -69,7 +69,7 @@
         ]
     },
     {
-        "id": "gxm4yw8rhp5o9avqn9kltvnnlg9",
+        "id": "yloc1kjdinm6a9889wz9okujn4o",
         "match_id": "8310851983478505680",
         "source_name": "Premium",
         "match_title_from_api": "New Orleans Pelicans vs Sacramento Kings",
@@ -92,7 +92,7 @@
         ]
     },
     {
-        "id": "t0jruusggfu5nxexgo3zbwdfgv6",
+        "id": "eiwaseyyy6zj44o85z97lny5oke",
         "match_id": "5788836192151027920",
         "source_name": "Premium",
         "match_title_from_api": "Minnesota Timberwolves vs Atlanta Hawks",
@@ -110,7 +110,7 @@
         "links": []
     },
     {
-        "id": "cnfbsm2ovwljaz6bwcl9dabpv8i",
+        "id": "t1hlyccn7x0i7xupqy5osdd23w5",
         "match_id": "3410935588899406032",
         "source_name": "Premium",
         "match_title_from_api": "Denver Nuggets vs Cleveland Cavaliers",
@@ -125,10 +125,15 @@
         },
         "time": "02:00",
         "date": "10-02-2026",
-        "links": []
+        "links": [
+            "https://live-en.aisports.cc/moviebox/bsy_014/playlist.m3u8",
+            "http://play.sportsteam368.com/play/pao.php?id=856ebf156a2a1505cba517f7ada3c302&id2=",
+            "http://play.sportsteam368.com/play/kbs.html?id=10022500767&id2=",
+            "http://play.sportsteam368.com/play/j.php?id=22500767&id2="
+        ]
     },
     {
-        "id": "tavgf2fe57ma7dxmcvldmmn9scq",
+        "id": "bg139xg6htx5i4ua8p568qd1aoi",
         "match_id": "8707168750687109328",
         "source_name": "Premium",
         "match_title_from_api": "Golden State Warriors vs Memphis Grizzlies",
@@ -146,7 +151,7 @@
         "links": []
     },
     {
-        "id": "tsjcjrcxzikekqb0ook9m3wap63",
+        "id": "rtjrblqq2jtajjcsiqxs4t8o8yq",
         "match_id": "5968980177245847760",
         "source_name": "Premium",
         "match_title_from_api": "LA Lakers vs Oklahoma City Thunder",
@@ -161,10 +166,15 @@
         },
         "time": "03:00",
         "date": "10-02-2026",
-        "links": []
+        "links": [
+            "https://live-en.aisports.cc/moviebox/bsy_020/playlist.m3u8",
+            "http://nba.toutiaozb.com/qq/qq-kbs.html?matchliveid=1393179700",
+            "http://play.sportsteam368.com/play/kbs.html?id=vl&id2=",
+            "http://play.sportsteam368.com/play/i11.html?id=10022500769&id2="
+        ]
     },
     {
-        "id": "3pctwk1tvvacgdg648ydc5irm8n",
+        "id": "zyff03f2bmodn7puv929ekwnk17",
         "match_id": "2438158069387378896",
         "source_name": "Premium",
         "match_title_from_api": "Portland Trail Blazers vs Philadelphia 76ers",
@@ -179,10 +189,15 @@
         },
         "time": "03:00",
         "date": "10-02-2026",
-        "links": []
+        "links": [
+            "https://live-en.aisports.cc/moviebox/bsy_016/playlist.m3u8",
+            "http://play.sportsteam368.com/play/pao.php?id=aaee2cd28441dfd5716f6c6afe6ae3d9&id2=",
+            "http://play.sportsteam368.com/play/kbs.html?id=10022500770&id2=",
+            "http://play.sportsteam368.com/play/j.php?id=22500770&id2="
+        ]
     },
     {
-        "id": "xvnx0hyugutof66fusd5bkxgpnf",
+        "id": "j1xd894zso2b28rgopxksot3zfu",
         "match_id": "1969619322561610928",
         "source_name": "Premium",
         "match_title_from_api": "Netherlands vs Namibia",
@@ -202,7 +217,7 @@
         ]
     },
     {
-        "id": "70xnf97a3j3d6pcii0ckt4zyu0o",
+        "id": "rqikxdekhchzmr739gacwcebwr8",
         "match_id": "1681388946409898416",
         "source_name": "Premium",
         "match_title_from_api": "New Zealand vs United Arab Emirates",
@@ -222,7 +237,7 @@
         ]
     },
     {
-        "id": "v3up182k3xxlw1gmskmzxp59dcm",
+        "id": "plguhp5fhv7o486biliwyyj7voi",
         "match_id": "4563692707927015856",
         "source_name": "Premium",
         "match_title_from_api": "Pakistan vs United States",
@@ -242,7 +257,7 @@
         ]
     },
     {
-        "id": "b0a6pzeku8aoyfze02avbuvxadn",
+        "id": "75j1exsf4119qhvg1k5znu8gwb4",
         "match_id": "6012586260795212896",
         "source_name": "Premium",
         "match_title_from_api": "Chelsea vs Leeds United",
@@ -262,7 +277,7 @@
         ]
     },
     {
-        "id": "q77w1p3szfwzjbg4xukf7qjfnkq",
+        "id": "hv3m7tvh0090y1i19e7m02i2iny",
         "match_id": "7280349555900006688",
         "source_name": "Premium",
         "match_title_from_api": "Everton vs Bournemouth",
@@ -280,7 +295,7 @@
         "links": []
     },
     {
-        "id": "jfmm8abzx4gavd9mhkxm2psvlwj",
+        "id": "udpzfpwjkbicucmkmy3aat2hcdb",
         "match_id": "1812979608271701088",
         "source_name": "Premium",
         "match_title_from_api": "Tottenham Hotspur vs Newcastle United",
@@ -300,7 +315,7 @@
         ]
     },
     {
-        "id": "1uloycl9qa3mwkv8de188ulvpab",
+        "id": "jb8ftv9cu8o5xne2rejoqod8kks",
         "match_id": "5659675637817163888",
         "source_name": "Premium",
         "match_title_from_api": "Hertha Berlin vs Freiburg",
@@ -318,7 +333,7 @@
         "links": []
     },
     {
-        "id": "y4c2izycyb6mexad5k9gs8harse",
+        "id": "gfehd60b6ovappts5aqret15jym",
         "match_id": "2755489395885098208",
         "source_name": "Premium",
         "match_title_from_api": "Napoli vs Como 1907",
@@ -336,7 +351,7 @@
         "links": []
     },
     {
-        "id": "3kjcgxdm32dwiiiqu0t1um26o6s",
+        "id": "pd0xjh3xcb8b4nv3a7me7dy6c0l",
         "match_id": "407856524532629792",
         "source_name": "Premium",
         "match_title_from_api": "West Ham United vs Manchester United",
