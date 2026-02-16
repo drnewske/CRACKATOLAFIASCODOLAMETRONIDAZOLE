@@ -1,6 +1,6 @@
 [
     {
-        "id": "qj8va52gzn0zapfp7hbw3pajnvu",
+        "id": "lfuyi3rfaqfbsqgl7y9megye0me",
         "match_id": "5320297445326308528",
         "source_name": "Premium",
         "match_title_from_api": "Afghanistan vs United Arab Emirates",
@@ -20,7 +20,7 @@
         ]
     },
     {
-        "id": "u7mqb9cywdzo2ogdydnpjnx0utu",
+        "id": "riujfl5nuflktd6jusy313jexct",
         "match_id": "4167375940718412976",
         "source_name": "Premium",
         "match_title_from_api": "England vs Italy",
@@ -40,7 +40,7 @@
         ]
     },
     {
-        "id": "h5upshol2l2kdixz3chz26s9byq",
+        "id": "liuvgdk8gm0ol47lwd6194dyq61",
         "match_id": "5032067069174596784",
         "source_name": "Premium",
         "match_title_from_api": "Australia vs Sri Lanka",
@@ -60,7 +60,7 @@
         ]
     },
     {
-        "id": "yqvtq4rqm18dnox5ua5t2ysc4ec",
+        "id": "p102kg46bv6k045psoymzzhlgyp",
         "match_id": "3723169991808142968",
         "source_name": "Premium",
         "match_title_from_api": "Macclesfield FC vs Brentford",
@@ -78,7 +78,7 @@
         "links": []
     },
     {
-        "id": "mc5loyxi8dt8dth0oaa5j9dstni",
+        "id": "dzs7et74l5ori5i3kf0udekjvgs",
         "match_id": "4707200529645686864",
         "source_name": "Premium",
         "match_title_from_api": "Cagliari vs Lecce",
@@ -95,13 +95,13 @@
         "date": "16-02-2026",
         "links": [
             "https://live-pull.aisports.mobi/moviebox/bsy_023/playlist.m3u8",
-            "http://play.sportsteam368.com/play/gm.php?id=963069534&id2=963069534",
             "http://play.sportsteam368.com/play/wlive.php?id=95a872df47e10f1513a90720cc5a92e8&id2=",
-            "http://play.sportsteam368.com/play/kbs.html?id=963069534&id2="
+            "http://play.sportsteam368.com/play/kbs.html?id=963069534&id2=",
+            "http://play.sportsteam368.com/play/gm.php?id=963069534&id2=963069534"
         ]
     },
     {
-        "id": "igr5t5rjm9tod0d72f6w82p7us8",
+        "id": "j8oj2mh2aix0h75r1wctwb1rq5p",
         "match_id": "4024342940520796544",
         "source_name": "Premium",
         "match_title_from_api": "Girona vs Barcelona",
@@ -116,6 +116,11 @@
         },
         "time": "20:00",
         "date": "16-02-2026",
-        "links": []
+        "links": [
+            "https://live-pull.aisports.mobi/moviebox/bsy_016/playlist.m3u8",
+            "http://play.sportsteam368.com/play/kbs.html?id=963068922&id2=",
+            "http://play.sportsteam368.com/play/wlive.php?id=7bc6360e3a553dd1144597a1d435a902&id2=",
+            "http://play.sportsteam368.com/play/wlive.php?id=797d148d5ed5e1f03a9fd06a962f6d1a&id2="
+        ]
     }
 ]
