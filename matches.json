@@ -1,126 +1,138 @@
 [
     {
-        "id": "jhwt7gvohy2fb5ysd3vcu0j5k3l",
-        "match_id": "5320297445326308528",
+        "id": "tjt6lur7d4of5bfem74bddtj0i3",
+        "match_id": "3879145564567749808",
         "source_name": "Premium",
-        "match_title_from_api": "Afghanistan vs United Arab Emirates",
+        "match_title_from_api": "New Zealand vs Canada",
         "competition": "ICC Men's T20 World Cup",
         "team1": {
-            "name": "Afghanistan",
-            "logo_url": "https://pbcdn.aoneroom.com/image/2026/02/05/a852267fb2204a62a989ed4e40e56102.webp"
+            "name": "New Zealand",
+            "logo_url": "https://pbcdn.aoneroom.com/image/2026/02/05/b58c85ba8b84679d2222d0c17c7e4cfc.webp"
         },
         "team2": {
-            "name": "United Arab Emirates",
-            "logo_url": "https://pbcdn.aoneroom.com/image/2026/02/05/8dca156afb84fe15a3369bdeed2daabc.webp"
+            "name": "Canada",
+            "logo_url": "https://pbcdn.aoneroom.com/image/2026/02/05/950bff51b79d00b4edf30e4bc78d3a8f.webp"
         },
         "time": "05:30",
-        "date": "16-02-2026",
+        "date": "17-02-2026",
         "links": [
             "https://live-pull.aisports.mobi/moviebox/device01/playlist.m3u8"
         ]
     },
     {
-        "id": "7z7wn2ffg8ftemrn5j7edgme69t",
-        "match_id": "4167375940718412976",
+        "id": "5gxqwwuwjccohojn7lsjeu84obz",
+        "match_id": "3302684812263277744",
         "source_name": "Premium",
-        "match_title_from_api": "England vs Italy",
+        "match_title_from_api": "Ireland vs Zimbabwe",
         "competition": "ICC Men's T20 World Cup",
         "team1": {
-            "name": "England",
-            "logo_url": "https://pbcdn.aoneroom.com/image/2026/02/05/51ed7fd6d3b7ddad637e84336c3f5271.webp"
+            "name": "Ireland",
+            "logo_url": "https://pbcdn.aoneroom.com/image/2026/02/05/18ca7272884535c41ae8e796be175245.webp"
         },
         "team2": {
-            "name": "Italy",
-            "logo_url": "https://pbcdn.aoneroom.com/image/2026/02/05/141bca00d82122165ff30b9a3572fa5b.webp"
+            "name": "Zimbabwe",
+            "logo_url": "https://pbcdn.aoneroom.com/image/2026/02/05/5265f2ce832c6b172d52f1296fcb8db7.webp"
         },
         "time": "09:30",
-        "date": "16-02-2026",
+        "date": "17-02-2026",
         "links": [
             "https://live-pull.aisports.mobi/moviebox/device02/playlist.m3u8"
         ]
     },
     {
-        "id": "yutngyxir3zy5sqyyiy4qpne75e",
-        "match_id": "5032067069174596784",
+        "id": "m26as3t9fwc82jjw1d8qhts41gb",
+        "match_id": "4455606316871173296",
         "source_name": "Premium",
-        "match_title_from_api": "Australia vs Sri Lanka",
+        "match_title_from_api": "Scotland vs Nepal",
         "competition": "ICC Men's T20 World Cup",
         "team1": {
-            "name": "Australia",
-            "logo_url": "https://pbcdn.aoneroom.com/image/2026/02/05/077c3d548bf29a16030f68e1b5acc0e1.webp"
+            "name": "Scotland",
+            "logo_url": "https://pbcdn.aoneroom.com/image/2026/02/05/9a4b2b44837e789011738bf408ea1177.webp"
         },
         "team2": {
-            "name": "Sri Lanka",
-            "logo_url": "https://pbcdn.aoneroom.com/image/2026/02/05/044e1e6cba88ff21210d159bb6f45bdb.webp"
+            "name": "Nepal",
+            "logo_url": "https://pbcdn.aoneroom.com/image/2026/02/05/87b13c3772cf65f0275966d9b1416809.webp"
         },
         "time": "13:30",
-        "date": "16-02-2026",
+        "date": "17-02-2026",
         "links": [
             "https://live-pull.aisports.mobi/moviebox/football001/playlist.m3u8"
         ]
     },
     {
-        "id": "pkssy3tinjtcpw3arbvqa3yqnde",
-        "match_id": "3723169991808142968",
+        "id": "g37eaoi35vbh297obnj5fxu40q7",
+        "match_id": "2336217849546133928",
         "source_name": "Premium",
-        "match_title_from_api": "Macclesfield FC vs Brentford",
-        "competition": "FA Cup",
+        "match_title_from_api": "Galatasaray vs Juventus",
+        "competition": "Champions League",
         "team1": {
-            "name": "Macclesfield FC",
-            "logo_url": "https://pbcdn.aoneroom.com/image/2025/09/02/8c64de9d1879b7c32b951117208a2654.jpg"
+            "name": "Galatasaray",
+            "logo_url": "https://pbcdn.aoneroom.com/image/2025/04/08/191f5c2e20b5f46407422dcccb07ecb1.jpg"
         },
         "team2": {
-            "name": "Brentford",
-            "logo_url": "https://pbcdn.aoneroom.com/image/2025/03/13/3084cf6c6de91dc34fb7a7c0d5bfe5f0.jpg"
+            "name": "Juventus",
+            "logo_url": "https://pbcdn.aoneroom.com/image/2025/03/13/d08b44b1aa1eb378e67426a82263e205.jpg"
         },
-        "time": "19:30",
-        "date": "16-02-2026",
+        "time": "17:45",
+        "date": "17-02-2026",
+        "links": [
+            "https://live-pull.aisports.mobi/moviebox/football001/playlist.m3u8"
+        ]
+    },
+    {
+        "id": "zpomjc5ut64fycjd2y18e4s8hsv",
+        "match_id": "5029370426713590512",
+        "source_name": "Premium",
+        "match_title_from_api": "Benfica vs Real Madrid",
+        "competition": "Champions League",
+        "team1": {
+            "name": "Benfica",
+            "logo_url": "https://pbcdn.aoneroom.com/image/2025/03/13/8e2eeb90bc791d3d82ebb0f93a6663ee.jpg"
+        },
+        "team2": {
+            "name": "Real Madrid",
+            "logo_url": "https://pbcdn.aoneroom.com/image/2025/03/13/dd8cab7f3f2b5f25b0153329fc03625b.jpg"
+        },
+        "time": "20:00",
+        "date": "17-02-2026",
+        "links": [
+            "https://live-pull.aisports.mobi/moviebox/device01/playlist.m3u8"
+        ]
+    },
+    {
+        "id": "6p4vgeo4glviqyukiwsvu6n6x59",
+        "match_id": "3227930575765492136",
+        "source_name": "Premium",
+        "match_title_from_api": "AS Monaco vs Paris Saint-Germain",
+        "competition": "Champions League",
+        "team1": {
+            "name": "AS Monaco",
+            "logo_url": "https://pbcdn.aoneroom.com/image/2025/03/13/c68269f4f3f93e024ddcc8f5d81c2b0b.jpg"
+        },
+        "team2": {
+            "name": "Paris Saint-Germain",
+            "logo_url": "https://pbcdn.aoneroom.com/image/2025/03/13/25a49cb2734a322976907157d8defc17.jpg"
+        },
+        "time": "20:00",
+        "date": "17-02-2026",
         "links": []
     },
     {
-        "id": "d52zavjt6kh6uukoehkom8yvb1b",
-        "match_id": "4707200529645686864",
+        "id": "fd8jhkj460ok58rjkojvvz9y0on",
+        "match_id": "2390261045074479856",
         "source_name": "Premium",
-        "match_title_from_api": "Cagliari vs Lecce",
-        "competition": "Serie A",
+        "match_title_from_api": "Borussia Dortmund vs Atalanta",
+        "competition": "Champions League",
         "team1": {
-            "name": "Cagliari",
-            "logo_url": "https://pbcdn.aoneroom.com/image/2025/04/08/69253aa633753e99d86c051a6cf2e5c3.jpg"
+            "name": "Borussia Dortmund",
+            "logo_url": "https://pbcdn.aoneroom.com/image/2025/03/13/bae296c73e03725497d59d958ae94b15.jpg"
         },
         "team2": {
-            "name": "Lecce",
-            "logo_url": "https://pbcdn.aoneroom.com/image/2025/04/08/31ff2dc58a0e2e7bc50c67ddf265ddc8.jpg"
-        },
-        "time": "19:45",
-        "date": "16-02-2026",
-        "links": [
-            "https://live-pull.aisports.mobi/moviebox/bsy_023/playlist.m3u8",
-            "http://play.sportsteam368.com/play/gm.php?id=963069534&id2=963069534",
-            "http://play.sportsteam368.com/play/wlive.php?id=95a872df47e10f1513a90720cc5a92e8&id2=",
-            "http://play.sportsteam368.com/play/kbs.html?id=963069534&id2="
-        ]
-    },
-    {
-        "id": "lqtwxtwt73zf1cr0o4xpmbnaxrr",
-        "match_id": "4024342940520796544",
-        "source_name": "Premium",
-        "match_title_from_api": "Girona vs Barcelona",
-        "competition": "LaLiga",
-        "team1": {
-            "name": "Girona",
-            "logo_url": "https://pbcdn.aoneroom.com/image/2025/03/13/cc27b3b066faf3f4e275510176694dc9.jpg"
-        },
-        "team2": {
-            "name": "Barcelona",
-            "logo_url": "https://pbcdn.aoneroom.com/image/2025/03/13/147e4df7a97170646e9ec11e7f441d08.jpg"
+            "name": "Atalanta",
+            "logo_url": "https://pbcdn.aoneroom.com/image/2025/03/13/37e8e177c89de169910d196e1caa43ca.jpg"
         },
         "time": "20:00",
-        "date": "16-02-2026",
-        "links": [
-            "https://live-pull.aisports.mobi/moviebox/bsy_016/playlist.m3u8",
-            "http://play.sportsteam368.com/play/kbs.html?id=963068922&id2=",
-            "http://play.sportsteam368.com/play/wlive.php?id=7bc6360e3a553dd1144597a1d435a902&id2=",
-            "http://play.sportsteam368.com/play/wlive.php?id=797d148d5ed5e1f03a9fd06a962f6d1a&id2="
-        ]
+        "date": "17-02-2026",
+        "links": []
     }
 ]
