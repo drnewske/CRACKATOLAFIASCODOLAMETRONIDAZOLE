@@ -1,6 +1,6 @@
 [
     {
-        "id": "wum1tgab5lp2mhxxcdz8z1i3qfm",
+        "id": "ac5clrci311ahovr5bllf86s9s7",
         "match_id": "3879145564567749808",
         "source_name": "Premium",
         "match_title_from_api": "New Zealand vs Canada",
@@ -20,7 +20,7 @@
         ]
     },
     {
-        "id": "o5xq9n2ytdyxjzk87elu0rxb4nr",
+        "id": "w64bvkm9dyvozq1bl7hn2ydpv5q",
         "match_id": "3302684812263277744",
         "source_name": "Premium",
         "match_title_from_api": "Ireland vs Zimbabwe",
@@ -40,7 +40,7 @@
         ]
     },
     {
-        "id": "ipatdh4jezbk35gme1u2tctw9tg",
+        "id": "qnfy1zxxr50ca2wqn0sk4xxgvoe",
         "match_id": "4455606316871173296",
         "source_name": "Premium",
         "match_title_from_api": "Scotland vs Nepal",
@@ -60,7 +60,7 @@
         ]
     },
     {
-        "id": "27ruqdib7z2ssxsvt29tjlcz91u",
+        "id": "291z8uyvc6zdzgp4s6bt3mv32ax",
         "match_id": "2336217849546133928",
         "source_name": "Premium",
         "match_title_from_api": "Galatasaray vs Juventus",
@@ -76,11 +76,14 @@
         "time": "17:45",
         "date": "17-02-2026",
         "links": [
-            "https://live-pull.aisports.mobi/moviebox/football001/playlist.m3u8"
+            "https://live-pull.aisports.mobi/moviebox/football001/playlist.m3u8",
+            "http://play.sportsteam368.com/play/pao.php?id=44869441&id2=",
+            "http://play.sportsteam368.com/play/wlive.php?id=f0d835f3ee40d4b37a87efa05ae0e99e&id2=",
+            "http://play.sportsteam368.com/play/wlive.php?id=f97d4facba7ac22ebd5d4f7fd8dcf25d&id2="
         ]
     },
     {
-        "id": "if8zmwoppcpd9b11idl1xbe9ltk",
+        "id": "0wc9g6mwoestaqwjiuev92zecoc",
         "match_id": "5029370426713590512",
         "source_name": "Premium",
         "match_title_from_api": "Benfica vs Real Madrid",
@@ -100,7 +103,7 @@
         ]
     },
     {
-        "id": "m1i11fk1a7n1a7srccxvelkmz6e",
+        "id": "1gtgp92pai1dr62mot0bzmchfoe",
         "match_id": "3227930575765492136",
         "source_name": "Premium",
         "match_title_from_api": "AS Monaco vs Paris Saint-Germain",
@@ -118,7 +121,7 @@
         "links": []
     },
     {
-        "id": "q9iq5746ugy9e3yjcmjv2h5kw5s",
+        "id": "xyysslz8ak9p1d7xnfatot7tqt5",
         "match_id": "2390261045074479856",
         "source_name": "Premium",
         "match_title_from_api": "Borussia Dortmund vs Atalanta",
