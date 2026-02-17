@@ -1,6 +1,6 @@
 [
     {
-        "id": "um5vwkqpud5z1pyp1k3sgiw1hfj",
+        "id": "hgpgqouq0jxaeqx1c7sy896q769",
         "match_id": "3879145564567749808",
         "source_name": "Premium",
         "match_title_from_api": "New Zealand vs Canada",
@@ -20,7 +20,7 @@
         ]
     },
     {
-        "id": "vzy3tq5k4j0zdzyq7tge3rm41m6",
+        "id": "4idoiu8j4wd2954rjxki37y8oid",
         "match_id": "3302684812263277744",
         "source_name": "Premium",
         "match_title_from_api": "Ireland vs Zimbabwe",
@@ -40,7 +40,7 @@
         ]
     },
     {
-        "id": "1doejkr0q9zgxhmd4824jkqj1nc",
+        "id": "xxsso4uxqryrnavf1q3o3xt5uyo",
         "match_id": "4455606316871173296",
         "source_name": "Premium",
         "match_title_from_api": "Scotland vs Nepal",
@@ -60,7 +60,7 @@
         ]
     },
     {
-        "id": "r5x5to0rvandicm06fraoe78mmp",
+        "id": "h6ngd8xjn208yolr2ncgc986om5",
         "match_id": "2336217849546133928",
         "source_name": "Premium",
         "match_title_from_api": "Galatasaray vs Juventus",
@@ -77,13 +77,13 @@
         "date": "17-02-2026",
         "links": [
             "https://live-pull.aisports.mobi/moviebox/football001/playlist.m3u8",
-            "http://play.sportsteam368.com/play/wlive.php?id=f97d4facba7ac22ebd5d4f7fd8dcf25d&id2=",
             "http://play.sportsteam368.com/play/pao.php?id=44869441&id2=",
-            "http://play.sportsteam368.com/play/wlive.php?id=f0d835f3ee40d4b37a87efa05ae0e99e&id2="
+            "http://play.sportsteam368.com/play/wlive.php?id=f0d835f3ee40d4b37a87efa05ae0e99e&id2=",
+            "http://play.sportsteam368.com/play/wlive.php?id=f97d4facba7ac22ebd5d4f7fd8dcf25d&id2="
         ]
     },
     {
-        "id": "8sutg04jojarlc3r3eu0yzf24ky",
+        "id": "xqf3rue71krcq0w6zrjwm3kwnev",
         "match_id": "5029370426713590512",
         "source_name": "Premium",
         "match_title_from_api": "Benfica vs Real Madrid",
@@ -99,11 +99,14 @@
         "time": "20:00",
         "date": "17-02-2026",
         "links": [
-            "https://live-pull.aisports.mobi/moviebox/device01/playlist.m3u8"
+            "https://live-pull.aisports.mobi/moviebox/device01/playlist.m3u8",
+            "http://play.sportsteam368.com/play/wlive.php?id=9bdd05274eb9f77aa3a17ec29d78bf6c&id2=",
+            "http://play.sportsteam368.com/play/wlive.php?id=7bf3baaebde4710a9cb050952174fcc5&id2=",
+            "http://play.sportsteam368.com/play/pao.php?id=44869361&id2="
         ]
     },
     {
-        "id": "n351b6u4etjsk4abbhkg20iy7bx",
+        "id": "x2o9i27oufcrs068sqodpqrcauf",
         "match_id": "3227930575765492136",
         "source_name": "Premium",
         "match_title_from_api": "AS Monaco vs Paris Saint-Germain",
@@ -118,10 +121,15 @@
         },
         "time": "20:00",
         "date": "17-02-2026",
-        "links": []
+        "links": [
+            "https://live-pull.aisports.mobi/moviebox/bsy_027/playlist.m3u8",
+            "http://play.sportsteam368.com/play/wlive.php?id=3d15af073d4e35f729ceae014c784f60&id2=",
+            "http://play.sportsteam368.com/play/wlive.php?id=1bf2b8d9f1570c3a518c5ff14886b703&id2=",
+            "http://play.sportsteam368.com/play/pao.php?id=44869421&id2="
+        ]
     },
     {
-        "id": "m1ymnhqtcf4a4wrg6gwi0u6oj3l",
+        "id": "gpwe0ampvqq8q0q9ezmhs96iagn",
         "match_id": "2390261045074479856",
         "source_name": "Premium",
         "match_title_from_api": "Borussia Dortmund vs Atalanta",
@@ -134,8 +142,13 @@
             "name": "Atalanta",
             "logo_url": "https://pbcdn.aoneroom.com/image/2025/03/13/37e8e177c89de169910d196e1caa43ca.jpg"
         },
-        "time": "20:00",
+        "time": "20:15",
         "date": "17-02-2026",
-        "links": []
+        "links": [
+            "https://live-pull.aisports.mobi/moviebox/bsy_014/playlist.m3u8",
+            "http://play.sportsteam368.com/play/wlive.php?id=0e478dc80710f48596b0938b3fdd7a34&id2=",
+            "http://play.sportsteam368.com/play/wlive.php?id=c087440f71b68908af89d930ad9561e8&id2=",
+            "http://play.sportsteam368.com/play/pao.php?id=44869461&id2="
+        ]
     }
 ]
