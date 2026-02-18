@@ -1,6 +1,6 @@
 [
     {
-        "id": "rc9z80rh41ggqn4a6oko78u4emm",
+        "id": "xluwlubr0zmiiljq2rpixx1ihtb",
         "match_id": "2582108871883998384",
         "source_name": "Premium",
         "match_title_from_api": "South Africa vs United Arab Emirates",
@@ -20,7 +20,7 @@
         ]
     },
     {
-        "id": "xvivsqc892hp7grobtbhg2o2wzc",
+        "id": "hsissejyy582f5qtxjtp4wlpiw1",
         "match_id": "8346716394918232496",
         "source_name": "Premium",
         "match_title_from_api": "Pakistan vs Namibia",
@@ -40,7 +40,7 @@
         ]
     },
     {
-        "id": "e87yx0ej7xq80q6udfzy3x6j46s",
+        "id": "ckxy4jwb6m07dk1eb0hx6l5604k",
         "match_id": "3158569624188469680",
         "source_name": "Premium",
         "match_title_from_api": "India vs Netherlands",
@@ -60,7 +60,7 @@
         ]
     },
     {
-        "id": "euyd4m333t95nfw0aw7zlzev3ik",
+        "id": "726jqbug523wjps8973h8qcq935",
         "match_id": "6407471912688963192",
         "source_name": "Premium",
         "match_title_from_api": "Qarabag FK vs Newcastle United",
@@ -77,13 +77,13 @@
         "date": "18-02-2026",
         "links": [
             "https://live-pull.aisports.mobi/moviebox/bsy_022/playlist.m3u8",
-            "http://play.sportsteam368.com/play/wlive.php?id=95a872df47e10f1513a90720cc5a92e8&id2=",
             "http://play.sportsteam368.com/play/wen.php?id=537b2d212e10dbf3179c34dd661c2237&id2=",
-            "http://play.sportsteam368.com/play/pao.php?id=44869341&id2="
+            "http://play.sportsteam368.com/play/pao.php?id=44869341&id2=",
+            "http://play.sportsteam368.com/play/wlive.php?id=95a872df47e10f1513a90720cc5a92e8&id2="
         ]
     },
     {
-        "id": "tqe6x614xgor188z16nc8n4po41",
+        "id": "24j6kaia0o9vu63gbzf8rn6o243",
         "match_id": "2484956292890216328",
         "source_name": "Premium",
         "match_title_from_api": "Levante vs Villarreal",
@@ -98,10 +98,15 @@
         },
         "time": "19:00",
         "date": "18-02-2026",
-        "links": []
+        "links": [
+            "https://live-pull.aisports.mobi/moviebox/bsy_011/playlist.m3u8",
+            "http://play.sportsteam368.com/play/kbs.html?id=963068144&id2=",
+            "http://play.sportsteam368.com/play/gm.php?id=963068144&id2=963068144",
+            "http://play.sportsteam368.com/play/wlive.php?id=d6bcc479f691a2edd7f14f34db0af717&id2="
+        ]
     },
     {
-        "id": "wmxeknhfysq6ea42tsjas9uio9w",
+        "id": "wgr7fhmw6nck5akhhr5mrzceydt",
         "match_id": "7925585413355849168",
         "source_name": "Premium",
         "match_title_from_api": "AC Milan vs Como 1907",
@@ -119,7 +124,7 @@
         "links": []
     },
     {
-        "id": "ox7xgaalb1zvxyqi2912ijq88zy",
+        "id": "vhm48xc4ob3pf494whomb9owdt3",
         "match_id": "8172882966618201608",
         "source_name": "Premium",
         "match_title_from_api": "Olympiacos vs Bayer Leverkusen",
@@ -137,7 +142,7 @@
         "links": []
     },
     {
-        "id": "7hq57n8zbo1q4k0jex1g1mov6kv",
+        "id": "x4cf0355p3ja3n87efpfq872dkz",
         "match_id": "5236536009571589640",
         "source_name": "Premium",
         "match_title_from_api": "Club Brugge vs Atletico Madrid",
@@ -157,7 +162,7 @@
         ]
     },
     {
-        "id": "2746texaw03fy5cyx6f8kgstexk",
+        "id": "g7axww2pyzcxavpnv9v2yc1wtzk",
         "match_id": "2894664203339980296",
         "source_name": "Premium",
         "match_title_from_api": "Bodoe/Glimt vs Inter",
@@ -175,7 +180,7 @@
         "links": []
     },
     {
-        "id": "figjkuf6zg6dv33t8jsnoxd9cjd",
+        "id": "iv4ts6kcl9yhev2e8qrx6w9bydr",
         "match_id": "8940488968538932320",
         "source_name": "Premium",
         "match_title_from_api": "Wolves vs Arsenal",
