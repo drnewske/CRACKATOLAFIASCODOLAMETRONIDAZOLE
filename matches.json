@@ -1,6 +1,6 @@
 [
     {
-        "id": "704ddlqvn7pwjj6zig5wnd0lhvf",
+        "id": "fy4fx8ewh2ge351tl7ytawj3tva",
         "match_id": "2480942265847398608",
         "source_name": "Premium",
         "match_title_from_api": "Indiana Pacers vs Dallas Mavericks",
@@ -23,7 +23,7 @@
         ]
     },
     {
-        "id": "q45ljus7lz2vrhfiygbv3wxmacy",
+        "id": "t7efz9wc3sfh66tj0cekz2ex5f6",
         "match_id": "8533780165033345232",
         "source_name": "Premium",
         "match_title_from_api": "Washington Wizards vs Charlotte Hornets",
@@ -46,7 +46,7 @@
         ]
     },
     {
-        "id": "360ca5embot9rt4tfyr9gg7cuhc",
+        "id": "orpel7fnfume51ahy5pu9lpuv9m",
         "match_id": "1832423919506047184",
         "source_name": "Premium",
         "match_title_from_api": "LA Lakers vs Boston Celtics",
@@ -69,7 +69,7 @@
         ]
     },
     {
-        "id": "izwntbe0tcw1ld9lofpemblj94z",
+        "id": "3q1j24snsf5jtc8proclzel8g0b",
         "match_id": "6732340314085246312",
         "source_name": "Premium",
         "match_title_from_api": "Minnesota Timberwolves vs Philadelphia 76ers",
@@ -92,7 +92,7 @@
         ]
     },
     {
-        "id": "cgqqt0ncq3dh7u0jbuoo8cmf4k5",
+        "id": "o9xy3k80dfa3zts9y3jbq4w7fs3",
         "match_id": "8605837759070224592",
         "source_name": "Premium",
         "match_title_from_api": "Chicago Bulls vs New York Knicks",
@@ -115,7 +115,7 @@
         ]
     },
     {
-        "id": "tiuibc3zbp45772y9xr2untxd4b",
+        "id": "m1eav60zhsbunbyr2pyhvtfzp07",
         "match_id": "1796395122487083216",
         "source_name": "Premium",
         "match_title_from_api": "Phoenix Suns vs Portland Trail Blazers",
@@ -138,7 +138,7 @@
         ]
     },
     {
-        "id": "6sgp8zwkgn9v8ejrbqmol6qjb8t",
+        "id": "19r9jku6vnjyglbxcj3zlmqccny",
         "match_id": "6356125359620997552",
         "source_name": "Premium",
         "match_title_from_api": "Zimbabwe vs West Indies",
@@ -158,7 +158,7 @@
         ]
     },
     {
-        "id": "j9ul8e21l8clq2cbvrva5hyzr58",
+        "id": "pmy2g8w9ty5b8sp1u353szsauk8",
         "match_id": "232874299853620688",
         "source_name": "Premium",
         "match_title_from_api": "Fiorentina vs Pisa",
@@ -181,7 +181,7 @@
         ]
     },
     {
-        "id": "ghw8p8jzzmefrfe4uq83fomamte",
+        "id": "z1b97hz020zb6zgub8bx1qy2wa6",
         "match_id": "5862373834066743376",
         "source_name": "Premium",
         "match_title_from_api": "Bologna vs Udinese",
@@ -196,10 +196,15 @@
         },
         "time": "19:45",
         "date": "23-02-2026",
-        "links": []
+        "links": [
+            "https://live-pull.aisports.mobi/moviebox/bsy_014/playlist.m3u8",
+            "http://play.sportsteam368.com/play/kbs.html?id=963124303&id2=",
+            "http://play.sportsteam368.com/play/gm.php?id=963124303&id2=963124303",
+            "http://play.sportsteam368.com/play/wlive.php?id=9b5363c89e2f7984c76cbbbfaf389772&id2="
+        ]
     },
     {
-        "id": "bvfku99d7gl4ojq83o48r4x4wwa",
+        "id": "bk09dx0yts2m7n6pra2vz7x74zf",
         "match_id": "8167558682491995232",
         "source_name": "Premium",
         "match_title_from_api": "Everton vs Manchester United",
@@ -215,11 +220,14 @@
         "time": "20:00",
         "date": "23-02-2026",
         "links": [
-            "https://live-pull.aisports.mobi/moviebox/device02/playlist.m3u8"
+            "https://live-pull.aisports.mobi/moviebox/device02/playlist.m3u8",
+            "http://play.sportsteam368.com/play/wlive.php?id=0fe35cf26051f3bbfbc3605a4a51c02c&id2=",
+            "http://play.sportsteam368.com/play/kbs.html?id=963069450&id2=",
+            "http://play.sportsteam368.com/play/wlive.php?id=386ad40abcb07e5094eadab217222ce5&id2="
         ]
     },
     {
-        "id": "qzc6r5o442n511rdnxdybzryp4e",
+        "id": "10dal3v3wta86hdb47nvlj8kn3g",
         "match_id": "8688946254569787776",
         "source_name": "Premium",
         "match_title_from_api": "Deportivo Alaves vs Girona",
@@ -234,6 +242,11 @@
         },
         "time": "20:00",
         "date": "23-02-2026",
-        "links": []
+        "links": [
+            "https://live-pull.aisports.mobi/moviebox/bsy_023/playlist.m3u8",
+            "http://play.sportsteam368.com/play/kbs.html?id=963070128&id2=",
+            "http://play.sportsteam368.com/play/gm.php?id=963070128&id2=963070128",
+            "http://play.sportsteam368.com/play/wlive.php?id=819c387dac2a7f04721ade0832979b93&id2="
+        ]
     }
 ]
