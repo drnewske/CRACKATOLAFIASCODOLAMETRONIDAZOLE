@@ -1,6 +1,6 @@
 [
     {
-        "id": "x8gareb0g7xi4mfu2twdfh4k1th",
+        "id": "8pyuv3b003r96y3paseaeycwdes",
         "match_id": "499358429804380368",
         "source_name": "Premium",
         "match_title_from_api": "Detroit Pistons vs San Antonio Spurs",
@@ -23,7 +23,7 @@
         ]
     },
     {
-        "id": "bhhxasxfqf2l38z8ox9p7by024z",
+        "id": "zcwvbmjybgigsu8wbh4ivoutozr",
         "match_id": "5903677982649075048",
         "source_name": "Premium",
         "match_title_from_api": "Memphis Grizzlies vs Sacramento Kings",
@@ -46,7 +46,7 @@
         ]
     },
     {
-        "id": "vm7eih09jy5uuc8v4qfyog4g2t7",
+        "id": "ofqyc2w9cbnv16qr5h0zn7n3371",
         "match_id": "7921290615710957776",
         "source_name": "Premium",
         "match_title_from_api": "Houston Rockets vs Utah Jazz",
@@ -69,7 +69,7 @@
         ]
     },
     {
-        "id": "p9otgqr7dhqu070q5wmhdptwqxs",
+        "id": "smlirong8n4g0qtuiujd7ghl1xm",
         "match_id": "2609130469648220592",
         "source_name": "Premium",
         "match_title_from_api": "England vs Pakistan",
@@ -89,7 +89,7 @@
         ]
     },
     {
-        "id": "yvbngx9hkb6m40bbfl9sf0pd37c",
+        "id": "3mybttwul7wnq8a5wuyln169hay",
         "match_id": "3466621356016128424",
         "source_name": "Premium",
         "match_title_from_api": "Atletico Madrid vs Club Brugge",
@@ -106,13 +106,13 @@
         "date": "24-02-2026",
         "links": [
             "https://live-pull.aisports.mobi/moviebox/football001/playlist.m3u8",
+            "http://play.sportsteam368.com/play/wlive.php?id=9b5363c89e2f7984c76cbbbfaf389772&id2=",
             "http://play.sportsteam368.com/play/wlive.php?id=7d518b5cb460f7d0c1552b55cafd590d&id2=",
-            "http://play.sportsteam368.com/play/pao.php?id=44869491&id2=",
-            "http://play.sportsteam368.com/play/wlive.php?id=9b5363c89e2f7984c76cbbbfaf389772&id2="
+            "http://play.sportsteam368.com/play/pao.php?id=44869491&id2="
         ]
     },
     {
-        "id": "hprnfa2qguwsb2lpalhpaedsju2",
+        "id": "e4fi6ghwfdc25n76hwpp0mp8v6m",
         "match_id": "6997443463874597288",
         "source_name": "Premium",
         "match_title_from_api": "Bayer Leverkusen vs Olympiacos",
@@ -127,10 +127,15 @@
         },
         "time": "20:00",
         "date": "24-02-2026",
-        "links": []
+        "links": [
+            "https://live-pull.aisports.mobi/moviebox/bsy_014/playlist.m3u8",
+            "http://play.sportsteam368.com/play/pao.php?id=44869471&id2=",
+            "http://play.sportsteam368.com/play/wlive.php?id=0fe35cf26051f3bbfbc3605a4a51c02c&id2=",
+            "http://play.sportsteam368.com/play/wen.php?id=0382b00f9ffa1dc87d29a03cd9c5b768&id2="
+        ]
     },
     {
-        "id": "9fezybejqsb09rx19s2ud6rmqc5",
+        "id": "opxl26bqyhx3mxbqa55pl4r597c",
         "match_id": "7627947411706366704",
         "source_name": "Premium",
         "match_title_from_api": "Newcastle United vs Qarabag FK",
@@ -145,10 +150,15 @@
         },
         "time": "20:00",
         "date": "24-02-2026",
-        "links": []
+        "links": [
+            "https://live-pull.aisports.mobi/moviebox/bsy_020/playlist.m3u8",
+            "http://play.sportsteam368.com/play/wlive.php?id=386ad40abcb07e5094eadab217222ce5&id2=",
+            "http://play.sportsteam368.com/play/wen.php?id=8e0f31d83242e2296d0db475b2b40852&id2=",
+            "http://play.sportsteam368.com/play/pao.php?id=44869501&id2="
+        ]
     },
     {
-        "id": "hd7y9ojnsvstf5mruhe1fn1u0lg",
+        "id": "fm6afarf5cd8zkpeu57ipg3gbur",
         "match_id": "1485037519973015048",
         "source_name": "Premium",
         "match_title_from_api": "Inter vs Bodoe/Glimt",
@@ -163,6 +173,11 @@
         },
         "time": "20:00",
         "date": "24-02-2026",
-        "links": []
+        "links": [
+            "https://live-pull.aisports.mobi/moviebox/bsy_016/playlist.m3u8",
+            "http://play.sportsteam368.com/play/wlive.php?id=819c387dac2a7f04721ade0832979b93&id2=",
+            "http://play.sportsteam368.com/play/pao.php?id=44869391&id2=",
+            "http://play.sportsteam368.com/play/wlive.php?id=95a872df47e10f1513a90720cc5a92e8&id2="
+        ]
     }
 ]
