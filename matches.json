@@ -1,6 +1,6 @@
 [
     {
-        "id": "r0njho8c0lvpgep47c977i640un",
+        "id": "lp8px7w3zsi4m56ztbl9d1ckazw",
         "match_id": "499358429804380368",
         "source_name": "Premium",
         "match_title_from_api": "Detroit Pistons vs San Antonio Spurs",
@@ -23,7 +23,7 @@
         ]
     },
     {
-        "id": "qy0re8l7rnyu6djdcycqf05uwqb",
+        "id": "078h5jeuil9qskeo574oyc4dd0n",
         "match_id": "5903677982649075048",
         "source_name": "Premium",
         "match_title_from_api": "Memphis Grizzlies vs Sacramento Kings",
@@ -40,13 +40,13 @@
         "date": "24-02-2026",
         "links": [
             "https://live-pull.aisports.mobi/moviebox/bsy_022/playlist.m3u8",
+            "http://nba.toutiaozb.com/qq/qq-kbs.html?matchliveid=1777920600",
             "http://play.sportsteam368.com/play/pao.php?id=4255b56e9621121365d8dc42a6b95896&id2=",
-            "http://play.sportsteam368.com/play/i11.html?id=10022500829&id2=",
-            "http://nba.toutiaozb.com/qq/qq-kbs.html?matchliveid=1777920600"
+            "http://play.sportsteam368.com/play/i11.html?id=10022500829&id2="
         ]
     },
     {
-        "id": "e3rlzf55qqhdbf12nbtutabau9w",
+        "id": "lxlkskr78uk45cm31qc1yxlwqpg",
         "match_id": "7921290615710957776",
         "source_name": "Premium",
         "match_title_from_api": "Houston Rockets vs Utah Jazz",
@@ -69,7 +69,7 @@
         ]
     },
     {
-        "id": "v1cpnw97w8xroob29uu4weulxyo",
+        "id": "pevtmddl5stmpqkwc7pqu9utdln",
         "match_id": "2609130469648220592",
         "source_name": "Premium",
         "match_title_from_api": "England vs Pakistan",
@@ -89,7 +89,7 @@
         ]
     },
     {
-        "id": "0yi0v3giv63fouzd1hb0hczgym3",
+        "id": "9cftw0bhqwq11ee12jwwpnibmwb",
         "match_id": "3466621356016128424",
         "source_name": "Premium",
         "match_title_from_api": "Atletico Madrid vs Club Brugge",
@@ -105,11 +105,14 @@
         "time": "17:45",
         "date": "24-02-2026",
         "links": [
-            "https://live-pull.aisports.mobi/moviebox/football001/playlist.m3u8"
+            "https://live-pull.aisports.mobi/moviebox/football001/playlist.m3u8",
+            "http://play.sportsteam368.com/play/wlive.php?id=9b5363c89e2f7984c76cbbbfaf389772&id2=",
+            "http://play.sportsteam368.com/play/wlive.php?id=7d518b5cb460f7d0c1552b55cafd590d&id2=",
+            "http://play.sportsteam368.com/play/pao.php?id=44869491&id2="
         ]
     },
     {
-        "id": "f2hkjo2bpttm5nuw3rs0o7lq7bw",
+        "id": "c41ziwwx68hrevym5dj1f804qks",
         "match_id": "6997443463874597288",
         "source_name": "Premium",
         "match_title_from_api": "Bayer Leverkusen vs Olympiacos",
@@ -127,7 +130,7 @@
         "links": []
     },
     {
-        "id": "5x49bqxliyz4nhwnmq5icfgssvh",
+        "id": "o9ggz8c0ppa2k8vbu9chmrudjmh",
         "match_id": "7627947411706366704",
         "source_name": "Premium",
         "match_title_from_api": "Newcastle United vs Qarabag FK",
@@ -145,7 +148,7 @@
         "links": []
     },
     {
-        "id": "v2pww0jm3hzn0aboeve2dad68qm",
+        "id": "2dcxwukefpy5vxfot5rv5xf2v5y",
         "match_id": "1485037519973015048",
         "source_name": "Premium",
         "match_title_from_api": "Inter vs Bodoe/Glimt",
