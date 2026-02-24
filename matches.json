@@ -1,252 +1,165 @@
 [
     {
-        "id": "mdvom52bmfyf312lkiip7uj07l6",
-        "match_id": "2480942265847398608",
+        "id": "8m5zk8d1v0y0gvpbepiq2ppw5ic",
+        "match_id": "499358429804380368",
         "source_name": "Premium",
-        "match_title_from_api": "Indiana Pacers vs Dallas Mavericks",
+        "match_title_from_api": "Detroit Pistons vs San Antonio Spurs",
         "competition": "NBA",
         "team1": {
-            "name": "Indiana Pacers",
-            "logo_url": "https://pbcdn.aoneroom.com/image/2025/05/21/1ad5a70eba4b27dbd61eba60743de1ea.jpg"
+            "name": "Detroit Pistons",
+            "logo_url": "https://pbcdn.aoneroom.com/image/2025/05/21/b248075d2235194fb41fff4c71b8fa56.jpg"
         },
         "team2": {
-            "name": "Dallas Mavericks",
-            "logo_url": "https://pbcdn.aoneroom.com/image/2025/05/21/ed3a6d7e46a9ae002e9922a92fadad91.jpg"
-        },
-        "time": "22:00",
-        "date": "22-02-2026",
-        "links": [
-            "https://live-pull.aisports.mobi/moviebox/bsy_019/playlist.m3u8",
-            "http://play.sportsteam368.com/play/i11.html?id=10022500821&id2=",
-            "http://play.sportsteam368.com/play/pao.php?id=3821d3340dffde09311928cb327a8339&id2=",
-            "http://nba.toutiaozb.com/qq/qq-kbs.html?matchliveid=1777916700"
-        ]
-    },
-    {
-        "id": "bjc18s8g4n8alzfqgrfsl9f2d2d",
-        "match_id": "8533780165033345232",
-        "source_name": "Premium",
-        "match_title_from_api": "Washington Wizards vs Charlotte Hornets",
-        "competition": "NBA",
-        "team1": {
-            "name": "Washington Wizards",
-            "logo_url": "https://pbcdn.aoneroom.com/image/2025/07/11/a5b7bb2e98b5e82f4805724822937249.jpg"
-        },
-        "team2": {
-            "name": "Charlotte Hornets",
-            "logo_url": "https://pbcdn.aoneroom.com/image/2025/07/11/23f474ce3de87e12320e87161c0fb2de.jpg"
-        },
-        "time": "23:00",
-        "date": "22-02-2026",
-        "links": [
-            "https://live-pull.aisports.mobi/moviebox/bsy_016/playlist.m3u8",
-            "http://play.sportsteam368.com/play/kbs.html?id=10022500822&id2=",
-            "http://play.sportsteam368.com/play/j.php?id=22500822&id2=",
-            "http://play.sportsteam368.com/play/pao.php?id=ae6f281154cc0ce404eaa2b3d7aaaf5d&id2="
-        ]
-    },
-    {
-        "id": "ecy39sd1pa03urtlnieitxc1iop",
-        "match_id": "1832423919506047184",
-        "source_name": "Premium",
-        "match_title_from_api": "LA Lakers vs Boston Celtics",
-        "competition": "NBA",
-        "team1": {
-            "name": "LA Lakers",
-            "logo_url": "https://pbcdn.aoneroom.com/image/2025/05/21/9ad9a400c0971b9ecbf8e15b9c749a1e.jpg"
-        },
-        "team2": {
-            "name": "Boston Celtics",
-            "logo_url": "https://pbcdn.aoneroom.com/image/2025/05/21/da58bbcb29cda07f12048877a99fa875.jpg"
-        },
-        "time": "23:30",
-        "date": "22-02-2026",
-        "links": [
-            "https://live-pull.aisports.mobi/moviebox/bsy_014/playlist.m3u8",
-            "http://play.sportsteam368.com/play/j.php?id=22500823&id2=",
-            "http://play.sportsteam368.com/play/pao.php?id=bd97f64dc6916c327c74bde7aa581fba&id2=",
-            "http://play.sportsteam368.com/play/kbs.html?id=10022500823&id2="
-        ]
-    },
-    {
-        "id": "b4bjlshohjh4sek0evesnoof1tf",
-        "match_id": "6732340314085246312",
-        "source_name": "Premium",
-        "match_title_from_api": "Minnesota Timberwolves vs Philadelphia 76ers",
-        "competition": "NBA",
-        "team1": {
-            "name": "Minnesota Timberwolves",
-            "logo_url": "https://pbcdn.aoneroom.com/image/2025/05/21/6e756aa59698c4d73205879e38669b96.jpg"
-        },
-        "team2": {
-            "name": "Philadelphia 76ers",
-            "logo_url": "https://pbcdn.aoneroom.com/image/2025/07/05/62d36f0d4a32a3f1777aea498a246fb6.jpg"
+            "name": "San Antonio Spurs",
+            "logo_url": "https://pbcdn.aoneroom.com/image/2025/07/05/5b18ba26ae25e1dccb7ed5774e5d80a0.jpg"
         },
         "time": "00:00",
-        "date": "23-02-2026",
-        "links": [
-            "https://live-pull.aisports.mobi/moviebox/bsy_022/playlist.m3u8",
-            "http://play.sportsteam368.com/play/j.php?id=22500824&id2=",
-            "http://play.sportsteam368.com/play/kbs.html?id=10022500824&id2=",
-            "http://play.sportsteam368.com/play/pao.php?id=be833659aab31f5fc5a4a9dd047362a7&id2="
-        ]
-    },
-    {
-        "id": "xe1drrfxwale7g9y0er7xg9hd6u",
-        "match_id": "8605837759070224592",
-        "source_name": "Premium",
-        "match_title_from_api": "Chicago Bulls vs New York Knicks",
-        "competition": "NBA",
-        "team1": {
-            "name": "Chicago Bulls",
-            "logo_url": "https://pbcdn.aoneroom.com/image/2025/05/21/59a17e8c9b3fba8828afac280548d09a.jpg"
-        },
-        "team2": {
-            "name": "New York Knicks",
-            "logo_url": "https://pbcdn.aoneroom.com/image/2025/05/21/ad072ba484d02766b45fee8456c24a4d.jpg"
-        },
-        "time": "01:00",
-        "date": "23-02-2026",
-        "links": [
-            "https://live-pull.aisports.mobi/moviebox/bsy_011/playlist.m3u8",
-            "http://play.sportsteam368.com/play/j.php?id=22500825&id2=",
-            "http://play.sportsteam368.com/play/pao.php?id=900331e1e2cd7e7748c6b80b0d6ae003&id2=",
-            "http://play.sportsteam368.com/play/kbs.html?id=10022500825&id2="
-        ]
-    },
-    {
-        "id": "bcdkpsx0qzx1h21qd8da3wif2sq",
-        "match_id": "1796395122487083216",
-        "source_name": "Premium",
-        "match_title_from_api": "Phoenix Suns vs Portland Trail Blazers",
-        "competition": "NBA",
-        "team1": {
-            "name": "Phoenix Suns",
-            "logo_url": "https://pbcdn.aoneroom.com/image/2025/07/11/dc6d98b03e2c7ac0773a7d5bbe90247c.jpg"
-        },
-        "team2": {
-            "name": "Portland Trail Blazers",
-            "logo_url": "https://pbcdn.aoneroom.com/image/2025/07/11/f3b1f689ec21d7e2add83c042350f913.jpg"
-        },
-        "time": "01:00",
-        "date": "23-02-2026",
-        "links": [
-            "https://live-pull.aisports.mobi/moviebox/bsy_019/playlist.m3u8",
-            "http://play.sportsteam368.com/play/j.php?id=22500826&id2=",
-            "http://play.sportsteam368.com/play/kbs.html?id=10022500826&id2=",
-            "http://play.sportsteam368.com/play/pao.php?id=34f3c04dc0da824780d7361a57e89c65&id2="
-        ]
-    },
-    {
-        "id": "genfyb31tv0y5s598btpki59wl8",
-        "match_id": "6356125359620997552",
-        "source_name": "Premium",
-        "match_title_from_api": "Zimbabwe vs West Indies",
-        "competition": "ICC Men's T20 World Cup",
-        "team1": {
-            "name": "Zimbabwe",
-            "logo_url": "https://pbcdn.aoneroom.com/image/2026/02/05/5265f2ce832c6b172d52f1296fcb8db7.webp"
-        },
-        "team2": {
-            "name": "West Indies",
-            "logo_url": "https://pbcdn.aoneroom.com/image/2026/02/05/5b509adb827961859dd5d8c3dc28261e.webp"
-        },
-        "time": "13:30",
-        "date": "23-02-2026",
-        "links": [
-            "https://live-pull.aisports.mobi/moviebox/device02/playlist.m3u8"
-        ]
-    },
-    {
-        "id": "5p1ib5x9563c3dgziikbq03t0j8",
-        "match_id": "232874299853620688",
-        "source_name": "Premium",
-        "match_title_from_api": "Fiorentina vs Pisa",
-        "competition": "Serie A",
-        "team1": {
-            "name": "Fiorentina",
-            "logo_url": "https://pbcdn.aoneroom.com/image/2025/04/08/0b1a2aba997722da1239f25d04d9d088.jpg"
-        },
-        "team2": {
-            "name": "Pisa",
-            "logo_url": "https://pbcdn.aoneroom.com/image/2025/06/07/37cb8cb7e3f34262c9504c9f243e2afc.jpg"
-        },
-        "time": "17:30",
-        "date": "23-02-2026",
-        "links": [
-            "https://live-pull.aisports.mobi/moviebox/bsy_022/playlist.m3u8",
-            "http://play.sportsteam368.com/play/gm.php?id=963124319&id2=963124319",
-            "http://play.sportsteam368.com/play/wlive.php?id=7d518b5cb460f7d0c1552b55cafd590d&id2=",
-            "http://play.sportsteam368.com/play/kbs.html?id=963124319&id2="
-        ]
-    },
-    {
-        "id": "ika0misgmmf634k17c3g4hrhela",
-        "match_id": "5862373834066743376",
-        "source_name": "Premium",
-        "match_title_from_api": "Bologna vs Udinese",
-        "competition": "Serie A",
-        "team1": {
-            "name": "Bologna",
-            "logo_url": "https://pbcdn.aoneroom.com/image/2025/03/13/791d0f0548682c3de6cd2e1500c069d5.jpg"
-        },
-        "team2": {
-            "name": "Udinese",
-            "logo_url": "https://pbcdn.aoneroom.com/image/2025/04/08/06b9c5425bfd06fa6df0ee7ae74e9598.jpg"
-        },
-        "time": "19:45",
-        "date": "23-02-2026",
+        "date": "24-02-2026",
         "links": [
             "https://live-pull.aisports.mobi/moviebox/bsy_014/playlist.m3u8",
-            "http://play.sportsteam368.com/play/kbs.html?id=963124303&id2=",
-            "http://play.sportsteam368.com/play/gm.php?id=963124303&id2=963124303",
-            "http://play.sportsteam368.com/play/wlive.php?id=9b5363c89e2f7984c76cbbbfaf389772&id2="
+            "http://play.sportsteam368.com/play/kbs.html?id=10022500828&id2=",
+            "http://play.sportsteam368.com/play/pao.php?id=112eb416bc178575120985f04efae039&id2=",
+            "http://play.sportsteam368.com/play/j.php?id=22500828&id2="
         ]
     },
     {
-        "id": "i2odv7itjpjp9vmhwqckqtbmi8q",
-        "match_id": "8167558682491995232",
+        "id": "uio7zgrpd8nkx8jjvjs8tz6iknj",
+        "match_id": "5903677982649075048",
         "source_name": "Premium",
-        "match_title_from_api": "Everton vs Manchester United",
-        "competition": "Premier League",
+        "match_title_from_api": "Memphis Grizzlies vs Sacramento Kings",
+        "competition": "NBA",
         "team1": {
-            "name": "Everton",
-            "logo_url": "https://pbcdn.aoneroom.com/image/2025/03/13/e941d9a061f6cfbb8cb0fa2da2d2205b.jpg"
+            "name": "Memphis Grizzlies",
+            "logo_url": "https://pbcdn.aoneroom.com/image/2025/05/21/a62a77bc60a72fb6b4c812a430a5e2d5.jpg"
         },
         "team2": {
-            "name": "Manchester United",
-            "logo_url": "https://pbcdn.aoneroom.com/image/2025/03/13/63eba0d48bad5073adf9e89d659741ba.jpg"
+            "name": "Sacramento Kings",
+            "logo_url": "https://pbcdn.aoneroom.com/image/2025/05/21/a15f7cf0acb7d08990880dc4396115d3.jpg"
         },
-        "time": "20:00",
-        "date": "23-02-2026",
+        "time": "01:00",
+        "date": "24-02-2026",
         "links": [
-            "https://live-pull.aisports.mobi/moviebox/device02/playlist.m3u8",
-            "http://play.sportsteam368.com/play/wlive.php?id=0fe35cf26051f3bbfbc3605a4a51c02c&id2=",
-            "http://play.sportsteam368.com/play/kbs.html?id=963069450&id2=",
-            "http://play.sportsteam368.com/play/wlive.php?id=386ad40abcb07e5094eadab217222ce5&id2="
+            "https://live-pull.aisports.mobi/moviebox/bsy_022/playlist.m3u8",
+            "http://nba.toutiaozb.com/qq/qq-kbs.html?matchliveid=1777920600",
+            "http://play.sportsteam368.com/play/pao.php?id=4255b56e9621121365d8dc42a6b95896&id2=",
+            "http://play.sportsteam368.com/play/i11.html?id=10022500829&id2="
         ]
     },
     {
-        "id": "zazpcypypm7iaym4zwvqnz4dglc",
-        "match_id": "8688946254569787776",
+        "id": "6da6ur2wuqhjl65g6lw10q1b3fn",
+        "match_id": "7921290615710957776",
         "source_name": "Premium",
-        "match_title_from_api": "Deportivo Alaves vs Girona",
-        "competition": "LaLiga",
+        "match_title_from_api": "Houston Rockets vs Utah Jazz",
+        "competition": "NBA",
         "team1": {
-            "name": "Deportivo Alaves",
-            "logo_url": "https://pbcdn.aoneroom.com/image/2025/04/08/63c22f7e788c7b560ea31b7cb7f85bc3.jpg"
+            "name": "Houston Rockets",
+            "logo_url": "https://pbcdn.aoneroom.com/image/2025/05/21/7c0607c7dcfc3d3749b75e2c5ff02f91.jpg"
         },
         "team2": {
-            "name": "Girona",
-            "logo_url": "https://pbcdn.aoneroom.com/image/2025/03/13/cc27b3b066faf3f4e275510176694dc9.jpg"
+            "name": "Utah Jazz",
+            "logo_url": "https://pbcdn.aoneroom.com/image/2025/07/05/0bcdcb0109598444b15d9179fdaf555b.jpg"
+        },
+        "time": "02:30",
+        "date": "24-02-2026",
+        "links": [
+            "https://live-pull.aisports.mobi/moviebox/bsy_019/playlist.m3u8",
+            "http://play.sportsteam368.com/play/kbs.html?id=10022500830&id2=",
+            "http://play.sportsteam368.com/play/pao.php?id=dd565b6034c9d2998544383f79f46e66&id2=",
+            "http://play.sportsteam368.com/play/kbs.html?id=vl&id2="
+        ]
+    },
+    {
+        "id": "bfu663mq35pt9t76ewj1i1saczs",
+        "match_id": "2609130469648220592",
+        "source_name": "Premium",
+        "match_title_from_api": "England vs Pakistan",
+        "competition": "ICC Men's T20 World Cup",
+        "team1": {
+            "name": "England",
+            "logo_url": "https://pbcdn.aoneroom.com/image/2026/02/05/51ed7fd6d3b7ddad637e84336c3f5271.webp"
+        },
+        "team2": {
+            "name": "Pakistan",
+            "logo_url": "https://pbcdn.aoneroom.com/image/2026/02/05/ddc4ff0c0457bf798a2efbb5e8b0704b.webp"
+        },
+        "time": "13:30",
+        "date": "24-02-2026",
+        "links": [
+            "https://live-pull.aisports.mobi/moviebox/football001/playlist.m3u8"
+        ]
+    },
+    {
+        "id": "phygt2nfi0wf8tba1owkm1qhqzx",
+        "match_id": "3466621356016128424",
+        "source_name": "Premium",
+        "match_title_from_api": "Atletico Madrid vs Club Brugge",
+        "competition": "Champions League",
+        "team1": {
+            "name": "Atletico Madrid",
+            "logo_url": "https://pbcdn.aoneroom.com/image/2025/03/13/f400aef66aef784551698e35dea4fe68.jpg"
+        },
+        "team2": {
+            "name": "Club Brugge",
+            "logo_url": "https://pbcdn.aoneroom.com/image/2025/03/13/9662b74e604fb53fb1fc0f3462275a2c.jpg"
+        },
+        "time": "17:45",
+        "date": "24-02-2026",
+        "links": [
+            "https://live-pull.aisports.mobi/moviebox/football001/playlist.m3u8"
+        ]
+    },
+    {
+        "id": "ngqem8ivedleni002970xglyd8w",
+        "match_id": "6997443463874597288",
+        "source_name": "Premium",
+        "match_title_from_api": "Bayer Leverkusen vs Olympiacos",
+        "competition": "Champions League",
+        "team1": {
+            "name": "Bayer Leverkusen",
+            "logo_url": "https://pbcdn.aoneroom.com/image/2025/03/13/a3ae8d964e8106869b5ed4356eceab95.jpg"
+        },
+        "team2": {
+            "name": "Olympiacos",
+            "logo_url": "https://pbcdn.aoneroom.com/image/2025/04/08/0c1037448a991e5b2ba86bc34d990ff0.jpg"
         },
         "time": "20:00",
-        "date": "23-02-2026",
-        "links": [
-            "https://live-pull.aisports.mobi/moviebox/bsy_023/playlist.m3u8",
-            "http://play.sportsteam368.com/play/kbs.html?id=963070128&id2=",
-            "http://play.sportsteam368.com/play/gm.php?id=963070128&id2=963070128",
-            "http://play.sportsteam368.com/play/wlive.php?id=819c387dac2a7f04721ade0832979b93&id2="
-        ]
+        "date": "24-02-2026",
+        "links": []
+    },
+    {
+        "id": "8mgiwhtyr3k33gpoh0zwwegl5n6",
+        "match_id": "7627947411706366704",
+        "source_name": "Premium",
+        "match_title_from_api": "Newcastle United vs Qarabag FK",
+        "competition": "Champions League",
+        "team1": {
+            "name": "Newcastle United",
+            "logo_url": "https://pbcdn.aoneroom.com/image/2025/03/13/720bfed17787c60885d68d44bfbacc9d.jpg"
+        },
+        "team2": {
+            "name": "Qarabag FK",
+            "logo_url": "https://pbcdn.aoneroom.com/image/2025/07/17/19743f3327dd00c7c8739e87c7a5f41f.jpg"
+        },
+        "time": "20:00",
+        "date": "24-02-2026",
+        "links": []
+    },
+    {
+        "id": "1z0c11qs5djin3vct66v4bme23q",
+        "match_id": "1485037519973015048",
+        "source_name": "Premium",
+        "match_title_from_api": "Inter vs Bodoe/Glimt",
+        "competition": "Champions League",
+        "team1": {
+            "name": "Inter",
+            "logo_url": "https://pbcdn.aoneroom.com/image/2025/03/13/8de4ac6c3083c5f34fce9d7a2a5ebc21.jpg"
+        },
+        "team2": {
+            "name": "Bodoe/Glimt",
+            "logo_url": "https://pbcdn.aoneroom.com/image/2025/04/08/aed50edc7820a442781c71409cd60e28.jpg"
+        },
+        "time": "20:00",
+        "date": "24-02-2026",
+        "links": []
     }
 ]
