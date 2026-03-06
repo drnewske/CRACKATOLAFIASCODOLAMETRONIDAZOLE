@@ -1,6 +1,6 @@
 [
     {
-        "id": "lww7oo8uzvmns00lsuaqow8vx0b",
+        "id": "a7dzx8ae0exvhsd6e00lvfm8kt6",
         "match_id": "2828563862085058768",
         "source_name": "Premium",
         "match_title_from_api": "Washington Wizards vs Utah Jazz",
@@ -17,13 +17,13 @@
         "date": "06-03-2026",
         "links": [
             "https://live-pull.aisports.mobi/moviebox/bsy_011/playlist.m3u8",
-            "http://play.sportsteam368.com/play/j.php?id=22500900&id2=",
             "http://play.sportsteam368.com/play/y.php?id=8dad4ae33aef621454046483a4fdadcf&id2=",
-            "http://play.sportsteam368.com/play/kbs.html?id=10022500900&id2="
+            "http://play.sportsteam368.com/play/kbs.html?id=10022500900&id2=",
+            "http://play.sportsteam368.com/play/j.php?id=22500900&id2="
         ]
     },
     {
-        "id": "w4vd73hozbq9mtgjunfbzwiucyb",
+        "id": "ttk11v39494qq2xexg30mpbhl4j",
         "match_id": "919037620080067856",
         "source_name": "Premium",
         "match_title_from_api": "Miami Heat vs Brooklyn Nets",
@@ -40,13 +40,13 @@
         "date": "06-03-2026",
         "links": [
             "https://live-pull.aisports.mobi/moviebox/bsy_014/playlist.m3u8",
+            "http://play.sportsteam368.com/play/kbs.html?id=10022500901&id2=",
             "http://play.sportsteam368.com/play/y.php?id=5c4da53b3beb3aa821d83d6ad3f523bb&id2=",
-            "http://play.sportsteam368.com/play/j.php?id=22500901&id2=",
-            "http://play.sportsteam368.com/play/kbs.html?id=10022500901&id2="
+            "http://play.sportsteam368.com/play/j.php?id=22500901&id2="
         ]
     },
     {
-        "id": "2g92e0mw0454boteboxfsbd6w4a",
+        "id": "5jjpu41svgr9fby93vfwmfbz6ys",
         "match_id": "1207267996231779600",
         "source_name": "Premium",
         "match_title_from_api": "Houston Rockets vs Golden State Warriors",
@@ -64,7 +64,7 @@
         "links": []
     },
     {
-        "id": "ia14tg6hfhu0vajvh80oxyhbdlu",
+        "id": "fve1fzhtfd68j3bpof7xxiavxcn",
         "match_id": "7043933113303942416",
         "source_name": "Premium",
         "match_title_from_api": "San Antonio Spurs vs Detroit Pistons",
@@ -82,7 +82,7 @@
         "links": []
     },
     {
-        "id": "395ox9zuwbx1wffgwfy22xa9bft",
+        "id": "ipzmuyaajjus5w5vveqagmq00df",
         "match_id": "1927843936609910992",
         "source_name": "Premium",
         "match_title_from_api": "Minnesota Timberwolves vs Toronto Raptors",
@@ -100,7 +100,7 @@
         "links": []
     },
     {
-        "id": "2cy6qar3nt7enlocmok29guosoe",
+        "id": "0drtsij9muy3plt63ohymchvzqx",
         "match_id": "5602781232545284304",
         "source_name": "Premium",
         "match_title_from_api": "Phoenix Suns vs Chicago Bulls",
@@ -118,7 +118,7 @@
         "links": []
     },
     {
-        "id": "q0wwzbdvxjezbsl0c6yu571jdh8",
+        "id": "asji8d2ou3agkdkzxpkw4ws1ehz",
         "match_id": "8917430558289969360",
         "source_name": "Premium",
         "match_title_from_api": "Denver Nuggets vs LA Lakers",
@@ -136,7 +136,7 @@
         "links": []
     },
     {
-        "id": "qr5jj2ozsnvijvifxowkai56t5x",
+        "id": "zcpmwde42b2qieeedcnlh4g3ssg",
         "match_id": "6926839522991161552",
         "source_name": "Premium",
         "match_title_from_api": "Sacramento Kings vs New Orleans Pelicans",
@@ -154,7 +154,7 @@
         "links": []
     },
     {
-        "id": "15htji79r6n1ta3r8f326ajruqj",
+        "id": "7gwzmevg0n3taq1xbqy2xelveay",
         "match_id": "4638745159039089112",
         "source_name": "Premium",
         "match_title_from_api": "Bayern Munich vs Borussia M'gladbach",
@@ -177,7 +177,7 @@
         ]
     },
     {
-        "id": "z0w95ilh6g73f6jztr88itwaohy",
+        "id": "dq4t6nkdv2j3de158gg6kh4tmy9",
         "match_id": "4787139423032037456",
         "source_name": "Premium",
         "match_title_from_api": "Napoli vs Torino",
@@ -192,10 +192,15 @@
         },
         "time": "19:45",
         "date": "06-03-2026",
-        "links": []
+        "links": [
+            "https://live-pull.aisports.mobi/moviebox/bsy_027/playlist.m3u8",
+            "http://play.sportsteam368.com/play/kbs.html?id=963425067&id2=",
+            "http://play.sportsteam368.com/play/pao.php?id=43398521&id2=",
+            "http://play.sportsteam368.com/play/wlive.php?id=386ad40abcb07e5094eadab217222ce5&id2="
+        ]
     },
     {
-        "id": "774jbpuu0igc1gz4d5rvjvlrsgj",
+        "id": "lx8dpiswpasssfk390ywx208ujf",
         "match_id": "9177723222300719576",
         "source_name": "Premium",
         "match_title_from_api": "Paris Saint-Germain vs AS Monaco",
@@ -212,13 +217,13 @@
         "date": "06-03-2026",
         "links": [
             "https://live-pull.aisports.mobi/moviebox/bsy_019/playlist.m3u8",
-            "http://play.sportsteam368.com/play/wlive.php?id=95a872df47e10f1513a90720cc5a92e8&id2=",
             "http://play.sportsteam368.com/play/kbs.html?id=963424949&id2=",
+            "http://play.sportsteam368.com/play/wlive.php?id=95a872df47e10f1513a90720cc5a92e8&id2=",
             "http://play.sportsteam368.com/play/wlive.php?id=819c387dac2a7f04721ade0832979b93&id2="
         ]
     },
     {
-        "id": "ias6tn8ekuzzjbfndkrc4d4ylu2",
+        "id": "xro0xnbh7ckt1vflt05871j4she",
         "match_id": "4214620024777200000",
         "source_name": "Premium",
         "match_title_from_api": "Celta Vigo vs Real Madrid",
@@ -233,10 +238,15 @@
         },
         "time": "20:00",
         "date": "06-03-2026",
-        "links": []
+        "links": [
+            "https://live-pull.aisports.mobi/moviebox/bsy_016/playlist.m3u8",
+            "http://play.sportsteam368.com/play/kbs.html?id=963424830&id2=",
+            "http://play.sportsteam368.com/play/wlive.php?id=f97d4facba7ac22ebd5d4f7fd8dcf25d&id2=",
+            "http://play.sportsteam368.com/play/wlive.php?id=d6bcc479f691a2edd7f14f34db0af717&id2="
+        ]
     },
     {
-        "id": "uqa2yzpvu5ikvbcs4t2w7hdx8rt",
+        "id": "ui4drpmu41lhl24y4ikfuml2qug",
         "match_id": "4706022576883647432",
         "source_name": "Premium",
         "match_title_from_api": "Wolves vs Liverpool",
@@ -251,6 +261,11 @@
         },
         "time": "20:00",
         "date": "06-03-2026",
-        "links": []
+        "links": [
+            "https://live-pull.aisports.mobi/moviebox/bsy_022/playlist.m3u8",
+            "https://play.88player.top/m3u8.html?url=http%3A%2F%2Fdx-spbdcdncmn2.inter.71edge.com%2Ftslive%2Fl1%2Fc72_ssports_20260209_tsl5uqf2_720p_chst1_ts_t4%2FSnKf724ZQ0MV31nfUG9sdnSR7KuI7tUPtdj-hCcrT4XZgyp4MUDhQqwZ0Csz2Yt7TL1COP2enVZM_-m2deMV_0mTxBfzXA4oYxEJNUTdJgsZxkA0da6upXvB2SNGxVGePNqEJe1MnVAQG37TPHB-jk8cElBzlWpSVO0yHulCU26rLb4blBK00b68lSPpArQncrRP_CALgnd54MPMbJ74GW_SkFIY5t0tYTP6z6MhBZKRJmvTIdzlukIzSDhrxDwRHFE2EprXOAmcGG19eyO6cy3Pfn2Nz2bKOAeZjUTkF6M3YQDBlEI0BNOXTHswWRSr%2F15fcf75539149edeaaab20a1263fd2653%2Fc72_ssports_20260209_tsl5uqf2_720p_chst1_ts_t4.m3u8%3Fkey%3D026e2e37d28d4aebc3a5b48241d53003f%26dis_t%3D1771993461%26uuid%3D24098d5a0c700020188715555740cc9f-19c930a710b-39c%26qdpv%3D3%26qd_bid%3D4%26qd_sft%3D0%26mss%3D1%26pv%3D0.1%26cpt%3D0%26dis_dx%3D1%26uid%3Dpeknqu7d0x%26random%3D1771993461",
+            "http://play.sportsteam368.com/play/wlive.php?id=797d148d5ed5e1f03a9fd06a962f6d1a&id2=",
+            "http://play.sportsteam368.com/play/kbs.html?id=963423912&id2="
+        ]
     }
 ]
